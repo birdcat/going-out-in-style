@@ -5,7 +5,7 @@ Style transfer in three modalities.
 (@Jacob)
 
 ## Audio
-(@Jenny)
+Available at https://github.com/jenchen1398/artistic-music-style-transfer/tree/master/pytorch.
 
 ## Text
 Current method involves determining an unsupervised alignment between word embedding spaces for two different styles, then performing some sort of mapping on text to transform the one into the other. Still working out exactly what that is.
