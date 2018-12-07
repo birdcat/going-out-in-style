@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 3><31%>
+<ALL>	<31%>
+	We understand it, and thank heaven for you.
+</ALL>
+
+<SPEECH 2><ACT 4><SCENE 1><63%>
+<ALL>	<64%>
+	Cargo, cargo, villianda par corbo, cargo.
+</ALL>
+

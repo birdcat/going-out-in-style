@@ -1,0 +1,327 @@
+<SPEECH 1><ACT 2><SCENE 1><13%>
+<LUCE>	<14%>
+	Perhaps some merchant hath invited him,
+	And from the mart he's somewhere gone to dinner.
+	Good sister, let us dine and never fret:
+	A man is master of his liberty:
+	Time is their master, and, when they see time,
+	They'll go or come: if so, be patient, sister.
+</LUCE>
+
+<SPEECH 2><ACT 2><SCENE 1><13%>
+<LUCE>	<15%>
+	Because their business still lies out o' door.
+</LUCE>
+
+<SPEECH 3><ACT 2><SCENE 1><13%>
+<LUCE>	<15%>
+	O! know he is the bridle of your will.
+</LUCE>
+
+<SPEECH 4><ACT 2><SCENE 1><13%>
+<LUCE>	<15%>
+	Why, headstrong liberty is lash'd with woe.
+	There's nothing situate under heaven's eye
+	But hath his bound, in earth, in sea, in sky:
+	The beasts, the fishes, and the winged fowls,
+	Are their males' subjects and at their controls.
+	Men, more divine, the masters of all these,
+	Lords of the wide world, and wild wat'ry seas,
+	Indu'd with intellectual sense and souls,
+	Of more pre-eminence than fish and fowls,
+	Are masters to their females and their lords:
+	Then, let your will attend on their accords.
+</LUCE>
+
+<SPEECH 5><ACT 2><SCENE 1><14%>
+<LUCE>	<16%>
+	Not this, but troubles of the marriage-bed.
+</LUCE>
+
+<SPEECH 6><ACT 2><SCENE 1><14%>
+<LUCE>	<16%>
+	Ere I learn love, I'll practise to obey.
+</LUCE>
+
+<SPEECH 7><ACT 2><SCENE 1><14%>
+<LUCE>	<16%>
+	Till he come home again, I would forbear.
+</LUCE>
+
+<SPEECH 8><ACT 2><SCENE 1><15%>
+<LUCE>	<17%>
+	Well, I will marry one day, but to try.
+	Here comes your man: now is your husband nigh.
+
+</LUCE>
+
+<SPEECH 9><ACT 2><SCENE 1><15%>
+<LUCE>	<17%>
+	Spake he so doubtfully, thou couldst not feel his meaning?
+</LUCE>
+
+<SPEECH 10><ACT 2><SCENE 1><16%>
+<LUCE>	<18%>
+	Quoth who?
+</LUCE>
+
+<SPEECH 11><ACT 2><SCENE 1><17%>
+<LUCE>	<19%>
+	Fie, how impatience loureth in your face!
+</LUCE>
+
+<SPEECH 12><ACT 2><SCENE 1><18%>
+<LUCE>	<20%>
+	Self-harming jealousy! fie! beat it hence.
+</LUCE>
+
+<SPEECH 13><ACT 2><SCENE 1><19%>
+<LUCE>	<20%>
+	How many fond fools serve mad jealousy!
+</LUCE>
+
+<SPEECH 14><ACT 2><SCENE 2><27%>
+<LUCE>	<28%>
+	Fie, brother: how the world is chang'd with you!
+	When were you wont to use my sister thus?
+	She sent for you by Dromio home to dinner.
+</LUCE>
+
+<SPEECH 15><ACT 2><SCENE 2><29%>
+<LUCE>	<30%>
+	Dromio, go bid the servants spread for dinner
+</LUCE>
+
+<SPEECH 16><ACT 2><SCENE 2><29%>
+<LUCE>	<30%>
+	Why prat'st thou to thyself and answer'st not?
+	Dromio, thou drone, thou snail, thou slug, thou sot!
+</LUCE>
+
+<SPEECH 17><ACT 2><SCENE 2><29%>
+<LUCE>	<31%>
+	If thou art chang'd to aught, 'tis to an ass.
+</LUCE>
+
+<SPEECH 18><ACT 2><SCENE 2><31%>
+<LUCE>	<32%>
+	Come, come, Antipholus; we dine too late.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</LUCE>
+
+<SPEECH 19><ACT 3><SCENE 1><34%>
+<LUCE>	<35%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> What a coil is there, Dromio! who are those at the gate?
+</LUCE>
+
+<SPEECH 20><ACT 3><SCENE 1><34%>
+<LUCE>	<36%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Faith, no; he comes too late;
+	And so tell your master.
+</LUCE>
+
+<SPEECH 21><ACT 3><SCENE 1><35%>
+<LUCE>	<36%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Have at you with another: that's—when? can you tell?
+</LUCE>
+
+<SPEECH 22><ACT 3><SCENE 1><35%>
+<LUCE>	<36%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> I thought to have ask'd you.
+</LUCE>
+
+<SPEECH 23><ACT 3><SCENE 1><35%>
+<LUCE>	<36%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Can you tell for whose sake?
+</LUCE>
+
+<SPEECH 24><ACT 3><SCENE 1><35%>
+<LUCE>	<37%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Let him knock till it ache.
+</LUCE>
+
+<SPEECH 25><ACT 3><SCENE 1><36%>
+<LUCE>	<37%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> What needs all that, and a pair of stocks in the town?
+</LUCE>
+
+<SPEECH 26><ACT 3><SCENE 2><40%>
+<LUCE>	<41%>
+	And may it be that you have quite forgot A husband's office? Shall, Antipholus,
+	Even in the spring of love, thy love-springs rot?
+	Shall love, in building, grow so ruinous?
+	If you did wed my sister for her wealth,
+	Then, for her wealth's sake use her with more kindness:
+	Or, if you like elsewhere, do it by stealth;
+	Muffle your false love with some show of blindness;
+	Let not my sister read it in your eye;
+	Be not thy tongue thy own shame's orator;
+	Look sweet, speak fair, become disloyalty;
+	Apparel vice like virtue's harbinger;
+	Bear a fair presence, though your heart be tainted;
+	Teach sin the carriage of a holy saint;
+	Be secret-false: what need she be acquainted?
+	What simple thief brags of his own attaint?
+	'Tis double wrong to truant with your bed,
+	And let her read it in thy looks at board:
+	Shame hath a bastard fame, well managed;
+	Ill deeds are doubled with an evil word.
+	Alas! poor women, make us but believe,
+	Being compact of credit, that you love us;
+	Though others have the arm, show us the sleeve;
+	We in your motion turn, and you may move us.
+	Then, gentle brother, get you in again;
+	Comfort my sister, cheer her, call her wife:
+	'Tis holy sport to be a little vain,
+	When the sweet breath of flattery conquers strife.
+</LUCE>
+
+<SPEECH 27><ACT 3><SCENE 2><42%>
+<LUCE>	<44%>
+	What! are you mad, that you do reason so?
+</LUCE>
+
+<SPEECH 28><ACT 3><SCENE 2><42%>
+<LUCE>	<44%>
+	It is a fault that springeth from your eye.
+</LUCE>
+
+<SPEECH 29><ACT 3><SCENE 2><42%>
+<LUCE>	<44%>
+	Gaze where you should, and that will clear your sight.
+</LUCE>
+
+<SPEECH 30><ACT 3><SCENE 2><43%>
+<LUCE>	<44%>
+	Why call you me love? call my sister so.
+</LUCE>
+
+<SPEECH 31><ACT 3><SCENE 2><43%>
+<LUCE>	<44%>
+	That's my sister.
+</LUCE>
+
+<SPEECH 32><ACT 3><SCENE 2><43%>
+<LUCE>	<44%>
+	All this my sister is, or else should be.
+</LUCE>
+
+<SPEECH 33><ACT 3><SCENE 2><43%>
+<LUCE>	<45%>
+	O! soft, sir; hold you still:
+	I'll fetch my sister, to get her good will.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</LUCE>
+
+<SPEECH 34><ACT 4><SCENE 2><57%>
+<LUCE>	<58%>
+	First he denied you had in him no right.
+</LUCE>
+
+<SPEECH 35><ACT 4><SCENE 2><57%>
+<LUCE>	<58%>
+	Then swore he that he was a stranger here.
+</LUCE>
+
+<SPEECH 36><ACT 4><SCENE 2><57%>
+<LUCE>	<58%>
+	Then pleaded I for you.
+</LUCE>
+
+<SPEECH 37><ACT 4><SCENE 2><57%>
+<LUCE>	<58%>
+	That love I begg'd for you he begg'd of me.
+</LUCE>
+
+<SPEECH 38><ACT 4><SCENE 2><57%>
+<LUCE>	<58%>
+	With words that in an honest suit might move.
+	First, he did praise my beauty, then my speech.
+</LUCE>
+
+<SPEECH 39><ACT 4><SCENE 2><58%>
+<LUCE>	<58%>
+	Have patience, I beseech.
+</LUCE>
+
+<SPEECH 40><ACT 4><SCENE 2><58%>
+<LUCE>	<59%>
+	Who would be jealous then, of such a one?
+	No evil lost is wail'd when it is gone.
+</LUCE>
+
+<SPEECH 41><ACT 4><SCENE 2><58%>
+<LUCE>	<59%>
+	How hast thou lost thy breath?
+</LUCE>
+
+<SPEECH 42><ACT 4><SCENE 4><69%>
+<LUCE>	<70%>
+	Alas! how fiery and how sharp he looks.
+</LUCE>
+
+<SPEECH 43><ACT 4><SCENE 4><72%>
+<LUCE>	<72%>
+	And I am witness with her that she did.
+</LUCE>
+
+<SPEECH 44><ACT 4><SCENE 4><73%>
+<LUCE>	<73%>
+	Ay me! poor man, how pale and wan he looks!
+
+</LUCE>
+
+<SPEECH 45><ACT 4><SCENE 4><74%>
+<LUCE>	<74%>
+	God help, poor souls! how idly do they talk.
+</LUCE>
+
+<SPEECH 46><ACT 4><SCENE 4><75%>
+<LUCE>	<75%>
+	God, for thy mercy! they are loose again.
+</LUCE>
+
+<SPEECH 47><ACT 5><SCENE 1><81%>
+<LUCE>	<81%>
+	She never reprehended him but mildly
+	When he demean'd himself rough, rude, and wildly.
+	Why bear you these rebukes and answer not?
+</LUCE>
+
+<SPEECH 48><ACT 5><SCENE 1><83%>
+<LUCE>	<83%>
+	Complain unto the duke of this indignity.
+</LUCE>
+
+<SPEECH 49><ACT 5><SCENE 1><83%>
+<LUCE>	<84%>
+	Kneel to the duke before he pass the abbey.
+
+</LUCE>
+
+<SPEECH 50><ACT 5><SCENE 1><88%>
+<LUCE>	<88%>
+	Ne'er may I look on day, nor sleep on night,
+	But she tells to your highness simple truth!
+</LUCE>
+

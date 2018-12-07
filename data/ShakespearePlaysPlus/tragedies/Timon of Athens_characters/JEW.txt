@@ -1,0 +1,44 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<JEW>	<1%>
+	Nay, that's most fix'd.
+</JEW>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<JEW>	<1%>
+	I have a jewel here—
+</JEW>
+
+<SPEECH 3><ACT 1><SCENE 1><1%>
+<JEW>	<1%>
+	If he will touch the estimate: but, for that—
+</JEW>
+
+<SPEECH 4><ACT 1><SCENE 1><1%>
+<JEW>	<1%>
+	And rich: here is a water, look ye.
+</JEW>
+
+<SPEECH 5><ACT 1><SCENE 1><7%>
+<JEW>	<8%>
+	What, my lord! dispraise?
+</JEW>
+
+<SPEECH 6><ACT 1><SCENE 1><7%>
+<JEW>	<8%>
+	My lord, 'tis rated
+	As those which sell would give: but you well know,
+	Things of like value, differing in the owners,
+	Are prized by their masters. Believe 't, dear lord,
+	You mend the jewel by the wearing it.
+</JEW>
+
+<SPEECH 7><ACT 1><SCENE 1><8%>
+<JEW>	<8%>
+	We'll bear, with your lordship.
+</JEW>
+
+<SPEECH 8><ACT 1><SCENE 1><8%>
+<JEW>	<9%>
+	You know me, Apemantus?
+</JEW>
+

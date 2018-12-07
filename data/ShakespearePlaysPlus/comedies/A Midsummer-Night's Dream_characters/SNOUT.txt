@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 1><SCENE 2><14%>
+<SNOUT>	<14%>
+	Here, Peter Quince.
+</SNOUT>
+
+<SPEECH 2><ACT 3><SCENE 1><36%>
+<SNOUT>	<37%>
+	By'r lakin, a parlous fear.
+</SNOUT>
+
+<SPEECH 3><ACT 3><SCENE 1><37%>
+<SNOUT>	<38%>
+	Will not the ladies be afeard of the lion?
+</SNOUT>
+
+<SPEECH 4><ACT 3><SCENE 1><37%>
+<SNOUT>	<38%>
+	Therefore, another prologue must tell he is not a lion.
+</SNOUT>
+
+<SPEECH 5><ACT 3><SCENE 1><41%>
+<SNOUT>	<42%>
+	O Bottom, thou art changed! what do I see on thee?
+</SNOUT>
+

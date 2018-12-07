@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 2><42%>
+<STRANGER 3>	<41%>
+	Religion groans at it.
+</STRANGER 3>
+

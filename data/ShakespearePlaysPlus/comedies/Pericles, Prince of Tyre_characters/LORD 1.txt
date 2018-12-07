@@ -1,0 +1,62 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+<LORD 1>	<11%>
+	Joy and all comfort in your sacred breast!
+</LORD 1>
+
+<SPEECH 2><ACT 2><SCENE 2><28%>
+<LORD 1>	<30%>
+	They are, my liege;
+	And stay your coming to present themselves.
+</LORD 1>
+
+<SPEECH 3><ACT 2><SCENE 2><31%>
+<LORD 1>	<32%>
+	He had need mean better than his outward show
+	Can any way speak in his just commend;
+	For, by his rusty outside he appears
+	To have practis'd more the whipstock than the lance.
+</LORD 1>
+
+<SPEECH 4><ACT 2><SCENE 4><37%>
+<LORD 1>	<38%>
+	See, not a man in private conference
+	Or council has respect with him but he.
+</LORD 1>
+
+<SPEECH 5><ACT 2><SCENE 4><37%>
+<LORD 1>	<38%>
+	Follow me then. Lord Helicane, a word.
+</LORD 1>
+
+<SPEECH 6><ACT 2><SCENE 4><37%>
+<LORD 1>	<38%>
+	Know that our griefs are risen to the top,
+	And now at length they overflow their banks.
+</LORD 1>
+
+<SPEECH 7><ACT 2><SCENE 4><38%>
+<LORD 1>	<39%>
+	Wrong not yourself then, noble Helicane;
+	But if the prince do live, let us salute him,
+	Or know what ground's made happy by his breath.
+	If in the world he live, we'll seek him out;
+	If in his grave he rest, we'll find him there;
+	And be resolv'd he lives to govern us,
+	Or dead, give 's cause to mourn his funeral,
+	And leaves us to our free election.
+</LORD 1>
+
+<SPEECH 8><ACT 2><SCENE 4><39%>
+<LORD 1>	<40%>
+	To wisdom he's a fool that will not yield;
+	And since Lord Helicane enjoineth us,
+	We with our travels will endeavour it.
+</LORD 1>
+
+<SPEECH 9><ACT 5><SCENE 1><85%>
+<LORD 1>	<86%>
+	Sir,
+	We have a maid in Mitylene, I durst wager,
+	Would win some words of him.
+</LORD 1>
+

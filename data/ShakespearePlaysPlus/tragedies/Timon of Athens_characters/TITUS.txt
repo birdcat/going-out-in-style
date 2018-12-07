@@ -1,0 +1,63 @@
+<SPEECH 1><ACT 3><SCENE 4><44%>
+<TITUS>	<44%>
+	The like to you, kind Varro.
+</TITUS>
+
+<SPEECH 2><ACT 3><SCENE 4><44%>
+<TITUS>	<44%>
+	So is theirs and ours.
+
+</TITUS>
+
+<SPEECH 3><ACT 3><SCENE 4><45%>
+<TITUS>	<45%>
+	I'll show you how to observe a strange event.
+	Your lord sends now for money.
+</TITUS>
+
+<SPEECH 4><ACT 3><SCENE 4><45%>
+<TITUS>	<45%>
+	And he wears jewels now of Timon's gift,
+	For which I wait for money.
+</TITUS>
+
+<SPEECH 5><ACT 3><SCENE 4><46%>
+<TITUS>	<45%>
+	One of Lord Timon's men.
+</TITUS>
+
+<SPEECH 6><ACT 3><SCENE 4><46%>
+<TITUS>	<46%>
+	We attend his lordship; pray, signify so much.
+</TITUS>
+
+<SPEECH 7><ACT 3><SCENE 4><46%>
+<TITUS>	<46%>
+	Do you hear, sir?
+</TITUS>
+
+<SPEECH 8><ACT 3><SCENE 4><46%>
+<TITUS>	<46%>
+	We wait for certain money here, sir.
+</TITUS>
+
+<SPEECH 9><ACT 3><SCENE 4><47%>
+<TITUS>	<47%>
+	O! here's Servilius; now we shall know some answer.
+</TITUS>
+
+<SPEECH 10><ACT 3><SCENE 4><48%>
+<TITUS>	<47%>
+	We cannot take this for answer, sir.
+</TITUS>
+
+<SPEECH 11><ACT 3><SCENE 4><48%>
+<TITUS>	<48%>
+	My lord, here is my bill.
+</TITUS>
+
+<SPEECH 12><ACT 3><SCENE 4><48%>
+<TITUS>	<48%>
+	Mine, fifty talents.
+</TITUS>
+

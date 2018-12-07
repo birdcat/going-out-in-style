@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 4><SCENE 4><68%>
+<CAPTAIN>	<69%>
+	I will do 't, my lord.
+</CAPTAIN>
+
+<SPEECH 2><ACT 4><SCENE 4><68%>
+<CAPTAIN>	<69%>
+	They are of Norway, sir.
+</CAPTAIN>
+
+<SPEECH 3><ACT 4><SCENE 4><68%>
+<CAPTAIN>	<69%>
+	Against some part of Poland.
+</CAPTAIN>
+
+<SPEECH 4><ACT 4><SCENE 4><68%>
+<CAPTAIN>	<69%>
+	The nephew to old Norway, Fortinbras.
+</CAPTAIN>
+
+<SPEECH 5><ACT 4><SCENE 4><68%>
+<CAPTAIN>	<69%>
+	Truly to speak, and with no addition,
+	We go to gain a little patch of ground
+	That hath in it no profit but the name.
+	To pay five ducats, five, I would not farm it;
+	Nor will it yield to Norway or the Pole
+	A ranker rate, should it be sold in fee.
+</CAPTAIN>
+
+<SPEECH 6><ACT 4><SCENE 4><69%>
+<CAPTAIN>	<69%>
+	Yes, 'tis already garrison'd.
+</CAPTAIN>
+
+<SPEECH 7><ACT 4><SCENE 4><69%>
+<CAPTAIN>	<69%>
+	God be wi' you, sir.
+</CAPTAIN>
+

@@ -1,0 +1,194 @@
+<SPEECH 1><ACT 1><SCENE 4><12%>
+<LEPIDUS>	<12%>
+	I must not think there are
+	Evils enow to darken all his goodness;
+	His faults in him seem as the spots of heaven,
+	More fiery by night's blackness; hereditary
+	Rather than purchas'd; what he cannot change
+	Than what he chooses.
+</LEPIDUS>
+
+<SPEECH 2><ACT 1><SCENE 4><12%>
+<LEPIDUS>	<13%>
+	Here's more news.
+</LEPIDUS>
+
+<SPEECH 3><ACT 1><SCENE 4><13%>
+<LEPIDUS>	<14%>
+	'Tis pity of him.
+</LEPIDUS>
+
+<SPEECH 4><ACT 1><SCENE 4><13%>
+<LEPIDUS>	<14%>
+	To-morrow, Cæsar,
+	I shall be furnish'd to inform you rightly
+	Both what by sea and land I can be able
+	To front this present time.
+</LEPIDUS>
+
+<SPEECH 5><ACT 1><SCENE 4><14%>
+<LEPIDUS>	<14%>
+	Farewell, my lord. What you shall know meantime
+	Of stirs abroad, I shall beseech you, sir,
+	To let me be partaker.
+</LEPIDUS>
+
+<SPEECH 6><ACT 2><SCENE 2><18%>
+<LEPIDUS>	<18%>
+	Good Enobarbus, 'tis a worthy deed,
+	And shall become you well, to entreat your captain
+	To soft and gentle speech.
+</LEPIDUS>
+
+<SPEECH 7><ACT 2><SCENE 2><18%>
+<LEPIDUS>	<19%>
+	'Tis not a time
+	For private stomaching.
+</LEPIDUS>
+
+<SPEECH 8><ACT 2><SCENE 2><18%>
+<LEPIDUS>	<19%>
+	But small to greater matters must give way.
+</LEPIDUS>
+
+<SPEECH 9><ACT 2><SCENE 2><18%>
+<LEPIDUS>	<19%>
+	Your speech is passion;
+	But, pray you, stir no embers up. Here comes
+	The noble Antony.
+
+</LEPIDUS>
+
+<SPEECH 10><ACT 2><SCENE 2><18%>
+<LEPIDUS>	<19%>
+	Noble friends,
+	That which combin'd us was most great, and let not
+	A leaner action rend us. What's amiss,
+	May it be gently heard; when we debate
+	Our trivial difference loud, we do commit
+	Murder in healing wounds; then, noble partners,—
+	The rather for I earnestly beseech,—
+	Touch you the sourest points with sweetest terms,
+	Nor curstness grow to the matter.
+</LEPIDUS>
+
+<SPEECH 11><ACT 2><SCENE 2><20%>
+<LEPIDUS>	<21%>
+	Soft, Cæsar!
+</LEPIDUS>
+
+<SPEECH 12><ACT 2><SCENE 2><21%>
+<LEPIDUS>	<21%>
+	'Tis noble spoken.
+</LEPIDUS>
+
+<SPEECH 13><ACT 2><SCENE 2><21%>
+<LEPIDUS>	<21%>
+	Worthily spoken, Mecænas.
+</LEPIDUS>
+
+<SPEECH 14><ACT 2><SCENE 2><22%>
+<LEPIDUS>	<23%>
+	Happily, amen!
+</LEPIDUS>
+
+<SPEECH 15><ACT 2><SCENE 2><23%>
+<LEPIDUS>	<23%>
+	Time calls upon 's:
+	Of us must Pompey presently be sought,
+	Or else he seeks out us.
+</LEPIDUS>
+
+<SPEECH 16><ACT 2><SCENE 2><23%>
+<LEPIDUS>	<23%>
+	Noble Antony,
+	Not sickness should detain me.
+</LEPIDUS>
+
+<SPEECH 17><ACT 2><SCENE 4><27%>
+<LEPIDUS>	<27%>
+	Trouble yourselves no further; pray you hasten
+	Your generals after.
+</LEPIDUS>
+
+<SPEECH 18><ACT 2><SCENE 4><27%>
+<LEPIDUS>	<27%>
+	Till I shall see you in your soldier's dress,
+	Which will become you both, farewell.
+</LEPIDUS>
+
+<SPEECH 19><ACT 2><SCENE 4><27%>
+<LEPIDUS>	<27%>
+	Your way is shorter;
+	My purposes to draw me much about:
+	You 'll win two days upon me.
+</LEPIDUS>
+
+<SPEECH 20><ACT 2><SCENE 4><27%>
+<LEPIDUS>	<27%>
+	Farewell.
+</LEPIDUS>
+
+<SPEECH 21><ACT 2><SCENE 6><32%>
+<LEPIDUS>	<33%>
+	Be pleas'd to tell us—
+	For this is from the present—how you take
+	The offers we have sent you.
+</LEPIDUS>
+
+<SPEECH 22><ACT 2><SCENE 6><33%>
+<LEPIDUS>	<33%>
+	That's our offer.
+</LEPIDUS>
+
+<SPEECH 23><ACT 2><SCENE 6><33%>
+<LEPIDUS>	<33%>
+	Well met here.
+</LEPIDUS>
+
+<SPEECH 24><ACT 2><SCENE 6><34%>
+<LEPIDUS>	<34%>
+	Show us the way, sir.
+</LEPIDUS>
+
+<SPEECH 25><ACT 2><SCENE 7><37%>
+<LEPIDUS>	<37%>
+	You've strange serpents there.
+</LEPIDUS>
+
+<SPEECH 26><ACT 2><SCENE 7><37%>
+<LEPIDUS>	<37%>
+	Your serpent of Egypt is bred now of your mud by the operation of your sun; so is your crocodile.
+</LEPIDUS>
+
+<SPEECH 27><ACT 2><SCENE 7><37%>
+<LEPIDUS>	<37%>
+	I am not so well as I should be, but I'll ne'er out.
+</LEPIDUS>
+
+<SPEECH 28><ACT 2><SCENE 7><37%>
+<LEPIDUS>	<37%>
+	Nay, certainly, I have heard the Ptolemies' pyramises are very goodly things; without contradiction, I have heard that.
+</LEPIDUS>
+
+<SPEECH 29><ACT 2><SCENE 7><37%>
+<LEPIDUS>	<37%>
+	What manner o' thing is your crocodile?
+</LEPIDUS>
+
+<SPEECH 30><ACT 2><SCENE 7><37%>
+<LEPIDUS>	<37%>
+	What colour is it of?
+</LEPIDUS>
+
+<SPEECH 31><ACT 2><SCENE 7><37%>
+<LEPIDUS>	<37%>
+	'Tis a strange serpent.
+</LEPIDUS>
+
+<SPEECH 32><ACT 3><SCENE 2><44%>
+<LEPIDUS>	<44%>
+	Let all the number of the stars give light
+	To thy fair way!
+</LEPIDUS>
+

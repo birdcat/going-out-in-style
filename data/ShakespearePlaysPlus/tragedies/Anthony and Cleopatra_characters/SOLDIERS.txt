@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 4><SCENE 3><68%>
+<SOLDIERS>	<68%>
+	How now!—
+	How now!—do you hear this?
+</SOLDIERS>
+
+<SPEECH 2><ACT 4><SCENE 3><68%>
+<SOLDIERS>	<68%>
+<STAGE DIR>
+<Speaking together.>
+</STAGE DIR> Content.—'Tis strange.
+</SOLDIERS>
+

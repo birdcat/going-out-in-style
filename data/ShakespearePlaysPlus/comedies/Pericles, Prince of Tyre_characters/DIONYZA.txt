@@ -1,0 +1,165 @@
+<SPEECH 1><ACT 1><SCENE 4><15%>
+<DIONYZA>	<16%>
+	That were to blow at fire in hope to quench it;
+	For who digs hills because they do aspire
+	Throws down one mountain to cast up a higher.
+	O my distressed lord! even such our griefs are;
+	Here they're but felt, and seen with mischief's eyes,
+	But like to groves, being topp'd, they higher rise.
+</DIONYZA>
+
+<SPEECH 2><ACT 1><SCENE 4><16%>
+<DIONYZA>	<17%>
+	I'll do my best, sir.
+</DIONYZA>
+
+<SPEECH 3><ACT 1><SCENE 4><16%>
+<DIONYZA>	<18%>
+	O! 'tis too true,
+</DIONYZA>
+
+<SPEECH 4><ACT 1><SCENE 4><17%>
+<DIONYZA>	<18%>
+	Our cheeks and hollow eyes do witness it.
+</DIONYZA>
+
+<SPEECH 5><ACT 3><SCENE 3><54%>
+<DIONYZA>	<55%>
+	O your sweet queen!
+	That the strict fates had pleas'd you had brought her hither,
+	To have bless'd mine eyes with her!
+</DIONYZA>
+
+<SPEECH 6><ACT 3><SCENE 3><55%>
+<DIONYZA>	<56%>
+	I have one myself,
+	Who shall not be more dear to my respect
+	Than yours, my lord.
+</DIONYZA>
+
+<SPEECH 7><ACT 4><SCENE 1><58%>
+<DIONYZA>	<59%>
+	Thy oath remember; thou hast sworn to do 't:
+	'Tis but a blow, which never shall be known.
+	Thou canst not do a thing i' the world so soon,
+	To yield thee so much profit. Let not conscience,
+	Which is but cold, inflaming love i' thy bosom,
+	Inflame too nicely; nor let pity, which
+	Even women have cast off, melt thee, but he
+	A soldier to thy purpose.
+</DIONYZA>
+
+<SPEECH 8><ACT 4><SCENE 1><58%>
+<DIONYZA>	<59%>
+	The fitter, then, the gods should have her. Here
+	She comes weeping for her only mistress' death.
+	Thou art resolv'd?
+</DIONYZA>
+
+<SPEECH 9><ACT 4><SCENE 1><59%>
+<DIONYZA>	<60%>
+	How now, Marina! why do you keep alone?
+	How chance my daughter is not with you? Do not
+	Consume your blood with sorrowing; you have
+	A nurse of me. Lord! how your favour's chang'd
+	With this unprofitable woe. Come,
+	Give me your flowers, ere the sea mar it.
+	Walk with Leonine; the air is quick there,
+	And it pierces and sharpens the stomach. Come,
+	Leonine, take her by the arm, walk with her.
+</DIONYZA>
+
+<SPEECH 10><ACT 4><SCENE 1><59%>
+<DIONYZA>	<60%>
+	Come, come;
+	I love the king your father, and yourself,
+	With more than foreign heart. We every day
+	Expect him here; when he shall come and find
+	Our paragon to all reports thus blasted,
+	He will repent the breadth of his great voyage;
+	Blame both my lord and me, that we have taken
+	No care to your best courses. Go, I pray you;
+	Walk, and be cheerful once again; reserve
+	That excellent complexion, which did steal
+	The eyes of young and old. Care not for me;
+	I can go home alone.
+</DIONYZA>
+
+<SPEECH 11><ACT 4><SCENE 1><60%>
+<DIONYZA>	<61%>
+	Come, come, I know 'tis good for you.
+	Walk half an hour, Leonine, at least.
+	Remember what I have said.
+</DIONYZA>
+
+<SPEECH 12><ACT 4><SCENE 1><60%>
+<DIONYZA>	<61%>
+	I'll leave you, my sweet lady, for a while;
+	Pray you walk softly, do not heat your blood:
+	What! I must have care of you.
+</DIONYZA>
+
+<SPEECH 13><ACT 4><SCENE 3><69%>
+<DIONYZA>	<70%>
+	Why, are you foolish? Can it be undone?
+</DIONYZA>
+
+<SPEECH 14><ACT 4><SCENE 3><69%>
+<DIONYZA>	<70%>
+	I think
+	You'll turn a child again.
+</DIONYZA>
+
+<SPEECH 15><ACT 4><SCENE 3><69%>
+<DIONYZA>	<70%>
+	That she is dead. Nurses are not the fates,
+	To foster it, nor ever to preserve.
+	She died at night; I'll say so. Who can cross it?
+	Unless you play the pious innocent,
+	And for an honest attribute cry out
+	'She died by foul play.'
+</DIONYZA>
+
+<SPEECH 16><ACT 4><SCENE 3><69%>
+<DIONYZA>	<70%>
+	Be one of those that think
+	The pretty wrens of Tarsus will fly hence,
+	And open this to Pericles. I do shame
+	To think of what a noble strain you are,
+	And of how coward a spirit.
+</DIONYZA>
+
+<SPEECH 17><ACT 4><SCENE 3><70%>
+<DIONYZA>	<71%>
+	Be it so, then;
+	Yet none does know but you how she came dead,
+	Nor none can know, Leonine being gone.
+	She did distain my child, and stood between
+	Her and her fortunes; none would look on her,
+	But cast their gazes on Marina's face,
+	Whilst ours was blurted at and held a malkin
+	Not worth the time of day. It pierc'd me thorough;
+	And though you call my course unnatural,
+	You not your child well loving, yet I find
+	It greets me as an enterprise of kindness
+	Perform'd to your sole daughter.
+</DIONYZA>
+
+<SPEECH 18><ACT 4><SCENE 3><70%>
+<DIONYZA>	<71%>
+	And as for Pericles,
+	What should he say? We wept after her hearse,
+	And even yet we mourn; her monument
+	Is almost finish'd, and her epitaphs
+	In glittering golden characters express
+	A general praise to her, and care in us
+	At whose expense 'tis done.
+</DIONYZA>
+
+<SPEECH 19><ACT 4><SCENE 3><70%>
+<DIONYZA>	<71%>
+	You are like one that superstitiously
+	Doth swear to the gods that winter kills the flies;
+	But yet I know you'll do as I advise.
+</DIONYZA>
+

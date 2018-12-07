@@ -1,0 +1,91 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+<MERCHANT>	<8%>
+	Therefore, give out you are of Epidamnum,
+	Lest that your goods too soon be confiscate.
+	This very day, a Syracusian merchant
+	Is apprehended for arrival here;
+	And, not being able to buy out his life,
+	According to the statute of the town
+	Dies ere the weary sun set in the west.
+	There is your money that I had to keep.
+</MERCHANT>
+
+<SPEECH 2><ACT 1><SCENE 2><8%>
+<MERCHANT>	<10%>
+	I am invited, sir, to certain merchants,
+	Of whom I hope to make much benefit;
+	I crave your pardon. Soon at five o'clock,
+	Please you, I'll meet with you upon the mart,
+	And afterward consort you till bed-time:
+	My present business calls me from you now.
+</MERCHANT>
+
+<SPEECH 3><ACT 1><SCENE 2><8%>
+<MERCHANT>	<10%>
+	Sir, I commend you to your own content.
+</MERCHANT>
+
+<SPEECH 4><ACT 4><SCENE 1><50%>
+<MERCHANT>	<51%>
+	You know since Pentecost the sum is due,
+	And since I have not much importun'd you;
+	Nor now I had not, but that I am bound
+	To Persia, and want guilders for my voyage:
+	Therefore make present satisfaction,
+	Or I'll attach you by this officer.
+</MERCHANT>
+
+<SPEECH 5><ACT 4><SCENE 1><53%>
+<MERCHANT>	<54%>
+	The hour steals on; I pray you, sir, dispatch.
+</MERCHANT>
+
+<SPEECH 6><ACT 4><SCENE 1><53%>
+<MERCHANT>	<54%>
+	My business cannot brook this dalliance.
+	Good sir, say whe'r you'll answer me or no:
+	If not, I'll leave him to the officer.
+</MERCHANT>
+
+<SPEECH 7><ACT 4><SCENE 1><54%>
+<MERCHANT>	<55%>
+	Well, officer, arrest him at my suit.
+</MERCHANT>
+
+<SPEECH 8><ACT 5><SCENE 1><77%>
+<MERCHANT>	<77%>
+	How is the man esteem'd here in the city?
+</MERCHANT>
+
+<SPEECH 9><ACT 5><SCENE 1><77%>
+<MERCHANT>	<77%>
+	Speak softly: yonder, as I think, he walks.
+
+</MERCHANT>
+
+<SPEECH 10><ACT 5><SCENE 1><78%>
+<MERCHANT>	<78%>
+	Yes, that you did, sir, and forswore it too.
+</MERCHANT>
+
+<SPEECH 11><ACT 5><SCENE 1><78%>
+<MERCHANT>	<78%>
+	These ears of mine, thou know'st, did hear thee.
+	Fie on thee, wretch! 'tis pity that thou liv'st
+	To walk where any honest men resort.
+</MERCHANT>
+
+<SPEECH 12><ACT 5><SCENE 1><78%>
+<MERCHANT>	<78%>
+	I dare, and do defy thee for a villain.
+<STAGE DIR>
+<They draw.>
+</STAGE DIR>
+
+</MERCHANT>
+
+<SPEECH 13><ACT 5><SCENE 1><79%>
+<MERCHANT>	<79%>
+	I am sorry now that I did draw on him.
+</MERCHANT>
+

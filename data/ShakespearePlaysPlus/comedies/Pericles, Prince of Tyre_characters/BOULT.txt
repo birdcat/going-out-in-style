@@ -1,0 +1,196 @@
+<SPEECH 1><ACT 4><SCENE 2><62%>
+<BOULT>	<63%>
+	Sir?
+</BOULT>
+
+<SPEECH 2><ACT 4><SCENE 2><63%>
+<BOULT>	<64%>
+	Ay, to eleven; and brought them down again. But shall I search the market?
+</BOULT>
+
+<SPEECH 3><ACT 4><SCENE 2><63%>
+<BOULT>	<64%>
+	Ay, she quickly pooped him; she made him roast-meat for worms. But I'll go search the market.
+</BOULT>
+
+<SPEECH 4><ACT 4><SCENE 2><64%>
+<BOULT>	<65%>
+	Come your ways. My masters, you say she's a virgin?
+</BOULT>
+
+<SPEECH 5><ACT 4><SCENE 2><64%>
+<BOULT>	<65%>
+	Master, I have gone through for this piece, you see: if you like her, so; if not, I have lost my earnest.
+</BOULT>
+
+<SPEECH 6><ACT 4><SCENE 2><64%>
+<BOULT>	<65%>
+	She has a good face, speaks well, and has excellent good clothes; there's no further necessity of qualities can make her be refused.
+</BOULT>
+
+<SPEECH 7><ACT 4><SCENE 2><64%>
+<BOULT>	<65%>
+	I cannot be bated one doit of a thousand pieces.
+</BOULT>
+
+<SPEECH 8><ACT 4><SCENE 2><65%>
+<BOULT>	<66%>
+	Performance shall follow.
+</BOULT>
+
+<SPEECH 9><ACT 4><SCENE 2><66%>
+<BOULT>	<67%>
+	I have cried her almost to the number of her hairs; I have drawn her picture with my voice.
+</BOULT>
+
+<SPEECH 10><ACT 4><SCENE 2><66%>
+<BOULT>	<67%>
+	Faith, they listened to me, as they would have hearkened to their father's testament. There was a Spaniard's mouth so watered, that he went to bed to her very description.
+</BOULT>
+
+<SPEECH 11><ACT 4><SCENE 2><66%>
+<BOULT>	<67%>
+	To-night, to-night. But, mistress, do you know the French knight that cowers i' the hams?
+</BOULT>
+
+<SPEECH 12><ACT 4><SCENE 2><67%>
+<BOULT>	<68%>
+	Ay; he offered to cut a caper at the proclamation; but he made a groan at it, and swore he would see her to-morrow.
+</BOULT>
+
+<SPEECH 13><ACT 4><SCENE 2><67%>
+<BOULT>	<68%>
+	Well, if we had of every nation a traveller, we should lodge them with this sign.
+</BOULT>
+
+<SPEECH 14><ACT 4><SCENE 2><67%>
+<BOULT>	<68%>
+	O! take her home, mistress, take her home; these blushes of hers must be quenched with some present practice.
+</BOULT>
+
+<SPEECH 15><ACT 4><SCENE 2><68%>
+<BOULT>	<69%>
+	Faith, some do, and some do not. But, mistress, if I have bargained for the joint,—
+</BOULT>
+
+<SPEECH 16><ACT 4><SCENE 2><68%>
+<BOULT>	<69%>
+	I may so?
+</BOULT>
+
+<SPEECH 17><ACT 4><SCENE 2><68%>
+<BOULT>	<69%>
+	Ay, by my faith, they shall not be changed yet.
+</BOULT>
+
+<SPEECH 18><ACT 4><SCENE 2><68%>
+<BOULT>	<69%>
+	I warrant you, mistress, thunder shall not so awake the beds of eels as my giving out her beauty stir up the lewdly-inclined. I'll bring home some to-night.
+</BOULT>
+
+<SPEECH 19><ACT 4><SCENE 6><74%>
+<BOULT>	<75%>
+	Faith, I must ravish her, or she'll disfurnish us of all our cavaliers, and make all our swearers priests.
+</BOULT>
+
+<SPEECH 20><ACT 4><SCENE 6><74%>
+<BOULT>	<75%>
+	We should have both lord and lown if the peevish baggage would but give way to customers.
+
+</BOULT>
+
+<SPEECH 21><ACT 4><SCENE 6><74%>
+<BOULT>	<75%>
+	I am glad to see your honour in good health.
+</BOULT>
+
+<SPEECH 22><ACT 4><SCENE 6><75%>
+<BOULT>	<76%>
+	For flesh and blood, sir, white and red, you shall see a rose; and she were a rose indeed if she had but—
+</BOULT>
+
+<SPEECH 23><ACT 4><SCENE 6><75%>
+<BOULT>	<76%>
+	O! sir, I can be modest.
+</BOULT>
+
+<SPEECH 24><ACT 4><SCENE 6><78%>
+<BOULT>	<79%>
+	I beseech your honour, one piece for me.
+</BOULT>
+
+<SPEECH 25><ACT 4><SCENE 6><78%>
+<BOULT>	<79%>
+	How's this? We must take another course with you. If your peevish chastity, which is not worth a breakfast in the cheapest country under the cope, shall undo a whole household, let me be gelded like a spaniel. Come your ways.
+</BOULT>
+
+<SPEECH 26><ACT 4><SCENE 6><79%>
+<BOULT>	<80%>
+	I must have your maidenhead taken off, or the common hangman shall execute it. Come your ways. We'll have no more gentlemen driven away. Come your ways, I say.
+
+</BOULT>
+
+<SPEECH 27><ACT 4><SCENE 6><79%>
+<BOULT>	<80%>
+	Worse and worse, mistress; she has here spoken holy words to the Lord Lysimachus.
+</BOULT>
+
+<SPEECH 28><ACT 4><SCENE 6><79%>
+<BOULT>	<80%>
+	She makes our profession as it were to stink afore the face of the gods.
+</BOULT>
+
+<SPEECH 29><ACT 4><SCENE 6><79%>
+<BOULT>	<80%>
+	The nobleman would have dealt with her like a nobleman, and she sent him away as cold as a snowball; saying his prayers too.
+</BOULT>
+
+<SPEECH 30><ACT 4><SCENE 6><79%>
+<BOULT>	<80%>
+	An if she were a thornier piece of ground than she is, she shall be ploughed.
+</BOULT>
+
+<SPEECH 31><ACT 4><SCENE 6><80%>
+<BOULT>	<81%>
+	Come, mistress; come your ways with me.
+</BOULT>
+
+<SPEECH 32><ACT 4><SCENE 6><80%>
+<BOULT>	<81%>
+	To take from you the jewel you hold so dear.
+</BOULT>
+
+<SPEECH 33><ACT 4><SCENE 6><80%>
+<BOULT>	<81%>
+	Come now, your one thing.
+</BOULT>
+
+<SPEECH 34><ACT 4><SCENE 6><80%>
+<BOULT>	<81%>
+	Why, I could wish him to be my master, or rather, my mistress.
+</BOULT>
+
+<SPEECH 35><ACT 4><SCENE 6><80%>
+<BOULT>	<81%>
+	What would you have me do? go to the wars, would you? where a man may serve seven years for the loss of a leg, and have not money enough in the end to buy him a wooden one?
+</BOULT>
+
+<SPEECH 36><ACT 4><SCENE 6><81%>
+<BOULT>	<82%>
+	But can you teach all this you speak of?
+</BOULT>
+
+<SPEECH 37><ACT 4><SCENE 6><81%>
+<BOULT>	<82%>
+	Well, I will see what I can do for thee; if I can place thee, I will.
+</BOULT>
+
+<SPEECH 38><ACT 4><SCENE 6><81%>
+<BOULT>	<82%>
+	Faith, my acquaintance lies little amongst them. But since my master and mistress have bought you, there's no going but by their consent; therefore I will make them acquainted with your purpose, and I doubt not but I shall find them tractable enough. Come; I'll do for thee what I can; come your ways.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</BOULT>
+

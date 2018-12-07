@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 3><SCENE 2><49%>
+<MURDERER 1>	<49%>
+	Run to my Lord of Suffolk; let him know
+	We have dispatch'd the duke, as he commanded.
+</MURDERER 1>
+
+<SPEECH 2><ACT 3><SCENE 2><49%>
+<MURDERER 1>	<49%>
+	Here comes my lord.
+</MURDERER 1>
+
+<SPEECH 3><ACT 3><SCENE 2><49%>
+<MURDERER 1>	<49%>
+	Ay, my good lord, he's dead.
+</MURDERER 1>
+
+<SPEECH 4><ACT 3><SCENE 2><49%>
+<MURDERER 1>	<50%>
+	'Tis, my good lord.
+</MURDERER 1>
+

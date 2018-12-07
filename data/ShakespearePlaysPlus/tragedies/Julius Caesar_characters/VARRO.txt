@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 4><SCENE 3><81%>
+<VARRO>	<82%>
+	Calls my lord?
+</VARRO>
+
+<SPEECH 2><ACT 4><SCENE 3><81%>
+<VARRO>	<82%>
+	So please you, we will stand and watch your pleasure.
+</VARRO>
+
+<SPEECH 3><ACT 4><SCENE 3><83%>
+<VARRO>	<84%>
+	My lord!
+</VARRO>
+
+<SPEECH 4><ACT 4><SCENE 3><84%>
+<VARRO>	<84%>
+	Did we, my lord?
+</VARRO>
+
+<SPEECH 5><ACT 4><SCENE 3><84%>
+<VARRO>	<84%>
+	No, my lord, I saw nothing.
+</VARRO>
+
+<SPEECH 6><ACT 4><SCENE 3><84%>
+<VARRO>	<85%>
+	It shall be done, my lord.
+</VARRO>
+

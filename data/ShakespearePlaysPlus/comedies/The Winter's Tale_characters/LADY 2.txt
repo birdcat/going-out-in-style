@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 2><SCENE 1><17%>
+<LADY 2>	<17%>
+	And why so, my lord?
+</LADY 2>
+
+<SPEECH 2><ACT 2><SCENE 1><17%>
+<LADY 2>	<17%>
+	Who taught you this?
+</LADY 2>
+
+<SPEECH 3><ACT 2><SCENE 1><17%>
+<LADY 2>	<18%>
+	Hark ye;
+	The queen your mother rounds apace: we shall
+	Present our services to a fine new prince
+	One of these days; and then you'd wanton with us,
+	If we would have you.
+</LADY 2>
+

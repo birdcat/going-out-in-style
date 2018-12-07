@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 4><SCENE 2><70%>
+<SOLDIER 3>	<71%>
+	Stand!
+</SOLDIER 3>
+

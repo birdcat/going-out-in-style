@@ -1,0 +1,61 @@
+<SPEECH 1><ACT 4><SCENE 3><71%>
+<CLOWN>	<71%>
+	O! tho gibbet-maker? He says that he hath taken them down again, for the man must not be hanged till the next week.
+</CLOWN>
+
+<SPEECH 2><ACT 4><SCENE 3><71%>
+<CLOWN>	<72%>
+	Alas! sir, I know not Jupiter; I never drank with him in all my life.
+</CLOWN>
+
+<SPEECH 3><ACT 4><SCENE 3><71%>
+<CLOWN>	<72%>
+	Ay, of my pigeons, sir; nothing else.
+</CLOWN>
+
+<SPEECH 4><ACT 4><SCENE 3><71%>
+<CLOWN>	<72%>
+	From heaven! alas! sir, I never came there. God forbid I should be so bold to press to heaven in my young days. Why, I am going with my pigeons to the tribunal plebs, to take up a matter of brawl betwixt my uncle and one of the emperial's men.
+</CLOWN>
+
+<SPEECH 5><ACT 4><SCENE 3><72%>
+<CLOWN>	<72%>
+	Nay, truly, sir, I could never say grace in all my life.
+</CLOWN>
+
+<SPEECH 6><ACT 4><SCENE 3><72%>
+<CLOWN>	<72%>
+	Ay, sir.
+</CLOWN>
+
+<SPEECH 7><ACT 4><SCENE 3><72%>
+<CLOWN>	<73%>
+	I warrant you, sir; let me alone.
+</CLOWN>
+
+<SPEECH 8><ACT 4><SCENE 3><73%>
+<CLOWN>	<73%>
+	God be with you, sir; I will.
+</CLOWN>
+
+<SPEECH 9><ACT 4><SCENE 4><74%>
+<CLOWN>	<74%>
+	Yea, forsooth, an your mistership be emperial.
+</CLOWN>
+
+<SPEECH 10><ACT 4><SCENE 4><74%>
+<CLOWN>	<75%>
+	'Tis he. God and Saint Stephen give you good den.
+	I have brought you a letter and a couple of pigeons here.
+</CLOWN>
+
+<SPEECH 11><ACT 4><SCENE 4><74%>
+<CLOWN>	<75%>
+	How much money must I have?
+</CLOWN>
+
+<SPEECH 12><ACT 4><SCENE 4><75%>
+<CLOWN>	<75%>
+	Hanged! By 'r, lady, then I have brought up a neck to a fair end.
+</CLOWN>
+

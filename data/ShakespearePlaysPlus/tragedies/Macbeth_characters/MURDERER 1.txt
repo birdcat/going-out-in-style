@@ -1,0 +1,68 @@
+<SPEECH 1><ACT 3><SCENE 1><42%>
+<MURDERER 1>	<42%>
+	It was, so please your highness.
+</MURDERER 1>
+
+<SPEECH 2><ACT 3><SCENE 1><42%>
+<MURDERER 1>	<43%>
+	You made it known to us.
+</MURDERER 1>
+
+<SPEECH 3><ACT 3><SCENE 1><42%>
+<MURDERER 1>	<43%>
+	We are men, my liege.
+</MURDERER 1>
+
+<SPEECH 4><ACT 3><SCENE 1><43%>
+<MURDERER 1>	<44%>
+	And I another,
+	So weary with disasters, tugg'd with fortune,
+	That I would set my life on any chance,
+	To mend it or be rid on 't.
+</MURDERER 1>
+
+<SPEECH 5><ACT 3><SCENE 1><44%>
+<MURDERER 1>	<45%>
+	Though our lives—
+</MURDERER 1>
+
+<SPEECH 6><ACT 3><SCENE 3><47%>
+<MURDERER 1>	<48%>
+	But who did bid thee join with us?
+</MURDERER 1>
+
+<SPEECH 7><ACT 3><SCENE 3><48%>
+<MURDERER 1>	<49%>
+	Then stand with us.
+	The west yet glimmers with some streaks of day:
+	Now spurs the lated traveller apace
+	To gain the timely inn; and near approaches
+	The subject of our watch.
+</MURDERER 1>
+
+<SPEECH 8><ACT 3><SCENE 3><48%>
+<MURDERER 1>	<49%>
+	His horses go about.
+</MURDERER 1>
+
+<SPEECH 9><ACT 3><SCENE 3><48%>
+<MURDERER 1>	<49%>
+	Stand to 't.
+
+</MURDERER 1>
+
+<SPEECH 10><ACT 3><SCENE 3><48%>
+<MURDERER 1>	<49%>
+	Let it come down.
+</MURDERER 1>
+
+<SPEECH 11><ACT 3><SCENE 3><49%>
+<MURDERER 1>	<49%>
+	Was 't not the way?
+</MURDERER 1>
+
+<SPEECH 12><ACT 3><SCENE 3><49%>
+<MURDERER 1>	<50%>
+	Well, let's away, and say how much is done.
+</MURDERER 1>
+

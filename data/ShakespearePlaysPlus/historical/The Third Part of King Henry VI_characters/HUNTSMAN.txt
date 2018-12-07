@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 5><72%>
+<HUNTSMAN>	<73%>
+	This way, my lord, for this way lies the game.
+</HUNTSMAN>
+
+<SPEECH 2><ACT 4><SCENE 5><73%>
+<HUNTSMAN>	<73%>
+	Better do so than tarry and be hang'd.
+</HUNTSMAN>
+

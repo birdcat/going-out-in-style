@@ -1,0 +1,63 @@
+<SPEECH 1><ACT 4><SCENE XII.— ><81%>
+<GUARD 1>	<81%>
+	What's the noise?
+</GUARD 1>
+
+<SPEECH 2><ACT 4><SCENE XII.— ><81%>
+<GUARD 1>	<81%>
+	And time is at his period.
+</GUARD 1>
+
+<SPEECH 3><ACT 4><SCENE XII.— ><81%>
+<GUARD 1>	<81%>
+	Not I.
+</GUARD 1>
+
+<SPEECH 4><ACT 4><SCENE XII.— ><82%>
+<GUARD 1>	<82%>
+	Woe, woe are we, sir, you may not live to wear
+	All your true followers out.
+</GUARD 1>
+
+<SPEECH 5><ACT 5><SCENE 2><98%>
+<GUARD 1>	<98%>
+	Where is the queen?
+</GUARD 1>
+
+<SPEECH 6><ACT 5><SCENE 2><98%>
+<GUARD 1>	<98%>
+	Cæsar hath sent—
+</GUARD 1>
+
+<SPEECH 7><ACT 5><SCENE 2><98%>
+<GUARD 1>	<99%>
+	Approach, ho! All's not well; Cæsar's beguil'd.
+</GUARD 1>
+
+<SPEECH 8><ACT 5><SCENE 2><98%>
+<GUARD 1>	<99%>
+	What work is here! Charmian, is this well done?
+</GUARD 1>
+
+<SPEECH 9><ACT 5><SCENE 2><99%>
+<GUARD 1>	<99%>
+	A simple countryman that brought her figs:
+	This was his basket.
+</GUARD 1>
+
+<SPEECH 10><ACT 5><SCENE 2><99%>
+<GUARD 1>	<99%>
+	O Cæsar!
+	This Charmian liv'd but now; she stood, and spake:
+	I found her trimming up the diadem
+	On her dead mistress; tremblingly she stood,
+	And on the sudden dropp'd.
+</GUARD 1>
+
+<SPEECH 11><ACT 5><SCENE 2><99%>
+<GUARD 1>	<100%>
+	This is an aspic's trail; and these fig-leaves
+	Have slime upon them, such as the aspic leaves
+	Upon the caves of Nile.
+</GUARD 1>
+

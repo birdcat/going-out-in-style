@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 2><SCENE 3><29%>
+<SERVANT>	<29%>
+	He is, my lord, an hour ago.
+</SERVANT>
+
+<SPEECH 2><ACT 2><SCENE 3><29%>
+<SERVANT>	<29%>
+	One horse, my lord, he brought even now.
+</SERVANT>
+
+<SPEECH 3><ACT 2><SCENE 3><29%>
+<SERVANT>	<30%>
+	It is, my lord.
+</SERVANT>
+

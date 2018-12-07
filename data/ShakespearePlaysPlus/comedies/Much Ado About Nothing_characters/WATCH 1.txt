@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 3><SCENE 3><50%>
+<WATCH 1>	<51%>
+	Hugh Oatcake, sir, or George Seacoal; for they can write and read.
+</WATCH 1>
+
+<SPEECH 2><ACT 3><SCENE 3><55%>
+<WATCH 1>	<56%>
+	We charge you in the prince's name, stand!
+</WATCH 1>
+
+<SPEECH 3><ACT 3><SCENE 3><55%>
+<WATCH 1>	<56%>
+	And one Deformed is one of them: I know him, a' wears a lock.
+</WATCH 1>
+
+<SPEECH 4><ACT 3><SCENE 3><55%>
+<WATCH 1>	<56%>
+	Never speak: we charge you let us obey you to go with us.
+</WATCH 1>
+
+<SPEECH 5><ACT 4><SCENE 2><75%>
+<WATCH 1>	<76%>
+	This man said, sir, that Don John, the prince's brother, was a villain.
+</WATCH 1>
+
+<SPEECH 6><ACT 4><SCENE 2><76%>
+<WATCH 1>	<76%>
+	And that Count Claudio did mean, upon his words, to disgrace Hero before the whole assembly, and not marry her.
+</WATCH 1>
+

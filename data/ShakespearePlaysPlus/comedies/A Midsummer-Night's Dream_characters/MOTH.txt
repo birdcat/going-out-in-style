@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 3><SCENE 1><43%>
+<MOTH>	<44%>
+	And I.
+</MOTH>
+
+<SPEECH 2><ACT 3><SCENE 1><44%>
+<MOTH>	<45%>
+	Hail!
+</MOTH>
+

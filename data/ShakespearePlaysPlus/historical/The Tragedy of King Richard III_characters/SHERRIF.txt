@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 5><SCENE 1><86%>
+<SHERRIF>	<86%>
+	No, my good lord; therefore be patient.
+</SHERRIF>
+
+<SPEECH 2><ACT 5><SCENE 1><87%>
+<SHERRIF>	<87%>
+	It is, my lord.
+</SHERRIF>
+

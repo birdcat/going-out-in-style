@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 2><SCENE 3><26%>
+<ATTENDANT 1>	<26%>
+<STAGE DIR>
+<Advancing.>
+</STAGE DIR> My lord?
+</ATTENDANT 1>
+
+<SPEECH 2><ACT 2><SCENE 3><26%>
+<ATTENDANT 1>	<27%>
+	He took good rest to-night;
+	'Tis hop'd his sickness is discharg'd.
+</ATTENDANT 1>
+

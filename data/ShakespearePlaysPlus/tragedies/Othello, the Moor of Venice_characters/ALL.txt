@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 3><32%>
+<ALL>	<34%>
+	Excellent well.
+</ALL>
+
+<SPEECH 2><ACT 5><SCENE 2><94%>
+<ALL>	<94%>
+	O heavens forfend!
+</ALL>
+

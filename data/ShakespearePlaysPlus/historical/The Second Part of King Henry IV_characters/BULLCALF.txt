@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 3><SCENE 2><52%>
+<BULLCALF>	<52%>
+	Here, sir.
+</BULLCALF>
+
+<SPEECH 2><ACT 3><SCENE 2><52%>
+<BULLCALF>	<52%>
+	O Lord! good my lord captain,—
+</BULLCALF>
+
+<SPEECH 3><ACT 3><SCENE 2><52%>
+<BULLCALF>	<52%>
+	O Lord, sir! I am a diseased man.
+</BULLCALF>
+
+<SPEECH 4><ACT 3><SCENE 2><52%>
+<BULLCALF>	<52%>
+	A whoreson cold, sir; a cough, sir, which I caught with ringing in the king's affairs upon his coronation day, sir.
+</BULLCALF>
+
+<SPEECH 5><ACT 3><SCENE 2><53%>
+<BULLCALF>	<53%>
+	Good Master Corporate Bardolph, stand my friend, and here's four Harry ten shillings in French crowns for you. In very truth, sir, I had as lief be hanged, sir, as go: and yet, for mine own part, sir, I do not care; but rather, because I am unwilling, and, for mine own part, have a desire to stay with my friends: else, sir, I did not care, for mine own part, so much.
+</BULLCALF>
+

@@ -1,0 +1,66 @@
+<SPEECH 1><ACT 1><SCENE 2><17%>
+<LORD 3>	<17%>
+	I promise you, my lord, you mov'd me much.
+</LORD 3>
+
+<SPEECH 2><ACT 1><SCENE 2><22%>
+<LORD 3>	<22%>
+	O! he's the very soul of bounty.
+</LORD 3>
+
+<SPEECH 3><ACT 1><SCENE 2><22%>
+<LORD 3>	<22%>
+	O! I beseech you, pardon me, my lord, in that.
+</LORD 3>
+
+<SPEECH 4><ACT 3><SCENE 6><55%>
+<LORD 3>	<55%>
+	He sent to me, sir,—Here he comes.
+
+</LORD 3>
+
+<SPEECH 5><ACT 3><SCENE 6><56%>
+<LORD 3>	<56%>
+	Doubt not that, if money and the season can yield it.
+</LORD 3>
+
+<SPEECH 6><ACT 3><SCENE 6><56%>
+<LORD 3>	<56%>
+	Alcibiades is banished: hear you of it?
+</LORD 3>
+
+<SPEECH 7><ACT 3><SCENE 6><56%>
+<LORD 3>	<56%>
+	'Tis so, be sure of it.
+</LORD 3>
+
+<SPEECH 8><ACT 3><SCENE 6><57%>
+<LORD 3>	<56%>
+	I'll tell you more anon. Here's a noble feast toward.
+</LORD 3>
+
+<SPEECH 9><ACT 3><SCENE 6><57%>
+<LORD 3>	<56%>
+	Will't hold? will't hold?
+</LORD 3>
+
+<SPEECH 10><ACT 3><SCENE 6><57%>
+<LORD 3>	<56%>
+	I do conceive.
+</LORD 3>
+
+<SPEECH 11><ACT 3><SCENE 6><59%>
+<LORD 3>	<58%>
+	Push! did you see my cap?
+</LORD 3>
+
+<SPEECH 12><ACT 3><SCENE 6><59%>
+<LORD 3>	<58%>
+	Did you see my cap?
+</LORD 3>
+
+<SPEECH 13><ACT 3><SCENE 6><59%>
+<LORD 3>	<59%>
+	I feel 't upon my bones.
+</LORD 3>
+

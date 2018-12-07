@@ -1,0 +1,28 @@
+<SPEECH 1><ACT 2><SCENE 2><18%>
+<BEDFORD>	<18%>
+	'Fore God, his Grace is bold to trust these traitors.
+</BEDFORD>
+
+<SPEECH 2><ACT 2><SCENE 2><18%>
+<BEDFORD>	<19%>
+	The king hath note of all that they intend,
+	By interception which they dream not of.
+</BEDFORD>
+
+<SPEECH 3><ACT 4><SCENE 3><65%>
+<BEDFORD>	<66%>
+	The king himself is rode to view their battle.
+</BEDFORD>
+
+<SPEECH 4><ACT 4><SCENE 3><65%>
+<BEDFORD>	<66%>
+	Farewell, good Salisbury; and good luck go with thee!
+</BEDFORD>
+
+<SPEECH 5><ACT 4><SCENE 3><66%>
+<BEDFORD>	<66%>
+	He is as full of valour as of kindness;
+	Princely in both.
+
+</BEDFORD>
+

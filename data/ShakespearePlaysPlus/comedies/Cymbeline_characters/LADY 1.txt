@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 1><SCENE 5><13%>
+<LADY 1>	<13%>
+	I, madam.
+</LADY 1>
+
+<SPEECH 2><ACT 5><SCENE 5><87%>
+<LADY 1>	<87%>
+	We did, so please your highness.
+</LADY 1>
+

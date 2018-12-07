@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 2><10%>
+<GENTLEMAN>	<11%>
+	Toward Chertsey, noble lord?
+</GENTLEMAN>
+

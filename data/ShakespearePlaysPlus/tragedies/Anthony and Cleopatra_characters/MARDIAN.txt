@@ -1,0 +1,47 @@
+<SPEECH 1><ACT 1><SCENE 5><14%>
+<MARDIAN>	<14%>
+	What 's your highness' pleasure?
+</MARDIAN>
+
+<SPEECH 2><ACT 1><SCENE 5><14%>
+<MARDIAN>	<15%>
+	Yes, gracious madam.
+</MARDIAN>
+
+<SPEECH 3><ACT 1><SCENE 5><14%>
+<MARDIAN>	<15%>
+	Not in deed, madam; for I can do nothing
+	But what in deed is honest to be done;
+	Yet have I fierce affections, and think
+	What Venus did with Mars.
+</MARDIAN>
+
+<SPEECH 4><ACT 2><SCENE 5><27%>
+<MARDIAN>	<28%>
+	As well as I can, madam.
+</MARDIAN>
+
+<SPEECH 5><ACT 4><SCENE XII.— ><78%>
+<MARDIAN>	<78%>
+	No, Antony;
+	My mistress lov'd thee, and her fortunes mingled
+	With thine entirely.
+</MARDIAN>
+
+<SPEECH 6><ACT 4><SCENE XII.— ><78%>
+<MARDIAN>	<78%>
+	Death of one person can be paid but once,
+	And that she has discharg'd. What thou wouldst do
+	Is done unto thy hand; the last she spake
+	Was, 'Antony! most noble Antony!'
+	Then in the midst a tearing groan did break
+	The name of Antony; it was divided
+	Between her heart and lips. She render'd life,
+	Thy name so buried in her.
+</MARDIAN>
+
+<SPEECH 7><ACT 4><SCENE XII.— ><79%>
+<MARDIAN>	<79%>
+	Dead.
+</MARDIAN>
+

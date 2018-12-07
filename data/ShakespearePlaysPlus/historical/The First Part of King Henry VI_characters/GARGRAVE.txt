@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 1><SCENE 4><18%>
+<GARGRAVE>	<18%>
+	I think at the North gate; for there stand lords.
+</GARGRAVE>
+
+<SPEECH 2><ACT 1><SCENE 4><18%>
+<GARGRAVE>	<19%>
+	O Lord! have mercy on me, woeful man.
+</GARGRAVE>
+

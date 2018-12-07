@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<COMMONER 1>	<1%>
+	Why, sir, a carpenter.
+</COMMONER 1>
+

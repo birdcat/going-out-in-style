@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 4><14%>
+<SOLDIER 3>	<15%>
+	See, they have shut him in.
+</SOLDIER 3>
+

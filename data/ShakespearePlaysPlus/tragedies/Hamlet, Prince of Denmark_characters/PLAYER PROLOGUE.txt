@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 3><SCENE 2><49%>
+<PLAYER PROLOGUE>	<50%>
+
+	For us and for our tragedy,
+	Here stooping to your clemency,
+	We beg your hearing patiently.
+
+</PLAYER PROLOGUE>
+

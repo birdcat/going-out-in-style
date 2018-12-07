@@ -1,0 +1,60 @@
+<SPEECH 1><ACT 4><SCENE 4><72%>
+<GLOUCESTER>	<72%>
+	I think he's gone to hunt, my lord, at Windsor.
+</GLOUCESTER>
+
+<SPEECH 2><ACT 4><SCENE 4><72%>
+<GLOUCESTER>	<72%>
+	I do not know, my lord.
+</GLOUCESTER>
+
+<SPEECH 3><ACT 4><SCENE 4><72%>
+<GLOUCESTER>	<72%>
+	No, my good lord; he is in presence here.
+</GLOUCESTER>
+
+<SPEECH 4><ACT 4><SCENE 4><75%>
+<GLOUCESTER>	<75%>
+	Comfort, your majesty!
+</GLOUCESTER>
+
+<SPEECH 5><ACT 4><SCENE 4><75%>
+<GLOUCESTER>	<76%>
+	The people fear me; for they do observe
+	Unfather'd heirs and loathly births of nature:
+	The seasons change their manners, as the year
+	Had found some months asleep and leap'd them over.
+</GLOUCESTER>
+
+<SPEECH 6><ACT 4><SCENE 4><75%>
+<GLOUCESTER>	<76%>
+	This apoplexy will certain be his end.
+</GLOUCESTER>
+
+<SPEECH 7><ACT 4><SCENE 5><76%>
+<GLOUCESTER>	<76%>
+	Exceeding ill.
+</GLOUCESTER>
+
+<SPEECH 8><ACT 4><SCENE 5><76%>
+<GLOUCESTER>	<76%>
+	He alter'd much upon the hearing it.
+</GLOUCESTER>
+
+<SPEECH 9><ACT 4><SCENE 5><77%>
+<GLOUCESTER>	<78%>
+	He came not through the chamber where we stay'd.
+</GLOUCESTER>
+
+<SPEECH 10><ACT 5><SCENE 2><86%>
+<GLOUCESTER>	<87%>
+	Good morrow, cousin.
+</GLOUCESTER>
+
+<SPEECH 11><ACT 5><SCENE 2><86%>
+<GLOUCESTER>	<87%>
+	O! good my lord, you have lost a friend indeed;
+	And I dare swear you borrow not that face
+	Of seeming sorrow; it is sure your own.
+</GLOUCESTER>
+

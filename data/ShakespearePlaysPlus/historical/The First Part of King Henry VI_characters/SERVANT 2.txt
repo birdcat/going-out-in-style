@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 3><SCENE 1><44%>
+<SERVANT 2>	<44%>
+	Do what ye dare, we are as resolute.
+</SERVANT 2>
+
+<SPEECH 2><ACT 3><SCENE 1><46%>
+<SERVANT 2>	<46%>
+	And so will I.
+</SERVANT 2>
+

@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 5><SCENE 3><92%>
+<GHOST OF GREY>	<92%>
+<STAGE DIR>
+<To King Richard.>
+</STAGE DIR> Think upon Grey, and let thy soul despair.
+</GHOST OF GREY>
+

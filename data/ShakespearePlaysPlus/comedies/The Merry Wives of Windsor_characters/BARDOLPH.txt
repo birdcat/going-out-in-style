@@ -1,0 +1,71 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+<BARDOLPH>	<4%>
+	You Banbury cheese!
+</BARDOLPH>
+
+<SPEECH 2><ACT 1><SCENE 1><5%>
+<BARDOLPH>	<6%>
+	Why, sir, for my part, I say, the gentleman had drunk himself out of his five sentences.
+</BARDOLPH>
+
+<SPEECH 3><ACT 1><SCENE 1><6%>
+<BARDOLPH>	<6%>
+	And being fap, sir, was, as they say, cashier'd; and so conclusions pass'd the careires.
+</BARDOLPH>
+
+<SPEECH 4><ACT 1><SCENE 3><11%>
+<BARDOLPH>	<12%>
+	It is a life that I have desired. I will thrive.
+</BARDOLPH>
+
+<SPEECH 5><ACT 2><SCENE 2><33%>
+<BARDOLPH>	<33%>
+	Sir John, there's one Master Brook below would fain speak with you, and be acquainted with you: and hath sent your worship a morning's draught of sack.
+</BARDOLPH>
+
+<SPEECH 6><ACT 2><SCENE 2><33%>
+<BARDOLPH>	<33%>
+	Ay, sir.
+</BARDOLPH>
+
+<SPEECH 7><ACT 3><SCENE 5><62%>
+<BARDOLPH>	<62%>
+	Here, sir.
+</BARDOLPH>
+
+<SPEECH 8><ACT 3><SCENE 5><62%>
+<BARDOLPH>	<63%>
+	Here's Mistress Quickly, sir, to speak with you.
+</BARDOLPH>
+
+<SPEECH 9><ACT 3><SCENE 5><63%>
+<BARDOLPH>	<63%>
+	Come in, woman.
+
+</BARDOLPH>
+
+<SPEECH 10><ACT 3><SCENE 5><63%>
+<BARDOLPH>	<63%>
+	With eggs, sir?
+</BARDOLPH>
+
+<SPEECH 11><ACT 4><SCENE 3><78%>
+<BARDOLPH>	<78%>
+	Sir, the Germans desire to have three of your horses: the duke himself will be to-morrow at court, and they are going to meet him.
+</BARDOLPH>
+
+<SPEECH 12><ACT 4><SCENE 3><78%>
+<BARDOLPH>	<78%>
+	Ay, sir; I'll call them to you.
+</BARDOLPH>
+
+<SPEECH 13><ACT 4><SCENE 5><83%>
+<BARDOLPH>	<83%>
+	Out, alas, sir! cozenage, mere cozenage!
+</BARDOLPH>
+
+<SPEECH 14><ACT 4><SCENE 5><83%>
+<BARDOLPH>	<83%>
+	Run away, with the cozeners; for so soon as I came beyond Eton, they threw me off, from behind one of them, in a slough of mire; and set spurs and away, like three German devils, three Doctor Faustuses.
+</BARDOLPH>
+

@@ -1,0 +1,77 @@
+<SPEECH 1><ACT 1><SCENE 2><5%>
+<OVERDONE>	<5%>
+	Well, well; there's one yonder arrested and carried to prison was worth five thousand of you all.
+</OVERDONE>
+
+<SPEECH 2><ACT 1><SCENE 2><5%>
+<OVERDONE>	<5%>
+	Marry, sir, that's Claudio, Signior Claudio.
+</OVERDONE>
+
+<SPEECH 3><ACT 1><SCENE 2><5%>
+<OVERDONE>	<5%>
+	Nay, but I know 'tis so: I saw him arrested; saw him carried away; and, which is more, within these three days his head to be chopped off.
+</OVERDONE>
+
+<SPEECH 4><ACT 1><SCENE 2><5%>
+<OVERDONE>	<6%>
+	I am too sure of it; and it is for getting Madam Julietta with child.
+</OVERDONE>
+
+<SPEECH 5><ACT 1><SCENE 2><6%>
+<OVERDONE>	<6%>
+	Thus, what with the war, what with the sweat, what with the gallows and what with poverty, I am custom-shrunk.
+
+</OVERDONE>
+
+<SPEECH 6><ACT 1><SCENE 2><6%>
+<OVERDONE>	<6%>
+	Well: what has he done?
+</OVERDONE>
+
+<SPEECH 7><ACT 1><SCENE 2><6%>
+<OVERDONE>	<6%>
+	But what's his offence?
+</OVERDONE>
+
+<SPEECH 8><ACT 1><SCENE 2><6%>
+<OVERDONE>	<6%>
+	What, is there a maid with child by him?
+</OVERDONE>
+
+<SPEECH 9><ACT 1><SCENE 2><6%>
+<OVERDONE>	<6%>
+	What proclamation, man?
+</OVERDONE>
+
+<SPEECH 10><ACT 1><SCENE 2><6%>
+<OVERDONE>	<7%>
+	And what shall become of those in the city?
+</OVERDONE>
+
+<SPEECH 11><ACT 1><SCENE 2><6%>
+<OVERDONE>	<7%>
+	But shall all our houses of resort in the suburbs be pulled down?
+</OVERDONE>
+
+<SPEECH 12><ACT 1><SCENE 2><6%>
+<OVERDONE>	<7%>
+	Why, here's a change indeed in the commonwealth! What shall become of me?
+</OVERDONE>
+
+<SPEECH 13><ACT 1><SCENE 2><7%>
+<OVERDONE>	<7%>
+	What's to do here, Thomas tapster?
+	Let's withdraw.
+</OVERDONE>
+
+<SPEECH 14><ACT 3><SCENE 2><57%>
+<OVERDONE>	<57%>
+	Good my lord, be good to me; your honour is accounted a merciful man; good my lord.
+</OVERDONE>
+
+<SPEECH 15><ACT 3><SCENE 2><57%>
+<OVERDONE>	<57%>
+	My lord, this is one Lucio's information against me. Mistress Kate Keepdown was with child by him in the duke's time; he promised her marriage; his child is a year and a quarter old, come Philip and Jacob: I have kept it myself, and see how he goes about to abuse me!
+</OVERDONE>
+

@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 1><51%>
+<PATRICIAN 2>	<52%>
+	I would they were a-bed!
+</PATRICIAN 2>
+

@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+<BRANDON>	<8%>
+	Your office, sergeant; execute it.
+</BRANDON>
+
+<SPEECH 2><ACT 1><SCENE 1><7%>
+<BRANDON>	<8%>
+	I am sorry
+	To see you ta'en from liberty, to look on
+	The business present. 'Tis his highness' pleasure
+	You shall to the Tower.
+</BRANDON>
+
+<SPEECH 3><ACT 1><SCENE 1><8%>
+<BRANDON>	<8%>
+	Nay, he must bear you company. <STAGE DIR>
+<To Abergavenny.>
+</STAGE DIR> The king
+	Is pleas'd you shall to the Tower, till you know
+	How he determines further.
+</BRANDON>
+
+<SPEECH 4><ACT 1><SCENE 1><8%>
+<BRANDON>	<8%>
+	Here is a warrant from
+	The king to attach Lord Montacute; and the bodies
+	Of the duke's confessor, John de la Car,
+	One Gilbert Peck, his chancellor,—
+</BRANDON>
+
+<SPEECH 5><ACT 1><SCENE 1><8%>
+<BRANDON>	<9%>
+	A monk o' the Chartreux.
+</BRANDON>
+
+<SPEECH 6><ACT 1><SCENE 1><8%>
+<BRANDON>	<9%>
+	He.
+</BRANDON>
+

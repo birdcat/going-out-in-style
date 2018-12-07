@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 2><SCENE 4><33%>
+<VINTNER>	<34%>
+	What! standest thou still, and hearest such a calling? Look to the guests within. <STAGE DIR>
+<Exit Francis.>
+</STAGE DIR> My lord, old Sir John, with half a dozen more, are at the door: shall I let them in?
+</VINTNER>
+

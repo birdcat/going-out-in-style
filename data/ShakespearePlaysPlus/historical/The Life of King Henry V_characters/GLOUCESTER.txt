@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 3><SCENE 6><47%>
+<GLOUCESTER>	<48%>
+	I hope they will not come upon us now.
+</GLOUCESTER>
+
+<SPEECH 2><ACT 4><SCENE 1><54%>
+<GLOUCESTER>	<55%>
+	We shall, my liege.
+</GLOUCESTER>
+
+<SPEECH 3><ACT 4><SCENE 1><63%>
+<GLOUCESTER>	<63%>
+	My liege!
+</GLOUCESTER>
+
+<SPEECH 4><ACT 4><SCENE 3><65%>
+<GLOUCESTER>	<66%>
+	Where is the king?
+</GLOUCESTER>
+
+<SPEECH 5><ACT 4><SCENE 7><76%>
+<GLOUCESTER>	<76%>
+	His eyes are humbler than they us'd to be.
+</GLOUCESTER>
+

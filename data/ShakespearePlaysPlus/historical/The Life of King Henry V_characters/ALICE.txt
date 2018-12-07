@@ -1,0 +1,110 @@
+<SPEECH 1><ACT 3><SCENE 4><38%>
+<ALICE>	<39%>
+	Un peu, madame.
+</ALICE>
+
+<SPEECH 2><ACT 3><SCENE 4><38%>
+<ALICE>	<39%>
+	La main? elle est appellée, de hand.
+</ALICE>
+
+<SPEECH 3><ACT 3><SCENE 4><38%>
+<ALICE>	<39%>
+	Les doigts? ma foy, je oublie les doigts; mais je me souviendray. Les doigts? je pense qu'ils sont appellés de fingres; ouy, de fingres.
+</ALICE>
+
+<SPEECH 4><ACT 3><SCENE 4><38%>
+<ALICE>	<39%>
+	Lesongles? nous les appellons, de nails.
+</ALICE>
+
+<SPEECH 5><ACT 3><SCENE 4><38%>
+<ALICE>	<40%>
+	C'est bien dict, madame; il est fort bon Anglois.
+</ALICE>
+
+<SPEECH 6><ACT 3><SCENE 4><38%>
+<ALICE>	<40%>
+	De arm, madame.
+</ALICE>
+
+<SPEECH 7><ACT 3><SCENE 4><38%>
+<ALICE>	<40%>
+	De elbow.
+</ALICE>
+
+<SPEECH 8><ACT 3><SCENE 4><38%>
+<ALICE>	<40%>
+	Il est trop difficile, madame, comme je pense.
+</ALICE>
+
+<SPEECH 9><ACT 3><SCENE 4><39%>
+<ALICE>	<40%>
+	De elbow, madame.
+</ALICE>
+
+<SPEECH 10><ACT 3><SCENE 4><39%>
+<ALICE>	<40%>
+	De nick, madame.
+</ALICE>
+
+<SPEECH 11><ACT 3><SCENE 4><39%>
+<ALICE>	<40%>
+	De chin.
+</ALICE>
+
+<SPEECH 12><ACT 3><SCENE 4><39%>
+<ALICE>	<40%>
+	Ouy. Sauf vostre honneur, en vérité vous prononcez les mots aussi droict que les natifs d'Angleterre.
+</ALICE>
+
+<SPEECH 13><ACT 3><SCENE 4><39%>
+<ALICE>	<40%>
+	N'avez vous déjà oublié ce que je vous ay enseignée?
+</ALICE>
+
+<SPEECH 14><ACT 3><SCENE 4><39%>
+<ALICE>	<40%>
+	De nails, madame.
+</ALICE>
+
+<SPEECH 15><ACT 3><SCENE 4><39%>
+<ALICE>	<40%>
+	Sauf vostre honneur, d'elbow.
+</ALICE>
+
+<SPEECH 16><ACT 3><SCENE 4><39%>
+<ALICE>	<40%>
+	De foot, madame; et de coun.
+</ALICE>
+
+<SPEECH 17><ACT 3><SCENE 4><39%>
+<ALICE>	<41%>
+	Excellent, madame!
+</ALICE>
+
+<SPEECH 18><ACT 5><SCENE 2><91%>
+<ALICE>	<91%>
+	Ouy, vrayment, sauf vostre grace, ainsi dit-il.
+</ALICE>
+
+<SPEECH 19><ACT 5><SCENE 2><91%>
+<ALICE>	<92%>
+	Ouy, dat de tongues of de mans is be full of deceits: dat is de princess.
+</ALICE>
+
+<SPEECH 20><ACT 5><SCENE 2><96%>
+<ALICE>	<96%>
+	Dat it is not be de fashion pour les ladies of France,—I cannot tell what is baiser in English.
+</ALICE>
+
+<SPEECH 21><ACT 5><SCENE 2><96%>
+<ALICE>	<96%>
+	Your majesty entendre bettre que moy.
+</ALICE>
+
+<SPEECH 22><ACT 5><SCENE 2><96%>
+<ALICE>	<96%>
+	Ouy, vrayment.
+</ALICE>
+

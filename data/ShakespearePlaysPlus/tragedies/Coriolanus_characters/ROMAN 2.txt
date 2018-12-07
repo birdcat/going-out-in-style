@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 5><15%>
+<ROMAN 2>	<15%>
+	And I this.
+</ROMAN 2>
+

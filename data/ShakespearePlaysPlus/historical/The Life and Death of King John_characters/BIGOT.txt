@@ -1,0 +1,38 @@
+<SPEECH 1><ACT 4><SCENE 3><73%>
+<BIGOT>	<74%>
+	To-morrow morning let us meet him then.
+</BIGOT>
+
+<SPEECH 2><ACT 4><SCENE 3><74%>
+<BIGOT>	<75%>
+	Or when he doom'd this beauty to a grave,
+	Found it too precious-princely for a grave.
+</BIGOT>
+
+<SPEECH 3><ACT 4><SCENE 3><76%>
+<BIGOT>	<76%>
+	Our souls religiously confirm thy words.
+
+</BIGOT>
+
+<SPEECH 4><ACT 4><SCENE 3><76%>
+<BIGOT>	<77%>
+	Out, dunghill! dar'st thou brave a nobleman?
+</BIGOT>
+
+<SPEECH 5><ACT 4><SCENE 3><77%>
+<BIGOT>	<77%>
+	What wilt thou do, renowned Faulconbridge?
+	Second a villain and a murderer?
+</BIGOT>
+
+<SPEECH 6><ACT 4><SCENE 3><77%>
+<BIGOT>	<77%>
+	Who kill'd this prince?
+</BIGOT>
+
+<SPEECH 7><ACT 4><SCENE 3><77%>
+<BIGOT>	<78%>
+	Away toward Bury; to the Dauphin there!
+</BIGOT>
+

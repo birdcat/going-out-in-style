@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 1><62%>
+<PIRATE 1>	<63%>
+	Hold, villain!
+</PIRATE 1>
+
+<SPEECH 2><ACT 4><SCENE 2><64%>
+<PIRATE 1>	<65%>
+	O! sir, we doubt it not.
+</PIRATE 1>
+

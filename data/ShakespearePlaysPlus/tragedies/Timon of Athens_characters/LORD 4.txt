@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 3><SCENE 6><59%>
+<LORD 4>	<58%>
+	I have lost my gown.
+</LORD 4>
+
+<SPEECH 2><ACT 3><SCENE 6><59%>
+<LORD 4>	<58%>
+	Here lies my gown.
+</LORD 4>
+
+<SPEECH 3><ACT 3><SCENE 6><59%>
+<LORD 4>	<59%>
+	One day he gives us diamonds, next day stones.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</LORD 4>
+

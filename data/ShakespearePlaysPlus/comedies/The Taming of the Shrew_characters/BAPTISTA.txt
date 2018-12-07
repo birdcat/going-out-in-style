@@ -1,0 +1,471 @@
+<SPEECH 1><ACT 1><SCENE 1><12%>
+<BAPTISTA>	<13%>
+	Gentlemen, importune me no further,
+	For how I firmly am resolv'd you know;
+	That is, not to bestow my youngest daughter
+	Before I have a husband for the elder.
+	If either of you both love Katharina,
+	Because I know you well and love you well,
+	Leave shall you have to court her at your pleasure.
+</BAPTISTA>
+
+<SPEECH 2><ACT 1><SCENE 1><12%>
+<BAPTISTA>	<14%>
+	Gentlemen, that I may soon make good
+	What I have said,—Bianca, get you in:
+	And let it not displease thee, good Bianca,
+	For I will love thee ne'er the less, my girl.
+</BAPTISTA>
+
+<SPEECH 3><ACT 1><SCENE 1><13%>
+<BAPTISTA>	<14%>
+	Gentlemen, content ye; I am resolv'd.
+	Go in, Bianca.
+<STAGE DIR>
+<Exit Bianca.>
+</STAGE DIR>
+	And for I know she taketh most delight
+	In music, instruments, and poetry,
+	Schoolmasters will I keep within my house,
+	Fit to instruct her youth. If you, Hortensio,
+	Or Signior Gremio, you, know any such,
+	Prefer them hither; for to cunning men
+	I will be very kind, and liberal
+	To mine own children in good bringing up;
+	And so, farewell. Katharina, you may stay;
+	For I have more to commune with Bianca.
+</BAPTISTA>
+
+<SPEECH 4><ACT 2><SCENE 1><30%>
+<BAPTISTA>	<32%>
+	Why, how now, dame! whence grows this insolence?
+	Bianca, stand aside. Poor girl! she weeps.
+	Go ply thy needle; meddle not with her.
+	For shame, thou hilding of a devilish spirit,
+	Why dost thou wrong her that did ne'er wrong thee?
+	When did she cross thee with a bitter word?
+</BAPTISTA>
+
+<SPEECH 5><ACT 2><SCENE 1><30%>
+<BAPTISTA>	<32%>
+	What! in my sight? Bianca, get thee in.
+</BAPTISTA>
+
+<SPEECH 6><ACT 2><SCENE 1><31%>
+<BAPTISTA>	<32%>
+	Was ever gentleman thus griev'd as I?
+	But who comes here?
+
+</BAPTISTA>
+
+<SPEECH 7><ACT 2><SCENE 1><31%>
+<BAPTISTA>	<33%>
+	Good morrow, neighbour Gremio. God save you, gentlemen!
+</BAPTISTA>
+
+<SPEECH 8><ACT 2><SCENE 1><31%>
+<BAPTISTA>	<33%>
+	I have a daughter, sir, call'd Katharina.
+</BAPTISTA>
+
+<SPEECH 9><ACT 2><SCENE 1><32%>
+<BAPTISTA>	<33%>
+	You're welcome, sir; and he, for your good sake.
+	But for my daughter Katharine, this I know,
+	She is not for your turn, the more my grief.
+</BAPTISTA>
+
+<SPEECH 10><ACT 2><SCENE 1><32%>
+<BAPTISTA>	<34%>
+	Mistake me not; I speak but as I find.
+	Whence are you, sir? what may I call your name?
+</BAPTISTA>
+
+<SPEECH 11><ACT 2><SCENE 1><32%>
+<BAPTISTA>	<34%>
+	I know him well: you are welcome for his sake.
+</BAPTISTA>
+
+<SPEECH 12><ACT 2><SCENE 1><33%>
+<BAPTISTA>	<34%>
+	A thousand thanks, Signior Gremio; welcome, good Cambio.—<STAGE DIR>
+<To Tranio.>
+</STAGE DIR> But, gentle sir, methinks you walk like a stranger: may I be so bold to know the cause of your coming?
+</BAPTISTA>
+
+<SPEECH 13><ACT 2><SCENE 1><33%>
+<BAPTISTA>	<35%>
+	Lucentio is your name, of whence, I pray?
+</BAPTISTA>
+
+<SPEECH 14><ACT 2><SCENE 1><33%>
+<BAPTISTA>	<35%>
+	A mighty man of Pisa; by report
+	I know him well: you are very welcome, sir.
+<STAGE DIR>
+<To Hortensio.> 
+</STAGE DIR>
+	Take you the lute, 
+<STAGE DIR>
+<To Lucentio.>
+</STAGE DIR> 
+	and you the set of books;
+	You shall go see your pupils presently.
+	Holla, within!
+
+<STAGE DIR>
+<Enter a Servant.>
+</STAGE DIR>
+	Sirrah, lead these gentlemen
+	To my two daughters, and then tell them both
+	These are their tutors: bid them use them well.
+<STAGE DIR>
+<Exit Servant, with Hortensio, Lucentio, and Biondello.>
+</STAGE DIR>
+	We will go walk a little in the orchard,
+	And then to dinner. You are passing welcome,
+	And so I pray you all to think yourselves.
+</BAPTISTA>
+
+<SPEECH 15><ACT 2><SCENE 1><34%>
+<BAPTISTA>	<36%>
+	After my death the one half of my lands,
+	And in possession twenty thousand crowns.
+</BAPTISTA>
+
+<SPEECH 16><ACT 2><SCENE 1><34%>
+<BAPTISTA>	<36%>
+	Ay, when the special thing is well obtain'd,
+	That is, her love; for that is all in all.
+</BAPTISTA>
+
+<SPEECH 17><ACT 2><SCENE 1><35%>
+<BAPTISTA>	<36%>
+	Well mayst thou woo, and happy be thy speed!
+	But be thou arm'd for some unhappy words.
+</BAPTISTA>
+
+<SPEECH 18><ACT 2><SCENE 1><35%>
+<BAPTISTA>	<36%>
+	How now, my friend! why dost thou look so pale?
+</BAPTISTA>
+
+<SPEECH 19><ACT 2><SCENE 1><35%>
+<BAPTISTA>	<37%>
+	What, will my daughter prove a good musician?
+</BAPTISTA>
+
+<SPEECH 20><ACT 2><SCENE 1><35%>
+<BAPTISTA>	<37%>
+	Why, then thou canst not break her to the lute?
+</BAPTISTA>
+
+<SPEECH 21><ACT 2><SCENE 1><36%>
+<BAPTISTA>	<37%>
+<STAGE DIR>
+<To Hortensio.>
+</STAGE DIR> Well, go with me, and be not so discomfited:
+	Proceed in practice with my younger daughter;
+	She's apt to learn, and thankful for good turns.
+	Signior Petruchio, will you go with us,
+	Or shall I send my daughter Kate to you?
+</BAPTISTA>
+
+<SPEECH 22><ACT 2><SCENE 1><40%>
+<BAPTISTA>	<42%>
+	Now, Signior Petruchio, how speed you with my daughter?
+</BAPTISTA>
+
+<SPEECH 23><ACT 2><SCENE 1><41%>
+<BAPTISTA>	<42%>
+	Why, how now, daughter Katharine! in your dumps?
+</BAPTISTA>
+
+<SPEECH 24><ACT 2><SCENE 1><42%>
+<BAPTISTA>	<43%>
+	I know not what to say; but give me your hands.
+	God send you joy, Petruchio! 'tis a match.
+</BAPTISTA>
+
+<SPEECH 25><ACT 2><SCENE 1><42%>
+<BAPTISTA>	<43%>
+	Faith, gentlemen, now I play a merchant's part,
+	And venture madly on a desperate mart.
+</BAPTISTA>
+
+<SPEECH 26><ACT 2><SCENE 1><42%>
+<BAPTISTA>	<44%>
+	The gain I seek is, quiet in the match.
+</BAPTISTA>
+
+<SPEECH 27><ACT 2><SCENE 1><43%>
+<BAPTISTA>	<44%>
+	Content you, gentlemen; I'll compound this strife:
+	'Tis deeds must win the prize; and he, of both,
+	That can assure my daughter greatest dower
+	Shall have my Bianca's love.
+	Say, Signior Gremio, what can you assure her?
+</BAPTISTA>
+
+<SPEECH 28><ACT 2><SCENE 1><44%>
+<BAPTISTA>	<46%>
+	I must confess your offer is the best;
+	And, let your father make her the assurance,
+	She is your own; else, you must pardon me:
+	If you should die before him, where's her dower?
+</BAPTISTA>
+
+<SPEECH 29><ACT 2><SCENE 1><44%>
+<BAPTISTA>	<46%>
+	Well, gentlemen,
+	I am thus resolv'd. On Sunday next, you know,
+	My daughter Katharine is to be married:
+	Now, on the Sunday following, shall Bianca
+	Be bride to you, if you make this assurance;
+	If not, to Signior Gremio:
+	And so, I take my leave, and thank you both.
+</BAPTISTA>
+
+<SPEECH 30><ACT 3><SCENE 2><49%>
+<BAPTISTA>	<50%>
+<STAGE DIR>
+<To Tranio.>
+</STAGE DIR> Signior Lucentio, this is the 'pointed day
+	That Katharine and Petruchio should be married,
+	And yet we hear not of our son-in-law.
+	What will be said? what mockery will it be
+	To want the bridegroom when the priest attends
+	To speak the ceremonial rites of marriage!
+	What says Lucentio to this shame of ours?
+</BAPTISTA>
+
+<SPEECH 31><ACT 3><SCENE 2><50%>
+<BAPTISTA>	<51%>
+	Go, girl: I cannot blame thee now to weep,
+	For such an injury would vex a very saint,
+	Much more a shrew of thy impatient humour.
+
+</BAPTISTA>
+
+<SPEECH 32><ACT 3><SCENE 2><50%>
+<BAPTISTA>	<51%>
+	Is it new and old too? how may that be?
+</BAPTISTA>
+
+<SPEECH 33><ACT 3><SCENE 2><50%>
+<BAPTISTA>	<52%>
+	Is he come?
+</BAPTISTA>
+
+<SPEECH 34><ACT 3><SCENE 2><50%>
+<BAPTISTA>	<52%>
+	What then?
+</BAPTISTA>
+
+<SPEECH 35><ACT 3><SCENE 2><50%>
+<BAPTISTA>	<52%>
+	When will he be here?
+</BAPTISTA>
+
+<SPEECH 36><ACT 3><SCENE 2><51%>
+<BAPTISTA>	<53%>
+	Who comes with him?
+</BAPTISTA>
+
+<SPEECH 37><ACT 3><SCENE 2><51%>
+<BAPTISTA>	<53%>
+	I am glad he is come, howsoe'er he comes.
+</BAPTISTA>
+
+<SPEECH 38><ACT 3><SCENE 2><52%>
+<BAPTISTA>	<53%>
+	Didst thou not say he comes?
+</BAPTISTA>
+
+<SPEECH 39><ACT 3><SCENE 2><52%>
+<BAPTISTA>	<53%>
+	Ay, that Petruchio came.
+</BAPTISTA>
+
+<SPEECH 40><ACT 3><SCENE 2><52%>
+<BAPTISTA>	<53%>
+	Why, that's all one.
+</BAPTISTA>
+
+<SPEECH 41><ACT 3><SCENE 2><52%>
+<BAPTISTA>	<53%>
+	You are welcome, sir.
+</BAPTISTA>
+
+<SPEECH 42><ACT 3><SCENE 2><52%>
+<BAPTISTA>	<53%>
+	And yet you halt not.
+</BAPTISTA>
+
+<SPEECH 43><ACT 3><SCENE 2><52%>
+<BAPTISTA>	<54%>
+	Why, sir, you know this is your weddingday:
+	First were we sad, fearing you would not come;
+	Now sadder, that you come so unprovided.
+	Fie! doff this habit, shame to your estate,
+	An eye-sore to our solemn festival.
+</BAPTISTA>
+
+<SPEECH 44><ACT 3><SCENE 2><53%>
+<BAPTISTA>	<54%>
+	But thus, I trust, you will not marry her.
+</BAPTISTA>
+
+<SPEECH 45><ACT 3><SCENE 2><53%>
+<BAPTISTA>	<55%>
+	I'll after him, and see the event of this.
+</BAPTISTA>
+
+<SPEECH 46><ACT 3><SCENE 2><56%>
+<BAPTISTA>	<57%>
+	Is't possible you will away to-night?
+</BAPTISTA>
+
+<SPEECH 47><ACT 3><SCENE 2><57%>
+<BAPTISTA>	<59%>
+	Nay, let them go, a couple of quiet ones.
+</BAPTISTA>
+
+<SPEECH 48><ACT 3><SCENE 2><58%>
+<BAPTISTA>	<59%>
+	Neighbours and friends, though bride and bridegroom wants
+	For to supply the places at the table,
+	You know there wants no junkets at the feast.
+	Lucentio, you shall supply the bridegroom's place,
+	And let Bianca take her sister's room.
+</BAPTISTA>
+
+<SPEECH 49><ACT 3><SCENE 2><58%>
+<BAPTISTA>	<59%>
+	She shall, Lucentio. Come, gentlemen, let's go.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</BAPTISTA>
+
+<SPEECH 50><ACT 4><SCENE 4><79%>
+<BAPTISTA>	<81%>
+	Sir, pardon me in what I have to say:
+	Your plainness and your shortness please me well.
+	Right true it is, your son Lucentio here
+	Doth love my daughter and she loveth him,
+	Or both dissemble deeply their affections:
+	And therefore, if you say no more than this,
+	That like a father you will deal with him
+	And pass my daughter a sufficient dower,
+	The match is made, and all is done:
+	Your son shall have my daughter with consent.
+</BAPTISTA>
+
+<SPEECH 51><ACT 4><SCENE 4><80%>
+<BAPTISTA>	<81%>
+	Not in my house, Lucentio; for, you know,
+	Pitchers have ears, and I have many servants.
+	Besides, old Gremio is hearkening still,
+	And happily we might be interrupted.
+</BAPTISTA>
+
+<SPEECH 52><ACT 4><SCENE 4><80%>
+<BAPTISTA>	<82%>
+	It likes me well. Cambio, hie you home,
+	And bid Bianca make her ready straight;
+	And, if you will, tell what hath happened:
+	Lucentio's father is arriv'd in Padua,
+	And how she's like to be Lucentio's wife.
+</BAPTISTA>
+
+<SPEECH 53><ACT 4><SCENE 4><81%>
+<BAPTISTA>	<82%>
+	I follow you.
+</BAPTISTA>
+
+<SPEECH 54><ACT 5><SCENE 1><88%>
+<BAPTISTA>	<89%>
+	What, is the man lunatic?
+</BAPTISTA>
+
+<SPEECH 55><ACT 5><SCENE 1><88%>
+<BAPTISTA>	<89%>
+	You mistake, sir, you mistake, sir. Pray, what do you think is his name?
+</BAPTISTA>
+
+<SPEECH 56><ACT 5><SCENE 1><89%>
+<BAPTISTA>	<90%>
+	Talk not, Signior Gremio: I say he shall go to prison.
+</BAPTISTA>
+
+<SPEECH 57><ACT 5><SCENE 1><89%>
+<BAPTISTA>	<90%>
+	Away with the dotard! to the gaol with him!
+</BAPTISTA>
+
+<SPEECH 58><ACT 5><SCENE 1><90%>
+<BAPTISTA>	<91%>
+	How hast thou offended?
+	Where is Lucentio?
+</BAPTISTA>
+
+<SPEECH 59><ACT 5><SCENE 1><90%>
+<BAPTISTA>	<91%>
+	Why, tell me, is not this my Cambio?
+</BAPTISTA>
+
+<SPEECH 60><ACT 5><SCENE 1><90%>
+<BAPTISTA>	<91%>
+<STAGE DIR>
+<To Lucentio.>
+</STAGE DIR> But do you hear, sir?
+	Have you married my daughter without asking my good will?
+</BAPTISTA>
+
+<SPEECH 61><ACT 5><SCENE 1><91%>
+<BAPTISTA>	<92%>
+	And I, to sound the depth of this knavery.
+</BAPTISTA>
+
+<SPEECH 62><ACT 5><SCENE 2><92%>
+<BAPTISTA>	<93%>
+	Padua affords this kindness, son Petruchio.
+</BAPTISTA>
+
+<SPEECH 63><ACT 5><SCENE 2><93%>
+<BAPTISTA>	<94%>
+	How likes Gremio these quick-witted folks?
+</BAPTISTA>
+
+<SPEECH 64><ACT 5><SCENE 2><94%>
+<BAPTISTA>	<95%>
+	O ho, Petruchio! Tranio hits you now.
+</BAPTISTA>
+
+<SPEECH 65><ACT 5><SCENE 2><94%>
+<BAPTISTA>	<95%>
+	Now, in good sadness, son Petruchio,
+	I think thou hast the veriest shrew of all.
+</BAPTISTA>
+
+<SPEECH 66><ACT 5><SCENE 2><95%>
+<BAPTISTA>	<95%>
+	Son, I will be your half, Bianca comes.
+</BAPTISTA>
+
+<SPEECH 67><ACT 5><SCENE 2><96%>
+<BAPTISTA>	<96%>
+	Now, by my holidame, here comes Katharina!
+</BAPTISTA>
+
+<SPEECH 68><ACT 5><SCENE 2><97%>
+<BAPTISTA>	<97%>
+	Now fair befall thee, good Petruchio!
+	The wager thou hast won; and I will add
+	Unto their losses twenty thousand crowns;
+	Another dowry to another daughter,
+	For she is chang'd, as she had never been.
+</BAPTISTA>
+

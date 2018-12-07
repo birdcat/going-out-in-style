@@ -1,0 +1,55 @@
+<SPEECH 1><ACT 2><SCENE 1><21%>
+<FISHERMAN 2>	<23%>
+	Ha! come and bring away the nets.
+</FISHERMAN 2>
+
+<SPEECH 2><ACT 2><SCENE 1><23%>
+<FISHERMAN 2>	<24%>
+	Why, man?
+</FISHERMAN 2>
+
+<SPEECH 3><ACT 2><SCENE 1><23%>
+<FISHERMAN 2>	<25%>
+	Honest! good fellow, what's that? if it be a day fits you, search out of the calendar, and nobody look after it.
+</FISHERMAN 2>
+
+<SPEECH 4><ACT 2><SCENE 1><23%>
+<FISHERMAN 2>	<25%>
+	What a drunken knave was the sea, to cast thee in our way!
+</FISHERMAN 2>
+
+<SPEECH 5><ACT 2><SCENE 1><24%>
+<FISHERMAN 2>	<25%>
+	Canst thou catch any fishes then?
+</FISHERMAN 2>
+
+<SPEECH 6><ACT 2><SCENE 1><24%>
+<FISHERMAN 2>	<25%>
+	Nay then thou wilt starve, sure; for here's nothing to be got now-a-days unless thou canst fish for 't.
+</FISHERMAN 2>
+
+<SPEECH 7><ACT 2><SCENE 1><25%>
+<FISHERMAN 2>	<26%>
+	But crave! Then I'll turn craver too, and so I shall 'scape whipping.
+</FISHERMAN 2>
+
+<SPEECH 8><ACT 2><SCENE 1><25%>
+<FISHERMAN 2>	<26%>
+	O! not all, my friend, not all; for if all your beggars were whipped, I would wish no better office than to be beadle. But, master, I'll go draw up the net.
+</FISHERMAN 2>
+
+<SPEECH 9><ACT 2><SCENE 1><26%>
+<FISHERMAN 2>	<27%>
+	Help, master, help! here's a fish hangs in the net, like a poor man's right in the law; 'twill hardly come out. Ha! bots on 't, 'tis come at last, and 'tis turned to a rusty armour.
+</FISHERMAN 2>
+
+<SPEECH 10><ACT 2><SCENE 1><27%>
+<FISHERMAN 2>	<29%>
+	Ay, but hark you, my friend; 'twas we that made up this garment through the rough seams of the water; there are certain condolements, certain vails. I hope, sir, if you thrive, you'll remember from whence you had it.
+</FISHERMAN 2>
+
+<SPEECH 11><ACT 2><SCENE 1><28%>
+<FISHERMAN 2>	<29%>
+	We'll sure provide; thou shalt have my best gown to make thee a pair, and I'll bring thee to the court myself.
+</FISHERMAN 2>
+

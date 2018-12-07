@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 2><SCENE 4><39%>
+<CRIER>	<39%>
+	Henry King of England, come into the court.
+</CRIER>
+
+<SPEECH 2><ACT 2><SCENE 4><39%>
+<CRIER>	<39%>
+	Katharine Queen of England, come into the court.
+</CRIER>
+
+<SPEECH 3><ACT 2><SCENE 4><43%>
+<CRIER>	<43%>
+	Katharine Queen of England, come into the court.
+</CRIER>
+

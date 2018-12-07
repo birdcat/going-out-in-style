@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 4><SCENE 2><71%>
+<MICHAEL>	<71%>
+	Where's our general?
+</MICHAEL>
+
+<SPEECH 2><ACT 4><SCENE 2><71%>
+<MICHAEL>	<71%>
+	Fly, fly, fly! Sir Humphrey Stafford and his brother are hard by, with the king's forces.
+</MICHAEL>
+
+<SPEECH 3><ACT 4><SCENE 2><71%>
+<MICHAEL>	<72%>
+	No.
+</MICHAEL>
+

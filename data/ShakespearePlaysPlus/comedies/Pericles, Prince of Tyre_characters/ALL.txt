@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 1><SCENE 4><19%>
+<ALL>	<20%>
+	The gods of Greece protect you!
+	And we'll pray for you.
+</ALL>
+
+<SPEECH 2><ACT 2><SCENE 4><38%>
+<ALL>	<39%>
+	Live, noble Helicane!
+</ALL>
+

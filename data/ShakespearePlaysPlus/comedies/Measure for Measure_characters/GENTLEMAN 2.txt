@@ -1,0 +1,45 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+<GENTLEMAN 2>	<4%>
+	Amen.
+</GENTLEMAN 2>
+
+<SPEECH 2><ACT 1><SCENE 2><3%>
+<GENTLEMAN 2>	<4%>
+	'Thou shalt not steal?'
+</GENTLEMAN 2>
+
+<SPEECH 3><ACT 1><SCENE 2><3%>
+<GENTLEMAN 2>	<4%>
+	I never heard any soldier dislike it.
+</GENTLEMAN 2>
+
+<SPEECH 4><ACT 1><SCENE 2><3%>
+<GENTLEMAN 2>	<4%>
+	No? a dozen times at least.
+</GENTLEMAN 2>
+
+<SPEECH 5><ACT 1><SCENE 2><4%>
+<GENTLEMAN 2>	<5%>
+	Yes, that thou hast, whether thou art tainted or free.
+</GENTLEMAN 2>
+
+<SPEECH 6><ACT 1><SCENE 2><4%>
+<GENTLEMAN 2>	<5%>
+	To what, I pray?
+</GENTLEMAN 2>
+
+<SPEECH 7><ACT 1><SCENE 2><4%>
+<GENTLEMAN 2>	<5%>
+	To three thousand dolours a year.
+</GENTLEMAN 2>
+
+<SPEECH 8><ACT 1><SCENE 2><5%>
+<GENTLEMAN 2>	<5%>
+	Who's that, I pray thee?
+</GENTLEMAN 2>
+
+<SPEECH 9><ACT 1><SCENE 2><5%>
+<GENTLEMAN 2>	<6%>
+	Besides, you know, it draws something near to the speech we had to such a purpose.
+</GENTLEMAN 2>
+

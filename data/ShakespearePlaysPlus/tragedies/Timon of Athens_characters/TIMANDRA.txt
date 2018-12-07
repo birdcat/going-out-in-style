@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 4><SCENE 3><66%>
+<TIMANDRA>	<66%>
+	Is this the Athenian minion, whom the world
+	Voic'd so regardfully?
+</TIMANDRA>
+
+<SPEECH 2><ACT 4><SCENE 3><66%>
+<TIMANDRA>	<66%>
+	Yes.
+</TIMANDRA>
+
+<SPEECH 3><ACT 4><SCENE 3><66%>
+<TIMANDRA>	<66%>
+	Hang thee, monster!
+</TIMANDRA>
+
+<SPEECH 4><ACT 4><SCENE 3><68%>
+<TIMANDRA>	<68%>
+	Give us some gold, good Timon: hast thou more?
+</TIMANDRA>
+
+<SPEECH 5><ACT 4><SCENE 3><69%>
+<TIMANDRA>	<69%>
+	Well, more gold. What then?
+	Believe't, that we'll do anything for gold.
+</TIMANDRA>
+
+<SPEECH 6><ACT 4><SCENE 3><70%>
+<TIMANDRA>	<70%>
+	More counsel with more money, bounteous Timon.
+</TIMANDRA>
+

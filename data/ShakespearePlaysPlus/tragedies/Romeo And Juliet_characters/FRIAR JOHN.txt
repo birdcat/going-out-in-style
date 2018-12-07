@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 5><SCENE 2><88%>
+<FRIAR JOHN>	<88%>
+	Holy Franciscan friar! brother, ho!
+
+</FRIAR JOHN>
+
+<SPEECH 2><ACT 5><SCENE 2><88%>
+<FRIAR JOHN>	<88%>
+	Going to find a bare-foot brother out,
+	One of our order, to associate me,
+	Here in this city visiting the sick,
+	And finding him, the searchers of the town,
+	Suspecting that we both were in a house
+	Where the infectious pestilence did reign,
+	Seal'd up the doors, and would not let us forth;
+	So that my speed to Mantua there was stay'd.
+</FRIAR JOHN>
+
+<SPEECH 3><ACT 5><SCENE 2><88%>
+<FRIAR JOHN>	<89%>
+	I could not send it, here it is again,
+	Nor get a messenger to bring it thee,
+	So fearful were they of infection.
+</FRIAR JOHN>
+
+<SPEECH 4><ACT 5><SCENE 2><89%>
+<FRIAR JOHN>	<89%>
+	Brother, I'll go and bring it thee.
+</FRIAR JOHN>
+

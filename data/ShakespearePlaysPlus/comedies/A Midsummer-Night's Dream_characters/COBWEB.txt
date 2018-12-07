@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 3><SCENE 1><43%>
+<COBWEB>	<44%>
+	And I.
+</COBWEB>
+
+<SPEECH 2><ACT 3><SCENE 1><44%>
+<COBWEB>	<45%>
+	Hail!
+</COBWEB>
+
+<SPEECH 3><ACT 3><SCENE 1><44%>
+<COBWEB>	<45%>
+	Cobweb.
+</COBWEB>
+
+<SPEECH 4><ACT 4><SCENE 1><68%>
+<COBWEB>	<68%>
+	Ready.
+</COBWEB>
+

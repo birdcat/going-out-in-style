@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 3><SCENE 7><63%>
+<SERVANT 1>	<64%>
+	Hold your hand, my lord:
+	I have serv'd you ever since I was a child,
+	But better service have I never done you
+	Than now to bid you hold.
+</SERVANT 1>
+
+<SPEECH 2><ACT 3><SCENE 7><63%>
+<SERVANT 1>	<64%>
+	If you did wear a beard upon your chin,
+	I'd shake it on this quarrel. What do you mean?
+</SERVANT 1>
+
+<SPEECH 3><ACT 3><SCENE 7><63%>
+<SERVANT 1>	<64%>
+	Nay then, come on, and take the chance of anger.
+</SERVANT 1>
+
+<SPEECH 4><ACT 3><SCENE 7><63%>
+<SERVANT 1>	<64%>
+	O! I am slain. My lord, you have one eye left
+	To see some mischief on him. O!
+</SERVANT 1>
+

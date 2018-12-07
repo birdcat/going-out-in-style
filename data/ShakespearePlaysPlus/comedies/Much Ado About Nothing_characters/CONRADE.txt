@@ -1,0 +1,115 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+<CONRADE>	<13%>
+	What the good-year, my lord! why are you thus out of measure sad?
+</CONRADE>
+
+<SPEECH 2><ACT 1><SCENE 3><12%>
+<CONRADE>	<13%>
+	You should hear reason.
+</CONRADE>
+
+<SPEECH 3><ACT 1><SCENE 3><12%>
+<CONRADE>	<13%>
+	It not a present remedy, at least a patient sufferance.
+</CONRADE>
+
+<SPEECH 4><ACT 1><SCENE 3><13%>
+<CONRADE>	<13%>
+	Yea; but you must not make the full show of this till you may do it without controlment. You have of late stood out against your brother, and he hath ta'en you newly into his grace; where it is impossible you should take true root but by the fair weather that you make yourself: it is needful that you frame the season for your own harvest.
+</CONRADE>
+
+<SPEECH 5><ACT 1><SCENE 3><13%>
+<CONRADE>	<14%>
+	Can you make no use of your discontent?
+</CONRADE>
+
+<SPEECH 6><ACT 1><SCENE 3><14%>
+<CONRADE>	<15%>
+	To the death, my lord.
+</CONRADE>
+
+<SPEECH 7><ACT 3><SCENE 3><53%>
+<CONRADE>	<54%>
+	Here, man, I am at thy elbow.
+</CONRADE>
+
+<SPEECH 8><ACT 3><SCENE 3><53%>
+<CONRADE>	<54%>
+	I will owe thee an answer for that; and now forward with thy tale.
+</CONRADE>
+
+<SPEECH 9><ACT 3><SCENE 3><53%>
+<CONRADE>	<54%>
+	Is it possible that any villany should be so dear?
+</CONRADE>
+
+<SPEECH 10><ACT 3><SCENE 3><53%>
+<CONRADE>	<54%>
+	I wonder at it.
+</CONRADE>
+
+<SPEECH 11><ACT 3><SCENE 3><53%>
+<CONRADE>	<54%>
+	Yes, it is apparel.
+</CONRADE>
+
+<SPEECH 12><ACT 3><SCENE 3><54%>
+<CONRADE>	<54%>
+	Yes, the fashion is the fashion.
+</CONRADE>
+
+<SPEECH 13><ACT 3><SCENE 3><54%>
+<CONRADE>	<55%>
+	No: 'twas the vane on the house.
+</CONRADE>
+
+<SPEECH 14><ACT 3><SCENE 3><54%>
+<CONRADE>	<55%>
+	All this I see, and I see that the fashion wears out more apparel than the man. But art not thou thyself giddy with the fashion too, that thou hast shifted out of thy tale into telling me of the fashion?
+</CONRADE>
+
+<SPEECH 15><ACT 3><SCENE 3><55%>
+<CONRADE>	<56%>
+	And thought they Margaret was Hero?
+</CONRADE>
+
+<SPEECH 16><ACT 3><SCENE 3><55%>
+<CONRADE>	<56%>
+	Masters, masters!
+</CONRADE>
+
+<SPEECH 17><ACT 3><SCENE 3><55%>
+<CONRADE>	<56%>
+	Masters,—
+</CONRADE>
+
+<SPEECH 18><ACT 3><SCENE 3><56%>
+<CONRADE>	<56%>
+	A commodity in question, I warrant you. Come, we'll obey you.
+</CONRADE>
+
+<SPEECH 19><ACT 4><SCENE 2><74%>
+<CONRADE>	<75%>
+	I am a gentleman, sir, and my name is Conrade.
+</CONRADE>
+
+<SPEECH 20><ACT 4><SCENE 2><74%>
+<CONRADE>	<75%>
+	Yea, sir, we hope.
+</CONRADE>
+
+<SPEECH 21><ACT 4><SCENE 2><75%>
+<CONRADE>	<75%>
+	Marry, sir, we say we are none.
+</CONRADE>
+
+<SPEECH 22><ACT 4><SCENE 2><76%>
+<CONRADE>	<77%>
+	Off, coxcomb!
+</CONRADE>
+
+<SPEECH 23><ACT 4><SCENE 2><76%>
+<CONRADE>	<77%>
+	Away! you are an ass; you are an ass.
+</CONRADE>
+

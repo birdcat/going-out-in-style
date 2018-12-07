@@ -1,0 +1,57 @@
+<SPEECH 1><ACT 4><SCENE 1><63%>
+<HASTINGS>	<64%>
+	Why, knows not Montague, that of itself
+	England is safe, if true within itself?
+</HASTINGS>
+
+<SPEECH 2><ACT 4><SCENE 1><63%>
+<HASTINGS>	<64%>
+	'Tis better using France than trusting France:
+	Let us be back'd with God and with the seas
+	Which he hath given for fence impregnable,
+	And with their helps only defend ourselves:
+	In them and in ourselves our safety lies.
+</HASTINGS>
+
+<SPEECH 3><ACT 4><SCENE 1><67%>
+<HASTINGS>	<67%>
+	And Hastings as he favours Edward's cause!
+</HASTINGS>
+
+<SPEECH 4><ACT 4><SCENE 5><72%>
+<HASTINGS>	<73%>
+	To Lynn, my lord; and ship from thence to Flanders.
+</HASTINGS>
+
+<SPEECH 5><ACT 4><SCENE 7><77%>
+<HASTINGS>	<77%>
+	My liege, I'll knock once more to summon them.
+
+</HASTINGS>
+
+<SPEECH 6><ACT 4><SCENE 7><77%>
+<HASTINGS>	<78%>
+	Why, Master Mayor, why stand you in a doubt?
+	Open the gates; we are King Henry's friends.
+</HASTINGS>
+
+<SPEECH 7><ACT 4><SCENE 7><77%>
+<HASTINGS>	<78%>
+	The good old man would fain that all were well,
+	So 'twere not 'long of him; but being enter'd,
+	I doubt not, I, but we shall soon persuade
+	Both him and all his brothers unto reason.
+
+</HASTINGS>
+
+<SPEECH 8><ACT 4><SCENE 7><79%>
+<HASTINGS>	<79%>
+	Away with scrupulous wit! now arms must rule.
+</HASTINGS>
+
+<SPEECH 9><ACT 4><SCENE 7><79%>
+<HASTINGS>	<79%>
+	Sound, trumpet! Edward shall be here proclaim'd;
+	Come, fellow soldier, make thou proclamation.
+</HASTINGS>
+

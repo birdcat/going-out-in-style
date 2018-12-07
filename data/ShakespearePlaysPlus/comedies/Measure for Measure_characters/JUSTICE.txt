@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+<JUSTICE>	<25%>
+	Eleven, sir.
+</JUSTICE>
+
+<SPEECH 2><ACT 2><SCENE 1><24%>
+<JUSTICE>	<25%>
+	I humbly thank you.
+</JUSTICE>
+
+<SPEECH 3><ACT 2><SCENE 1><25%>
+<JUSTICE>	<25%>
+	Lord Angelo is severe.
+</JUSTICE>
+

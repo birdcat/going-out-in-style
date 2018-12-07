@@ -1,0 +1,34 @@
+<SPEECH 1><ACT 2><SCENE 2><25%>
+<PETO>	<25%>
+	How many be there of them?
+</PETO>
+
+<SPEECH 2><ACT 2><SCENE 4><36%>
+<PETO>	<37%>
+	No, no, they were not bound.
+</PETO>
+
+<SPEECH 3><ACT 2><SCENE 4><41%>
+<PETO>	<41%>
+	Why he hacked it with his dagger, and said he would swear truth out of England but he would make you believe it was done in fight, and persuaded us to do the like.
+</PETO>
+
+<SPEECH 4><ACT 2><SCENE 4><48%>
+<PETO>	<48%>
+	Falstaff! fast asleep behind the arras, and snorting like a horse.
+</PETO>
+
+<SPEECH 5><ACT 2><SCENE 4><48%>
+<PETO>	<49%>
+	Nothing but papers, my lord.
+</PETO>
+
+<SPEECH 6><ACT 2><SCENE 4><49%>
+<PETO>	<49%>
+	Good morrow, good my lord.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</PETO>
+

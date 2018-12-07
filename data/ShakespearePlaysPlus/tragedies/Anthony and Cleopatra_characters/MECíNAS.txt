@@ -1,0 +1,105 @@
+<SPEECH 1><ACT 2><SCENE 2><21%>
+<MECÆNAS>	<21%>
+	If it might please you, to enforce no further
+	The griefs between ye: to forget them quite
+	Were to remember that the present need
+	Speaks to atone you.
+</MECÆNAS>
+
+<SPEECH 2><ACT 2><SCENE 2><23%>
+<MECÆNAS>	<23%>
+	Welcome from Egypt, sir.
+</MECÆNAS>
+
+<SPEECH 3><ACT 2><SCENE 2><23%>
+<MECÆNAS>	<24%>
+	We have cause to be glad that matters are so well digested. You stayed well by 't in
+	Egypt.
+</MECÆNAS>
+
+<SPEECH 4><ACT 2><SCENE 2><23%>
+<MECÆNAS>	<24%>
+	Eight wild boars roasted whole at a breakfast, and but twelve persons there; is this true?
+</MECÆNAS>
+
+<SPEECH 5><ACT 2><SCENE 2><23%>
+<MECÆNAS>	<24%>
+	She's a most triumphant lady, if report be square to her.
+</MECÆNAS>
+
+<SPEECH 6><ACT 2><SCENE 2><25%>
+<MECÆNAS>	<25%>
+	Now Antony must leave her utterly.
+</MECÆNAS>
+
+<SPEECH 7><ACT 2><SCENE 2><25%>
+<MECÆNAS>	<25%>
+	If beauty, wisdom, modesty, can settle
+	The heart of Antony, Octavia is
+	A blessed lottery to him.
+</MECÆNAS>
+
+<SPEECH 8><ACT 2><SCENE 4><27%>
+<MECÆNAS>	<27%>
+	We shall,
+	As I conceive the journey, be at the Mount
+	Before you, Lepidus.
+</MECÆNAS>
+
+<SPEECH 9><ACT 2><SCENE 4><27%>
+<MECÆNAS>	<27%>
+	Sir, good success!
+</MECÆNAS>
+
+<SPEECH 10><ACT 3><SCENE 6><48%>
+<MECÆNAS>	<48%>
+	This in the public eye?
+</MECÆNAS>
+
+<SPEECH 11><ACT 3><SCENE 6><48%>
+<MECÆNAS>	<48%>
+	Let Rome be thus
+	Informed.
+</MECÆNAS>
+
+<SPEECH 12><ACT 3><SCENE 6><49%>
+<MECÆNAS>	<49%>
+	He'll never yield to that.
+</MECÆNAS>
+
+<SPEECH 13><ACT 3><SCENE 6><50%>
+<MECÆNAS>	<50%>
+	Welcome, dear madam.
+	Each heart in Rome does love and pity you;
+	Only the adulterous Antony, most large
+	In his abominations, turns you off,
+	And gives his potent regiment to a trull,
+	That noises it against us.
+</MECÆNAS>
+
+<SPEECH 14><ACT 4><SCENE 1><65%>
+<MECÆNAS>	<65%>
+	Cæsar must think,
+	When one so great begins to rage, he's hunted
+	Even to falling. Give him no breath, but now
+	Make boot of his distraction: never anger
+	Made good guard for itself.
+</MECÆNAS>
+
+<SPEECH 15><ACT 5><SCENE 1><86%>
+<MECÆNAS>	<86%>
+	His taints and honours
+	Wag'd equal with him.
+</MECÆNAS>
+
+<SPEECH 16><ACT 5><SCENE 1><86%>
+<MECÆNAS>	<86%>
+	When such a spacious mirror's set before him,
+	He needs must see himself.
+</MECÆNAS>
+
+<SPEECH 17><ACT 5><SCENE 1><87%>
+<MECÆNAS>	<88%>
+	Dolabella!
+</MECÆNAS>
+

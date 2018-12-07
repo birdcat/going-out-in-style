@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 3><SCENE 5><53%>
+<SENATOR 3>	<52%>
+	What!
+</SENATOR 3>
+
+<SPEECH 2><ACT 5><SCENE 2><95%>
+<SENATOR 3>	<95%>
+	No talk of Timon, nothing of him expect.
+	The enemies' drum is heard, and fearful scouring
+	Doth choke the air with dust. In, and prepare:
+	Ours is the fall, I fear; our foes the snare.
+</SENATOR 3>
+

@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 2><SCENE 1><19%>
+<OSTLER>	<20%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Anon, anon.
+</OSTLER>
+

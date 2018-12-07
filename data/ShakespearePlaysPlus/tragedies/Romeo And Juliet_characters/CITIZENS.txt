@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+<CITIZENS>	<3%>
+	Clubs, bills, and partisans! strike! beat them down!
+	Down with the Capulets! down with the Montagues!
+
+</CITIZENS>
+

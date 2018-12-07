@@ -1,0 +1,318 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+<CÆSAR>	<4%>
+	Calphurnia!
+</CÆSAR>
+
+<SPEECH 2><ACT 1><SCENE 2><3%>
+<CÆSAR>	<4%>
+	Calphurnia!
+</CÆSAR>
+
+<SPEECH 3><ACT 1><SCENE 2><3%>
+<CÆSAR>	<4%>
+	Stand you directly in Antonius' way
+	When he doth run his course. Antonius!
+</CÆSAR>
+
+<SPEECH 4><ACT 1><SCENE 2><3%>
+<CÆSAR>	<4%>
+	Forget not, in your speed, Antonius,
+	To touch Calphurnia; for our elders say,
+	The barren, touched in this holy chase,
+	Shake off their sterile curse.
+</CÆSAR>
+
+<SPEECH 5><ACT 1><SCENE 2><3%>
+<CÆSAR>	<4%>
+	Set on; and leave no ceremony out.
+</CÆSAR>
+
+<SPEECH 6><ACT 1><SCENE 2><3%>
+<CÆSAR>	<4%>
+	Ha! Who calls?
+</CÆSAR>
+
+<SPEECH 7><ACT 1><SCENE 2><4%>
+<CÆSAR>	<4%>
+	Who is it in the press that calls on me?
+	I hear a tongue, shriller than all the music,
+	Cry 'Cæsar.' Speak; Cæsar is turn'd to hear.
+</CÆSAR>
+
+<SPEECH 8><ACT 1><SCENE 2><4%>
+<CÆSAR>	<4%>
+	What man is that?
+</CÆSAR>
+
+<SPEECH 9><ACT 1><SCENE 2><4%>
+<CÆSAR>	<4%>
+	Set him before me; let me see his face.
+</CÆSAR>
+
+<SPEECH 10><ACT 1><SCENE 2><4%>
+<CÆSAR>	<4%>
+	What sayst thou to me now? Speak once again.
+</CÆSAR>
+
+<SPEECH 11><ACT 1><SCENE 2><4%>
+<CÆSAR>	<5%>
+	He is a dreamer; let us leave him: pass.
+</CÆSAR>
+
+<SPEECH 12><ACT 1><SCENE 2><10%>
+<CÆSAR>	<11%>
+	Antonius!
+</CÆSAR>
+
+<SPEECH 13><ACT 1><SCENE 2><10%>
+<CÆSAR>	<11%>
+	Let me have men about me that are fat;
+	Sleek-headed men and such as sleep o' nights.
+	Yond Cassius has a lean and hungry look;
+	He thinks too much: such men are dangerous:
+</CÆSAR>
+
+<SPEECH 14><ACT 1><SCENE 2><10%>
+<CÆSAR>	<11%>
+	Would he were fatter! but I fear him not:
+	Yet if my name were liable to fear,
+	I do not know the man I should avoid
+	So soon as that spare Cassius. He reads much;
+	He is a great observer, and he looks
+	Quite through the deeds of men; he loves no plays,
+	As thou dost, Antony; he hears no music;
+	Seldom he smiles, and smiles in such a sort
+	As if he mock'd himself, and scorn'd his spirit
+	That could be mov'd to smile at any thing.
+	Such men as he be never at heart's ease
+	Whiles they behold a greater than themselves,
+	And therefore are they very dangerous.
+	I rather tell thee what is to be fear'd
+	Than what I fear, for always I am Cæsar.
+	Come on my right hand, for this ear is deaf,
+	And tell me truly what thou think'st of him.
+</CÆSAR>
+
+<SPEECH 15><ACT 2><SCENE 2><34%>
+<CÆSAR>	<35%>
+	Nor heaven nor earth have been at peace to-night:
+	Thrice hath Calphurnia in her sleep cried out,
+	'Help, ho! They murder Cæsar!' Who's within?
+
+</CÆSAR>
+
+<SPEECH 16><ACT 2><SCENE 2><34%>
+<CÆSAR>	<36%>
+	Go bid the priests do present sacrifice,
+	And bring me their opinions of success.
+</CÆSAR>
+
+<SPEECH 17><ACT 2><SCENE 2><34%>
+<CÆSAR>	<36%>
+	Cæsar shall forth: the things that threaten'd me
+	Ne'er look'd but on my back; when they shall see
+	The face of Cæsar, they are vanished.
+</CÆSAR>
+
+<SPEECH 18><ACT 2><SCENE 2><35%>
+<CÆSAR>	<36%>
+	What can be avoided
+	Whose end is purpos'd by the mighty gods?
+	Yet Cæsar shall go forth; for these predictions
+	Are to the world in general as to Cæsar.
+</CÆSAR>
+
+<SPEECH 19><ACT 2><SCENE 2><35%>
+<CÆSAR>	<37%>
+	Cowards die many times before their deaths;
+	The valiant never taste of death but once.
+	Of all the wonders that I yet have heard,
+	It seems to me most strange that men should fear;
+	Seeing that death, a necessary end,
+	Will come when it will come.
+
+</CÆSAR>
+
+<SPEECH 20><ACT 2><SCENE 2><36%>
+<CÆSAR>	<37%>
+	The gods do this in shame of cowardice:
+	Cæsar should be a beast without a heart
+	If he should stay at home to-day for fear.
+	No, Cæsar shall not; danger knows full well
+	That Cæsar is more dangerous than he:
+	We are two lions litter'd in one day,
+	And I the elder and more terrible:
+	And Cæsar shall go forth.
+</CÆSAR>
+
+<SPEECH 21><ACT 2><SCENE 2><36%>
+<CÆSAR>	<37%>
+	Mark Antony shall say I am not well;
+	And, for thy humour, I will stay at home.
+
+</CÆSAR>
+
+<SPEECH 22><ACT 2><SCENE 2><36%>
+<CÆSAR>	<38%>
+	And you are come in very happy time
+	To bear my greeting to the senators,
+	And tell them that I will not come to-day:
+	Cannot, is false, and that I dare not, falser;
+	I will not come to-day: tell them so, Decius.
+</CÆSAR>
+
+<SPEECH 23><ACT 2><SCENE 2><36%>
+<CÆSAR>	<38%>
+	Shall Cæsar send a lie?
+	Have I in conquest stretch'd mine arm so far
+	To be afeard to tell greybeards the truth?
+	Decius, go tell them Cæsar will not come.
+</CÆSAR>
+
+<SPEECH 24><ACT 2><SCENE 2><37%>
+<CÆSAR>	<38%>
+	The cause is in my will: I will not come;
+	That is enough to satisfy the senate:
+	But for your private satisfaction,
+	Because I love you, I will let you know:
+	Calphurnia here, my wife, stays me at home:
+	She dreamt to-night she saw my statua,
+	Which, like a fountain with a hundred spouts,
+	Did run pure blood; and many lusty Romans
+	Came smiling, and did bathe their hands in it:
+	And these does she apply for warnings and portents,
+	And evils imminent; and on her knee
+	Hath begg'd that I will stay at home to-day.
+</CÆSAR>
+
+<SPEECH 25><ACT 2><SCENE 2><37%>
+<CÆSAR>	<39%>
+	And this way have you well expounded it.
+</CÆSAR>
+
+<SPEECH 26><ACT 2><SCENE 2><38%>
+<CÆSAR>	<39%>
+	How foolish do your fears seem now, Calphurnia!
+	I am ashamed I did yield to them.
+	Give me my robe, for I will go:
+
+</CÆSAR>
+
+<SPEECH 27><ACT 2><SCENE 2><38%>
+<CÆSAR>	<40%>
+	Welcome, Publius.
+	What! Brutus, are you stirr'd so early too?
+	Good morrow, Casca. Caius Ligarius,
+	Cæsar was ne'er so much your enemy
+	As that same ague which hath made you lean.
+	What is't o'clock?
+</CÆSAR>
+
+<SPEECH 28><ACT 2><SCENE 2><38%>
+<CÆSAR>	<40%>
+	I thank you for your pains and courtesy.
+
+<STAGE DIR>
+<Enter Antony.>
+</STAGE DIR>
+	See! Antony, that revels long o' nights,
+</CÆSAR>
+
+<SPEECH 29><ACT 2><SCENE 2><38%>
+<CÆSAR>	<40%>
+	Bid them prepare within:
+	I am to blame to be thus waited for.
+	Now, Cinna; now, Metellus; what, Trebonius!
+	I have an hour's talk in store for you;
+	Remember that you call on me to-day:
+	Be near me, that I may remember you.
+</CÆSAR>
+
+<SPEECH 30><ACT 2><SCENE 2><39%>
+<CÆSAR>	<40%>
+	Good friends, go in, and taste some wine with me;
+	And we, like friends, will straightway go together.
+</CÆSAR>
+
+<SPEECH 31><ACT 3><SCENE 1><42%>
+<CÆSAR>	<44%>
+<STAGE DIR>
+<To the Soothsayer.>
+</STAGE DIR> The idea of March are come.
+</CÆSAR>
+
+<SPEECH 32><ACT 3><SCENE 1><42%>
+<CÆSAR>	<44%>
+	What touches us ourself shall be last serv'd
+</CÆSAR>
+
+<SPEECH 33><ACT 3><SCENE 1><42%>
+<CÆSAR>	<44%>
+	What! is the fellow mad?
+</CÆSAR>
+
+<SPEECH 34><ACT 3><SCENE 1><42%>
+<CÆSAR>	<44%>
+	What! urge you your petitions in the street?
+	Come to the Capitol.
+
+</CÆSAR>
+
+<SPEECH 35><ACT 3><SCENE 1><44%>
+<CÆSAR>	<45%>
+	I must prevent thee, Cimber.
+	These couchings and these lowly courtesies,
+	Might fire the blood of ordinary men,
+	And turn pre-ordinance and first decree
+	Into the law of children. Be not fond,
+	To think that Cæsar bears such rebel blood
+	That will be thaw'd from the true quality
+	With that which melteth fools; I mean sweet words,
+	Low-crooked curtsies, and base spaniel fawning.
+	Thy brother by decree is banished:
+	If thou dost bend and pray and fawn for him,
+	I spurn thee like a cur out of my way.
+	Know, Cæsar doth not wrong, nor without cause
+	Will he be satisfied.
+</CÆSAR>
+
+<SPEECH 36><ACT 3><SCENE 1><44%>
+<CÆSAR>	<46%>
+	What, Brutus!
+</CÆSAR>
+
+<SPEECH 37><ACT 3><SCENE 1><45%>
+<CÆSAR>	<46%>
+	I could be well mov'd if I were as you;
+	If I could pray to move, prayers would move me;
+	But I am constant as the northern star,
+	Of whose true-fix'd and resting quality
+	There is no fellow in the firmament.
+	The skies are painted with unnumber'd sparks,
+	They are all fire and every one doth shine,
+	But there's but one in all doth hold his place:
+	So, in the world; 'tis furnish'd well with men,
+	And men are flesh and blood, and apprehensive;
+	Yet in the number I do know but one
+	That unassailable holds on his rank,
+	Unshak'd of motion: and that I am he,
+	Let me a little show it, even in this,
+	That I was constant Cimber should be banish'd,
+	And constant do remain to keep him so.
+</CÆSAR>
+
+<SPEECH 38><ACT 3><SCENE 1><45%>
+<CÆSAR>	<47%>
+	Hence! Wilt thou lift up Olympus!
+</CÆSAR>
+
+<SPEECH 39><ACT 3><SCENE 1><45%>
+<CÆSAR>	<47%>
+	Doth not Brutus bootless kneel?
+</CÆSAR>
+
+<SPEECH 40><ACT 3><SCENE 1><45%>
+<CÆSAR>	<47%>
+	Et tu, Brute? Then fall, Cæsar!
+</CÆSAR>
+

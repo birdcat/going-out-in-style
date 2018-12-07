@@ -1,0 +1,58 @@
+<SPEECH 1><ACT 4><SCENE 1><51%>
+<OFFICER>	<52%>
+	That labour may you save: see where he comes.
+</OFFICER>
+
+<SPEECH 2><ACT 4><SCENE 1><54%>
+<OFFICER>	<55%>
+	I do;
+	And charge you in the duke's name to obey me.
+</OFFICER>
+
+<SPEECH 3><ACT 4><SCENE 1><55%>
+<OFFICER>	<55%>
+	I do arrest you, sir: you hear the suit.
+</OFFICER>
+
+<SPEECH 4><ACT 4><SCENE 4><67%>
+<OFFICER>	<68%>
+	Good sir, be patient.
+</OFFICER>
+
+<SPEECH 5><ACT 4><SCENE 4><67%>
+<OFFICER>	<68%>
+	Good now, hold thy tongue.
+</OFFICER>
+
+<SPEECH 6><ACT 4><SCENE 4><73%>
+<OFFICER>	<73%>
+	Masters, let him go:
+	He is my prisoner, and you shall not have him.
+</OFFICER>
+
+<SPEECH 7><ACT 4><SCENE 4><73%>
+<OFFICER>	<74%>
+	He is my prisoner: if I let him go,
+	The debt he owes will be requir'd of me.
+</OFFICER>
+
+<SPEECH 8><ACT 4><SCENE 4><74%>
+<OFFICER>	<75%>
+	One Angelo, a goldsmith; do you know him?
+</OFFICER>
+
+<SPEECH 9><ACT 4><SCENE 4><75%>
+<OFFICER>	<75%>
+	Two hundred ducats.
+</OFFICER>
+
+<SPEECH 10><ACT 4><SCENE 4><75%>
+<OFFICER>	<75%>
+	Due for a chain your husband had of him.
+</OFFICER>
+
+<SPEECH 11><ACT 4><SCENE 4><75%>
+<OFFICER>	<76%>
+	Away! they'll kill us.
+</OFFICER>
+

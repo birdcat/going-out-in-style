@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 2><SCENE 1><26%>
+<BEADLE>	<26%>
+	I will, my lord. Come on, sirrah; off with your doublet quickly.
+</BEADLE>
+

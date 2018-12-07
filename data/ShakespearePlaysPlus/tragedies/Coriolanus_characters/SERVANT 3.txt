@@ -1,0 +1,95 @@
+<SPEECH 1><ACT 4><SCENE 5><69%>
+<SERVANT 3>	<69%>
+	What fellow's this?
+</SERVANT 3>
+
+<SPEECH 2><ACT 4><SCENE 5><69%>
+<SERVANT 3>	<69%>
+	What have you to do here, fellow? Pray you, avoid the house.
+</SERVANT 3>
+
+<SPEECH 3><ACT 4><SCENE 5><69%>
+<SERVANT 3>	<69%>
+	What are you?
+</SERVANT 3>
+
+<SPEECH 4><ACT 4><SCENE 5><69%>
+<SERVANT 3>	<69%>
+	A marvellous poor one.
+</SERVANT 3>
+
+<SPEECH 5><ACT 4><SCENE 5><69%>
+<SERVANT 3>	<69%>
+	Pray you, poor gentleman, take up some other station; here's no place for you; pray you, avoid: come.
+</SERVANT 3>
+
+<SPEECH 6><ACT 4><SCENE 5><69%>
+<SERVANT 3>	<69%>
+	What, you will not? Prithee, tell my master what a strange guest he has here.
+</SERVANT 3>
+
+<SPEECH 7><ACT 4><SCENE 5><69%>
+<SERVANT 3>	<69%>
+	Where dwell'st thou?
+</SERVANT 3>
+
+<SPEECH 8><ACT 4><SCENE 5><69%>
+<SERVANT 3>	<70%>
+	'Under the canopy!'
+</SERVANT 3>
+
+<SPEECH 9><ACT 4><SCENE 5><70%>
+<SERVANT 3>	<70%>
+	Where's that?
+</SERVANT 3>
+
+<SPEECH 10><ACT 4><SCENE 5><70%>
+<SERVANT 3>	<70%>
+	'I' the city of kites and crows!' What an ass it is! Then thou dwell'st with daws too?
+</SERVANT 3>
+
+<SPEECH 11><ACT 4><SCENE 5><70%>
+<SERVANT 3>	<70%>
+	How sir! Do you meddle with my master?
+</SERVANT 3>
+
+<SPEECH 12><ACT 4><SCENE 5><73%>
+<SERVANT 3>	<73%>
+	O slaves! I can tell you news; news, you rascals.
+</SERVANT 3>
+
+<SPEECH 13><ACT 4><SCENE 5><73%>
+<SERVANT 3>	<73%>
+	I would not be a Roman, of all nations; I had as lief be a condemned man.
+</SERVANT 3>
+
+<SPEECH 14><ACT 4><SCENE 5><73%>
+<SERVANT 3>	<73%>
+	Why, here's he that was wont to thwack our general, Caius Marcius.
+</SERVANT 3>
+
+<SPEECH 15><ACT 4><SCENE 5><73%>
+<SERVANT 3>	<74%>
+	I do not say, 'thwack our general;' but he was always good enough for him.
+</SERVANT 3>
+
+<SPEECH 16><ACT 4><SCENE 5><74%>
+<SERVANT 3>	<74%>
+	Why, he is so made on here within, as if he were son and heir to Mars; set at upper end o' the table; no question asked him by any of the senators, but they stand bald before him. Our general himself makes a mistress of him; sanctifies himself with 's hand, and turns up the white o' the eye to his discourse. But the bottom of the news is, our general is out i' the middle, and but one half of what he was yesterday, for the other has half, by the entreaty and grant of the whole table. He'll go, he says, and sowle the porter of Rome gates by the ears: he will mow down all before him, and leave his passage polled.
+</SERVANT 3>
+
+<SPEECH 17><ACT 4><SCENE 5><74%>
+<SERVANT 3>	<74%>
+	Do 't! he will do 't for—look you, sir—he has as many friends as enemies; which friends, sir—as it were—durst not—look you, sir—show themselves—as we term it—his friends, whilst he's in directitude.
+</SERVANT 3>
+
+<SPEECH 18><ACT 4><SCENE 5><74%>
+<SERVANT 3>	<74%>
+	To-morrow; to-day; presently. You shall have the drum struck up this afternoon; 'tis, as it were, a parcel of their feast, and to be executed ere they wipe their lips.
+</SERVANT 3>
+
+<SPEECH 19><ACT 4><SCENE 5><75%>
+<SERVANT 3>	<75%>
+	Reason: because they then less need one another. The wars for my money. I hope to see Romans as cheap as Volscians. They are rising, they are rising.
+</SERVANT 3>
+

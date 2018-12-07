@@ -1,0 +1,181 @@
+<SPEECH 1><ACT 2><SCENE 2><26%>
+<GUILDENSTERN>	<26%>
+	But we both obey,
+	And here give up ourselves, in the full bent,
+	To lay our service freely at your feet,
+	To be commanded.
+</GUILDENSTERN>
+
+<SPEECH 2><ACT 2><SCENE 2><26%>
+<GUILDENSTERN>	<26%>
+	Heavens make our presence, and our practices
+	Pleasant and helpful to him!
+</GUILDENSTERN>
+
+<SPEECH 3><ACT 2><SCENE 2><31%>
+<GUILDENSTERN>	<31%>
+	Mine honoured lord!
+</GUILDENSTERN>
+
+<SPEECH 4><ACT 2><SCENE 2><31%>
+<GUILDENSTERN>	<31%>
+	Happy in that we are not over happy; On Fortune's cap we are not the very button.
+</GUILDENSTERN>
+
+<SPEECH 5><ACT 2><SCENE 2><31%>
+<GUILDENSTERN>	<31%>
+	Faith, her privates we.
+</GUILDENSTERN>
+
+<SPEECH 6><ACT 2><SCENE 2><31%>
+<GUILDENSTERN>	<32%>
+	Prison, my lord!
+</GUILDENSTERN>
+
+<SPEECH 7><ACT 2><SCENE 2><32%>
+<GUILDENSTERN>	<32%>
+	Which dreams, indeed, are ambition, for the very substance of the ambitious is merely the shadow of a dream.
+</GUILDENSTERN>
+
+<SPEECH 8><ACT 2><SCENE 2><32%>
+<GUILDENSTERN>	<32%>
+	We'll wait upon you.
+</GUILDENSTERN>
+
+<SPEECH 9><ACT 2><SCENE 2><32%>
+<GUILDENSTERN>	<32%>
+	What should we say, my lord?
+</GUILDENSTERN>
+
+<SPEECH 10><ACT 2><SCENE 2><33%>
+<GUILDENSTERN>	<33%>
+	My lord, we were sent for.
+</GUILDENSTERN>
+
+<SPEECH 11><ACT 2><SCENE 2><34%>
+<GUILDENSTERN>	<34%>
+	O! there has been much throwing about of brains.
+</GUILDENSTERN>
+
+<SPEECH 12><ACT 2><SCENE 2><35%>
+<GUILDENSTERN>	<35%>
+	There are the players.
+</GUILDENSTERN>
+
+<SPEECH 13><ACT 2><SCENE 2><35%>
+<GUILDENSTERN>	<35%>
+	In what, my dear lord?
+</GUILDENSTERN>
+
+<SPEECH 14><ACT 3><SCENE 1><40%>
+<GUILDENSTERN>	<41%>
+	Nor do we find him forward to be sounded,
+	But, with a crafty madness, keeps aloof,
+	When we would bring him on to some confession
+	Of his true state.
+</GUILDENSTERN>
+
+<SPEECH 15><ACT 3><SCENE 1><41%>
+<GUILDENSTERN>	<41%>
+	But with much forcing of his disposition.
+</GUILDENSTERN>
+
+<SPEECH 16><ACT 3><SCENE 2><46%>
+<GUILDENSTERN>	<47%>
+	We will, my lord.
+</GUILDENSTERN>
+
+<SPEECH 17><ACT 3><SCENE 2><53%>
+<GUILDENSTERN>	<53%>
+	Good my lord, vouchsafe me a word with you.
+</GUILDENSTERN>
+
+<SPEECH 18><ACT 3><SCENE 2><53%>
+<GUILDENSTERN>	<53%>
+	The king, sir,—
+</GUILDENSTERN>
+
+<SPEECH 19><ACT 3><SCENE 2><53%>
+<GUILDENSTERN>	<54%>
+	Is in his retirement marvellous distempered.
+</GUILDENSTERN>
+
+<SPEECH 20><ACT 3><SCENE 2><53%>
+<GUILDENSTERN>	<54%>
+	No, my lord, rather with choler.
+</GUILDENSTERN>
+
+<SPEECH 21><ACT 3><SCENE 2><53%>
+<GUILDENSTERN>	<54%>
+	Good my lord, put your discourse into some frame, and start not so wildly from my affair.
+</GUILDENSTERN>
+
+<SPEECH 22><ACT 3><SCENE 2><53%>
+<GUILDENSTERN>	<54%>
+	The queen, your mother, in most great affliction of spirit, hath sent me to you.
+</GUILDENSTERN>
+
+<SPEECH 23><ACT 3><SCENE 2><54%>
+<GUILDENSTERN>	<54%>
+	Nay, good my lord, this courtesy is not of the right breed. If it shall please you to make me a wholesome answer, I will do your mother's commandment; if not, your pardon and my return shall be the end of my business.
+</GUILDENSTERN>
+
+<SPEECH 24><ACT 3><SCENE 2><54%>
+<GUILDENSTERN>	<54%>
+	What, my lord?
+</GUILDENSTERN>
+
+<SPEECH 25><ACT 3><SCENE 2><54%>
+<GUILDENSTERN>	<55%>
+	O! my lord, if my duty be too bold, my love is too unmannerly.
+</GUILDENSTERN>
+
+<SPEECH 26><ACT 3><SCENE 2><55%>
+<GUILDENSTERN>	<55%>
+	My lord, I cannot.
+</GUILDENSTERN>
+
+<SPEECH 27><ACT 3><SCENE 2><55%>
+<GUILDENSTERN>	<55%>
+	Believe me, I cannot.
+</GUILDENSTERN>
+
+<SPEECH 28><ACT 3><SCENE 2><55%>
+<GUILDENSTERN>	<55%>
+	I know no touch of it, my lord.
+</GUILDENSTERN>
+
+<SPEECH 29><ACT 3><SCENE 2><55%>
+<GUILDENSTERN>	<55%>
+	But these cannot I command to any utterance of harmony; I have not the skill.
+</GUILDENSTERN>
+
+<SPEECH 30><ACT 3><SCENE 3><56%>
+<GUILDENSTERN>	<56%>
+	We will ourselves provide.
+	Most holy and religious fear it is
+	To keep those many many bodies safe
+	That live and feed upon your majesty.
+</GUILDENSTERN>
+
+<SPEECH 31><ACT 3><SCENE 3><56%>
+<GUILDENSTERN>	<57%>
+	We will haste us.
+<STAGE DIR>
+<Exeunt Rosencrantz and Guildenstern.>
+</STAGE DIR>
+
+</GUILDENSTERN>
+
+<SPEECH 32><ACT 4><SCENE 2><65%>
+<GUILDENSTERN>	<66%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Hamlet! Lord Hamlet!
+</GUILDENSTERN>
+
+<SPEECH 33><ACT 4><SCENE 2><66%>
+<GUILDENSTERN>	<66%>
+	A thing, my lord!
+</GUILDENSTERN>
+

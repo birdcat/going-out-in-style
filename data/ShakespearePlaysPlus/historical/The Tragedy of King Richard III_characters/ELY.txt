@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 3><SCENE 4><50%>
+<ELY>	<50%>
+	To-morrow then I judge a happy day.
+</ELY>
+
+<SPEECH 2><ACT 3><SCENE 4><50%>
+<ELY>	<50%>
+	Your Grace, we think, should soonest know his mind.
+</ELY>
+
+<SPEECH 3><ACT 3><SCENE 4><50%>
+<ELY>	<51%>
+	In happy time, here comes the duke himself.
+</ELY>
+
+<SPEECH 4><ACT 3><SCENE 4><51%>
+<ELY>	<51%>
+	Marry, and will, my lord, with all my heart.
+</ELY>
+
+<SPEECH 5><ACT 3><SCENE 4><51%>
+<ELY>	<51%>
+	Where is my lord, the Duke of Gloucester?
+	I have sent for these strawberries.
+</ELY>
+

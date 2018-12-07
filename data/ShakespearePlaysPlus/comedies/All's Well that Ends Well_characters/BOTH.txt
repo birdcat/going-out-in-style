@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 5><55%>
+<BOTH>	<56%>
+	We'll take your offer kindly.
+</BOTH>
+

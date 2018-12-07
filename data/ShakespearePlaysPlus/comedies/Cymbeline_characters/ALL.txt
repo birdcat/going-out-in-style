@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 4><82%>
+<ALL>	<83%>
+	Thanks, Jupiter!
+</ALL>
+

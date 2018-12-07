@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 4><SCENE XII.— ><81%>
+<GUARD 2>	<81%>
+	The star is fallen.
+</GUARD 2>
+
+<SPEECH 2><ACT 4><SCENE XII.— ><81%>
+<GUARD 2>	<81%>
+	Nor I.
+</GUARD 2>
+
+<SPEECH 3><ACT 5><SCENE 2><98%>
+<GUARD 2>	<99%>
+	There's Dolabella sent from Cæsar; call him.
+</GUARD 2>
+
+<SPEECH 4><ACT 5><SCENE 2><98%>
+<GUARD 2>	<99%>
+	All dead.
+</GUARD 2>
+

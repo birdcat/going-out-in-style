@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 2><52%>
+<ALL>	<53%>
+	Ding, dong, bell.
+</ALL>
+

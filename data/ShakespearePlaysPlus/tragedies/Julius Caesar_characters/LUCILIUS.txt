@@ -1,0 +1,71 @@
+<SPEECH 1><ACT 4><SCENE 2><68%>
+<LUCILIUS>	<70%>
+	Give the word, ho! and stand.
+</LUCILIUS>
+
+<SPEECH 2><ACT 4><SCENE 2><69%>
+<LUCILIUS>	<70%>
+	He is at hand; and Pindarus is come
+	To do you salutation from his master.
+</LUCILIUS>
+
+<SPEECH 3><ACT 4><SCENE 2><69%>
+<LUCILIUS>	<70%>
+	With courtesy and with respect enough;
+	But not with such familiar instances,
+	Nor with such free and friendly conference,
+	As he hath us'd of old.
+</LUCILIUS>
+
+<SPEECH 4><ACT 4><SCENE 2><69%>
+<LUCILIUS>	<71%>
+	They mean this night in Sardis to be quarter'd;
+	The greater part, the horse in general,
+	Are come with Cassius.
+</LUCILIUS>
+
+<SPEECH 5><ACT 4><SCENE 3><76%>
+<LUCILIUS>	<77%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> You shall not come to them.
+</LUCILIUS>
+
+<SPEECH 6><ACT 5><SCENE 1><87%>
+<LUCILIUS>	<88%>
+	My lord?
+</LUCILIUS>
+
+<SPEECH 7><ACT 5><SCENE 4><95%>
+<LUCILIUS>	<95%>
+	O young and noble Cato, art thou down?
+	Why, now thou diest as bravely as Titinius,
+	And mayst be honour'd being Cato's son.
+</LUCILIUS>
+
+<SPEECH 8><ACT 5><SCENE 4><95%>
+<LUCILIUS>	<96%>
+	Only I yield to die:
+	There is so much that thou wilt kill me straight.
+<STAGE DIR>
+<Offering money.>
+</STAGE DIR>
+	Kill Brutus, and be honour'd in his death.
+</LUCILIUS>
+
+<SPEECH 9><ACT 5><SCENE 4><95%>
+<LUCILIUS>	<96%>
+	Safe, Antony; Brutus is safe enough:
+	I dare assure thee that no enemy
+	Shall ever take alive the noble Brutus:
+	The gods defend him from so great a shame!
+	When you do find him, or alive or dead,
+	He will be found like Brutus, like himself.
+</LUCILIUS>
+
+<SPEECH 10><ACT 5><SCENE 5><99%>
+<LUCILIUS>	<99%>
+	So Brutus should be found. I thank thee, Brutus,
+	That thou hast prov'd Lucilius' saying true.
+</LUCILIUS>
+

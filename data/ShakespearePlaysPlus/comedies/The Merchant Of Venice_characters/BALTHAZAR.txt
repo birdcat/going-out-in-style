@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 4><64%>
+<BALTHAZAR>	<65%>
+	Madam, I go with all convenient speed.
+</BALTHAZAR>
+

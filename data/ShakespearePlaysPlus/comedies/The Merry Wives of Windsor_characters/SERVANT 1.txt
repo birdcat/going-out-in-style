@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 4><SCENE 2><73%>
+<SERVANT 1>	<73%>
+	Come, come, take it up.
+</SERVANT 1>
+
+<SPEECH 2><ACT 4><SCENE 2><74%>
+<SERVANT 1>	<74%>
+	I hope not; I had as lief bear so much lead.
+
+</SERVANT 1>
+

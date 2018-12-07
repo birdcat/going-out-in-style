@@ -1,0 +1,324 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+<ÆNEAS>	<4%>
+	How now, Prince Troilus! wherefore not afield?
+</ÆNEAS>
+
+<SPEECH 2><ACT 1><SCENE 1><3%>
+<ÆNEAS>	<4%>
+	That Paris is returned home, and hurt.
+</ÆNEAS>
+
+<SPEECH 3><ACT 1><SCENE 1><4%>
+<ÆNEAS>	<4%>
+	Troilus, by Menelaus.
+</ÆNEAS>
+
+<SPEECH 4><ACT 1><SCENE 1><4%>
+<ÆNEAS>	<4%>
+	Hark, what good sport is out of town to-day!
+</ÆNEAS>
+
+<SPEECH 5><ACT 1><SCENE 1><4%>
+<ÆNEAS>	<4%>
+	In all swift haste.
+</ÆNEAS>
+
+<SPEECH 6><ACT 1><SCENE 3><18%>
+<ÆNEAS>	<19%>
+	Is this great Agamemnon's tent, I pray you?
+</ÆNEAS>
+
+<SPEECH 7><ACT 1><SCENE 3><18%>
+<ÆNEAS>	<19%>
+	May one, that is a herald and a prince,
+	Do a fair message to his kingly ears?
+</ÆNEAS>
+
+<SPEECH 8><ACT 1><SCENE 3><18%>
+<ÆNEAS>	<19%>
+	Fair leave and large security. How may
+	A stranger to those most imperial looks
+	Know them from eyes of other mortals?
+</ÆNEAS>
+
+<SPEECH 9><ACT 1><SCENE 3><18%>
+<ÆNEAS>	<19%>
+	Ay;
+	I ask, that I might waken reverence,
+	And bid the cheek be ready with a blush
+	Modest as morning when she coldly eyes
+	The youthful Phœbus:
+	Which is that god in office, guiding men?
+	Which is the high and mighty Agamemnon?
+</ÆNEAS>
+
+<SPEECH 10><ACT 1><SCENE 3><18%>
+<ÆNEAS>	<19%>
+	Courtiers as free, as debonair, unarm'd,
+	As bending angels; that's their fame in peace:
+	But when they would seem soldiers, they have galls,
+	Good arms, strong joints, true swords; and, Jove's accord,
+	Nothing so full of heart. But peace, Æneas!
+	Peace, Trojan! lay thy finger on thy lips!
+	The worthiness of praise distains his worth,
+	If that the prais'd himself bring the praise forth;
+	But what the repining enemy commends,
+	That breath fame blows; that praise, sole pure, transcends.
+</ÆNEAS>
+
+<SPEECH 11><ACT 1><SCENE 3><19%>
+<ÆNEAS>	<19%>
+	Ay, Greek, that is my name.
+</ÆNEAS>
+
+<SPEECH 12><ACT 1><SCENE 3><19%>
+<ÆNEAS>	<19%>
+	Sir, pardon; 'tis for Agamemnon's ears.
+</ÆNEAS>
+
+<SPEECH 13><ACT 1><SCENE 3><19%>
+<ÆNEAS>	<20%>
+	Nor I from Troy come not to whisper him:
+	I bring a trumpet to awake his ear,
+	To set his sense on the attentive bent,
+	And then to speak.
+</ÆNEAS>
+
+<SPEECH 14><ACT 1><SCENE 3><19%>
+<ÆNEAS>	<20%>
+	Trumpet, blow aloud,
+	Send thy brass voice through all these lazy tents;
+	And every Greek of mettle, let him know,
+	What Troy means fairly shall be spoke aloud.
+<STAGE DIR>
+<Trumpet sounds.>
+</STAGE DIR>
+	We have, great Agamemnon, here in Troy.
+	A prince called Hector,—Priam is his father,—
+	Who in this dull and long-continu'd truce
+	Is rusty grown: he bade me take a trumpet,
+	And to this purpose speak: kings, princes, lords!
+	If there be one among the fair'st of Greece
+	That holds his honour higher than his ease,
+	That seeks his praise more than he fears his peril,
+	That knows his valour, and knows not his fear,
+	That loves his mistress more than in confession,
+	With truant vows to her own lips he loves,
+	And dare avow her beauty and her worth
+	In other arms than hers,—to him this challenge.
+	Hector, in view of Trojans and of Greeks,
+	Shall make it good, or do his best to do it,
+	He hath a lady wiser, fairer, truer,
+	Than ever Greek did compass in his arms;
+	And will to-morrow with his trumpet call,
+	Mid-way between your tents and walls of Troy,
+	To rouse a Grecian that is true in love:
+	If any come, Hector shall honour him;
+	If none, he'll say in Troy when he retires,
+	The Grecian dames are sunburnt, and not worth
+	The splinter of a lance. Even so much.
+</ÆNEAS>
+
+<SPEECH 15><ACT 1><SCENE 3><20%>
+<ÆNEAS>	<21%>
+	Now heavens forbid such scarcity of youth!
+</ÆNEAS>
+
+<SPEECH 16><ACT 4><SCENE 1><59%>
+<ÆNEAS>	<60%>
+	Is the prince there in person?
+	Had I so good occasion to lie long
+	As you, Prince Paris, nothing but heavenly business
+	Should rob my bed-mate of my company.
+</ÆNEAS>
+
+<SPEECH 17><ACT 4><SCENE 1><59%>
+<ÆNEAS>	<60%>
+	Health to you, valiant sir,
+	During all question of the gentle truce;
+	But when I meet you arm'd, as black defiance
+	As heart can think or courage execute.
+</ÆNEAS>
+
+<SPEECH 18><ACT 4><SCENE 1><59%>
+<ÆNEAS>	<60%>
+	And thou shalt hunt a lion, that will fly
+	With his face backward. In humane gentleness,
+	Welcome to Troy! now, by Anchises' life,
+	Welcome, indeed! By Venus' hand I swear,
+	No man alive can love in such a sort
+	The thing he means to kill more excellently.
+</ÆNEAS>
+
+<SPEECH 19><ACT 4><SCENE 1><59%>
+<ÆNEAS>	<60%>
+	We know each other well.
+</ÆNEAS>
+
+<SPEECH 20><ACT 4><SCENE 1><60%>
+<ÆNEAS>	<61%>
+	I was sent for to the king; but why, I know not.
+</ÆNEAS>
+
+<SPEECH 21><ACT 4><SCENE 1><60%>
+<ÆNEAS>	<61%>
+	That I assure you:
+	Troilus had rather Troy were borne to Greece
+	Than Cressid borne from Troy.
+</ÆNEAS>
+
+<SPEECH 22><ACT 4><SCENE 1><60%>
+<ÆNEAS>	<61%>
+	Good morrow, all.
+</ÆNEAS>
+
+<SPEECH 23><ACT 4><SCENE 2><62%>
+<ÆNEAS>	<63%>
+	Good morrow, lord, good morrow.
+</ÆNEAS>
+
+<SPEECH 24><ACT 4><SCENE 2><62%>
+<ÆNEAS>	<63%>
+	Is not Prince Troilus here?
+</ÆNEAS>
+
+<SPEECH 25><ACT 4><SCENE 2><63%>
+<ÆNEAS>	<63%>
+	Come, he is here, my lord: do not deny him: it doth import him much to speak with me.
+</ÆNEAS>
+
+<SPEECH 26><ACT 4><SCENE 2><63%>
+<ÆNEAS>	<64%>
+	Who! nay, then: come, come, you'll do him wrong ere you're 'ware. You'll be so true to him, to be false to him. Do not you know of him, but yet go fetch him hither; go.
+
+</ÆNEAS>
+
+<SPEECH 27><ACT 4><SCENE 2><63%>
+<ÆNEAS>	<64%>
+	My lord, I scarce have leisure to salute you,
+	My matter is so rash: there is at hand
+	Paris your brother, and Deiphobus,
+	The Grecian Diomed, and our Antenor
+	Deliver'd to us; and for him forthwith,
+	Ere the first sacrifice, within this hour,
+	We must give up to Diomedes' hand
+	The Lady Cressida.
+</ÆNEAS>
+
+<SPEECH 28><ACT 4><SCENE 2><63%>
+<ÆNEAS>	<64%>
+	By Priam, and the general state of Troy:
+	They are at hand and ready to effect it.
+</ÆNEAS>
+
+<SPEECH 29><ACT 4><SCENE 2><63%>
+<ÆNEAS>	<64%>
+	Good, good, my lord; the secrets of nature
+	Have not more gift in taciturnity.
+</ÆNEAS>
+
+<SPEECH 30><ACT 4><SCENE 4><66%>
+<ÆNEAS>	<67%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> My lord, is the lady ready?
+</ÆNEAS>
+
+<SPEECH 31><ACT 4><SCENE 4><68%>
+<ÆNEAS>	<68%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Nay, good my lord,—
+</ÆNEAS>
+
+<SPEECH 32><ACT 4><SCENE 4><69%>
+<ÆNEAS>	<70%>
+	How have we spent this morning!
+	The prince must think me tardy and remiss,
+	That swore to ride before him to the field.
+</ÆNEAS>
+
+<SPEECH 33><ACT 4><SCENE 4><69%>
+<ÆNEAS>	<70%>
+	Yea, with a bridegroom's fresh alacrity,
+	Let us address to tend on Hector's heels:
+	The glory of our Troy doth this day lie
+	On his fair worth and single chivalry.
+</ÆNEAS>
+
+<SPEECH 34><ACT 4><SCENE 5><72%>
+<ÆNEAS>	<72%>
+	Hail, all you state of Greece! what shall be done
+	To him that victory commands? or do you purpose
+	A victor shall be known? will you the knights
+	Shall to the edge of all extremity
+	Pursue each other, or shall be divided
+	By any voice or order of the field?
+	Hector bade ask.
+</ÆNEAS>
+
+<SPEECH 35><ACT 4><SCENE 5><72%>
+<ÆNEAS>	<72%>
+	He cares not; he'll obey conditions.
+</ÆNEAS>
+
+<SPEECH 36><ACT 4><SCENE 5><72%>
+<ÆNEAS>	<73%>
+	If not Achilles, sir.
+	What is your name?
+</ÆNEAS>
+
+<SPEECH 37><ACT 4><SCENE 5><72%>
+<ÆNEAS>	<73%>
+	Therefore Achilles; but, whate'er, know this:
+	In the extremity of great and little,
+	Valour and pride excel themselves in Hector;
+	The one almost as infinite as all,
+	The other blank as nothing. Weigh him well,
+	And that which looks like pride is courtesy.
+	This Ajax is half made of Hector's blood:
+	In love whereof half Hector stays at home;
+	Half heart, half hand, half Hector comes to seek
+	This blended knight, half Trojan, and half Greek.
+</ÆNEAS>
+
+<SPEECH 38><ACT 4><SCENE 5><73%>
+<ÆNEAS>	<74%>
+	Princes, enough, so please you.
+</ÆNEAS>
+
+<SPEECH 39><ACT 4><SCENE 5><74%>
+<ÆNEAS>	<75%>
+	There is expectance here from both the sides,
+	What further you will do.
+</ÆNEAS>
+
+<SPEECH 40><ACT 4><SCENE 5><75%>
+<ÆNEAS>	<76%>
+	The noble Menelaus.
+</ÆNEAS>
+
+<SPEECH 41><ACT 4><SCENE 5><75%>
+<ÆNEAS>	<76%>
+	'Tis the old Nestor.
+</ÆNEAS>
+
+<SPEECH 42><ACT 5><SCENE 2><88%>
+<ÆNEAS>	<88%>
+	I have been seeking you this hour, my lord.
+	Hector, by this, is arming him in Troy:
+	Ajax, your guard, stays to conduct you home.
+</ÆNEAS>
+
+<SPEECH 43><ACT 5><SCENE 10><98%>
+<ÆNEAS>	<98%>
+	Stand, ho! yet are we masters of the field.
+	Never go home; here starve we out the night.
+
+</ÆNEAS>
+
+<SPEECH 44><ACT 5><SCENE 10><98%>
+<ÆNEAS>	<99%>
+	My lord, you do discomfort all the host.
+</ÆNEAS>
+

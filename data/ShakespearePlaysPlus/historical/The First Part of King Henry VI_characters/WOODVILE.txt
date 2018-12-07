@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+<WOODVILE>	<13%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Have patience, noble Duke; I may not open;
+	The Cardinal of Winchester forbids:
+	From him I have express commandment
+	That thou nor none of thine shall be let in.
+</WOODVILE>
+

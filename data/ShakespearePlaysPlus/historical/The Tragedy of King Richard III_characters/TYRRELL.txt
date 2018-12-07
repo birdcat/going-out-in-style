@@ -1,0 +1,81 @@
+<SPEECH 1><ACT 4><SCENE 2><67%>
+<TYRRELL>	<68%>
+	James Tyrrell, and your most obedient subject.
+</TYRRELL>
+
+<SPEECH 2><ACT 4><SCENE 2><67%>
+<TYRRELL>	<68%>
+	Prove me, my gracious lord.
+</TYRRELL>
+
+<SPEECH 3><ACT 4><SCENE 2><67%>
+<TYRRELL>	<68%>
+	Please you; but I had rather kill two enemies.
+</TYRRELL>
+
+<SPEECH 4><ACT 4><SCENE 2><68%>
+<TYRRELL>	<68%>
+	Let me have open means to come to them,
+	And soon I'll rid you from the fear of them.
+</TYRRELL>
+
+<SPEECH 5><ACT 4><SCENE 2><68%>
+<TYRRELL>	<68%>
+	I will dispatch it straight.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</TYRRELL>
+
+<SPEECH 6><ACT 4><SCENE 3><69%>
+<TYRRELL>	<69%>
+	The tyrannous and bloody act is done;
+	The most arch deed of piteous massacre
+	That ever yet this land was guilty of.
+	Dighton and Forrest, whom I did suborn
+	To do this piece of ruthless butchery,
+	Albeit they were flesh'd villains, bloody dogs,
+	Melting with tenderness and mild compassion,
+	Wept like to children in their death's sad story.
+	'Oh! thus,' quoth Dighton, 'lay the gentle babes:'
+	'Thus, thus,' quoth Forrest, 'girdling one another
+	Within their alabaster innocent arms:
+	Their lips were four red roses on a stalk,
+	Which in their summer beauty kiss'd each other.
+	A book of prayers on their pillow lay;
+	Which once,' quoth Forrest, 'almost chang'd my mind;
+	But, O, the devil'—there the villain stopp'd;
+	When Dighton thus told on: 'We smothered
+	The most replenished sweet work of nature,
+	That from the prime creation e'er she fram'd.'
+	Hence both are gone with conscience and remorse;
+	They could not speak; and so I left them both,
+	To bear this tidings to the bloody king:
+	And here he comes.
+
+</TYRRELL>
+
+<SPEECH 7><ACT 4><SCENE 3><70%>
+<TYRRELL>	<70%>
+	If to have done the thing you gave in charge
+	Beget your happiness, be happy then,
+	For it is done.
+</TYRRELL>
+
+<SPEECH 8><ACT 4><SCENE 3><70%>
+<TYRRELL>	<70%>
+	I did, my lord.
+</TYRRELL>
+
+<SPEECH 9><ACT 4><SCENE 3><70%>
+<TYRRELL>	<70%>
+	The chaplain of the Tower hath buried them;
+	But how or in what place I do not know.
+</TYRRELL>
+
+<SPEECH 10><ACT 4><SCENE 3><70%>
+<TYRRELL>	<70%>
+	I humbly take my leave.
+</TYRRELL>
+

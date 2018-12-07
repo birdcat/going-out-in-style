@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 4><SCENE 1><78%>
+<FERDINAND & MIRANDA>	<78%>
+	We wish your peace.
+</FERDINAND & MIRANDA>
+

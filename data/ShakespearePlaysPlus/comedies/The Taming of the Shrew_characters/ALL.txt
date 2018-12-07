@@ -1,0 +1,5 @@
+<SPEECH 1><ACT ?><SCENE 2><8%>
+<ALL>	<9%>
+	Amen.
+</ALL>
+

@@ -1,0 +1,51 @@
+<SPEECH 1><ACT 3><SCENE 1><43%>
+<KEEPER 2>	<44%>
+	I'll stay above the hill, so both may shoot.
+</KEEPER 2>
+
+<SPEECH 2><ACT 3><SCENE 1><43%>
+<KEEPER 2>	<44%>
+	Here comes a man; let's stay till he be past.
+
+</KEEPER 2>
+
+<SPEECH 3><ACT 3><SCENE 1><43%>
+<KEEPER 2>	<44%>
+	Why linger we? let us lay hands upon him.
+</KEEPER 2>
+
+<SPEECH 4><ACT 3><SCENE 1><44%>
+<KEEPER 2>	<45%>
+	Say, what art thou, that talk'st of kings and queens?
+</KEEPER 2>
+
+<SPEECH 5><ACT 3><SCENE 1><44%>
+<KEEPER 2>	<45%>
+	Ay, but thou talk'st as if thou wert a king.
+</KEEPER 2>
+
+<SPEECH 6><ACT 3><SCENE 1><44%>
+<KEEPER 2>	<45%>
+	But, if thou be a king, where is thy crown?
+</KEEPER 2>
+
+<SPEECH 7><ACT 3><SCENE 1><44%>
+<KEEPER 2>	<46%>
+	Well, if you be a king crown'd with content,
+	Your crown content and you must be contented
+	To go along with us; for, as we think,
+	You are the king King Edward hath depos'd;
+	And we his subjects, sworn in all allegiance,
+	Will apprehend you as his enemy.
+</KEEPER 2>
+
+<SPEECH 8><ACT 3><SCENE 1><45%>
+<KEEPER 2>	<46%>
+	No, never such an oath; nor will not now.
+</KEEPER 2>
+
+<SPEECH 9><ACT 3><SCENE 1><45%>
+<KEEPER 2>	<46%>
+	Here in this country, where we now remain.
+</KEEPER 2>
+

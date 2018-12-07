@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 2><SCENE 1><17%>
+<LADY 1>	<17%>
+	Come, my gracious lord, Shall I be your playfellow?
+</LADY 1>
+
+<SPEECH 2><ACT 2><SCENE 1><17%>
+<LADY 1>	<17%>
+	Why, my sweet lord?
+</LADY 1>
+
+<SPEECH 3><ACT 2><SCENE 1><17%>
+<LADY 1>	<18%>
+	Blue, my lord.
+</LADY 1>
+
+<SPEECH 4><ACT 2><SCENE 1><17%>
+<LADY 1>	<18%>
+	She is spread of late
+	Into a goodly bulk: good time encounter her!
+</LADY 1>
+

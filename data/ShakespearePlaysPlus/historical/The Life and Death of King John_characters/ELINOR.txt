@@ -1,0 +1,146 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<ELINOR>	<1%>
+	A strange beginning; 'borrow'd majesty!'
+</ELINOR>
+
+<SPEECH 2><ACT 1><SCENE 1><1%>
+<ELINOR>	<2%>
+	What now, my son! have I not ever said
+	How that ambitious Constance would not cease
+	Till she had kindled France and all the world
+	Upon the right and party of her son?
+	This might have been prevented and made whole
+	With very easy arguments of love,
+	Which now the manage of two kingdoms must
+	With fearful bloody issue arbitrate.
+</ELINOR>
+
+<SPEECH 3><ACT 1><SCENE 1><1%>
+<ELINOR>	<2%>
+	Your strong possession much more than your right,
+	Or else it must go wrong, with you and me:
+	So much my conscience whispers in your ear,
+	Which none but heaven and you and I shall hear.
+
+</ELINOR>
+
+<SPEECH 4><ACT 1><SCENE 1><3%>
+<ELINOR>	<3%>
+	Out on thee, rude man! thou dost shame thy mother
+	And wound her honour with this diffidence.
+</ELINOR>
+
+<SPEECH 5><ACT 1><SCENE 1><3%>
+<ELINOR>	<4%>
+	He hath a trick of Cœur-de-Lion's face;
+	The accent of his tongue affecteth him.
+	Do you not read some tokens of my son
+	In the large composition of this man?
+</ELINOR>
+
+<SPEECH 6><ACT 1><SCENE 1><5%>
+<ELINOR>	<6%>
+	Whe'r hadst thou rather be a Faulconbridge
+	And like thy brother, to enjoy thy land,
+	Or the reputed son of Cœur-de-Lion,
+	Lord of thy presence and no land beside?
+</ELINOR>
+
+<SPEECH 7><ACT 1><SCENE 1><6%>
+<ELINOR>	<6%>
+	I like thee well: wilt thou forsake thy fortune,
+	Bequeath thy land to him, and follow me?
+	I am a soldier and now bound to France.
+</ELINOR>
+
+<SPEECH 8><ACT 1><SCENE 1><6%>
+<ELINOR>	<6%>
+	Nay, I would have you go before me thither.
+</ELINOR>
+
+<SPEECH 9><ACT 1><SCENE 1><6%>
+<ELINOR>	<7%>
+	The very spirit of Plantagenet!
+	I am thy grandam, Richard: call me so.
+</ELINOR>
+
+<SPEECH 10><ACT 2><SCENE 1><15%>
+<ELINOR>	<16%>
+	Who is it thou dost call usurper, France?
+</ELINOR>
+
+<SPEECH 11><ACT 2><SCENE 1><15%>
+<ELINOR>	<16%>
+	Out, insolent! thy bastard shall be king,
+	That thou mayst be a queen, and check the world!
+</ELINOR>
+
+<SPEECH 12><ACT 2><SCENE 1><15%>
+<ELINOR>	<16%>
+	There's a good mother, boy, that blots thy father.
+</ELINOR>
+
+<SPEECH 13><ACT 2><SCENE 1><17%>
+<ELINOR>	<17%>
+	Come to thy grandam, child.
+</ELINOR>
+
+<SPEECH 14><ACT 2><SCENE 1><17%>
+<ELINOR>	<17%>
+	His mother shames him so, poor boy, he weeps.
+</ELINOR>
+
+<SPEECH 15><ACT 2><SCENE 1><17%>
+<ELINOR>	<18%>
+	Thou monstrous slanderer of heaven and earth!
+</ELINOR>
+
+<SPEECH 16><ACT 2><SCENE 1><18%>
+<ELINOR>	<18%>
+	Thou unadvised scold, I can produce
+	A will that bars the title of thy son.
+</ELINOR>
+
+<SPEECH 17><ACT 2><SCENE 1><28%>
+<ELINOR>	<29%>
+<STAGE DIR>
+<Aside to King John.>
+</STAGE DIR> Son, list to this conjunction, make this match;
+	Give with our niece a dowry large enough;
+	For by this knot thou shalt so surely tie
+	Thy now unsur'd assurance to the crown,
+	That yon green boy shall have no sun to ripe
+	The bloom that promiseth a mighty fruit.
+	I see a yielding in the looks of France;
+	Mark how they whisper: urge them while their souls
+	Are capable of this ambition,
+	Lest zeal, now melted by the windy breath
+	Of soft petitions, pity and remorse,
+	Cool and congeal again to what it was.
+</ELINOR>
+
+<SPEECH 18><ACT 3><SCENE 1><40%>
+<ELINOR>	<41%>
+	Look'st thou pale, France? do not let go thy hand.
+</ELINOR>
+
+<SPEECH 19><ACT 3><SCENE 1><45%>
+<ELINOR>	<46%>
+	O foul revolt of French inconstancy!
+</ELINOR>
+
+<SPEECH 20><ACT 3><SCENE 3><48%>
+<ELINOR>	<48%>
+	Farewell, gentle cousin.
+</ELINOR>
+
+<SPEECH 21><ACT 3><SCENE 3><48%>
+<ELINOR>	<48%>
+	Come hither, little kinsman; hark, a word.
+</ELINOR>
+
+<SPEECH 22><ACT 3><SCENE 3><50%>
+<ELINOR>	<50%>
+	My blessing go with thee!
+</ELINOR>
+

@@ -1,0 +1,51 @@
+<SPEECH 1><ACT 2><SCENE 2><26%>
+<VARRO'S SERVANT>	<26%>
+	Is't not your business too?
+</VARRO'S SERVANT>
+
+<SPEECH 2><ACT 2><SCENE 2><26%>
+<VARRO'S SERVANT>	<26%>
+	I fear it.
+</VARRO'S SERVANT>
+
+<SPEECH 3><ACT 2><SCENE 2><26%>
+<VARRO'S SERVANT>	<26%>
+	One Varro's servant, my good lord,—
+</VARRO'S SERVANT>
+
+<SPEECH 4><ACT 2><SCENE 2><27%>
+<VARRO'S SERVANT>	<27%>
+	'Twas due on forfeiture, my lord, six weeks
+	And past.
+</VARRO'S SERVANT>
+
+<SPEECH 5><ACT 2><SCENE 2><28%>
+<VARRO'S SERVANT>	<28%>
+	Hang him, he'll abuse us.
+</VARRO'S SERVANT>
+
+<SPEECH 6><ACT 2><SCENE 2><28%>
+<VARRO'S SERVANT>	<28%>
+	How dost, fool?
+</VARRO'S SERVANT>
+
+<SPEECH 7><ACT 2><SCENE 2><28%>
+<VARRO'S SERVANT>	<28%>
+	I speak not to thee.
+</VARRO'S SERVANT>
+
+<SPEECH 8><ACT 2><SCENE 2><30%>
+<VARRO'S SERVANT>	<30%>
+	I could render one.
+</VARRO'S SERVANT>
+
+<SPEECH 9><ACT 2><SCENE 2><30%>
+<VARRO'S SERVANT>	<30%>
+	What is a whoremaster, fool?
+</VARRO'S SERVANT>
+
+<SPEECH 10><ACT 2><SCENE 2><30%>
+<VARRO'S SERVANT>	<30%>
+	Thou art not altogether a fool.
+</VARRO'S SERVANT>
+

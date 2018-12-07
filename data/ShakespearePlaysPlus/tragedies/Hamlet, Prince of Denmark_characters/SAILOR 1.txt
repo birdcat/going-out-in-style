@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 4><SCENE 6><75%>
+<SAILOR 1>	<76%>
+	God bless you, sir.
+</SAILOR 1>
+

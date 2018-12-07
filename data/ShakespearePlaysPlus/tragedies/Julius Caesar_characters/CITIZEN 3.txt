@@ -1,0 +1,88 @@
+<SPEECH 1><ACT 3><SCENE 2><54%>
+<CITIZEN 3>	<56%>
+	The noble Brutus is ascended: silence!
+</CITIZEN 3>
+
+<SPEECH 2><ACT 3><SCENE 2><56%>
+<CITIZEN 3>	<58%>
+	Let him be Cæsar.
+</CITIZEN 3>
+
+<SPEECH 3><ACT 3><SCENE 2><56%>
+<CITIZEN 3>	<58%>
+	Let him go up into the public chair;
+	We'll hear him. Noble Antony, go up.
+</CITIZEN 3>
+
+<SPEECH 4><ACT 3><SCENE 2><57%>
+<CITIZEN 3>	<58%>
+	He says, for Brutus' sake,
+	He finds himself beholding to us all.
+</CITIZEN 3>
+
+<SPEECH 5><ACT 3><SCENE 2><57%>
+<CITIZEN 3>	<58%>
+	Nay, that's certain:
+	We are bless'd that Rome is rid of him.
+</CITIZEN 3>
+
+<SPEECH 6><ACT 3><SCENE 2><58%>
+<CITIZEN 3>	<60%>
+	Has he, masters?
+	I fear there will a worse come in his place.
+</CITIZEN 3>
+
+<SPEECH 7><ACT 3><SCENE 2><58%>
+<CITIZEN 3>	<60%>
+	There's not a nobler man in Rome than Antony.
+</CITIZEN 3>
+
+<SPEECH 8><ACT 3><SCENE 2><60%>
+<CITIZEN 3>	<62%>
+	You shall have leave.
+</CITIZEN 3>
+
+<SPEECH 9><ACT 3><SCENE 2><62%>
+<CITIZEN 3>	<63%>
+	O woeful day!
+</CITIZEN 3>
+
+<SPEECH 10><ACT 3><SCENE 2><63%>
+<CITIZEN 3>	<64%>
+	Away, then! come, seek the conspirators.
+</CITIZEN 3>
+
+<SPEECH 11><ACT 3><SCENE 2><63%>
+<CITIZEN 3>	<65%>
+	O royal Cæsar!
+</CITIZEN 3>
+
+<SPEECH 12><ACT 3><SCENE 2><64%>
+<CITIZEN 3>	<65%>
+	Pluck down benches.
+</CITIZEN 3>
+
+<SPEECH 13><ACT 3><SCENE 3><65%>
+<CITIZEN 3>	<66%>
+	Where do you dwell?
+</CITIZEN 3>
+
+<SPEECH 14><ACT 3><SCENE 3><65%>
+<CITIZEN 3>	<67%>
+	Ay, and truly, you were best.
+</CITIZEN 3>
+
+<SPEECH 15><ACT 3><SCENE 3><66%>
+<CITIZEN 3>	<67%>
+	Your name, sir, truly.
+</CITIZEN 3>
+
+<SPEECH 16><ACT 3><SCENE 3><66%>
+<CITIZEN 3>	<67%>
+	Tear him, tear him! Come, brands, ho! firebrands! To Brutus', to Cassius'; burn all. Some to Decius' house, and some to Casca's; some to Ligarius'. Away! go!
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</CITIZEN 3>
+

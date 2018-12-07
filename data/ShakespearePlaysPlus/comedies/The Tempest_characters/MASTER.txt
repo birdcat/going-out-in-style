@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<MASTER>	<1%>
+	Boatswain!
+</MASTER>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<MASTER>	<1%>
+	Good, speak to the mariners: fall to't yarely, or we run ourselves aground: bestir, bestir.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</MASTER>
+

@@ -1,0 +1,413 @@
+<SPEECH 1><ACT 2><SCENE 1><14%>
+<PISTOL>	<15%>
+	Base tike, call'st thou me host?
+	Now, by this hand, I swear, I scorn the term;
+	Nor shall my Nell keep lodgers.
+</PISTOL>
+
+<SPEECH 2><ACT 2><SCENE 1><15%>
+<PISTOL>	<16%>
+	Pish for thee, Iceland dog! thou prickeared cur of Iceland!
+</PISTOL>
+
+<SPEECH 3><ACT 2><SCENE 1><15%>
+<PISTOL>	<16%>
+	Solus, egregious dog? O viper vile!
+	The solus in thy most mervailous face;
+	The solus in thy teeth, and in thy throat,
+	And in thy hateful lungs, yea, in thy maw, perdy;
+	And, which is worse, within thy nasty mouth!
+	I do retort the solus in thy bowels;
+	For I can take, and Pistol's cock is up,
+	And flashing fire will follow.
+</PISTOL>
+
+<SPEECH 4><ACT 2><SCENE 1><15%>
+<PISTOL>	<16%>
+	O braggart vile and damned furious wight!
+	The grave doth gape, and doting death is near;
+	Therefore exhale.
+</PISTOL>
+
+<SPEECH 5><ACT 2><SCENE 1><16%>
+<PISTOL>	<17%>
+	An oath of mickle might, and fury shall abate.
+	Give me thy fist, thy fore-foot to me give;
+	Thy spirits are most tall.
+</PISTOL>
+
+<SPEECH 6><ACT 2><SCENE 1><16%>
+<PISTOL>	<17%>
+	Coupe le gorge!
+	That is the word. I thee defy again.
+	O hound of Crete, think'st thou my spouse to get?
+	No; to the spital go,
+	And from the powdering-tub of infamy
+	Fetch forth the lazar kite of Cressid's kind,
+	Doll Tearsheet she by name, and her espouse:
+	I have, and I will hold, the quondam Quickly
+	For the only she; and—pauca, there's enough.
+	Go to
+
+</PISTOL>
+
+<SPEECH 7><ACT 2><SCENE 1><16%>
+<PISTOL>	<17%>
+	Let floods o'erswell, and fiends for food howl on!
+</PISTOL>
+
+<SPEECH 8><ACT 2><SCENE 1><16%>
+<PISTOL>	<17%>
+	Base is the slave that pays.
+</PISTOL>
+
+<SPEECH 9><ACT 2><SCENE 1><16%>
+<PISTOL>	<17%>
+	As manhood shall compound: push home.
+</PISTOL>
+
+<SPEECH 10><ACT 2><SCENE 1><17%>
+<PISTOL>	<18%>
+	Sword is an oath, and oaths must have their course.
+</PISTOL>
+
+<SPEECH 11><ACT 2><SCENE 1><17%>
+<PISTOL>	<18%>
+	A noble shalt thou have, and present pay;
+	And liquor likewise will I give to thee,
+	And friendship shall combine, and brotherhood:
+	I'll live by Nym, and Nym shall live by me.
+	Is not this just? for I shall sutler be
+	Unto the camp, and profits will accrue.
+	Give me thy hand.
+</PISTOL>
+
+<SPEECH 12><ACT 2><SCENE 1><17%>
+<PISTOL>	<18%>
+	In cash most justly paid.
+</PISTOL>
+
+<SPEECH 13><ACT 2><SCENE 1><17%>
+<PISTOL>	<18%>
+	Nym, thou hast spoke the right;
+	His heart is fracted and corroborate.
+</PISTOL>
+
+<SPEECH 14><ACT 2><SCENE 1><17%>
+<PISTOL>	<18%>
+	Let us condole the knight; for, lambkins, we will live.
+</PISTOL>
+
+<SPEECH 15><ACT 2><SCENE 3><23%>
+<PISTOL>	<24%>
+	No; for my manly heart doth yearn.
+	Bardolph, be blithe; Nym, rouse thy vaunting veins;
+	Boy, bristle thy courage up; for Falstaff he is dead,
+	And we must yearn therefore.
+</PISTOL>
+
+<SPEECH 16><ACT 2><SCENE 3><24%>
+<PISTOL>	<25%>
+	Come, let's away. My love, give me thy lips.
+	Look to my chattels and my moveables:
+	Let senses rule, the word is, 'Pitch and pay;'
+	Trust none;
+	For oaths are straws, men's faiths are wafercakes,
+	And hold-fast is the only dog, my duck:
+	Therefore, caveto be thy counsellor.
+	Go, clear thy crystals. Yoke-fellows in arms,
+	Let us to France; like horse-leeches, my boys,
+	To suck, to suck, the very blood to suck!
+</PISTOL>
+
+<SPEECH 17><ACT 2><SCENE 3><25%>
+<PISTOL>	<26%>
+	Touch her soft mouth, and march.
+</PISTOL>
+
+<SPEECH 18><ACT 2><SCENE 3><25%>
+<PISTOL>	<26%>
+	Let housewifery appear: keep close, I thee command.
+</PISTOL>
+
+<SPEECH 19><ACT 3><SCENE 2><32%>
+<PISTOL>	<33%>
+	The plain-song is most just, for humours do abound:
+
+	Knocks go and come: God's vassals drop and die;
+	And sword and shield
+	In bloody field
+	Doth win immortal fame.
+
+</PISTOL>
+
+<SPEECH 20><ACT 3><SCENE 2><32%>
+<PISTOL>	<33%>
+	And I:
+
+	If wishes would prevail with me,
+	My purpose should not fail with me,
+	But thither would I hie.
+
+</PISTOL>
+
+<SPEECH 21><ACT 3><SCENE 2><32%>
+<PISTOL>	<33%>
+	Be merciful, great duke, to men of mould!
+	Abate thy rage, abate thy manly rage!
+	Abate thy rage, great duke!
+	Good bawcock, bate thy rage; use lenity, sweet chuck!
+</PISTOL>
+
+<SPEECH 22><ACT 3><SCENE 6><42%>
+<PISTOL>	<43%>
+	Captain, I thee beseech to do me favours:
+	The Duke of Exeter doth love thee well.
+</PISTOL>
+
+<SPEECH 23><ACT 3><SCENE 6><42%>
+<PISTOL>	<44%>
+	Bardolph, a soldier firm and sound of heart,
+	And of buxom valour, hath, by cruel fate
+	And giddy Fortune's furious fickle wheel,
+	That goddess blind,
+	That stands upon the rolling restless stone,—
+</PISTOL>
+
+<SPEECH 24><ACT 3><SCENE 6><43%>
+<PISTOL>	<44%>
+	Fortune is Bardolph's foe, and frowns on him;
+	For he hath stol'n a pax, and hanged must a' be,
+	A damned death!
+	Let gallows gape for dog, let man go free
+	And let not hemp his wind-pipe suffocate.
+	But Exeter hath given the doom of death
+	For pax of little price.
+	Therefore, go speak; the duke will hear thy voice;
+	And let not Bardolph's vital thread be cut
+	With edge of penny cord and vile reproach:
+	Speak, captain, for his life, and I will thee requite.
+</PISTOL>
+
+<SPEECH 25><ACT 3><SCENE 6><43%>
+<PISTOL>	<44%>
+	Why then, rejoice therefore.
+</PISTOL>
+
+<SPEECH 26><ACT 3><SCENE 6><43%>
+<PISTOL>	<45%>
+	Die and be damn'd; and figo for thy friendship!
+</PISTOL>
+
+<SPEECH 27><ACT 3><SCENE 6><43%>
+<PISTOL>	<45%>
+	The fig of Spain!
+</PISTOL>
+
+<SPEECH 28><ACT 4><SCENE 1><55%>
+<PISTOL>	<55%>
+	Qui va là?
+</PISTOL>
+
+<SPEECH 29><ACT 4><SCENE 1><55%>
+<PISTOL>	<55%>
+	Discuss unto me; art thou officer?
+	Or art thou base, common and popular?
+</PISTOL>
+
+<SPEECH 30><ACT 4><SCENE 1><55%>
+<PISTOL>	<55%>
+	Trail'st thou the puissant pike?
+</PISTOL>
+
+<SPEECH 31><ACT 4><SCENE 1><55%>
+<PISTOL>	<56%>
+	As good a gentleman as the emperor.
+</PISTOL>
+
+<SPEECH 32><ACT 4><SCENE 1><55%>
+<PISTOL>	<56%>
+	The king's a bawcock, and a heart of gold,
+	A lad of life, an imp of fame:
+	Of parents good, of fist most valiant:
+	I kiss his dirty shoe, and from my heart-string
+	I love the lovely bully. What's thy name?
+</PISTOL>
+
+<SPEECH 33><ACT 4><SCENE 1><55%>
+<PISTOL>	<56%>
+	Le Roy! a Cornish name: art thou of Cornish crew?
+</PISTOL>
+
+<SPEECH 34><ACT 4><SCENE 1><55%>
+<PISTOL>	<56%>
+	Know'st thou Fluellen?
+</PISTOL>
+
+<SPEECH 35><ACT 4><SCENE 1><55%>
+<PISTOL>	<56%>
+	Tell him, I'll knock his leek about his pate
+	Upon Saint Davy's day.
+</PISTOL>
+
+<SPEECH 36><ACT 4><SCENE 1><55%>
+<PISTOL>	<56%>
+	Art thou his friend?
+</PISTOL>
+
+<SPEECH 37><ACT 4><SCENE 1><55%>
+<PISTOL>	<56%>
+	The figo for thee then!
+</PISTOL>
+
+<SPEECH 38><ACT 4><SCENE 1><55%>
+<PISTOL>	<56%>
+	My name is Pistol called.
+</PISTOL>
+
+<SPEECH 39><ACT 4><SCENE 4><69%>
+<PISTOL>	<70%>
+	Yield, cur!
+</PISTOL>
+
+<SPEECH 40><ACT 4><SCENE 4><69%>
+<PISTOL>	<70%>
+	Quality? Calen O custure me! Art thou a gentleman?
+	What is thy name? discuss.
+</PISTOL>
+
+<SPEECH 41><ACT 4><SCENE 4><69%>
+<PISTOL>	<70%>
+	O Signieur Dew should be a gentleman:—
+	Perpend my words, O Signieur Dew, and mark:
+	O Signieur Dew, thou diest on point of fox
+	Except, O signieur, thou do give to me
+	Egregious ransom.
+</PISTOL>
+
+<SPEECH 42><ACT 4><SCENE 4><70%>
+<PISTOL>	<70%>
+	Moy shall not serve; I will have forty moys;
+	Or I will fetch thy rim out at thy throat
+	In drops of crimson blood.
+</PISTOL>
+
+<SPEECH 43><ACT 4><SCENE 4><70%>
+<PISTOL>	<70%>
+	Brass, cur!
+	Thou damned and luxurious mountain goat,
+	Offer'st me brass?
+</PISTOL>
+
+<SPEECH 44><ACT 4><SCENE 4><70%>
+<PISTOL>	<70%>
+	Sayst thou me so? is that a ton of moys?
+	Come hither, boy: ask me this slave in French
+	What is his name.
+</PISTOL>
+
+<SPEECH 45><ACT 4><SCENE 4><70%>
+<PISTOL>	<71%>
+	Master Fer! I'll fer him, and firk him, and ferret him. Discuss the same in French unto him.
+</PISTOL>
+
+<SPEECH 46><ACT 4><SCENE 4><70%>
+<PISTOL>	<71%>
+	Bid him prepare, for I will cut his throat.
+</PISTOL>
+
+<SPEECH 47><ACT 4><SCENE 4><70%>
+<PISTOL>	<71%>
+	Ouy, cuppele gorge, permafoy.
+	Peasant, unless thou give me crowns, brave crowns;
+	Or mangled shalt thou be by this my sword.
+</PISTOL>
+
+<SPEECH 48><ACT 4><SCENE 4><70%>
+<PISTOL>	<71%>
+	What are his words?
+</PISTOL>
+
+<SPEECH 49><ACT 4><SCENE 4><71%>
+<PISTOL>	<71%>
+	Tell him, my fury shall abate, and I
+	The crowns will take.
+</PISTOL>
+
+<SPEECH 50><ACT 4><SCENE 4><71%>
+<PISTOL>	<71%>
+	Expound unto me, boy.
+</PISTOL>
+
+<SPEECH 51><ACT 4><SCENE 4><71%>
+<PISTOL>	<72%>
+	As I suck blood, I will some mercy show.—
+	Follow me!
+</PISTOL>
+
+<SPEECH 52><ACT 5><SCENE 1><85%>
+<PISTOL>	<86%>
+	Ha! art thou bedlam? dost thou thirst, base Troyan,
+	To have me fold up Parca's fatal web?
+	Hence! I am qualmish at the smell of leek.
+</PISTOL>
+
+<SPEECH 53><ACT 5><SCENE 1><86%>
+<PISTOL>	<86%>
+	Not for Cadwallader and all his goats.
+</PISTOL>
+
+<SPEECH 54><ACT 5><SCENE 1><86%>
+<PISTOL>	<86%>
+	Base Troyan, thou shalt die.
+</PISTOL>
+
+<SPEECH 55><ACT 5><SCENE 1><86%>
+<PISTOL>	<87%>
+	Must I bite?
+</PISTOL>
+
+<SPEECH 56><ACT 5><SCENE 1><86%>
+<PISTOL>	<87%>
+	By this leek, I will most horribly revenge. I eat and eat, I swear—
+</PISTOL>
+
+<SPEECH 57><ACT 5><SCENE 1><86%>
+<PISTOL>	<87%>
+	Quiet thy cudgel: thou dost see I eat.
+</PISTOL>
+
+<SPEECH 58><ACT 5><SCENE 1><86%>
+<PISTOL>	<87%>
+	Good.
+</PISTOL>
+
+<SPEECH 59><ACT 5><SCENE 1><87%>
+<PISTOL>	<87%>
+	Me a groat!
+</PISTOL>
+
+<SPEECH 60><ACT 5><SCENE 1><87%>
+<PISTOL>	<87%>
+	I take thy groat in earnest of revenge.
+</PISTOL>
+
+<SPEECH 61><ACT 5><SCENE 1><87%>
+<PISTOL>	<87%>
+	All hell shall stir for this.
+</PISTOL>
+
+<SPEECH 62><ACT 5><SCENE 1><87%>
+<PISTOL>	<88%>
+	Doth Fortune play the huswife with me now?
+	News have I that my Nell is dead i' the spital
+	Of malady of France:
+	And there my rendezvous is quite cut off.
+	Old I do wax, and from my weary limbs
+	Honour is cudgelled. Well, bawd I'll turn,
+	And something lean to cutpurse of quick hand.
+	To England will I steal, and there I'll steal:
+	And patches will I get unto these cudgell'd scars,
+	And swear I got them in the Gallia wars.
+</PISTOL>
+

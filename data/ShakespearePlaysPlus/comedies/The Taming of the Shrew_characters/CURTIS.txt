@@ -1,0 +1,108 @@
+<SPEECH 1><ACT 4><SCENE 1><59%>
+<CURTIS>	<60%>
+	Who is that calls so coldly?
+</CURTIS>
+
+<SPEECH 2><ACT 4><SCENE 1><59%>
+<CURTIS>	<60%>
+	Is my master and his wife coming, Grumio?
+</CURTIS>
+
+<SPEECH 3><ACT 4><SCENE 1><59%>
+<CURTIS>	<60%>
+	Is she so hot a shrew as she's reported?
+</CURTIS>
+
+<SPEECH 4><ACT 4><SCENE 1><59%>
+<CURTIS>	<60%>
+	Away, you three-inch-fool! I am no beast.
+</CURTIS>
+
+<SPEECH 5><ACT 4><SCENE 1><59%>
+<CURTIS>	<61%>
+	I prithee, good Grumio, tell me, how goes the world?
+</CURTIS>
+
+<SPEECH 6><ACT 4><SCENE 1><59%>
+<CURTIS>	<61%>
+	There's fire ready; and therefore, good Grumio, the news?
+</CURTIS>
+
+<SPEECH 7><ACT 4><SCENE 1><60%>
+<CURTIS>	<61%>
+	Come, you are so full of cony-catching.
+</CURTIS>
+
+<SPEECH 8><ACT 4><SCENE 1><60%>
+<CURTIS>	<61%>
+	All ready; and therefore, I pray thee, news?
+</CURTIS>
+
+<SPEECH 9><ACT 4><SCENE 1><60%>
+<CURTIS>	<61%>
+	How?
+</CURTIS>
+
+<SPEECH 10><ACT 4><SCENE 1><60%>
+<CURTIS>	<61%>
+	Let's ha't, good Grumio.
+</CURTIS>
+
+<SPEECH 11><ACT 4><SCENE 1><60%>
+<CURTIS>	<62%>
+	Here.
+</CURTIS>
+
+<SPEECH 12><ACT 4><SCENE 1><60%>
+<CURTIS>	<62%>
+	This is to feel a tale, not to hear a tale.
+</CURTIS>
+
+<SPEECH 13><ACT 4><SCENE 1><60%>
+<CURTIS>	<62%>
+	Both of one horse?
+</CURTIS>
+
+<SPEECH 14><ACT 4><SCENE 1><60%>
+<CURTIS>	<62%>
+	Why, a horse.
+</CURTIS>
+
+<SPEECH 15><ACT 4><SCENE 1><61%>
+<CURTIS>	<62%>
+	By this reckoning he is more shrew than she.
+</CURTIS>
+
+<SPEECH 16><ACT 4><SCENE 1><61%>
+<CURTIS>	<63%>
+	They are.
+</CURTIS>
+
+<SPEECH 17><ACT 4><SCENE 1><61%>
+<CURTIS>	<63%>
+	Do you hear? ho! you must meet my master to countenance my mistress.
+</CURTIS>
+
+<SPEECH 18><ACT 4><SCENE 1><61%>
+<CURTIS>	<63%>
+	Who knows not that?
+</CURTIS>
+
+<SPEECH 19><ACT 4><SCENE 1><62%>
+<CURTIS>	<63%>
+	I call them forth to credit her.
+</CURTIS>
+
+<SPEECH 20><ACT 4><SCENE 1><65%>
+<CURTIS>	<66%>
+	In her chamber, making a sermon of continency to her;
+	And rails, and swears, and rates, that she, poor soul,
+	Knows not which way to stand, to look, to speak,
+	And sits as one new-risen from a dream.
+	Away, away! for he is coming hither.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</CURTIS>
+

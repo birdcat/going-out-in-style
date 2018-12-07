@@ -1,0 +1,67 @@
+<SPEECH 1><ACT 2><SCENE 1><22%>
+<REYNALDO>	<22%>
+	I will, my lord.
+</REYNALDO>
+
+<SPEECH 2><ACT 2><SCENE 1><22%>
+<REYNALDO>	<22%>
+	My lord, I did intend it.
+</REYNALDO>
+
+<SPEECH 3><ACT 2><SCENE 1><22%>
+<REYNALDO>	<23%>
+	Ay, very well, my lord.
+</REYNALDO>
+
+<SPEECH 4><ACT 2><SCENE 1><23%>
+<REYNALDO>	<23%>
+	As gaming, my lord?
+</REYNALDO>
+
+<SPEECH 5><ACT 2><SCENE 1><23%>
+<REYNALDO>	<23%>
+	My lord, that would dishonour him.
+</REYNALDO>
+
+<SPEECH 6><ACT 2><SCENE 1><23%>
+<REYNALDO>	<23%>
+	But, my good lord,—
+</REYNALDO>
+
+<SPEECH 7><ACT 2><SCENE 1><23%>
+<REYNALDO>	<23%>
+	Ay, my lord,
+	I would know that.
+</REYNALDO>
+
+<SPEECH 8><ACT 2><SCENE 1><23%>
+<REYNALDO>	<23%>
+	Very good, my lord.
+</REYNALDO>
+
+<SPEECH 9><ACT 2><SCENE 1><23%>
+<REYNALDO>	<24%>
+	At 'closes in the consequence.'
+	At 'friend or so,' and 'gentleman.'
+</REYNALDO>
+
+<SPEECH 10><ACT 2><SCENE 1><24%>
+<REYNALDO>	<24%>
+	My lord, I have.
+</REYNALDO>
+
+<SPEECH 11><ACT 2><SCENE 1><24%>
+<REYNALDO>	<24%>
+	Good my lord!
+</REYNALDO>
+
+<SPEECH 12><ACT 2><SCENE 1><24%>
+<REYNALDO>	<24%>
+	I shall, my lord.
+</REYNALDO>
+
+<SPEECH 13><ACT 2><SCENE 1><24%>
+<REYNALDO>	<24%>
+	Well, my lord.
+</REYNALDO>
+

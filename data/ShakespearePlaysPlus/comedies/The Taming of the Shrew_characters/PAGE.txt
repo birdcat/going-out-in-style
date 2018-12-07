@@ -1,0 +1,48 @@
+<SPEECH 1><ACT ?><SCENE 2><8%>
+<PAGE>	<10%>
+	How fares my noble lord?
+</PAGE>
+
+<SPEECH 2><ACT ?><SCENE 2><8%>
+<PAGE>	<10%>
+	Here, noble lord: what is thy will with her?
+</PAGE>
+
+<SPEECH 3><ACT ?><SCENE 2><9%>
+<PAGE>	<10%>
+	My husband and my lord, my lord and husband;
+	I am your wife in all obedience.
+</PAGE>
+
+<SPEECH 4><ACT ?><SCENE 2><9%>
+<PAGE>	<10%>
+	Ay, and the time seems thirty unto me,
+	Being all this time abandon'd from your bed.
+</PAGE>
+
+<SPEECH 5><ACT ?><SCENE 2><9%>
+<PAGE>	<10%>
+	Thrice noble lord, let me entreat of you
+	To pardon me yet for a night or two,
+	Or, if not so, until the sun be set:
+	For your physicians have expressly charg'd,
+	In peril to incur your former malady,
+	That I should yet absent me from your bed:
+	I hope this reason stands for my excuse.
+</PAGE>
+
+<SPEECH 6><ACT ?><SCENE 2><10%>
+<PAGE>	<11%>
+	No, my good lord; it is more pleasing stuff.
+</PAGE>
+
+<SPEECH 7><ACT ?><SCENE 2><10%>
+<PAGE>	<11%>
+	It is a kind of history.
+</PAGE>
+
+<SPEECH 8><ACT 1><SCENE 1><19%>
+<PAGE>	<20%>
+	My lord, 'tis but begun.
+</PAGE>
+

@@ -1,0 +1,180 @@
+<SPEECH 1><ACT 3><SCENE 2><52%>
+<SURREY>	<53%>
+	I am joyful
+	To meet the least occasion that may give me
+	Remembrance of my father-in-law, the duke,
+	To be reveng'd on him.
+</SURREY>
+
+<SPEECH 2><ACT 3><SCENE 2><53%>
+<SURREY>	<53%>
+	Sir,
+	I should be glad to hear such news as this
+	Once every hour.
+</SURREY>
+
+<SPEECH 3><ACT 3><SCENE 2><53%>
+<SURREY>	<53%>
+	How came
+	His practices to light?
+</SURREY>
+
+<SPEECH 4><ACT 3><SCENE 2><53%>
+<SURREY>	<54%>
+	O! how? how?
+</SURREY>
+
+<SPEECH 5><ACT 3><SCENE 2><53%>
+<SURREY>	<54%>
+	Has the king this?
+</SURREY>
+
+<SPEECH 6><ACT 3><SCENE 2><53%>
+<SURREY>	<54%>
+	Will this work?
+</SURREY>
+
+<SPEECH 7><ACT 3><SCENE 2><53%>
+<SURREY>	<54%>
+	Would he had!
+</SURREY>
+
+<SPEECH 8><ACT 3><SCENE 2><54%>
+<SURREY>	<54%>
+	Now all my joy
+	Trace the conjunction!
+</SURREY>
+
+<SPEECH 9><ACT 3><SCENE 2><54%>
+<SURREY>	<54%>
+	But will the king
+	Digest this letter of the cardinal's?
+	The Lord forbid!
+</SURREY>
+
+<SPEECH 10><ACT 3><SCENE 2><55%>
+<SURREY>	<56%>
+	Sharp enough,
+	Lord, for thy justice!
+</SURREY>
+
+<SPEECH 11><ACT 3><SCENE 2><56%>
+<SURREY>	<56%>
+	I would 'twere something that would fret the string,
+	The master-cord on's heart!
+
+</SURREY>
+
+<SPEECH 12><ACT 3><SCENE 2><58%>
+<SURREY>	<58%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> The Lord increase this business!
+</SURREY>
+
+<SPEECH 13><ACT 3><SCENE 2><60%>
+<SURREY>	<61%>
+	The king, that gave it.
+</SURREY>
+
+<SPEECH 14><ACT 3><SCENE 2><61%>
+<SURREY>	<61%>
+	Thou art a proud traitor, priest.
+</SURREY>
+
+<SPEECH 15><ACT 3><SCENE 2><61%>
+<SURREY>	<61%>
+	Thy ambition,
+	Thou scarlet sin, robb'd this bewailing land
+	Of noble Buckingham, my father-in-law:
+	The heads of all thy brother cardinals—
+	With thee and all thy best parts bound together—
+	Weigh'd not a hair of his. Plague of your policy!
+	You sent me deputy for Ireland,
+	Far from his succour, from the king, from all
+	That might have mercy on the fault thou gav'st him;
+	Whilst your great goodness, out of holy pity,
+	Absolv'd him with an axe.
+</SURREY>
+
+<SPEECH 16><ACT 3><SCENE 2><61%>
+<SURREY>	<62%>
+	By my soul,
+	Your long coat, priest, protects you; thou shouldst feel
+	My sword i' the life-blood of thee else. My lords,
+	Can ye endure to hear this arrogance?
+	And from this fellow? If we live thus tamely,
+	To be thus jaded by a piece of scarlet,
+	Farewell nobility; let his Grace go forward,
+	And dare us with his cap like larks.
+</SURREY>
+
+<SPEECH 17><ACT 3><SCENE 2><61%>
+<SURREY>	<62%>
+	Yes, that goodness
+	Of gleaning all the land's wealth into one,
+	Into your own hands, cardinal, by extortion;
+	The goodness of your intercepted packets,
+	You writ to the pope against the king; your goodness,
+	Since you provoke me, shall be most notorious.
+	My Lord of Norfolk, as you are truly noble,
+	As you respect the common good, the state
+	Of our despis'd nobility, our issues,
+	Who, if he live, will scarce be gentlemen,
+	Produce the grand sum of his sins, the articles
+	Collected from his life; I'll startle you
+	Worse than the sacring bell, when the brown wench
+	Lay kissing in your arms, Lord Cardinal.
+</SURREY>
+
+<SPEECH 18><ACT 3><SCENE 2><62%>
+<SURREY>	<63%>
+	This cannot save you:
+	I thank my memory, I yet remember
+	Some of these articles; and out they shall.
+	Now, if you can blush, and cry 'guilty,' cardinal,
+	You'll show a little honesty.
+</SURREY>
+
+<SPEECH 19><ACT 3><SCENE 2><62%>
+<SURREY>	<63%>
+	I had rather want those than my head. Have at you!
+	First, that, without the king's assent or know ledge,
+	You wrought to be a legate; by which power
+	You maim'd the jurisdiction of all bishops.
+</SURREY>
+
+<SPEECH 20><ACT 3><SCENE 2><63%>
+<SURREY>	<63%>
+	Item, you sent a large commission
+	To Gregory de Cassado, to conclude,
+	Without the king's will or the state's allowance,
+	A league between his highness and Ferrara.
+</SURREY>
+
+<SPEECH 21><ACT 3><SCENE 2><63%>
+<SURREY>	<63%>
+	Then, that you have sent innumerable substance,—
+	By what means got I leave to your own conscience,—
+	To furnish Rome, and to prepare the ways
+	You have for dignities; to the mere undoing
+	Of all the kingdom. Many more there are;
+	Which, since they are of you, and odious,
+	I will not taint my mouth with.
+</SURREY>
+
+<SPEECH 22><ACT 3><SCENE 2><63%>
+<SURREY>	<64%>
+	I forgive him.
+</SURREY>
+
+<SPEECH 23><ACT 5><SCENE 3><91%>
+<SURREY>	<91%>
+	'Tis no counterfeit.
+</SURREY>
+
+<SPEECH 24><ACT 5><SCENE 3><92%>
+<SURREY>	<92%>
+	May it please your Grace,—
+</SURREY>
+

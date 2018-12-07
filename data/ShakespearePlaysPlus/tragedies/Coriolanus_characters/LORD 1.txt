@@ -1,0 +1,29 @@
+<SPEECH 1><ACT 5><SCENE 5><97%>
+<LORD 1>	<97%>
+	And grieve to hear 't.
+	What faults he made before the last, I think
+	Might have found easy fines; but there to end
+	Where he was to begin, and give away
+	The benefit of our levies, answering us
+	With our own charge, making a treaty where
+	There was a yielding, this admits no excuse.
+</LORD 1>
+
+<SPEECH 2><ACT 5><SCENE 5><98%>
+<LORD 1>	<99%>
+	Peace, both, and hear me speak.
+</LORD 1>
+
+<SPEECH 3><ACT 5><SCENE 5><99%>
+<LORD 1>	<99%>
+	O Tullus!
+</LORD 1>
+
+<SPEECH 4><ACT 5><SCENE 5><99%>
+<LORD 1>	<100%>
+	Bear from hence his body;
+	And mourn you for him! Let him be regarded
+	As the most noble corse that ever herald
+	Did follow to his urn.
+</LORD 1>
+

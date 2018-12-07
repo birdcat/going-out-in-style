@@ -1,0 +1,50 @@
+<SPEECH 1><ACT 1><SCENE 4><18%>
+<BOLINGBROKE>	<19%>
+	Master Hume, we are therefore provided. Will her ladyship behold and hear our exorcisms?
+</BOLINGBROKE>
+
+<SPEECH 2><ACT 1><SCENE 4><18%>
+<BOLINGBROKE>	<19%>
+	I have heard her reported to be a woman of invincible spirit: but it shall be convenient, Master Hume, that you be by her aloft while we be busy below; and so, I pray you, go in God's name, and leave us. <STAGE DIR>
+<Exit Hume.>
+</STAGE DIR> Mother Jourdain, be you prostrate, and grovel on the earth; John Southwell, read you; and let us to our work.
+
+</BOLINGBROKE>
+
+<SPEECH 3><ACT 1><SCENE 4><18%>
+<BOLINGBROKE>	<19%>
+	Patience, good lady; wizards know their times:
+	Deep night, dark night, the silent of the night,
+	The time of night when Troy was set on fire;
+	The time when screech-owls cry, and ban-dogs howl,
+	And spirits walk, and ghosts break up their graves,
+	That time best fits the work we have in hand.
+	Madam, sit you, and fear not: whom we raise
+	We will make fast within a hallow'd verge.
+</BOLINGBROKE>
+
+<SPEECH 4><ACT 1><SCENE 4><19%>
+<BOLINGBROKE>	<19%>
+	First, of the king: what shall of him become?
+</BOLINGBROKE>
+
+<SPEECH 5><ACT 1><SCENE 4><19%>
+<BOLINGBROKE>	<20%>
+	What fate awaits the Duke of Suffolk?
+</BOLINGBROKE>
+
+<SPEECH 6><ACT 1><SCENE 4><19%>
+<BOLINGBROKE>	<20%>
+	What shall befall the Duke of Somerset?
+</BOLINGBROKE>
+
+<SPEECH 7><ACT 1><SCENE 4><19%>
+<BOLINGBROKE>	<20%>
+	Descend to darkness and the burning lake!
+	False fiend, avoid!
+<STAGE DIR>
+<Thunder and lightning. Spirit descends.>
+</STAGE DIR>
+
+</BOLINGBROKE>
+

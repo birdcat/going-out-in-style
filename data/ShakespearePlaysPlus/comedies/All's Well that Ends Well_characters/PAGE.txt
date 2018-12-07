@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 1><6%>
+<PAGE>	<7%>
+	Monsieur Parolles, my lord calls for you.
+</PAGE>
+

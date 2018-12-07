@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 4><SCENE 2><68%>
+<PETER>	<69%>
+	Foreknowing that the truth will fall out so.
+</PETER>
+

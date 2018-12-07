@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 2><SCENE 1><17%>
+<LORD 1>	<18%>
+	Lord Longaville is one.
+</LORD 1>
+
+<SPEECH 2><ACT 2><SCENE 1><19%>
+<LORD 1>	<20%>
+	Here comes Boyet.
+
+</LORD 1>
+

@@ -1,0 +1,36 @@
+<SPEECH 1><ACT 2><SCENE 3><36%>
+<CITIZEN 1>	<36%>
+	Good morrow, neighbour: whither away so fast?
+</CITIZEN 1>
+
+<SPEECH 2><ACT 2><SCENE 3><36%>
+<CITIZEN 1>	<37%>
+	Ay; that the king is dead.
+</CITIZEN 1>
+
+<SPEECH 3><ACT 2><SCENE 3><36%>
+<CITIZEN 1>	<37%>
+	Give you good morrow, sir.
+</CITIZEN 1>
+
+<SPEECH 4><ACT 2><SCENE 3><36%>
+<CITIZEN 1>	<37%>
+	No, no; by God's good grace, his son shall reign.
+</CITIZEN 1>
+
+<SPEECH 5><ACT 2><SCENE 3><37%>
+<CITIZEN 1>	<37%>
+	So stood the state when Henry the Sixth
+	Was crown'd at Paris but at nine months old.
+</CITIZEN 1>
+
+<SPEECH 6><ACT 2><SCENE 3><37%>
+<CITIZEN 1>	<37%>
+	Why, so hath this, both by his father and mother.
+</CITIZEN 1>
+
+<SPEECH 7><ACT 2><SCENE 3><37%>
+<CITIZEN 1>	<37%>
+	Come, come, we fear the worst, all will be well.
+</CITIZEN 1>
+

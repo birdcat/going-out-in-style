@@ -1,0 +1,102 @@
+<SPEECH 1><ACT 3><SCENE 2><54%>
+<CITIZEN 2>	<56%>
+	I will hear Cassius; and compare their reasons,
+	When severally we hear them rendered.
+</CITIZEN 2>
+
+<SPEECH 2><ACT 3><SCENE 2><56%>
+<CITIZEN 2>	<57%>
+	Give him a statue with his ancestors.
+</CITIZEN 2>
+
+<SPEECH 3><ACT 3><SCENE 2><56%>
+<CITIZEN 2>	<58%>
+	Peace! silence! Brutus speaks.
+</CITIZEN 2>
+
+<SPEECH 4><ACT 3><SCENE 2><57%>
+<CITIZEN 2>	<58%>
+	Peace! let us hear what Antony can say.
+</CITIZEN 2>
+
+<SPEECH 5><ACT 3><SCENE 2><58%>
+<CITIZEN 2>	<60%>
+	If thou consider rightly of the matter,
+	Cæsar has had great wrong.
+</CITIZEN 2>
+
+<SPEECH 6><ACT 3><SCENE 2><58%>
+<CITIZEN 2>	<60%>
+	Poor soul! his eyes are red as fire with weeping.
+</CITIZEN 2>
+
+<SPEECH 7><ACT 3><SCENE 2><60%>
+<CITIZEN 2>	<62%>
+	They were villains, murderers. The will! read the will.
+</CITIZEN 2>
+
+<SPEECH 8><ACT 3><SCENE 2><60%>
+<CITIZEN 2>	<62%>
+	Descend.
+</CITIZEN 2>
+
+<SPEECH 9><ACT 3><SCENE 2><60%>
+<CITIZEN 2>	<62%>
+	Room for Antony; most noble Antony.
+</CITIZEN 2>
+
+<SPEECH 10><ACT 3><SCENE 2><62%>
+<CITIZEN 2>	<63%>
+	O noble Cæsar!
+</CITIZEN 2>
+
+<SPEECH 11><ACT 3><SCENE 2><62%>
+<CITIZEN 2>	<63%>
+	We will be revenged.
+</CITIZEN 2>
+
+<SPEECH 12><ACT 3><SCENE 2><62%>
+<CITIZEN 2>	<64%>
+	We'll hear him, we'll follow him, we'll die with him.
+</CITIZEN 2>
+
+<SPEECH 13><ACT 3><SCENE 2><63%>
+<CITIZEN 2>	<65%>
+	Most noble Cæsar! we'll revenge his death.
+</CITIZEN 2>
+
+<SPEECH 14><ACT 3><SCENE 2><64%>
+<CITIZEN 2>	<65%>
+	Go fetch fire.
+</CITIZEN 2>
+
+<SPEECH 15><ACT 3><SCENE 3><65%>
+<CITIZEN 2>	<66%>
+	Whither are you going?
+</CITIZEN 2>
+
+<SPEECH 16><ACT 3><SCENE 3><65%>
+<CITIZEN 2>	<66%>
+	Answer every man directly.
+</CITIZEN 2>
+
+<SPEECH 17><ACT 3><SCENE 3><65%>
+<CITIZEN 2>	<67%>
+	That's as much as to say, they are fools that marry; you'll bear me a bang for that, I fear. Proceed; directly.
+</CITIZEN 2>
+
+<SPEECH 18><ACT 3><SCENE 3><66%>
+<CITIZEN 2>	<67%>
+	That matter is answered directly.
+</CITIZEN 2>
+
+<SPEECH 19><ACT 3><SCENE 3><66%>
+<CITIZEN 2>	<67%>
+	Tear him to pieces; he's a conspirator.
+</CITIZEN 2>
+
+<SPEECH 20><ACT 3><SCENE 3><66%>
+<CITIZEN 2>	<67%>
+	It is no matter, his name's Cinna; pluck but his name out of his heart, and turn him going.
+</CITIZEN 2>
+

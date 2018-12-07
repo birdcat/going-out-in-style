@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 1><64%>
+<SOLDIER 2>	<65%>
+	Captain, I will.
+</SOLDIER 2>
+
+<SPEECH 2><ACT 4><SCENE 1><65%>
+<SOLDIER 2>	<65%>
+	So I will, sir.
+</SOLDIER 2>
+

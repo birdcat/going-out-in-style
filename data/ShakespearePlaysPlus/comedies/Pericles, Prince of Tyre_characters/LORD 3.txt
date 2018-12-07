@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 2><SCENE 2><31%>
+<LORD 3>	<32%>
+	And on set purpose let his armour rust
+	Until this day, to scour it in the dust.
+</LORD 3>
+
+<SPEECH 2><ACT 2><SCENE 4><37%>
+<LORD 3>	<38%>
+	And curs'd be he that will not second it.
+</LORD 3>
+

@@ -1,0 +1,427 @@
+<SPEECH 1><ACT 1><SCENE 2><10%>
+<MOTH>	<11%>
+	A great sign, sir, that he will look sad.
+</MOTH>
+
+<SPEECH 2><ACT 1><SCENE 2><10%>
+<MOTH>	<11%>
+	No, no; O Lord, sir, no.
+</MOTH>
+
+<SPEECH 3><ACT 1><SCENE 2><10%>
+<MOTH>	<11%>
+	By a familiar demonstration of the working, my tough senior.
+</MOTH>
+
+<SPEECH 4><ACT 1><SCENE 2><10%>
+<MOTH>	<11%>
+	Why tender juvenal? why tender juvenal?
+</MOTH>
+
+<SPEECH 5><ACT 1><SCENE 2><10%>
+<MOTH>	<11%>
+	And I, tough senior, as an appertinent title to your old time, which we may name tough.
+</MOTH>
+
+<SPEECH 6><ACT 1><SCENE 2><11%>
+<MOTH>	<11%>
+	How mean you, sir? I pretty, and my saying apt? or I apt, and my saying pretty?
+</MOTH>
+
+<SPEECH 7><ACT 1><SCENE 2><11%>
+<MOTH>	<11%>
+	Little pretty, because little. Wherefore apt?
+</MOTH>
+
+<SPEECH 8><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+	Speak you this in my praise, master?
+</MOTH>
+
+<SPEECH 9><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+	I will praise an eel with the same praise.
+</MOTH>
+
+<SPEECH 10><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+	That an eel is quick.
+</MOTH>
+
+<SPEECH 11><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+	I am answered, sir.
+</MOTH>
+
+<SPEECH 12><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> He speaks the mere contrary: crosses love not him.
+</MOTH>
+
+<SPEECH 13><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+	You may do it in an hour, sir.
+</MOTH>
+
+<SPEECH 14><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+	How many is one thrice told?
+</MOTH>
+
+<SPEECH 15><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+	You are a gentleman and a gamester, sir.
+</MOTH>
+
+<SPEECH 16><ACT 1><SCENE 2><11%>
+<MOTH>	<12%>
+	Then, I am sure you know how much the gross sum of deuce-ace amounts to.
+</MOTH>
+
+<SPEECH 17><ACT 1><SCENE 2><12%>
+<MOTH>	<12%>
+	Which the base vulgar do call three.
+</MOTH>
+
+<SPEECH 18><ACT 1><SCENE 2><12%>
+<MOTH>	<12%>
+	Why, sir, is this such a piece of study? Now, here's three studied, ere you'll thrice wink; and how easy it is to put 'years' to the word 'three,' and study three years in two words, the dancing horse will tell you.
+</MOTH>
+
+<SPEECH 19><ACT 1><SCENE 2><12%>
+<MOTH>	<12%>
+	To prove you a cipher.
+</MOTH>
+
+<SPEECH 20><ACT 1><SCENE 2><12%>
+<MOTH>	<13%>
+	Hercules, master.
+</MOTH>
+
+<SPEECH 21><ACT 1><SCENE 2><12%>
+<MOTH>	<13%>
+	Samson, master: he was a man of good carriage, great carriage, for he carried the towngates on his back like a porter; and he was in love.
+</MOTH>
+
+<SPEECH 22><ACT 1><SCENE 2><13%>
+<MOTH>	<13%>
+	A woman, master.
+</MOTH>
+
+<SPEECH 23><ACT 1><SCENE 2><13%>
+<MOTH>	<13%>
+	Of all the four, or the three, or the two, or one of the four.
+</MOTH>
+
+<SPEECH 24><ACT 1><SCENE 2><13%>
+<MOTH>	<13%>
+	Of the sea-water green, sir.
+</MOTH>
+
+<SPEECH 25><ACT 1><SCENE 2><13%>
+<MOTH>	<13%>
+	As I have read, sir; and the best of them too.
+</MOTH>
+
+<SPEECH 26><ACT 1><SCENE 2><13%>
+<MOTH>	<14%>
+	It was so, sir, for she had a green wit.
+</MOTH>
+
+<SPEECH 27><ACT 1><SCENE 2><13%>
+<MOTH>	<14%>
+	Most maculate thoughts, master, are masked under such colours.
+</MOTH>
+
+<SPEECH 28><ACT 1><SCENE 2><13%>
+<MOTH>	<14%>
+	My father's wit, and my mother's tongue, assist me!
+</MOTH>
+
+<SPEECH 29><ACT 1><SCENE 2><13%>
+<MOTH>	<14%>
+
+	If she be made of white and red,
+	Her faults will ne'er be known,
+	For blushing cheeks by faults are bred,
+	And fears by pale white shown:
+	Then if she fear, or be to blame,
+	By this you shall not know,
+	For still her cheeks possess the same
+	Which native she doth owe.
+
+	A dangerous rime, master, against the reason of white and red.
+</MOTH>
+
+<SPEECH 30><ACT 1><SCENE 2><14%>
+<MOTH>	<14%>
+	The world was very guilty of such a ballad some three ages since; but I think now 'tis not to be found; or, if it were, it would neither serve for the writing nor the tune.
+</MOTH>
+
+<SPEECH 31><ACT 1><SCENE 2><14%>
+<MOTH>	<14%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> To be whipped; and yet a better love than my master.
+</MOTH>
+
+<SPEECH 32><ACT 1><SCENE 2><14%>
+<MOTH>	<15%>
+	And that's great marvel, loving a light wench.
+</MOTH>
+
+<SPEECH 33><ACT 1><SCENE 2><14%>
+<MOTH>	<15%>
+	Forbear till this company be past.
+
+</MOTH>
+
+<SPEECH 34><ACT 1><SCENE 2><15%>
+<MOTH>	<16%>
+	Come, you transgressing slave: away!
+</MOTH>
+
+<SPEECH 35><ACT 1><SCENE 2><15%>
+<MOTH>	<16%>
+	No, sir; that were fast and loose: thou shalt to prison.
+</MOTH>
+
+<SPEECH 36><ACT 1><SCENE 2><15%>
+<MOTH>	<16%>
+	What shall some see?
+</MOTH>
+
+<SPEECH 37><ACT 3><SCENE 1><26%>
+<MOTH>	<26%>
+<STAGE DIR>
+<Singing.>
+</STAGE DIR> Concolinel,—
+</MOTH>
+
+<SPEECH 38><ACT 3><SCENE 1><26%>
+<MOTH>	<27%>
+	Master, will you win your love with a French brawl?
+</MOTH>
+
+<SPEECH 39><ACT 3><SCENE 1><26%>
+<MOTH>	<27%>
+	No, my complete master; but to jig off a tune at the tongue's end, canary to it with your feet, humour it with turning up your eyelids, sigh a note and sing a note, sometime through the throat, as if you swallowed love by singing love, sometime through the nose, as if you snuffed up love by smelling love; with your hat penthouse-like o'er the shop of your eyes; with your arms crossed on your thin belly-doublet like a rabbit on a spit; or your hands in your pocket like a man after the old painting; and keep not too long in one tune, but a snip and away. These are complements, these are humours, these betray nice wenches, that would be betrayed without these; and make them men of note,—do you note me?—that most are affected to these.
+</MOTH>
+
+<SPEECH 40><ACT 3><SCENE 1><27%>
+<MOTH>	<27%>
+	By my penny of observation.
+</MOTH>
+
+<SPEECH 41><ACT 3><SCENE 1><27%>
+<MOTH>	<27%>
+	'The hobby-horse is forgot.'
+</MOTH>
+
+<SPEECH 42><ACT 3><SCENE 1><27%>
+<MOTH>	<27%>
+	No, master; the hobby-horse is but a colt, and your love perhaps, a hackney. But have you forgot your love?
+</MOTH>
+
+<SPEECH 43><ACT 3><SCENE 1><27%>
+<MOTH>	<27%>
+	Negligent student! learn her by heart.
+</MOTH>
+
+<SPEECH 44><ACT 3><SCENE 1><27%>
+<MOTH>	<28%>
+	And out of heart, master: all those three I will prove.
+</MOTH>
+
+<SPEECH 45><ACT 3><SCENE 1><27%>
+<MOTH>	<28%>
+	A man, if I live; and this, by, in, and without, upon the instant: by heart you love her, because your heart cannot come by her; in heart you love her, because your heart is in love with her; and out of heart you love her, being out of heart that you cannot enjoy her.
+</MOTH>
+
+<SPEECH 46><ACT 3><SCENE 1><27%>
+<MOTH>	<28%>
+	And three times as much more, and yet nothing at all.
+</MOTH>
+
+<SPEECH 47><ACT 3><SCENE 1><28%>
+<MOTH>	<28%>
+	A message well sympathized: a horse to be ambassador for an ass.
+</MOTH>
+
+<SPEECH 48><ACT 3><SCENE 1><28%>
+<MOTH>	<28%>
+	Marry, sir, you must send the ass upon the horse, for he is very slow-gaited. But I go.
+</MOTH>
+
+<SPEECH 49><ACT 3><SCENE 1><28%>
+<MOTH>	<28%>
+	As swift as lead, sir.
+</MOTH>
+
+<SPEECH 50><ACT 3><SCENE 1><28%>
+<MOTH>	<28%>
+	Minime, honest master; or rather, master, no.
+</MOTH>
+
+<SPEECH 51><ACT 3><SCENE 1><28%>
+<MOTH>	<28%>
+	You are too swift, sir, to say so:
+	Is that lead slow which is fir'd from a gun?
+</MOTH>
+
+<SPEECH 52><ACT 3><SCENE 1><28%>
+<MOTH>	<28%>
+	Thump then, and I flee.
+</MOTH>
+
+<SPEECH 53><ACT 3><SCENE 1><28%>
+<MOTH>	<29%>
+	A wonder, master! here's a costard broken in a shin.
+</MOTH>
+
+<SPEECH 54><ACT 3><SCENE 1><29%>
+<MOTH>	<29%>
+	Do the wise think them other? is not l'envoy a salve?
+</MOTH>
+
+<SPEECH 55><ACT 3><SCENE 1><29%>
+<MOTH>	<29%>
+	I will add the l'envoy. Say the moral again.
+</MOTH>
+
+<SPEECH 56><ACT 3><SCENE 1><29%>
+<MOTH>	<29%>
+
+	Until the goose came out of door,
+	And stay'd the odds by adding four.
+
+	Now will I begin your moral, and do you follow with my l'envoy.
+
+	The fox, the ape, and the humble-bee,
+	Were still at odds, being but three.
+
+</MOTH>
+
+<SPEECH 57><ACT 3><SCENE 1><29%>
+<MOTH>	<30%>
+	A good l'envoy, ending in the goose.
+	Would you desire more?
+</MOTH>
+
+<SPEECH 58><ACT 3><SCENE 1><30%>
+<MOTH>	<30%>
+	By saying that a costard was broken in a shin.
+	Then call'd you for the l'envoy.
+</MOTH>
+
+<SPEECH 59><ACT 3><SCENE 1><30%>
+<MOTH>	<30%>
+	I will tell you sensibly.
+</MOTH>
+
+<SPEECH 60><ACT 3><SCENE 1><31%>
+<MOTH>	<31%>
+	Like the sequel, I. Signior Costard, adieu.
+</MOTH>
+
+<SPEECH 61><ACT 5><SCENE 1><60%>
+<MOTH>	<62%>
+<STAGE DIR>
+<Aside to Costard.>
+</STAGE DIR> They have been at a great feast of languages, and stolen the scraps.
+</MOTH>
+
+<SPEECH 62><ACT 5><SCENE 1><61%>
+<MOTH>	<62%>
+	Peace! the peal begins.
+</MOTH>
+
+<SPEECH 63><ACT 5><SCENE 1><61%>
+<MOTH>	<62%>
+	Yes, yes; he teaches boys the hornbook. What is a, b, spelt backward, with the horn on his head?
+</MOTH>
+
+<SPEECH 64><ACT 5><SCENE 1><61%>
+<MOTH>	<62%>
+	Ba! most silly sheep with a horn. You hear his learning.
+</MOTH>
+
+<SPEECH 65><ACT 5><SCENE 1><61%>
+<MOTH>	<62%>
+	The third of the five vowels, if you repeat them; or the fifth, if I.
+</MOTH>
+
+<SPEECH 66><ACT 5><SCENE 1><61%>
+<MOTH>	<62%>
+	The sheep; the other two concludes it,—o, u.
+</MOTH>
+
+<SPEECH 67><ACT 5><SCENE 1><61%>
+<MOTH>	<62%>
+	Offered by a child to an old man; which is wit-old.
+</MOTH>
+
+<SPEECH 68><ACT 5><SCENE 1><61%>
+<MOTH>	<63%>
+	Horns.
+</MOTH>
+
+<SPEECH 69><ACT 5><SCENE 1><61%>
+<MOTH>	<63%>
+	Lend me your horn to make one, and I will whip about your infamy circum circa. A gig of a cuckold's horn.
+</MOTH>
+
+<SPEECH 70><ACT 5><SCENE 1><64%>
+<MOTH>	<65%>
+	An excellent device! so, if any of the audience hiss, you may cry, 'Well done, Hercules! now thou crushest the snake!' that is the way to make an offence gracious, though few have the grace to do it.
+</MOTH>
+
+<SPEECH 71><ACT 5><SCENE 1><64%>
+<MOTH>	<65%>
+	Thrice-worthy gentleman!
+</MOTH>
+
+<SPEECH 72><ACT 5><SCENE 2><70%>
+<MOTH>	<72%>
+	All hail, the richest beauties on the earth!
+</MOTH>
+
+<SPEECH 73><ACT 5><SCENE 2><70%>
+<MOTH>	<72%>
+	A holy parcel of the fairest dames,
+<STAGE DIR>
+<The Ladies turn their backs to him.>
+</STAGE DIR>
+	That ever turn'd their—backs—to mortal views!
+</MOTH>
+
+<SPEECH 74><ACT 5><SCENE 2><70%>
+<MOTH>	<72%>
+	That ever turn'd their eyes to mortal views!
+	Out—
+</MOTH>
+
+<SPEECH 75><ACT 5><SCENE 2><71%>
+<MOTH>	<72%>
+	'Out of your favours, heavenly spirits, vouchsafe
+	Not to behold'—
+</MOTH>
+
+<SPEECH 76><ACT 5><SCENE 2><71%>
+<MOTH>	<72%>
+	'Once to behold with your sun-beamed eyes,
+	—with your sun-beamed eyes'—
+</MOTH>
+
+<SPEECH 77><ACT 5><SCENE 2><71%>
+<MOTH>	<72%>
+	They do not mark me, and that brings me out.
+</MOTH>
+
+<SPEECH 78><ACT 5><SCENE 2><92%>
+<MOTH>	<92%>
+	Master, let me take you a button-hole lower. Do you not see Pompey is uncasing for the combat? What mean you? you will lose your reputation.
+</MOTH>
+

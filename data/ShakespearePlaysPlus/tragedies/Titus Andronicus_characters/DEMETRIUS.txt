@@ -1,0 +1,264 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+<DEMETRIUS>	<6%>
+	Oppose not Scythia to ambitious Rome.
+	Alarbus goes to rest, and we survive
+	To tremble under Titus' threatening look.
+	Then, madam, stand resolv'd; but hope withal
+	The self-same gods, that arm'd the Queen of Troy
+	With opportunity of sharp revenge
+	Upon the Thracian tyrant in his tent,
+	May favour Tamora, the Queen of Goths—
+	When Goths were Goths, and Tamora was queen—
+	To quit the bloody wrongs upon her foes.
+
+</DEMETRIUS>
+
+<SPEECH 2><ACT 2><SCENE 1><20%>
+<DEMETRIUS>	<21%>
+	Chiron, thy years want wit, thy wit wants edge
+	And manners, to intrude where I am grac'd,
+	And may, for aught thou know'st, affected be.
+</DEMETRIUS>
+
+<SPEECH 3><ACT 2><SCENE 1><21%>
+<DEMETRIUS>	<21%>
+	Why, boy, although our mother, unadvis'd,
+	Gave you a dancing-rapier by your side,
+	Are you so desperate grown, to threat your friends?
+	Go to; have your lath glu'd within your sheath
+	Till you know better how to handle it.
+</DEMETRIUS>
+
+<SPEECH 4><ACT 2><SCENE 1><21%>
+<DEMETRIUS>	<22%>
+	Ay, boy, grow ye so brave?
+</DEMETRIUS>
+
+<SPEECH 5><ACT 2><SCENE 1><21%>
+<DEMETRIUS>	<22%>
+	Not I, till I have sheath'd
+	My rapier in his bosom, and withal
+	Thrust those reproachful speeches down his throat
+	That he hath breath'd in my dishonour here.
+</DEMETRIUS>
+
+<SPEECH 6><ACT 2><SCENE 1><22%>
+<DEMETRIUS>	<23%>
+	Youngling, learn thou to make some meaner choice:
+	Lavinia is thine elder brother's hope.
+</DEMETRIUS>
+
+<SPEECH 7><ACT 2><SCENE 1><23%>
+<DEMETRIUS>	<23%>
+	Why mak'st thou it so strange?
+	She is a woman, therefore may be woo'd;
+	She is a woman, therefore may be won;
+	She is Lavinia, therefore must be lov'd.
+	What, man! more water glideth by the mill
+	Than wots the miller of; and easy it is
+	Of a cut loaf to steal a shive, we know:
+	Though Bassianus be the emperor's brother,
+	Better than he have worn Vulcan's badge.
+</DEMETRIUS>
+
+<SPEECH 8><ACT 2><SCENE 1><23%>
+<DEMETRIUS>	<23%>
+	Then why should he despair that knows to court it
+	With words, fair looks, and liberality?
+	What! hast thou not full often struck a doe,
+	And borne her cleanly by the keeper's nose?
+</DEMETRIUS>
+
+<SPEECH 9><ACT 2><SCENE 1><23%>
+<DEMETRIUS>	<24%>
+	Aaron, thou hast hit it.
+</DEMETRIUS>
+
+<SPEECH 10><ACT 2><SCENE 1><23%>
+<DEMETRIUS>	<24%>
+	Nor me, so I were one.
+</DEMETRIUS>
+
+<SPEECH 11><ACT 2><SCENE 1><24%>
+<DEMETRIUS>	<25%>
+	Sit fas aut nefas, till I find the stream
+	To cool this heat, a charm to calm these fits,
+	Per Styga, per manes vehor.
+</DEMETRIUS>
+
+<SPEECH 12><ACT 2><SCENE 2><26%>
+<DEMETRIUS>	<26%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Chiron, we hunt not, we, with horse nor hound,
+	But hope to pluck a dainty doe to ground.
+</DEMETRIUS>
+
+<SPEECH 13><ACT 2><SCENE 3><29%>
+<DEMETRIUS>	<30%>
+	How now, dear sovereign, and our gracious mother!
+	Why doth your highness look so pale and wan?
+</DEMETRIUS>
+
+<SPEECH 14><ACT 2><SCENE 3><30%>
+<DEMETRIUS>	<31%>
+	This is a witness that I am thy son.
+</DEMETRIUS>
+
+<SPEECH 15><ACT 2><SCENE 3><30%>
+<DEMETRIUS>	<31%>
+	Stay, madam; here is more belongs to her:
+	First thrash the corn, than after burn the straw.
+	This minion stood upon her chastity,
+	Upon her nuptial vow, her loyalty,
+	And with that painted hope she braves your mightiness:
+	And shall she carry this unto her grave?
+</DEMETRIUS>
+
+<SPEECH 16><ACT 2><SCENE 3><31%>
+<DEMETRIUS>	<32%>
+	Listen, fair madam: let it be your glory
+	To see her tears; but be your heart to them
+	As unrelenting flint to drops of rain.
+</DEMETRIUS>
+
+<SPEECH 17><ACT 2><SCENE 3><33%>
+<DEMETRIUS>	<33%>
+	Away! for thou hast stay'd us here too long.
+</DEMETRIUS>
+
+<SPEECH 18><ACT 2><SCENE 4><38%>
+<DEMETRIUS>	<38%>
+	So, now go tell, an if thy tongue can speak,
+	Who 'twas that cut thy tongue and ravish'd thee.
+</DEMETRIUS>
+
+<SPEECH 19><ACT 2><SCENE 4><38%>
+<DEMETRIUS>	<39%>
+	See, how with signs and tokens she can scrowl.
+</DEMETRIUS>
+
+<SPEECH 20><ACT 2><SCENE 4><39%>
+<DEMETRIUS>	<39%>
+	She hath no tongue to call, nor hands to wash;
+	And so let's leave her to her silent walks.
+</DEMETRIUS>
+
+<SPEECH 21><ACT 2><SCENE 4><39%>
+<DEMETRIUS>	<39%>
+	If thou hadst hands to help thee knit the cord.
+<STAGE DIR>
+<Exeunt Demetrius and Chiron.>
+</STAGE DIR>
+
+</DEMETRIUS>
+
+<SPEECH 22><ACT 4><SCENE 2><61%>
+<DEMETRIUS>	<61%>
+	Gramercy, lovely Lucius: what's the news?
+</DEMETRIUS>
+
+<SPEECH 23><ACT 4><SCENE 2><61%>
+<DEMETRIUS>	<62%>
+	What's here? A scroll; and written round about?
+	Let's see:—
+
+<STAGE DIR>
+<Reads.>
+</STAGE DIR> 'Integer vitæ, scelerisque purus,
+	Non eget Mauri jaculis, nec arcu.
+
+</DEMETRIUS>
+
+<SPEECH 24><ACT 4><SCENE 2><62%>
+<DEMETRIUS>	<63%>
+	But me more good, to see so great a lord
+	Basely insinuate and send us gifts.
+</DEMETRIUS>
+
+<SPEECH 25><ACT 4><SCENE 2><62%>
+<DEMETRIUS>	<63%>
+	I would we had a thousand Roman dames
+	At such a bay, by turn to serve our lust.
+</DEMETRIUS>
+
+<SPEECH 26><ACT 4><SCENE 2><62%>
+<DEMETRIUS>	<63%>
+	Come, let us go and pray to all the gods
+	For our beloved mother in her pains.
+</DEMETRIUS>
+
+<SPEECH 27><ACT 4><SCENE 2><63%>
+<DEMETRIUS>	<63%>
+	Why do the emperor's trumpets flourish thus?
+</DEMETRIUS>
+
+<SPEECH 28><ACT 4><SCENE 2><63%>
+<DEMETRIUS>	<63%>
+	Soft! who comes here?
+
+</DEMETRIUS>
+
+<SPEECH 29><ACT 4><SCENE 2><64%>
+<DEMETRIUS>	<64%>
+	Villain, what hast thou done?
+</DEMETRIUS>
+
+<SPEECH 30><ACT 4><SCENE 2><64%>
+<DEMETRIUS>	<64%>
+	And therein, hellish dog, thou hast undone.
+	Woe to her chance, and damn'd her loathed choice!
+	Accurs'd the offspring of so foul a fiend!
+</DEMETRIUS>
+
+<SPEECH 31><ACT 4><SCENE 2><64%>
+<DEMETRIUS>	<65%>
+	I'll broach the tadpole on my rapier's point:
+	Nurse, give it me; my sword shall soon dispatch it.
+</DEMETRIUS>
+
+<SPEECH 32><ACT 4><SCENE 2><65%>
+<DEMETRIUS>	<65%>
+	Wilt thou betray thy noble mistress thus?
+</DEMETRIUS>
+
+<SPEECH 33><ACT 4><SCENE 2><65%>
+<DEMETRIUS>	<66%>
+	By this our mother is for ever sham'd.
+</DEMETRIUS>
+
+<SPEECH 34><ACT 4><SCENE 2><66%>
+<DEMETRIUS>	<66%>
+	Advise thee, Aaron, what is to be done,
+	And we will all subscribe to thy advice:
+	Save thou the child, so we may all be safe.
+</DEMETRIUS>
+
+<SPEECH 35><ACT 4><SCENE 2><66%>
+<DEMETRIUS>	<66%>
+	How many women saw this child of his?
+</DEMETRIUS>
+
+<SPEECH 36><ACT 4><SCENE 2><67%>
+<DEMETRIUS>	<67%>
+	What mean'st thou, Aaron? Wherefore didst thou this?
+</DEMETRIUS>
+
+<SPEECH 37><ACT 4><SCENE 2><68%>
+<DEMETRIUS>	<68%>
+	For this care of Tamora,
+	Herself and hers are highly hound to thee.
+</DEMETRIUS>
+
+<SPEECH 38><ACT 5><SCENE 2><87%>
+<DEMETRIUS>	<87%>
+	Show me a murderer, I'll deal with him.
+</DEMETRIUS>
+
+<SPEECH 39><ACT 5><SCENE 2><89%>
+<DEMETRIUS>	<89%>
+<STAGE DIR>
+<Aside to Tamora.>
+</STAGE DIR> Madam, depart at pleasure; leave us here.
+</DEMETRIUS>
+

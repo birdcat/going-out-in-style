@@ -1,0 +1,80 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+<PAGE>	<8%>
+	He said, sir, the water itself was a good healthy water; but, for the party that owed it, he might have more diseases than he knew for.
+</PAGE>
+
+<SPEECH 2><ACT 1><SCENE 2><8%>
+<PAGE>	<9%>
+	He said, sir, you should procure him better assurance than Bardolph; he would not take his bond and yours: he liked not the security.
+</PAGE>
+
+<SPEECH 3><ACT 1><SCENE 2><9%>
+<PAGE>	<10%>
+	He's gone into Smithfield to buy your worship a horse.
+</PAGE>
+
+<SPEECH 4><ACT 1><SCENE 2><9%>
+<PAGE>	<10%>
+	Sir, here comes the nobleman that committed the prince for striking him about Bardolph.
+</PAGE>
+
+<SPEECH 5><ACT 1><SCENE 2><9%>
+<PAGE>	<10%>
+	You must speak louder, my master is deaf.
+</PAGE>
+
+<SPEECH 6><ACT 1><SCENE 2><14%>
+<PAGE>	<15%>
+	Sir!
+</PAGE>
+
+<SPEECH 7><ACT 1><SCENE 2><14%>
+<PAGE>	<15%>
+	Seven groats and twopence.
+</PAGE>
+
+<SPEECH 8><ACT 2><SCENE 2><26%>
+<PAGE>	<27%>
+	A' calls me even now, my lord, through a red lattice, and I could discern no part of his face from the window: at last, I spied his eyes, and methought he had made two holes in the ale-wife's new petticoat, and peeped through.
+</PAGE>
+
+<SPEECH 9><ACT 2><SCENE 2><27%>
+<PAGE>	<27%>
+	Away, you rascally Althea's dream, away!
+</PAGE>
+
+<SPEECH 10><ACT 2><SCENE 2><27%>
+<PAGE>	<27%>
+	Marry, my lord, Althea dreamed she was delivered of a firebrand; and therefore I call him her dream.
+</PAGE>
+
+<SPEECH 11><ACT 2><SCENE 2><28%>
+<PAGE>	<29%>
+	Ephesians, my lord, of the old church.
+</PAGE>
+
+<SPEECH 12><ACT 2><SCENE 2><28%>
+<PAGE>	<29%>
+	None, my lord, but old Mistress Quickly and Mistress Doll Tearsheet.
+</PAGE>
+
+<SPEECH 13><ACT 2><SCENE 2><29%>
+<PAGE>	<29%>
+	A proper gentlewoman, sir, and a kinswoman of my master's.
+</PAGE>
+
+<SPEECH 14><ACT 2><SCENE 2><29%>
+<PAGE>	<30%>
+	And for mine, sir, I will govern it.
+</PAGE>
+
+<SPEECH 15><ACT 2><SCENE 4><36%>
+<PAGE>	<37%>
+	Pray thee, go down.
+</PAGE>
+
+<SPEECH 16><ACT 2><SCENE 4><38%>
+<PAGE>	<39%>
+	The music is come, sir.
+</PAGE>
+

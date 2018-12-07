@@ -1,0 +1,88 @@
+<SPEECH 1><ACT 1><SCENE 4><8%>
+<PHILARIO>	<9%>
+	You speak of him when he was less furnished than now he is with that which makes him both without and within.
+</PHILARIO>
+
+<SPEECH 2><ACT 1><SCENE 4><9%>
+<PHILARIO>	<9%>
+	His father and I were soldiers together; to whom I have been often bound for no less than my life. Here comes the Briton: let him be so entertained amongst you as suits, with gentlemen of your knowing, to a stranger of his quality.
+
+</PHILARIO>
+
+<SPEECH 3><ACT 1><SCENE 4><11%>
+<PHILARIO>	<11%>
+	Let us leave here, gentlemen.
+</PHILARIO>
+
+<SPEECH 4><ACT 1><SCENE 4><11%>
+<PHILARIO>	<12%>
+	Gentlemen, enough of this; it came in too suddenly; let it die as it was born, and, I pray you, be better acquainted.
+</PHILARIO>
+
+<SPEECH 5><ACT 1><SCENE 4><12%>
+<PHILARIO>	<13%>
+	I will have it no lay.
+</PHILARIO>
+
+<SPEECH 6><ACT 1><SCENE 4><13%>
+<PHILARIO>	<13%>
+	Signior Iachimo will not from it. Pray, let us follow 'em.
+</PHILARIO>
+
+<SPEECH 7><ACT 2><SCENE 4><30%>
+<PHILARIO>	<31%>
+	What means do you make to him?
+</PHILARIO>
+
+<SPEECH 8><ACT 2><SCENE 4><30%>
+<PHILARIO>	<31%>
+	Your very goodness and your company
+	O'erpays all I can do. By this, your king
+	Hath heard of great Augustus; Caius Lucius
+	Will do 's commission throughly, and I think
+	He'll grant the tribute, send the arrearages,
+	Or look upon our Romans, whose remembrance
+	Is yet fresh in their grief.
+</PHILARIO>
+
+<SPEECH 9><ACT 2><SCENE 4><31%>
+<PHILARIO>	<31%>
+	See! Iachimo!
+
+</PHILARIO>
+
+<SPEECH 10><ACT 2><SCENE 4><31%>
+<PHILARIO>	<31%>
+	Welcome, sir.
+</PHILARIO>
+
+<SPEECH 11><ACT 2><SCENE 4><31%>
+<PHILARIO>	<32%>
+	Was Caius Lucius in the Britain court
+	When you were there?
+</PHILARIO>
+
+<SPEECH 12><ACT 2><SCENE 4><34%>
+<PHILARIO>	<34%>
+	Have patience, sir,
+	And take your ring again; 'tis not yet won:
+	It may be probable she lost it; or
+	Who knows if one of her women, being corrupted,
+	Hath stol'n it from her?
+</PHILARIO>
+
+<SPEECH 13><ACT 2><SCENE 4><34%>
+<PHILARIO>	<34%>
+	Sir, be patient:
+	This is not strong enough to be believ'd
+	Of one persuaded well of—
+</PHILARIO>
+
+<SPEECH 14><ACT 2><SCENE 4><35%>
+<PHILARIO>	<35%>
+	Quite besides
+	The government of patience! You have won:
+	Let's follow him, and pervert the present wrath
+	He hath against himself.
+</PHILARIO>
+

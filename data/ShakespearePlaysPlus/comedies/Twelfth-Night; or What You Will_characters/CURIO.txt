@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<CURIO>	<1%>
+	Will you go hunt, my lord?
+</CURIO>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<CURIO>	<1%>
+	The hart.
+</CURIO>
+
+<SPEECH 3><ACT 2><SCENE 4><34%>
+<CURIO>	<35%>
+	He is not here, so please your lordship, that should sing it.
+</CURIO>
+
+<SPEECH 4><ACT 2><SCENE 4><34%>
+<CURIO>	<35%>
+	Feste, the jester, my lord; a fool that the Lady Olivia's father took much delight in. He is about the house.
+</CURIO>
+

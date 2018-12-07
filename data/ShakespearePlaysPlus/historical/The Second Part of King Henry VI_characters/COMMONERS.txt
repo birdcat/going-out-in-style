@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 3><SCENE 2><57%>
+<COMMONERS>	<58%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> An answer from the king, my Lord of Salisbury!
+</COMMONERS>
+
+<SPEECH 2><ACT 3><SCENE 2><58%>
+<COMMONERS>	<58%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> An answer from the king, or we will all break in!
+</COMMONERS>
+

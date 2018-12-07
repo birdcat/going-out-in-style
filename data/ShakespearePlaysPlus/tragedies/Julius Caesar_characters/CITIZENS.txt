@@ -1,0 +1,66 @@
+<SPEECH 1><ACT 3><SCENE 2><54%>
+<CITIZENS>	<55%>
+	We will be satisfied: let us be satisfied.
+</CITIZENS>
+
+<SPEECH 2><ACT 3><SCENE 2><55%>
+<CITIZENS>	<57%>
+	None, Brutus, none.
+</CITIZENS>
+
+<SPEECH 3><ACT 3><SCENE 2><56%>
+<CITIZENS>	<57%>
+	Live, Brutus! live! live!
+</CITIZENS>
+
+<SPEECH 4><ACT 3><SCENE 2><57%>
+<CITIZENS>	<59%>
+	Peace, ho! let us hear him.
+</CITIZENS>
+
+<SPEECH 5><ACT 3><SCENE 2><59%>
+<CITIZENS>	<61%>
+	The will, the will! we will hear Cæsar's will.
+</CITIZENS>
+
+<SPEECH 6><ACT 3><SCENE 2><60%>
+<CITIZENS>	<62%>
+	The will! the testament!
+</CITIZENS>
+
+<SPEECH 7><ACT 3><SCENE 2><60%>
+<CITIZENS>	<62%>
+	Come down.
+</CITIZENS>
+
+<SPEECH 8><ACT 3><SCENE 2><61%>
+<CITIZENS>	<62%>
+	Stand back! room! bear back!
+</CITIZENS>
+
+<SPEECH 9><ACT 3><SCENE 2><62%>
+<CITIZENS>	<63%>
+	Revenge!—About!—Seek!—Burn!
+	Fire!—Kill!—Slay! Let not a traitor live.
+</CITIZENS>
+
+<SPEECH 10><ACT 3><SCENE 2><63%>
+<CITIZENS>	<64%>
+	We'll mutiny.
+</CITIZENS>
+
+<SPEECH 11><ACT 3><SCENE 2><63%>
+<CITIZENS>	<65%>
+	Peace, ho!—Hear Antony,—most noble Antony.
+</CITIZENS>
+
+<SPEECH 12><ACT 3><SCENE 2><63%>
+<CITIZENS>	<65%>
+	Most true. The will! let's stay and hear the will.
+</CITIZENS>
+
+<SPEECH 13><ACT 3><SCENE 2><63%>
+<CITIZENS>	<65%>
+	Peace, ho!
+</CITIZENS>
+

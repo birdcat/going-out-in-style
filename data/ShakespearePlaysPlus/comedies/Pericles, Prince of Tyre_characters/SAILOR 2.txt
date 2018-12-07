@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 3><SCENE 1><47%>
+<SAILOR 2>	<48%>
+	But sea-room, an the brine and cloudy billow kiss the moon, I care not.
+</SAILOR 2>
+
+<SPEECH 2><ACT 3><SCENE 1><48%>
+<SAILOR 2>	<49%>
+	Sir, we have a chest beneath the hatches, caulk'd and bitumed ready.
+</SAILOR 2>
+
+<SPEECH 3><ACT 3><SCENE 1><48%>
+<SAILOR 2>	<49%>
+	We are near Tarsus.
+</SAILOR 2>
+
+<SPEECH 4><ACT 3><SCENE 1><48%>
+<SAILOR 2>	<49%>
+	By break of day, if the wind cease.
+</SAILOR 2>
+

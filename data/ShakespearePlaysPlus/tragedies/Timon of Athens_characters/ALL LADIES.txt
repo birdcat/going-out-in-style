@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 2><19%>
+<ALL LADIES>	<19%>
+	Most thankfully, my lord.
+</ALL LADIES>
+

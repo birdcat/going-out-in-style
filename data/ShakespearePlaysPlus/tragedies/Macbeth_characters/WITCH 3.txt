@@ -1,0 +1,81 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<WITCH 3>	<1%>
+	That will be ere the set of sun.
+</WITCH 3>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<WITCH 3>	<1%>
+	There to meet with Macbeth.
+</WITCH 3>
+
+<SPEECH 3><ACT 1><SCENE 1><0%>
+<WITCH 3>	<1%>
+	Anon.
+</WITCH 3>
+
+<SPEECH 4><ACT 1><SCENE 3><4%>
+<WITCH 3>	<4%>
+	Sister, where thou?
+</WITCH 3>
+
+<SPEECH 5><ACT 1><SCENE 3><4%>
+<WITCH 3>	<5%>
+	And I another.
+</WITCH 3>
+
+<SPEECH 6><ACT 1><SCENE 3><5%>
+<WITCH 3>	<5%>
+	A drum! a drum!
+	Macbeth doth come.
+</WITCH 3>
+
+<SPEECH 7><ACT 1><SCENE 3><5%>
+<WITCH 3>	<6%>
+	All hail, Macbeth! that shalt be king hereafter.
+</WITCH 3>
+
+<SPEECH 8><ACT 1><SCENE 3><6%>
+<WITCH 3>	<7%>
+	Hail!
+</WITCH 3>
+
+<SPEECH 9><ACT 1><SCENE 3><6%>
+<WITCH 3>	<7%>
+	Thou shalt get kings, though thou be none:
+	So, all hail, Macbeth and Banquo!
+</WITCH 3>
+
+<SPEECH 10><ACT 4><SCENE 1><60%>
+<WITCH 3>	<61%>
+	Harper cries: 'Tis time, 'tis time.
+</WITCH 3>
+
+<SPEECH 11><ACT 4><SCENE 1><60%>
+<WITCH 3>	<61%>
+
+	Scale of dragon, tooth of wolf,
+	Witches' mummy, maw and gulf
+	Of the ravin'd salt-sea shark,
+	Root of hemlock digg'd i' the dark,
+	Liver of blaspheming Jew,
+	Gall of goat, and slips of yew
+	Sliver'd in the moon's eclipse,
+	Nose of Turk, and Tartar's lips,
+	Finger of birth-strangled babe
+	Ditch-deliver'd by a drab,
+	Make the gruel thick and slab:
+	Add thereto a tiger's chaudron,
+	For the ingredients of our cauldron.
+
+</WITCH 3>
+
+<SPEECH 12><ACT 4><SCENE 1><62%>
+<WITCH 3>	<63%>
+	We'll answer.
+</WITCH 3>
+
+<SPEECH 13><ACT 4><SCENE 1><64%>
+<WITCH 3>	<65%>
+	Show!
+</WITCH 3>
+

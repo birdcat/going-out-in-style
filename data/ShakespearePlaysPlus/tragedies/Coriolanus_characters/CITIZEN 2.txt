@@ -1,0 +1,98 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<CITIZEN 2>	<1%>
+	One word, good citizens.
+</CITIZEN 2>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<CITIZEN 2>	<1%>
+	Would you proceed especially against Caius Marcius?
+</CITIZEN 2>
+
+<SPEECH 3><ACT 1><SCENE 1><0%>
+<CITIZEN 2>	<1%>
+	Consider you what services he has done for his country?
+</CITIZEN 2>
+
+<SPEECH 4><ACT 1><SCENE 1><1%>
+<CITIZEN 2>	<1%>
+	Nay, but speak not maliciously.
+</CITIZEN 2>
+
+<SPEECH 5><ACT 1><SCENE 1><1%>
+<CITIZEN 2>	<1%>
+	What he cannot help in his nature, you account a vice in him. You must in no way say he is covetous.
+</CITIZEN 2>
+
+<SPEECH 6><ACT 1><SCENE 1><1%>
+<CITIZEN 2>	<2%>
+	Worthy Menenius Agrippa; one that hath always loved the people.
+</CITIZEN 2>
+
+<SPEECH 7><ACT 2><SCENE 3><35%>
+<CITIZEN 2>	<36%>
+	We may, sir, if we will.
+</CITIZEN 2>
+
+<SPEECH 8><ACT 2><SCENE 3><36%>
+<CITIZEN 2>	<37%>
+	Think you so? Which way do you judge my wit would fly?
+</CITIZEN 2>
+
+<SPEECH 9><ACT 2><SCENE 3><36%>
+<CITIZEN 2>	<37%>
+	Why that way?
+</CITIZEN 2>
+
+<SPEECH 10><ACT 2><SCENE 3><36%>
+<CITIZEN 2>	<37%>
+	You are never without your tricks. you may, you may.
+</CITIZEN 2>
+
+<SPEECH 11><ACT 2><SCENE 3><37%>
+<CITIZEN 2>	<38%>
+	Your own desert!
+</CITIZEN 2>
+
+<SPEECH 12><ACT 2><SCENE 3><38%>
+<CITIZEN 2>	<39%>
+	You shall ha 't, worthy sir.
+</CITIZEN 2>
+
+<SPEECH 13><ACT 2><SCENE 3><38%>
+<CITIZEN 2>	<39%>
+	An 'twere to give again,—but 'tis no matter.
+<STAGE DIR>
+<Exeunt the two Citizens.>
+</STAGE DIR>
+
+</CITIZEN 2>
+
+<SPEECH 14><ACT 2><SCENE 3><40%>
+<CITIZEN 2>	<41%>
+	Amen, sir. To my poor unworthy notice,
+	He mock'd us when he begg'd our voices.
+</CITIZEN 2>
+
+<SPEECH 15><ACT 2><SCENE 3><40%>
+<CITIZEN 2>	<41%>
+	Not one amongst us, save yourself, but says
+	He used us scornfully: he should have show'd us
+	His marks of merit, wounds receiv'd for's country.
+</CITIZEN 2>
+
+<SPEECH 16><ACT 2><SCENE 3><41%>
+<CITIZEN 2>	<42%>
+	And will deny him:
+	I'll have five hundred voices of that sound.
+</CITIZEN 2>
+
+<SPEECH 17><ACT 4><SCENE 6><79%>
+<CITIZEN 2>	<79%>
+	And so did I.
+</CITIZEN 2>
+
+<SPEECH 18><ACT 4><SCENE 6><80%>
+<CITIZEN 2>	<80%>
+	So did we all. But come, let's home.
+</CITIZEN 2>
+

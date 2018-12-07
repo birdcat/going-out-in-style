@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 2><SCENE 3><32%>
+<LORD 4>	<32%>
+	Fair one, I think not so.
+</LORD 4>
+

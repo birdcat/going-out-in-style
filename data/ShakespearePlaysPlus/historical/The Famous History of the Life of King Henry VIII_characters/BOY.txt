@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 1><79%>
+<BOY>	<79%>
+	It hath struck.
+</BOY>
+

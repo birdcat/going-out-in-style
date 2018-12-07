@@ -1,0 +1,123 @@
+<SPEECH 1><ACT 4><SCENE 3><78%>
+<MESSALA>	<79%>
+	Myself have letters of the self-same tenour.
+</MESSALA>
+
+<SPEECH 2><ACT 4><SCENE 3><78%>
+<MESSALA>	<79%>
+	That by proscription and bills of outlawry,
+	Octavius, Antony, and Lepidus,
+	Have put to death an hundred senators.
+</MESSALA>
+
+<SPEECH 3><ACT 4><SCENE 3><78%>
+<MESSALA>	<79%>
+	Cicero is dead,
+	And by that order of proscription.
+	Had you your letters from your wife, my lord?
+</MESSALA>
+
+<SPEECH 4><ACT 4><SCENE 3><78%>
+<MESSALA>	<79%>
+	Nor nothing in your letters writ of her?
+</MESSALA>
+
+<SPEECH 5><ACT 4><SCENE 3><78%>
+<MESSALA>	<79%>
+	That, methinks, is strange.
+</MESSALA>
+
+<SPEECH 6><ACT 4><SCENE 3><79%>
+<MESSALA>	<79%>
+	No, my lord.
+</MESSALA>
+
+<SPEECH 7><ACT 4><SCENE 3><79%>
+<MESSALA>	<80%>
+	Then like a Roman bear the truth I tell:
+	For certain she is dead, and by strange manner.
+</MESSALA>
+
+<SPEECH 8><ACT 4><SCENE 3><79%>
+<MESSALA>	<80%>
+	Even so great men great losses should endure.
+</MESSALA>
+
+<SPEECH 9><ACT 4><SCENE 3><81%>
+<MESSALA>	<82%>
+	Good-night, Lord Brutus.
+</MESSALA>
+
+<SPEECH 10><ACT 5><SCENE 1><87%>
+<MESSALA>	<88%>
+	What says my general?
+</MESSALA>
+
+<SPEECH 11><ACT 5><SCENE 1><88%>
+<MESSALA>	<88%>
+	Believe not so.
+</MESSALA>
+
+<SPEECH 12><ACT 5><SCENE 3><92%>
+<MESSALA>	<92%>
+	It is but change, Titinius; for Octavius
+	Is overthrown by noble Brutus' power,
+	As Cassius' legions are by Antony.
+</MESSALA>
+
+<SPEECH 13><ACT 5><SCENE 3><92%>
+<MESSALA>	<93%>
+	Where did you leave him?
+</MESSALA>
+
+<SPEECH 14><ACT 5><SCENE 3><92%>
+<MESSALA>	<93%>
+	Is not that he that lies upon the ground?
+</MESSALA>
+
+<SPEECH 15><ACT 5><SCENE 3><92%>
+<MESSALA>	<93%>
+	Is not that he?
+</MESSALA>
+
+<SPEECH 16><ACT 5><SCENE 3><92%>
+<MESSALA>	<93%>
+	Mistrust of good success hath done this deed.
+	O hateful error, melancholy's child!
+	Why dost thou show to the apt thoughts of men
+	The things that are not? O error! soon conceiv'd,
+	Thou never com'st unto a happy birth,
+	But kill'st the mother that engender'd thee.
+</MESSALA>
+
+<SPEECH 17><ACT 5><SCENE 3><93%>
+<MESSALA>	<93%>
+	Seek him, Titinius, whilst I go to meet
+	The noble Brutus, thrusting this report
+	Into his ears; I may say, thrusting it;
+	For piercing steel and darts envenomed
+	Shall be as welcome to the ears of Brutus
+	As tidings of this sight.
+</MESSALA>
+
+<SPEECH 18><ACT 5><SCENE 3><93%>
+<MESSALA>	<94%>
+	Lo, yonder: and Titinius mourning it.
+</MESSALA>
+
+<SPEECH 19><ACT 5><SCENE 5><98%>
+<MESSALA>	<99%>
+	My master's man. Strato, where is thy master?
+</MESSALA>
+
+<SPEECH 20><ACT 5><SCENE 5><99%>
+<MESSALA>	<99%>
+	How died my master, Strato?
+</MESSALA>
+
+<SPEECH 21><ACT 5><SCENE 5><99%>
+<MESSALA>	<99%>
+	Octavius, then take him to follow thee,
+	That did the latest service to my master.
+</MESSALA>
+

@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 2><38%>
+<PUBLIUS>	<40%>
+	Good morrow, Cæsar.
+</PUBLIUS>
+
+<SPEECH 2><ACT 3><SCENE 1><42%>
+<PUBLIUS>	<44%>
+	Sirrah, give place.
+</PUBLIUS>
+

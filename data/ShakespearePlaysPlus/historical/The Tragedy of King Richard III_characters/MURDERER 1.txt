@@ -1,0 +1,214 @@
+<SPEECH 1><ACT 1><SCENE 3><20%>
+<MURDERER 1>	<21%>
+	We are, my lord; and come to have the warrant,
+	That we may be admitted where he is.
+</MURDERER 1>
+
+<SPEECH 2><ACT 1><SCENE 3><20%>
+<MURDERER 1>	<21%>
+	Tut, tut, my lord, we will not stand to prate;
+	Talkers are no good doers: be assur'd
+	We go to use our hands and not our tongues.
+</MURDERER 1>
+
+<SPEECH 3><ACT 1><SCENE 3><21%>
+<MURDERER 1>	<21%>
+	We will, my noble lord.
+</MURDERER 1>
+
+<SPEECH 4><ACT 1><SCENE 4><23%>
+<MURDERER 1>	<23%>
+	Ho! who's here?
+</MURDERER 1>
+
+<SPEECH 5><ACT 1><SCENE 4><23%>
+<MURDERER 1>	<23%>
+	I would speak with Clarence, and I came hither on my legs.
+</MURDERER 1>
+
+<SPEECH 6><ACT 1><SCENE 4><23%>
+<MURDERER 1>	<24%>
+	You may, sir; 'tis a point of wisdom: fare you well.
+</MURDERER 1>
+
+<SPEECH 7><ACT 1><SCENE 4><23%>
+<MURDERER 1>	<24%>
+	No; he'll say 'twas done cowardly, when he wakes.
+</MURDERER 1>
+
+<SPEECH 8><ACT 1><SCENE 4><23%>
+<MURDERER 1>	<24%>
+	Why, then he'll say we stabbed him sleeping.
+</MURDERER 1>
+
+<SPEECH 9><ACT 1><SCENE 4><23%>
+<MURDERER 1>	<24%>
+	What! art thou afraid?
+</MURDERER 1>
+
+<SPEECH 10><ACT 1><SCENE 4><23%>
+<MURDERER 1>	<24%>
+	I thought thou hadst been resolute.
+</MURDERER 1>
+
+<SPEECH 11><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<24%>
+	I'll back to the Duke of Gloucester, and tell him so.
+</MURDERER 1>
+
+<SPEECH 12><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<24%>
+	How dost thou feel thyself now?
+</MURDERER 1>
+
+<SPEECH 13><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<24%>
+	Remember our reward when the deed's done.
+</MURDERER 1>
+
+<SPEECH 14><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<24%>
+	Where's thy conscience now?
+</MURDERER 1>
+
+<SPEECH 15><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<24%>
+	So when he opens his purse to give us our reward, thy conscience flies out.
+</MURDERER 1>
+
+<SPEECH 16><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<24%>
+	What if it come to thee again?
+</MURDERER 1>
+
+<SPEECH 17><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<25%>
+	'Zounds! it is even now at my elbow, persuading me not to kill the duke.
+</MURDERER 1>
+
+<SPEECH 18><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<25%>
+	Tut, I am strong-framed; he cannot prevail with me.
+</MURDERER 1>
+
+<SPEECH 19><ACT 1><SCENE 4><24%>
+<MURDERER 1>	<25%>
+	Take him over the costard with the hilts of thy sword, and then throw him into the malmsey-butt in the next room.
+</MURDERER 1>
+
+<SPEECH 20><ACT 1><SCENE 4><25%>
+<MURDERER 1>	<25%>
+	Soft! he wakes.
+</MURDERER 1>
+
+<SPEECH 21><ACT 1><SCENE 4><25%>
+<MURDERER 1>	<25%>
+	No, we'll reason with him.
+</MURDERER 1>
+
+<SPEECH 22><ACT 1><SCENE 4><25%>
+<MURDERER 1>	<25%>
+	You shall have wine enough, my lord, anon.
+</MURDERER 1>
+
+<SPEECH 23><ACT 1><SCENE 4><25%>
+<MURDERER 1>	<25%>
+	A man, as you are.
+</MURDERER 1>
+
+<SPEECH 24><ACT 1><SCENE 4><25%>
+<MURDERER 1>	<25%>
+	Nor you, as we are, loyal.
+</MURDERER 1>
+
+<SPEECH 25><ACT 1><SCENE 4><25%>
+<MURDERER 1>	<25%>
+	My voice is now the king's, my looks mine own.
+</MURDERER 1>
+
+<SPEECH 26><ACT 1><SCENE 4><25%>
+<MURDERER 1>	<26%>
+	Offended us you have not, but the king.
+</MURDERER 1>
+
+<SPEECH 27><ACT 1><SCENE 4><26%>
+<MURDERER 1>	<26%>
+	What we will do, we do upon command.
+</MURDERER 1>
+
+<SPEECH 28><ACT 1><SCENE 4><26%>
+<MURDERER 1>	<26%>
+	And, like a traitor to the name of God,
+	Didst break that vow, and, with thy treacherous blade
+	Unripp'dst the bowels of thy sovereign's son.
+</MURDERER 1>
+
+<SPEECH 29><ACT 1><SCENE 4><26%>
+<MURDERER 1>	<26%>
+	How canst thou urge God's dreadful law to us,
+	When thou hast broke it in such dear degree?
+</MURDERER 1>
+
+<SPEECH 30><ACT 1><SCENE 4><26%>
+<MURDERER 1>	<27%>
+	Who made thee then a bloody minister,
+	When gallant-springing, brave Plantagenet,
+	That princely novice, was struck dead by thee?
+</MURDERER 1>
+
+<SPEECH 31><ACT 1><SCENE 4><26%>
+<MURDERER 1>	<27%>
+	Thy brother's love, our duty, and thy fault,
+	Provoke us hither now to slaughter thee.
+</MURDERER 1>
+
+<SPEECH 32><ACT 1><SCENE 4><27%>
+<MURDERER 1>	<27%>
+	Ay, millstones; as he lesson'd us to weep.
+</MURDERER 1>
+
+<SPEECH 33><ACT 1><SCENE 4><27%>
+<MURDERER 1>	<27%>
+	Right;
+	As snow in harvest. Thou deceiv'st thyself:
+	'Tis he that sends us to destroy you here.
+</MURDERER 1>
+
+<SPEECH 34><ACT 1><SCENE 4><27%>
+<MURDERER 1>	<27%>
+	Why, so he doth, when he delivers you
+	From this earth's thraldom to the joys of heaven.
+</MURDERER 1>
+
+<SPEECH 35><ACT 1><SCENE 4><27%>
+<MURDERER 1>	<28%>
+	Relent! 'tis cowardly, and womanish.
+</MURDERER 1>
+
+<SPEECH 36><ACT 1><SCENE 4><28%>
+<MURDERER 1>	<28%>
+<STAGE DIR>
+<Stabs him.>
+</STAGE DIR> Take that, and that: if all this will not do,
+	I'll drown you in the malmsey-butt within.
+</MURDERER 1>
+
+<SPEECH 37><ACT 1><SCENE 4><28%>
+<MURDERER 1>	<28%>
+	How now! what mean'st thou, that thou help'st me not?
+	By heaven, the duke shall know how slack you have been.
+</MURDERER 1>
+
+<SPEECH 38><ACT 1><SCENE 4><28%>
+<MURDERER 1>	<28%>
+	So do not I: go, coward as thou art.
+	Well, I'll go hide the body in some hole,
+	Till that the duke give order for his burial:
+	And when I have my meed, I will away;
+	For this will out, and here I must not stay.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</MURDERER 1>
+

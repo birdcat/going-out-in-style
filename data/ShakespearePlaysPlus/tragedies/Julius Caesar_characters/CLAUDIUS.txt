@@ -1,0 +1,24 @@
+<SPEECH 1><ACT 4><SCENE 3><83%>
+<CLAUDIUS>	<84%>
+	My lord!
+</CLAUDIUS>
+
+<SPEECH 2><ACT 4><SCENE 3><84%>
+<CLAUDIUS>	<84%>
+	Did we, my lord?
+</CLAUDIUS>
+
+<SPEECH 3><ACT 4><SCENE 3><84%>
+<CLAUDIUS>	<84%>
+	Nor I, my lord.
+</CLAUDIUS>
+
+<SPEECH 4><ACT 4><SCENE 3><84%>
+<CLAUDIUS>	<85%>
+	It shall be done, my lord.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</CLAUDIUS>
+

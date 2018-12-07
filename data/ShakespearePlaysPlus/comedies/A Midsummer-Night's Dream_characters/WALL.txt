@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 5><SCENE 1><90%>
+<WALL>	<91%>
+	Thus have I, Wall, my part discharged so;
+	And, being done, thus Wall away doth go.
+</WALL>
+

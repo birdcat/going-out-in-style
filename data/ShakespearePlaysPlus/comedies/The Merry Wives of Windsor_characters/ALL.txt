@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 2><49%>
+<ALL>	<50%>
+	Have with you to see this monster.
+</ALL>
+

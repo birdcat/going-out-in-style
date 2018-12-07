@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 4><39%>
+<SCRIBE>	<39%>
+	Say, Henry King of England, come into the court.
+</SCRIBE>
+
+<SPEECH 2><ACT 2><SCENE 4><39%>
+<SCRIBE>	<39%>
+	Say, Katharine Queen of England, come into the court.
+</SCRIBE>
+

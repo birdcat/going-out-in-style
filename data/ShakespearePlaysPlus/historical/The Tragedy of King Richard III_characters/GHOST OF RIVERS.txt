@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 5><SCENE 3><92%>
+<GHOST OF RIVERS>	<92%>
+<STAGE DIR>
+<To King Richard.>
+</STAGE DIR> Let me sit heavy on thy soul to-morrow!
+	Rivers, that died at Pomfret! despair, and die!
+</GHOST OF RIVERS>
+

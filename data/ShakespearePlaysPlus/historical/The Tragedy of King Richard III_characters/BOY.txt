@@ -1,0 +1,48 @@
+<SPEECH 1><ACT 2><SCENE 2><32%>
+<BOY>	<32%>
+	Good grandam, tell us, is our father dead?
+</BOY>
+
+<SPEECH 2><ACT 2><SCENE 2><32%>
+<BOY>	<33%>
+	Why do you look on us, and shake your head,
+	And call us orphans, wretches, castaways,
+	If that our noble father be alive?
+</BOY>
+
+<SPEECH 3><ACT 2><SCENE 2><32%>
+<BOY>	<33%>
+	Then, grandam, you conclude that he is dead.
+	The king mine uncle is to blame for it:
+	God will revenge it; whom I will importune
+	With earnest prayers all to that effect.
+</BOY>
+
+<SPEECH 4><ACT 2><SCENE 2><32%>
+<BOY>	<33%>
+	Grandam, we can; for my good uncle Gloucester
+	Told me, the king, provok'd to't by the queen,
+	Devis'd impeachments to imprison him:
+	And when my uncle told me so, he wept,
+	And pitied me, and kindly kiss'd my cheek;
+	Bade me rely on him, as on my father,
+	And he would love me dearly as his child.
+</BOY>
+
+<SPEECH 5><ACT 2><SCENE 2><33%>
+<BOY>	<33%>
+	Think you my uncle did dissemble, grandam?
+</BOY>
+
+<SPEECH 6><ACT 2><SCENE 2><33%>
+<BOY>	<33%>
+	I cannot think it. Hark! what noise is this?
+
+</BOY>
+
+<SPEECH 7><ACT 2><SCENE 2><34%>
+<BOY>	<34%>
+	Ah, aunt, you wept not for our father's death;
+	How can we aid you with our kindred tears?
+</BOY>
+

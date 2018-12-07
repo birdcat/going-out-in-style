@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 1><SCENE 2><14%>
+<STARVELING>	<14%>
+	Here, Peter Quince.
+</STARVELING>
+
+<SPEECH 2><ACT 3><SCENE 1><36%>
+<STARVELING>	<37%>
+	I believe we must leave the killing out, when all is done.
+</STARVELING>
+
+<SPEECH 3><ACT 3><SCENE 1><37%>
+<STARVELING>	<38%>
+	I fear it, I promise you.
+</STARVELING>
+
+<SPEECH 4><ACT 4><SCENE 2><78%>
+<STARVELING>	<79%>
+	He cannot be heard of. Out of doubt he is transported.
+</STARVELING>
+

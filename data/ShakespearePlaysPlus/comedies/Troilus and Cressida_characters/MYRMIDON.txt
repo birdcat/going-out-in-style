@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 8><97%>
+<MYRMIDON>	<98%>
+	The Trojan trumpets sound the like, my lord.
+</MYRMIDON>
+

@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 5><SCENE 2><89%>
+<GALLUS>	<89%>
+	You see how easily she may be surpris'd.
+<STAGE DIR>
+<Proculeius and two of the Guard ascend the monument...>
+<... by a ladder, and come behind Cleopatra. Some of...>
+<... the Guard unbar and open the gates, discovering the lower room of the monument.>
+</STAGE DIR>
+
+<STAGE DIR>
+<To Proculeius and the Guard.>
+</STAGE DIR> Guard her till Cæsar come.
+</GALLUS>
+

@@ -1,0 +1,797 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+<SICINIUS>	<8%>
+	Was ever man so proud as is this Marcius?
+</SICINIUS>
+
+<SPEECH 2><ACT 1><SCENE 1><7%>
+<SICINIUS>	<8%>
+	When we were chosen tribunes for the people,—
+</SICINIUS>
+
+<SPEECH 3><ACT 1><SCENE 1><7%>
+<SICINIUS>	<8%>
+	Nay, but his taunts.
+</SICINIUS>
+
+<SPEECH 4><ACT 1><SCENE 1><7%>
+<SICINIUS>	<8%>
+	Bemock the modest moon.
+</SICINIUS>
+
+<SPEECH 5><ACT 1><SCENE 1><7%>
+<SICINIUS>	<8%>
+	Such a nature,
+	Tickled with good success, disdains the shadow
+	Which he treads on at noon. But I do wonder
+	His insolence can brook to be commanded
+	Under Cominius.
+</SICINIUS>
+
+<SPEECH 6><ACT 1><SCENE 1><7%>
+<SICINIUS>	<8%>
+	Besides, if things go well,
+	Opinion, that so sticks on Marcius, shall
+	Of his demerits rob Cominius.
+</SICINIUS>
+
+<SPEECH 7><ACT 1><SCENE 1><8%>
+<SICINIUS>	<8%>
+	Let's hence and hear
+	How the dispatch is made; and in what fashion,
+	More than his singularity, he goes
+	Upon this present action.
+</SICINIUS>
+
+<SPEECH 8><ACT 2><SCENE 1><23%>
+<SICINIUS>	<24%>
+	Nature teaches beasts to know their friends.
+</SICINIUS>
+
+<SPEECH 9><ACT 2><SCENE 1><23%>
+<SICINIUS>	<24%>
+	The lamb.
+</SICINIUS>
+
+<SPEECH 10><ACT 2><SCENE 1><23%>
+<SICINIUS>	<24%>
+	Well, sir.
+</SICINIUS>
+
+<SPEECH 11><ACT 2><SCENE 1><23%>
+<SICINIUS>	<24%>
+	Especially in pride.
+</SICINIUS>
+
+<SPEECH 12><ACT 2><SCENE 1><24%>
+<SICINIUS>	<25%>
+	Menenius, you are known well enough too.
+</SICINIUS>
+
+<SPEECH 13><ACT 2><SCENE 1><29%>
+<SICINIUS>	<30%>
+	On the sudden
+	I warrant him consul.
+</SICINIUS>
+
+<SPEECH 14><ACT 2><SCENE 1><29%>
+<SICINIUS>	<30%>
+	He cannot temperately transport his honours
+	From where he should begin and end, but will
+	Lose those he hath won.
+</SICINIUS>
+
+<SPEECH 15><ACT 2><SCENE 1><29%>
+<SICINIUS>	<30%>
+	Doubt not, the commoners, for whom we stand,
+	But they upon their ancient malice will
+	Forget with the least cause these his new honours,
+	Which that he'll give them, make I as little question
+	As he is proud to do't.
+</SICINIUS>
+
+<SPEECH 16><ACT 2><SCENE 1><30%>
+<SICINIUS>	<30%>
+	'Tis right.
+</SICINIUS>
+
+<SPEECH 17><ACT 2><SCENE 1><30%>
+<SICINIUS>	<30%>
+	I wish no better
+	Than have him hold that purpose and to put it
+	In execution.
+</SICINIUS>
+
+<SPEECH 18><ACT 2><SCENE 1><30%>
+<SICINIUS>	<31%>
+	It shall be to him then, as our good wills,
+	A sure destruction.
+</SICINIUS>
+
+<SPEECH 19><ACT 2><SCENE 1><30%>
+<SICINIUS>	<31%>
+	This, as you say, suggested
+	At some time when his soaring insolence
+	Shall teach the people—which time shall not want,
+	If he be put upon 't; and that's as easy
+	As to set dogs on sheep—will be his fire
+	To kindle their dry stubble; and their blaze
+	Shall darken him for ever.
+
+</SICINIUS>
+
+<SPEECH 20><ACT 2><SCENE 1><31%>
+<SICINIUS>	<31%>
+	Have with you.
+</SICINIUS>
+
+<SPEECH 21><ACT 2><SCENE 2><32%>
+<SICINIUS>	<33%>
+	We are convented
+	Upon a pleasing treaty, and have hearts
+	Inclinable to honour and advance
+	The theme of our assembly.
+</SICINIUS>
+
+<SPEECH 22><ACT 2><SCENE 2><35%>
+<SICINIUS>	<36%>
+	Sir, the people
+	Must have their voices; neither will they bate
+	One jot of ceremony.
+</SICINIUS>
+
+<SPEECH 23><ACT 2><SCENE 2><35%>
+<SICINIUS>	<36%>
+	May they perceive 's intent! He will require them,
+	As if he did contemn what he requested
+	Should be in them to give.
+</SICINIUS>
+
+<SPEECH 24><ACT 2><SCENE 3><39%>
+<SICINIUS>	<40%>
+	The custom of request you have discharg'd:
+	The people do admit you, and are summon'd
+	To meet anon, upon your approbation.
+</SICINIUS>
+
+<SPEECH 25><ACT 2><SCENE 3><40%>
+<SICINIUS>	<40%>
+	There, Coriolanus.
+</SICINIUS>
+
+<SPEECH 26><ACT 2><SCENE 3><40%>
+<SICINIUS>	<41%>
+	You may, sir.
+</SICINIUS>
+
+<SPEECH 27><ACT 2><SCENE 3><40%>
+<SICINIUS>	<41%>
+	Fare you well.
+<STAGE DIR>
+<Exeunt Coriolanus and Menenius.>
+</STAGE DIR>
+	He has it now; and by his looks, methinks,
+	'Tis warm at's heart.
+</SICINIUS>
+
+<SPEECH 28><ACT 2><SCENE 3><40%>
+<SICINIUS>	<41%>
+	How now, my masters! have you chose this man?
+</SICINIUS>
+
+<SPEECH 29><ACT 2><SCENE 3><40%>
+<SICINIUS>	<41%>
+	Why, so he did, I am sure.
+</SICINIUS>
+
+<SPEECH 30><ACT 2><SCENE 3><41%>
+<SICINIUS>	<41%>
+	Why, either were you ignorant to see 't,
+	Or, seeing it, of such childish friendliness
+	To yield your voices?
+</SICINIUS>
+
+<SPEECH 31><ACT 2><SCENE 3><41%>
+<SICINIUS>	<42%>
+	Thus to have said,
+	As you were fore-advis'd, had touch'd his spirit
+	And tried his inclination; from him pluck'd
+	Either his gracious promise, which you might,
+	As cause had call'd you up, have held him to;
+	Or else it would have gall'd his surly nature,
+	Which easily endures not article
+	Tying him to aught; so, putting him to rage,
+	You should have ta'en the advantage of his choler,
+	And pass'd him unelected.
+</SICINIUS>
+
+<SPEECH 32><ACT 2><SCENE 3><41%>
+<SICINIUS>	<42%>
+	Have you
+	Ere now denied the asker? and now again
+	Of him that did not ask, but mock, bestow
+	Your su'd-for tongues?
+</SICINIUS>
+
+<SPEECH 33><ACT 2><SCENE 3><42%>
+<SICINIUS>	<43%>
+	Let them assemble;
+	And, on a safer judgment, all revoke
+	Your ignorant election. Enforce his pride,
+	And his old hate unto you; besides, forget not
+	With what contempt he wore the humble weed;
+	How in his suit he scorn'd you; but your loves,
+	Thinking upon his services, took from you
+	The apprehension of his present portance,
+	Which most gibingly, ungravely, he did fashion
+	After the inveterate hate he bears you.
+</SICINIUS>
+
+<SPEECH 34><ACT 2><SCENE 3><42%>
+<SICINIUS>	<43%>
+	Say, you chose him
+	More after our commandment than as guided
+	By your own true affections; and that, your minds,
+	Pre-occupied with what you rather must do
+	Than what you should, made you against the grain
+	To voice him consul: lay the fault on us.
+</SICINIUS>
+
+<SPEECH 35><ACT 2><SCENE 3><42%>
+<SICINIUS>	<43%>
+	One thus descended,
+	That hath, beside, well in his person wrought
+	To be set high in place, we did commend
+	To your remembrances: but you have found,
+	Scaling his present bearing with his past,
+	That he's your fixed enemy, and revoke
+	Your sudden approbation.
+</SICINIUS>
+
+<SPEECH 36><ACT 2><SCENE 3><43%>
+<SICINIUS>	<44%>
+	To the Capitol, come:
+	We will be there before the stream o' the people;
+	And this shall seem, as partly 'tis, their own,
+	Which we have goaded onward.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</SICINIUS>
+
+<SPEECH 37><ACT 3><SCENE 1><44%>
+<SICINIUS>	<45%>
+	Pass no further.
+</SICINIUS>
+
+<SPEECH 38><ACT 3><SCENE 1><44%>
+<SICINIUS>	<45%>
+	Stop,
+	Or all will fall in broil.
+</SICINIUS>
+
+<SPEECH 39><ACT 3><SCENE 1><45%>
+<SICINIUS>	<46%>
+	You show too much of that
+	For which the people stir; if you will pass
+	To where you are bound, you must inquire your way,
+	Which you are out of, with a gentler spirit;
+	Or never be so noble as a consul,
+	Nor yoke with him for tribune.
+</SICINIUS>
+
+<SPEECH 40><ACT 3><SCENE 1><46%>
+<SICINIUS>	<46%>
+	'Twere well
+	We let the people know't.
+</SICINIUS>
+
+<SPEECH 41><ACT 3><SCENE 1><46%>
+<SICINIUS>	<47%>
+	It is a mind
+	That shall remain a poison where it is,
+	Not poison any further.
+</SICINIUS>
+
+<SPEECH 42><ACT 3><SCENE 1><48%>
+<SICINIUS>	<49%>
+	He has spoken like a traitor, and shall answer
+	As traitors do.
+</SICINIUS>
+
+<SPEECH 43><ACT 3><SCENE 1><48%>
+<SICINIUS>	<49%>
+	This a consul? no.
+</SICINIUS>
+
+<SPEECH 44><ACT 3><SCENE 1><48%>
+<SICINIUS>	<49%>
+	Go, call the people; <STAGE DIR>
+<Exit Ædile>
+</STAGE DIR> in whose name, myself
+	Attach thee as a traitorous innovator,
+	A foe to the public weal: obey, I charge thee,
+	And follow to thine answer.
+</SICINIUS>
+
+<SPEECH 45><ACT 3><SCENE 1><48%>
+<SICINIUS>	<49%>
+	Help, ye citizens!
+
+</SICINIUS>
+
+<SPEECH 46><ACT 3><SCENE 1><49%>
+<SICINIUS>	<49%>
+	Here's he that would take from you all your power.
+</SICINIUS>
+
+<SPEECH 47><ACT 3><SCENE 1><49%>
+<SICINIUS>	<50%>
+	Hear me, people; peace!
+</SICINIUS>
+
+<SPEECH 48><ACT 3><SCENE 1><49%>
+<SICINIUS>	<50%>
+	You are at point to lose your liberties:
+	Marcius would have all from you; Marcius,
+	Whom late you have nam'd for consul.
+</SICINIUS>
+
+<SPEECH 49><ACT 3><SCENE 1><49%>
+<SICINIUS>	<50%>
+	What is the city but the people?
+</SICINIUS>
+
+<SPEECH 50><ACT 3><SCENE 1><49%>
+<SICINIUS>	<50%>
+	This deserves death.
+</SICINIUS>
+
+<SPEECH 51><ACT 3><SCENE 1><50%>
+<SICINIUS>	<50%>
+	Therefore lay hold of him;
+	Bear him to the rock Tarpeian, and from thence
+	Into destruction cast him.
+</SICINIUS>
+
+<SPEECH 52><ACT 3><SCENE 1><51%>
+<SICINIUS>	<52%>
+	Where is this viper
+	That would depopulate the city and
+	Be every man himself?
+</SICINIUS>
+
+<SPEECH 53><ACT 3><SCENE 1><51%>
+<SICINIUS>	<52%>
+	He shall be thrown down the Tarpeian rock
+	With rigorous hands: he hath resisted law,
+	And therefore law shall scorn him further trial
+	Than the severity of the public power,
+	Which he so sets at nought.
+</SICINIUS>
+
+<SPEECH 54><ACT 3><SCENE 1><52%>
+<SICINIUS>	<52%>
+	Peace!
+</SICINIUS>
+
+<SPEECH 55><ACT 3><SCENE 1><52%>
+<SICINIUS>	<52%>
+	Sir, how comes 't that you
+	Have holp to make this rescue?
+</SICINIUS>
+
+<SPEECH 56><ACT 3><SCENE 1><52%>
+<SICINIUS>	<52%>
+	Consul! what consul?
+</SICINIUS>
+
+<SPEECH 57><ACT 3><SCENE 1><52%>
+<SICINIUS>	<52%>
+	Speak briefly then;
+	For we are peremptory to dispatch
+	This viperous traitor. To eject him hence
+	Were but one danger, and to keep him here
+	Our certain death; therefore it is decreed
+	He dies to-night.
+</SICINIUS>
+
+<SPEECH 58><ACT 3><SCENE 1><52%>
+<SICINIUS>	<53%>
+	He's a disease that must be cut away.
+</SICINIUS>
+
+<SPEECH 59><ACT 3><SCENE 1><53%>
+<SICINIUS>	<53%>
+	This is clean kam.
+</SICINIUS>
+
+<SPEECH 60><ACT 3><SCENE 1><53%>
+<SICINIUS>	<53%>
+	What do ye talk?
+	Have we not had a taste of his obedience?
+	Our ædiles smote? ourselves resisted? Come!
+</SICINIUS>
+
+<SPEECH 61><ACT 3><SCENE 1><53%>
+<SICINIUS>	<54%>
+	Noble Menenius,
+	Be you then as the people's officer.
+	Masters, lay down your weapons.
+</SICINIUS>
+
+<SPEECH 62><ACT 3><SCENE 1><53%>
+<SICINIUS>	<54%>
+	Meet on the market-place. We'll attend you there:
+	Where, if you bring not Marcius, we'll proceed
+	In our first way.
+</SICINIUS>
+
+<SPEECH 63><ACT 3><SCENE 3><58%>
+<SICINIUS>	<59%>
+	Have you a catalogue
+	Of all the voices that we have procur'd,
+	Set down by the poll?
+</SICINIUS>
+
+<SPEECH 64><ACT 3><SCENE 3><58%>
+<SICINIUS>	<59%>
+	Have you collected them by tribes?
+</SICINIUS>
+
+<SPEECH 65><ACT 3><SCENE 3><58%>
+<SICINIUS>	<59%>
+	Assemble presently the people hither;
+	And when they hear me say, 'It shall be so,
+	I' the right and strength o' the commons,' be it either
+	For death, for fine, or banishment, then let them,
+	If I say, fine, cry 'fine,'—if death, cry 'death,'
+	Insisting on the old prerogative
+	And power i' the truth o' the cause.
+</SICINIUS>
+
+<SPEECH 66><ACT 3><SCENE 3><59%>
+<SICINIUS>	<59%>
+	Make them be strong and ready for this hint,
+	When we shall hap to give 't them.
+</SICINIUS>
+
+<SPEECH 67><ACT 3><SCENE 3><59%>
+<SICINIUS>	<59%>
+	Well, here he comes.
+
+</SICINIUS>
+
+<SPEECH 68><ACT 3><SCENE 3><59%>
+<SICINIUS>	<59%>
+	Draw near, ye people.
+</SICINIUS>
+
+<SPEECH 69><ACT 3><SCENE 3><59%>
+<SICINIUS>	<60%>
+	I do demand,
+	If you submit you to the people's voices,
+	Allow their officers, and are content
+	To suffer lawful censure for such faults
+	As shall be prov'd upon you?
+</SICINIUS>
+
+<SPEECH 70><ACT 3><SCENE 3><60%>
+<SICINIUS>	<60%>
+	Answer to us.
+</SICINIUS>
+
+<SPEECH 71><ACT 3><SCENE 3><60%>
+<SICINIUS>	<60%>
+	We charge you, that you have contriv'd to take
+	From Rome all season'd office, and to wind
+	Yourself into a power tyrannical;
+	For which you are a traitor to the people.
+</SICINIUS>
+
+<SPEECH 72><ACT 3><SCENE 3><60%>
+<SICINIUS>	<60%>
+	Mark you this, people!
+</SICINIUS>
+
+<SPEECH 73><ACT 3><SCENE 3><60%>
+<SICINIUS>	<61%>
+	Peace!
+	We need not put new matter to his charge:
+	What you have seen him do, and heard him speak,
+	Beating your officers, cursing yourselves,
+	Opposing laws with strokes, and here defying
+	Those whose great power must try him; even this,
+	So criminal and in such capital kind,
+	Deserves the extremest death.
+</SICINIUS>
+
+<SPEECH 74><ACT 3><SCENE 3><61%>
+<SICINIUS>	<61%>
+	For that he has,—
+	As much as in him lies,—from time to time
+	Envied against the people, seeking means
+	To pluck away their power, as now at last
+	Given hostile strokes, and that not in the presence
+	Of dreaded justice, but on the ministers
+	That do distribute it; in the name o' the people,
+	And in the power of us the tribunes, we,
+	Even from this instant, banish him our city,
+	In peril of precipitation
+	From off the rock Tarpeian, never more
+	To enter our Rome gates: i' the people's name,
+	I say, it shall be so.
+</SICINIUS>
+
+<SPEECH 75><ACT 3><SCENE 3><61%>
+<SICINIUS>	<61%>
+	He's sentenc'd; no more hearing.
+</SICINIUS>
+
+<SPEECH 76><ACT 3><SCENE 3><61%>
+<SICINIUS>	<62%>
+	We know your drift: speak what?
+</SICINIUS>
+
+<SPEECH 77><ACT 3><SCENE 3><62%>
+<SICINIUS>	<62%>
+	Go, see him out at gates, and follow him,
+	As he hath follow'd you, with all despite;
+	Give him deserv'd vexation. Let a guard
+	Attend us through the city.
+</SICINIUS>
+
+<SPEECH 78><ACT 4><SCENE 2><64%>
+<SICINIUS>	<64%>
+	Bid them all home; he's gone, and we'll no further.
+	The nobility are vex'd, whom we see have sided
+	In his behalf.
+</SICINIUS>
+
+<SPEECH 79><ACT 4><SCENE 2><64%>
+<SICINIUS>	<64%>
+	Bid them home;
+	Say their great enemy is gone, and they
+	Stand in their ancient strength.
+</SICINIUS>
+
+<SPEECH 80><ACT 4><SCENE 2><64%>
+<SICINIUS>	<65%>
+	Let's not meet her.
+</SICINIUS>
+
+<SPEECH 81><ACT 4><SCENE 2><64%>
+<SICINIUS>	<65%>
+	They say she's mad.
+</SICINIUS>
+
+<SPEECH 82><ACT 4><SCENE 2><65%>
+<SICINIUS>	<65%>
+	Are you mankind?
+</SICINIUS>
+
+<SPEECH 83><ACT 4><SCENE 2><65%>
+<SICINIUS>	<65%>
+	O blessed heavens!
+</SICINIUS>
+
+<SPEECH 84><ACT 4><SCENE 2><65%>
+<SICINIUS>	<65%>
+	What then?
+</SICINIUS>
+
+<SPEECH 85><ACT 4><SCENE 2><65%>
+<SICINIUS>	<65%>
+	I would he had continu'd to his country
+	As he began, and not unknit himself
+	The noble knot he made.
+</SICINIUS>
+
+<SPEECH 86><ACT 4><SCENE 2><65%>
+<SICINIUS>	<66%>
+	Why stay we to be baited
+	With one that wants her wits?
+</SICINIUS>
+
+<SPEECH 87><ACT 4><SCENE 6><75%>
+<SICINIUS>	<75%>
+	We hear not of him, neither need we fear him;
+	His remedies are tame i' the present peace
+	And quietness o' the people, which before
+	Were in wild hurry. Here do we make his friends
+	Blush that the world goes well, who rather had,
+	Though they themselves did suffer by 't, behold
+	Dissentious numbers pestering streets, than see
+	Our tradesmen singing in their shops and going
+	About their functions friendly.
+
+</SICINIUS>
+
+<SPEECH 88><ACT 4><SCENE 6><75%>
+<SICINIUS>	<75%>
+	'Tis he, 'tis he O! he is grown most kind
+	Of late. Hail, sir!
+</SICINIUS>
+
+<SPEECH 89><ACT 4><SCENE 6><75%>
+<SICINIUS>	<76%>
+	Your Coriolanus is not much miss'd
+	But with his friends: the commonwealth doth stand,
+	And so would do, were he more angry at it.
+</SICINIUS>
+
+<SPEECH 90><ACT 4><SCENE 6><76%>
+<SICINIUS>	<76%>
+	Where is he, hear you?
+</SICINIUS>
+
+<SPEECH 91><ACT 4><SCENE 6><76%>
+<SICINIUS>	<76%>
+	Good den, our neighbours.
+</SICINIUS>
+
+<SPEECH 92><ACT 4><SCENE 6><76%>
+<SICINIUS>	<76%>
+	Live, and thrive!
+</SICINIUS>
+
+<SPEECH 93><ACT 4><SCENE 6><76%>
+<SICINIUS>	<76%>
+	Farewell, farewell.
+</SICINIUS>
+
+<SPEECH 94><ACT 4><SCENE 6><76%>
+<SICINIUS>	<76%>
+	This is a happier and more comely time
+	Than when these fellows ran about the streets
+	Crying confusion.
+</SICINIUS>
+
+<SPEECH 95><ACT 4><SCENE 6><76%>
+<SICINIUS>	<76%>
+	And affecting one sole throne.
+	Without assistance.
+</SICINIUS>
+
+<SPEECH 96><ACT 4><SCENE 6><76%>
+<SICINIUS>	<76%>
+	We should by this, to all our lamentation,
+	If he had gone forth consul, found it so.
+</SICINIUS>
+
+<SPEECH 97><ACT 4><SCENE 6><77%>
+<SICINIUS>	<77%>
+	Come, what talk you of Marcius?
+</SICINIUS>
+
+<SPEECH 98><ACT 4><SCENE 6><77%>
+<SICINIUS>	<77%>
+	Tell not me:
+	I know this cannot be.
+</SICINIUS>
+
+<SPEECH 99><ACT 4><SCENE 6><77%>
+<SICINIUS>	<77%>
+	'Tis this slave.—
+	Go whip him 'fore the people's eyes: his raising;
+	Nothing but his report.
+</SICINIUS>
+
+<SPEECH 100><ACT 4><SCENE 6><77%>
+<SICINIUS>	<77%>
+	What more fearful?
+</SICINIUS>
+
+<SPEECH 101><ACT 4><SCENE 6><77%>
+<SICINIUS>	<77%>
+	This is most likely.
+</SICINIUS>
+
+<SPEECH 102><ACT 4><SCENE 6><77%>
+<SICINIUS>	<77%>
+	The very trick on 't.
+</SICINIUS>
+
+<SPEECH 103><ACT 4><SCENE 6><79%>
+<SICINIUS>	<79%>
+	Say not we brought it.
+</SICINIUS>
+
+<SPEECH 104><ACT 4><SCENE 6><80%>
+<SICINIUS>	<80%>
+	Go, masters, get you home; be not dismay'd:
+	These are a side that would be glad to have
+	This true which they so seem to fear. Go home,
+	And show no sign of fear.
+</SICINIUS>
+
+<SPEECH 105><ACT 4><SCENE 6><80%>
+<SICINIUS>	<80%>
+	Nor I.
+</SICINIUS>
+
+<SPEECH 106><ACT 4><SCENE 6><80%>
+<SICINIUS>	<80%>
+	Pray let us go.
+</SICINIUS>
+
+<SPEECH 107><ACT 5><SCENE 1><83%>
+<SICINIUS>	<83%>
+	Nay, pray, be patient: if you refuse your aid
+	In this so-never-needed help, yet do not
+	Upbraid's with our distress. But, sure, if you
+	Would be your country's pleader, your good tongue,
+	More than the instant army we can make,
+	Might stop our countryman.
+</SICINIUS>
+
+<SPEECH 108><ACT 5><SCENE 1><83%>
+<SICINIUS>	<83%>
+	Pray you, go to him.
+</SICINIUS>
+
+<SPEECH 109><ACT 5><SCENE 1><83%>
+<SICINIUS>	<83%>
+	Yet your good will
+	Must have that thanks from Rome, after the measure
+	As you intended well.
+</SICINIUS>
+
+<SPEECH 110><ACT 5><SCENE 1><83%>
+<SICINIUS>	<83%>
+	Not?
+</SICINIUS>
+
+<SPEECH 111><ACT 5><SCENE 4><93%>
+<SICINIUS>	<93%>
+	Why, what of that?
+</SICINIUS>
+
+<SPEECH 112><ACT 5><SCENE 4><93%>
+<SICINIUS>	<93%>
+	Is't possible that so short a time can alter the condition of a man?
+</SICINIUS>
+
+<SPEECH 113><ACT 5><SCENE 4><93%>
+<SICINIUS>	<93%>
+	He loved his mother dearly.
+</SICINIUS>
+
+<SPEECH 114><ACT 5><SCENE 4><93%>
+<SICINIUS>	<94%>
+	Yes, mercy, if you report him truly.
+</SICINIUS>
+
+<SPEECH 115><ACT 5><SCENE 4><93%>
+<SICINIUS>	<94%>
+	The gods be good unto us!
+</SICINIUS>
+
+<SPEECH 116><ACT 5><SCENE 4><94%>
+<SICINIUS>	<94%>
+	What's the news?
+</SICINIUS>
+
+<SPEECH 117><ACT 5><SCENE 4><94%>
+<SICINIUS>	<94%>
+	Friend,
+	Art thou certain this is true? is it most certain?
+</SICINIUS>
+
+<SPEECH 118><ACT 5><SCENE 4><94%>
+<SICINIUS>	<95%>
+	First, the gods bless you for your tidings; next,
+	Accept my thankfulness.
+</SICINIUS>
+
+<SPEECH 119><ACT 5><SCENE 4><94%>
+<SICINIUS>	<95%>
+	They are near the city?
+</SICINIUS>
+
+<SPEECH 120><ACT 5><SCENE 4><94%>
+<SICINIUS>	<95%>
+	We will meet them,
+	And help the joy.
+</SICINIUS>
+

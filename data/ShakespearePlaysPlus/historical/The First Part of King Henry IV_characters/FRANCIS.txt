@@ -1,0 +1,70 @@
+<SPEECH 1><ACT 2><SCENE 4><32%>
+<FRANCIS>	<32%>
+	Anon, anon, sir. Look down into the Pomgarnet, Ralph.
+</FRANCIS>
+
+<SPEECH 2><ACT 2><SCENE 4><32%>
+<FRANCIS>	<32%>
+	My lord.
+</FRANCIS>
+
+<SPEECH 3><ACT 2><SCENE 4><32%>
+<FRANCIS>	<32%>
+	Forsooth, five years, and as much as to—
+</FRANCIS>
+
+<SPEECH 4><ACT 2><SCENE 4><32%>
+<FRANCIS>	<33%>
+	Anon, anon, sir.
+</FRANCIS>
+
+<SPEECH 5><ACT 2><SCENE 4><32%>
+<FRANCIS>	<33%>
+	O Lord, sir! I'll be sworn upon all the books in England, I could find in my heart—
+</FRANCIS>
+
+<SPEECH 6><ACT 2><SCENE 4><32%>
+<FRANCIS>	<33%>
+	Anon, sir.
+</FRANCIS>
+
+<SPEECH 7><ACT 2><SCENE 4><32%>
+<FRANCIS>	<33%>
+	Let me see—about Michaelmas next I shall be—
+</FRANCIS>
+
+<SPEECH 8><ACT 2><SCENE 4><32%>
+<FRANCIS>	<33%>
+	Anon, sir. Pray you, stay a little, my lord.
+</FRANCIS>
+
+<SPEECH 9><ACT 2><SCENE 4><32%>
+<FRANCIS>	<33%>
+	O Lord, sir! I would it had been two.
+</FRANCIS>
+
+<SPEECH 10><ACT 2><SCENE 4><33%>
+<FRANCIS>	<33%>
+	Anon, anon.
+</FRANCIS>
+
+<SPEECH 11><ACT 2><SCENE 4><33%>
+<FRANCIS>	<33%>
+	My lord?
+</FRANCIS>
+
+<SPEECH 12><ACT 2><SCENE 4><33%>
+<FRANCIS>	<33%>
+	O Lord, sir, who do you mean?
+</FRANCIS>
+
+<SPEECH 13><ACT 2><SCENE 4><33%>
+<FRANCIS>	<34%>
+	What, sir?
+</FRANCIS>
+
+<SPEECH 14><ACT 2><SCENE 4><34%>
+<FRANCIS>	<34%>
+	Anon, anon, sir.
+</FRANCIS>
+

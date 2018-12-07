@@ -1,0 +1,53 @@
+<SPEECH 1><ACT 4><SCENE 2><69%>
+<SMITH>	<69%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> But now of late, not able to travel with her furred pack, she washes bucks here at home.
+</SMITH>
+
+<SPEECH 2><ACT 4><SCENE 2><69%>
+<SMITH>	<70%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> A' must needs, for beggary is valiant.
+</SMITH>
+
+<SPEECH 3><ACT 4><SCENE 2><70%>
+<SMITH>	<70%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> He need not fear the sword, for his coat is of proof.
+</SMITH>
+
+<SPEECH 4><ACT 4><SCENE 2><70%>
+<SMITH>	<71%>
+	The clerk of Chatham: he can write and read and cast accompt.
+</SMITH>
+
+<SPEECH 5><ACT 4><SCENE 2><71%>
+<SMITH>	<71%>
+	We took him setting of boys' copies.
+</SMITH>
+
+<SPEECH 6><ACT 4><SCENE 2><71%>
+<SMITH>	<71%>
+	Has a book in his pocket with red letters in't.
+</SMITH>
+
+<SPEECH 7><ACT 4><SCENE 2><72%>
+<SMITH>	<73%>
+	Sir, he made a chimney in my father's house, and the bricks are alive at this day to testify it; therefore deny it not.
+</SMITH>
+
+<SPEECH 8><ACT 4><SCENE 6><77%>
+<SMITH>	<78%>
+	If this fellow be wise, he'll never call you Jack Cade more: I think he hath a very fair warning.
+</SMITH>
+
+<SPEECH 9><ACT 4><SCENE 7><78%>
+<SMITH>	<78%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Nay, John, it will be stinking law; for his breath stinks with eating toasted cheese.
+</SMITH>
+

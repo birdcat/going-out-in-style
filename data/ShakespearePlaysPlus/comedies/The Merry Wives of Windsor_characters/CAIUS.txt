@@ -1,0 +1,251 @@
+<SPEECH 1><ACT 1><SCENE 4><16%>
+<CAIUS>	<16%>
+	Vat is you sing? I do not like dese toys. Pray you, go and vetch me in my closet une boitine verde; a box, a green-a box: do intend vat I speak? a green-a box.
+</CAIUS>
+
+<SPEECH 2><ACT 1><SCENE 4><16%>
+<CAIUS>	<16%>
+	Fe, fe, fe, fe! ma foi, il fait fort chaud. Je m'en vais à la cour,—la grande affaire.
+</CAIUS>
+
+<SPEECH 3><ACT 1><SCENE 4><16%>
+<CAIUS>	<17%>
+	Oui; mettez le au mon pocket; dépêchez, quickly.—Vere is dat knave Rugby?
+</CAIUS>
+
+<SPEECH 4><ACT 1><SCENE 4><17%>
+<CAIUS>	<17%>
+	You are John Rugby, and you are Jack Rugby: come, take-a your rapier, and come after my heel to de court.
+</CAIUS>
+
+<SPEECH 5><ACT 1><SCENE 4><17%>
+<CAIUS>	<17%>
+	By my trot, I tarry too long.—Od's me! Qu'ay j'oublié? dere is some simples in my closet, dat I vill not for de varld I shall leave behind.
+</CAIUS>
+
+<SPEECH 6><ACT 1><SCENE 4><17%>
+<CAIUS>	<17%>
+	O diable! diable! vat is in my closet?—Villain! larron! <STAGE DIR>
+<Pulling Simple out.>
+</STAGE DIR> Rugby, my rapier!
+</CAIUS>
+
+<SPEECH 7><ACT 1><SCENE 4><17%>
+<CAIUS>	<17%>
+	Verefore shall I be content-a?
+</CAIUS>
+
+<SPEECH 8><ACT 1><SCENE 4><17%>
+<CAIUS>	<17%>
+	Vat shall de honest man do in my closet? dere is no honest man dat shall come in my closet.
+</CAIUS>
+
+<SPEECH 9><ACT 1><SCENE 4><17%>
+<CAIUS>	<17%>
+	Vell.
+</CAIUS>
+
+<SPEECH 10><ACT 1><SCENE 4><17%>
+<CAIUS>	<17%>
+	Peace-a your tongue!—Speak-a your tale.
+</CAIUS>
+
+<SPEECH 11><ACT 1><SCENE 4><18%>
+<CAIUS>	<18%>
+	Sir Hugh send-a you?—Rugby, baillez me some paper: tarry you a little-a while.
+</CAIUS>
+
+<SPEECH 12><ACT 1><SCENE 4><18%>
+<CAIUS>	<18%>
+	You jack'nape, give-a dis letter to Sir Hugh; by gar, it is a challenge: I vill cut his troat in de Park; and I vill teach a scurvy jack-a-nape priest to meddle or make. You may be gone; it is not good you tarry here: by gar, I vill cut all his two stones; by gar, he shall not have a stone to trow at his dog.
+</CAIUS>
+
+<SPEECH 13><ACT 1><SCENE 4><18%>
+<CAIUS>	<19%>
+	It is no matter-a for dat:—do not you tell-a me dat I shall have Anne Page for myself? By gar, I vill kill de Jack priest; and I have appointed mine host of de Jartiere to measure our weapon. By gar, I vill myself have Anne Page.
+</CAIUS>
+
+<SPEECH 14><ACT 1><SCENE 4><19%>
+<CAIUS>	<19%>
+	Rugby, come to the court vit me. By gar, if I have not Anne Page, I shall turn your head out of my door. Follow my heels, Rugby.
+</CAIUS>
+
+<SPEECH 15><ACT 2><SCENE 3><39%>
+<CAIUS>	<39%>
+	Jack Rugby!
+</CAIUS>
+
+<SPEECH 16><ACT 2><SCENE 3><39%>
+<CAIUS>	<39%>
+	Vat is de clock, Jack?
+</CAIUS>
+
+<SPEECH 17><ACT 2><SCENE 3><39%>
+<CAIUS>	<39%>
+	By gar, he has save his soul, dat he is no come: he has pray his Pible vell, dat he is no come. By gar, Jack Rugby, he is dead already, if he be come.
+</CAIUS>
+
+<SPEECH 18><ACT 2><SCENE 3><39%>
+<CAIUS>	<39%>
+	By gar, de herring is no dead so as I vill kill him. Take your rapier, Jack; I vill tell you how I vill kill him.
+</CAIUS>
+
+<SPEECH 19><ACT 2><SCENE 3><39%>
+<CAIUS>	<39%>
+	Villany, take your rapier.
+</CAIUS>
+
+<SPEECH 20><ACT 2><SCENE 3><39%>
+<CAIUS>	<40%>
+	Vat be all you, one, two, tree, four, come for?
+</CAIUS>
+
+<SPEECH 21><ACT 2><SCENE 3><40%>
+<CAIUS>	<40%>
+	By gar, he is de coward Jack priest of de vorld; he is not show his face.
+</CAIUS>
+
+<SPEECH 22><ACT 2><SCENE 3><40%>
+<CAIUS>	<40%>
+	I pray you, bear vitness that me have stay six or seven, two, tree hours for him, and he is no come.
+</CAIUS>
+
+<SPEECH 23><ACT 2><SCENE 3><40%>
+<CAIUS>	<41%>
+	Mock-vater! vat is dat?
+</CAIUS>
+
+<SPEECH 24><ACT 2><SCENE 3><40%>
+<CAIUS>	<41%>
+	By gar, den, I have as mush mock-vater as de Englishman. — Scurvy jack-dog priest! by gar, me vill cut his ears.
+</CAIUS>
+
+<SPEECH 25><ACT 2><SCENE 3><41%>
+<CAIUS>	<41%>
+	Clapper-de-claw! vat is dat?
+</CAIUS>
+
+<SPEECH 26><ACT 2><SCENE 3><41%>
+<CAIUS>	<41%>
+	By gar, me do look, he shall clapper-de-claw me; for, by gar, me vill have it.
+</CAIUS>
+
+<SPEECH 27><ACT 2><SCENE 3><41%>
+<CAIUS>	<41%>
+	Me tank you for dat.
+</CAIUS>
+
+<SPEECH 28><ACT 2><SCENE 3><41%>
+<CAIUS>	<42%>
+	By gar, me vill kill de priest; for he speak for a jack-an-ape to Anne Page.
+</CAIUS>
+
+<SPEECH 29><ACT 2><SCENE 3><41%>
+<CAIUS>	<42%>
+	By gar, me tank you for dat: by gar, I love you; and I shall procure-a you de good guest, de earl, de knight, de lords, de gentlemen, my patients.
+</CAIUS>
+
+<SPEECH 30><ACT 2><SCENE 3><42%>
+<CAIUS>	<42%>
+	By gar, 'tis good; vell said.
+</CAIUS>
+
+<SPEECH 31><ACT 2><SCENE 3><42%>
+<CAIUS>	<42%>
+	Come at my heels, Jack Rugby.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</CAIUS>
+
+<SPEECH 32><ACT 3><SCENE 1><44%>
+<CAIUS>	<45%>
+	I pray you, let-a me speak a word vit your ear: verefore vill you not meet-a me?
+</CAIUS>
+
+<SPEECH 33><ACT 3><SCENE 1><44%>
+<CAIUS>	<45%>
+	By gar, you are de coward, de Jack dog, John ape.
+</CAIUS>
+
+<SPEECH 34><ACT 3><SCENE 1><45%>
+<CAIUS>	<45%>
+	Diable!—Jack Rugby,—mine host de Jarretierre,—have I not stay for him to kill him? have I not, at de place I did appoint?
+</CAIUS>
+
+<SPEECH 35><ACT 3><SCENE 1><45%>
+<CAIUS>	<45%>
+	Ay, dat is very good; excellent.
+</CAIUS>
+
+<SPEECH 36><ACT 3><SCENE 1><46%>
+<CAIUS>	<46%>
+	Ha! do I perceive dat? have you make-a de sot of us, ha, ha?
+</CAIUS>
+
+<SPEECH 37><ACT 3><SCENE 1><46%>
+<CAIUS>	<46%>
+	By gar, vit all my heart. He promise to bring me vere is Anne Page: by gar, he deceive me too.
+</CAIUS>
+
+<SPEECH 38><ACT 3><SCENE 2><48%>
+<CAIUS>	<49%>
+	Ay, by gar; and de maid is love-a me: my nursh-a Quickly tell me so mush.
+</CAIUS>
+
+<SPEECH 39><ACT 3><SCENE 2><49%>
+<CAIUS>	<49%>
+	Go home, John Rugby; I come anon.
+</CAIUS>
+
+<SPEECH 40><ACT 3><SCENE 3><55%>
+<CAIUS>	<56%>
+	By gar, 'tis no de fashion of France; it is not jealous in France.
+</CAIUS>
+
+<SPEECH 41><ACT 3><SCENE 3><57%>
+<CAIUS>	<57%>
+	By gar, nor I too, dere is no bodies.
+</CAIUS>
+
+<SPEECH 42><ACT 3><SCENE 3><57%>
+<CAIUS>	<57%>
+	By gar, I see 'tis an honest woman.
+</CAIUS>
+
+<SPEECH 43><ACT 3><SCENE 3><57%>
+<CAIUS>	<58%>
+	If dere be one or two, I shall make-a de turd.
+</CAIUS>
+
+<SPEECH 44><ACT 3><SCENE 3><58%>
+<CAIUS>	<58%>
+	Dat is good; by gar, vit all my heart.
+</CAIUS>
+
+<SPEECH 45><ACT 4><SCENE 5><84%>
+<CAIUS>	<84%>
+	Vere is mine host de Jarteer?
+</CAIUS>
+
+<SPEECH 46><ACT 4><SCENE 5><84%>
+<CAIUS>	<84%>
+	I cannot tell vat is dat; but it is tell-a me dat you make grand preparation for a duke de Jamany: by my trot, dere is no duke dat de court is know to come. I tell you for good vill: adieu.
+</CAIUS>
+
+<SPEECH 47><ACT 5><SCENE 3><89%>
+<CAIUS>	<90%>
+	I know vat I have to do. Adieu.
+</CAIUS>
+
+<SPEECH 48><ACT 5><SCENE 5><98%>
+<CAIUS>	<99%>
+	Vere is Mistress Page? By gar, I am cozened: I ha' married un garçon, a boy; un paysan, by gar, a boy; it is not Anne Page: by gar, I am cozened.
+</CAIUS>
+
+<SPEECH 49><ACT 5><SCENE 5><98%>
+<CAIUS>	<99%>
+	Ay, by gar, and 'tis a boy: by gar, I'll raise all Windsor.
+</CAIUS>
+

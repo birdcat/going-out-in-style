@@ -1,0 +1,341 @@
+<SPEECH 1><ACT 1><SCENE 2><8%>
+<LORD 1>	<8%>
+	So 'tis reported, sir.
+</LORD 1>
+
+<SPEECH 2><ACT 1><SCENE 2><8%>
+<LORD 1>	<8%>
+	His love and wisdom,
+	Approv'd so to your majesty, may plead
+	For amplest credence.
+</LORD 1>
+
+<SPEECH 3><ACT 1><SCENE 2><8%>
+<LORD 1>	<9%>
+	It is the Count Rousillon, my good lord,
+	Young Betram.
+</LORD 1>
+
+<SPEECH 4><ACT 2><SCENE 1><19%>
+<LORD 1>	<20%>
+	'Tis our hope, sir,
+	After well enter'd soldiers, to return
+	And find your Grace in health.
+</LORD 1>
+
+<SPEECH 5><ACT 2><SCENE 1><19%>
+<LORD 1>	<20%>
+	O my sweet lord, that you will stay behind us!
+</LORD 1>
+
+<SPEECH 6><ACT 2><SCENE 1><20%>
+<LORD 1>	<21%>
+	There's honour in the theft.
+</LORD 1>
+
+<SPEECH 7><ACT 2><SCENE 1><20%>
+<LORD 1>	<21%>
+	Farewell, captain.
+</LORD 1>
+
+<SPEECH 8><ACT 2><SCENE 3><31%>
+<LORD 1>	<32%>
+	And grant it.
+</LORD 1>
+
+<SPEECH 9><ACT 3><SCENE 1><44%>
+<LORD 1>	<45%>
+	Holy seems the quarrel
+	Upon your Grace's part; black and fearful
+	On the opposer.
+</LORD 1>
+
+<SPEECH 10><ACT 3><SCENE 1><45%>
+<LORD 1>	<45%>
+	Good my lord,
+	The reasons of our state I cannot yield,
+	But like a common and an outward man,
+	That the great figure of a council frames
+	By self-unable motion: therefore dare not
+	Say what I think of it, since I have found
+	Myself in my incertain grounds to fail
+	As often as I guess'd.
+</LORD 1>
+
+<SPEECH 11><ACT 3><SCENE 6><56%>
+<LORD 1>	<56%>
+	Nay, good my lord, put him to't: let him have his way.
+</LORD 1>
+
+<SPEECH 12><ACT 3><SCENE 6><56%>
+<LORD 1>	<56%>
+	On my life, my lord, a bubble.
+</LORD 1>
+
+<SPEECH 13><ACT 3><SCENE 6><56%>
+<LORD 1>	<56%>
+	Believe it, my lord, in mine own direct knowledge, without any malice, but to speak of him as my kinsman, he's a most notable coward, an infinite and endless liar, an hourly promise-breaker, the owner of no one good quality worthy your lordship's entertainment.
+</LORD 1>
+
+<SPEECH 14><ACT 3><SCENE 6><56%>
+<LORD 1>	<57%>
+	I, with a troop of Florentines, will suddenly surprise him: such I will have whom I am sure he knows not from the enemy. We will bind and hood wink him so, that he shall suppose no other but that he is carried into the leaguer of the adversaries, when we bring him to our own tents. Be but your lordship present at his examination: if he do not, for the promise of his life and in the highest compulsion of base fear, offer to betray you and deliver all the intelligence in his power against you, and that with the divine forfeit of his soul upon oath, never trust my judgment in anything.
+</LORD 1>
+
+<SPEECH 15><ACT 3><SCENE 6><57%>
+<LORD 1>	<57%>
+	O! for the love of laughter, hinder not the honour of his design: let him fetch off his drum in any hand.
+
+</LORD 1>
+
+<SPEECH 16><ACT 3><SCENE 6><58%>
+<LORD 1>	<59%>
+	No more than a fish loves water. Is not this a strange fellow, my lord, that so confidently seems to undertake this business, which he knows is not to be done; damns himself to do, and dares better be damned than to do't?
+</LORD 1>
+
+<SPEECH 17><ACT 3><SCENE 6><59%>
+<LORD 1>	<59%>
+	None in the world; but return with an invention and clap upon you two or three probable lies. But we have almost embossed him, you shall see his fall to-night; for, indeed, he is not for your lordship's respect.
+</LORD 1>
+
+<SPEECH 18><ACT 3><SCENE 6><59%>
+<LORD 1>	<59%>
+	I must go look my twigs: he shall be caught.
+</LORD 1>
+
+<SPEECH 19><ACT 3><SCENE 6><59%>
+<LORD 1>	<60%>
+	As't please your lordship: I'll leave you.
+</LORD 1>
+
+<SPEECH 20><ACT 4><SCENE 1><61%>
+<LORD 1>	<62%>
+	He can come no other way but by this hedge-corner. When you sally upon him, speak what terrible language you will: though you understand it not yourselves, no matter; for we must not seem to understand him, unless some one among us, whom we must produce for an interpreter.
+</LORD 1>
+
+<SPEECH 21><ACT 4><SCENE 1><61%>
+<LORD 1>	<62%>
+	Art not acquainted with him? knows he not thy voice?
+</LORD 1>
+
+<SPEECH 22><ACT 4><SCENE 1><62%>
+<LORD 1>	<62%>
+	But what linsey-woolsey hast thou to speak to us again?
+</LORD 1>
+
+<SPEECH 23><ACT 4><SCENE 1><62%>
+<LORD 1>	<62%>
+	He must think us some band of strangers i' the adversary's entertainment. Now, he hath a smack of all neighbouring languages; therefore we must every one be a man of his own fancy, not to know what we speak one to another; so we seem to know, is to know straight our purpose: chough's language, gabble enough, and good enough. As for you, interpreter, you must seem very politic. But couch, ho! here he comes, to beguile two hours in a sleep, and then to return and swear the lies he forges.
+
+</LORD 1>
+
+<SPEECH 24><ACT 4><SCENE 1><62%>
+<LORD 1>	<63%>
+	This is the first truth that e'er thine own tongue was guilty of.
+</LORD 1>
+
+<SPEECH 25><ACT 4><SCENE 1><63%>
+<LORD 1>	<63%>
+	Is it possible he should know what he is, and be that he is?
+</LORD 1>
+
+<SPEECH 26><ACT 4><SCENE 1><63%>
+<LORD 1>	<63%>
+	We cannot afford you so.
+</LORD 1>
+
+<SPEECH 27><ACT 4><SCENE 1><63%>
+<LORD 1>	<63%>
+	'Twould not do.
+</LORD 1>
+
+<SPEECH 28><ACT 4><SCENE 1><63%>
+<LORD 1>	<64%>
+	Hardly serve.
+</LORD 1>
+
+<SPEECH 29><ACT 4><SCENE 1><63%>
+<LORD 1>	<64%>
+	How deep?
+</LORD 1>
+
+<SPEECH 30><ACT 4><SCENE 1><63%>
+<LORD 1>	<64%>
+	Three great oaths would scarce make that be believed.
+</LORD 1>
+
+<SPEECH 31><ACT 4><SCENE 1><63%>
+<LORD 1>	<64%>
+	Thou shalt hear one anon.
+</LORD 1>
+
+<SPEECH 32><ACT 4><SCENE 1><63%>
+<LORD 1>	<64%>
+	Throca movousus, cargo, cargo, cargo.
+</LORD 1>
+
+<SPEECH 33><ACT 4><SCENE 1><64%>
+<LORD 1>	<64%>
+	Oscorbidulchos volivorco.
+</LORD 1>
+
+<SPEECH 34><ACT 4><SCENE 1><64%>
+<LORD 1>	<65%>
+	Go, tell the Count Rousillon, and my brother,
+	We have caught the woodcock, and will keep him muffled
+	Till we do hear from them.
+</LORD 1>
+
+<SPEECH 35><ACT 4><SCENE 1><65%>
+<LORD 1>	<65%>
+	A' will betray us all unto ourselves:
+	Inform on that.
+</LORD 1>
+
+<SPEECH 36><ACT 4><SCENE 1><65%>
+<LORD 1>	<65%>
+	Till then, I'll keep him dark and safely lock'd.
+</LORD 1>
+
+<SPEECH 37><ACT 4><SCENE 3><67%>
+<LORD 1>	<68%>
+	You have not given him his mother's letter?
+</LORD 1>
+
+<SPEECH 38><ACT 4><SCENE 3><68%>
+<LORD 1>	<68%>
+	He has much worthy blame laid upon him for shaking off so good a wife and so sweet a lady.
+</LORD 1>
+
+<SPEECH 39><ACT 4><SCENE 3><68%>
+<LORD 1>	<68%>
+	When you have spoken it, 'tis dead, and I am the grave of it.
+</LORD 1>
+
+<SPEECH 40><ACT 4><SCENE 3><68%>
+<LORD 1>	<68%>
+	Now, God delay our rebellion! as we are ourselves, what things are we!
+</LORD 1>
+
+<SPEECH 41><ACT 4><SCENE 3><68%>
+<LORD 1>	<69%>
+	Is it not most damnable in us, to be trumpeters of our unlawful intents? We shall not then have his company to-night?
+</LORD 1>
+
+<SPEECH 42><ACT 4><SCENE 3><68%>
+<LORD 1>	<69%>
+	That approaches apace: I would gladly have him see his company anatomized, that he might take a measure of his own judgments, wherein so curiously he had set this counterfeit.
+</LORD 1>
+
+<SPEECH 43><ACT 4><SCENE 3><69%>
+<LORD 1>	<69%>
+	In the meantime what near you of these wars?
+</LORD 1>
+
+<SPEECH 44><ACT 4><SCENE 3><69%>
+<LORD 1>	<69%>
+	Nay, I assure you, a peace concluded.
+</LORD 1>
+
+<SPEECH 45><ACT 4><SCENE 3><69%>
+<LORD 1>	<69%>
+	I perceive by this demand, you are not altogether of his council.
+</LORD 1>
+
+<SPEECH 46><ACT 4><SCENE 3><69%>
+<LORD 1>	<69%>
+	Sir, his wife some two months since fled from his house: her pretence is a pilgrimage to Saint Jaques le Grand; which holy undertaking with most austere sanctimony she accomplished; and, there residing, the tenderness of her nature became as a prey to her grief; in fine, made a groan of her last breath, and now she sings in heaven.
+</LORD 1>
+
+<SPEECH 47><ACT 4><SCENE 3><69%>
+<LORD 1>	<70%>
+	The stronger part of it by her own letters, which make her story true, even to the point of her death: her death itself, which could not be her office to say is come, was faithfully confirmed by the rector of the place.
+</LORD 1>
+
+<SPEECH 48><ACT 4><SCENE 3><69%>
+<LORD 1>	<70%>
+	Ay, and the particular confirmations, point from point, to the full arming of the verity.
+</LORD 1>
+
+<SPEECH 49><ACT 4><SCENE 3><70%>
+<LORD 1>	<70%>
+	How mightily sometimes we make us comforts of our losses!
+</LORD 1>
+
+<SPEECH 50><ACT 4><SCENE 3><70%>
+<LORD 1>	<70%>
+	The web of our life is of a mingled yarn, good and ill together: our virtues would be proud if our faults whipped them not; and our crimes would despair if they were not cherished by our virtues.
+
+</LORD 1>
+
+<SPEECH 51><ACT 4><SCENE 3><70%>
+<LORD 1>	<71%>
+	They cannot be too sweet for the king's tartness. Here's his lordship now.
+
+</LORD 1>
+
+<SPEECH 52><ACT 4><SCENE 3><71%>
+<LORD 1>	<71%>
+	I have told your lordship already, the stocks carry him. But to answer you as you would be understood; he weeps like a wench that had shed her milk: he hath confessed himself to Morgan,—whom he supposes to be a friar,—from the time of his remembrance to this very instant disaster of his setting i' the stocks: and what think you he hath confessed?
+</LORD 1>
+
+<SPEECH 53><ACT 4><SCENE 3><71%>
+<LORD 1>	<72%>
+	Hoodman comes! Porto tartarossa.
+</LORD 1>
+
+<SPEECH 54><ACT 4><SCENE 3><72%>
+<LORD 1>	<72%>
+	Boblibindo chicurmurco.
+</LORD 1>
+
+<SPEECH 55><ACT 4><SCENE 3><72%>
+<LORD 1>	<73%>
+	You are deceived, my lord: this is Monsieur Parolles, the gallant militarist,—that was his own phrase,—that had the whole theorick of war in the knot of his scarf, and the practice in the chape of his dagger.
+</LORD 1>
+
+<SPEECH 56><ACT 4><SCENE 3><73%>
+<LORD 1>	<73%>
+	He's very near the truth in this.
+</LORD 1>
+
+<SPEECH 57><ACT 4><SCENE 3><73%>
+<LORD 1>	<74%>
+	Nothing, but let him have thanks. Demand of him my condition, and what credit I have with the duke.
+</LORD 1>
+
+<SPEECH 58><ACT 4><SCENE 3><74%>
+<LORD 1>	<74%>
+	Nay, look not so upon me; we shall hear of your lordship anon.
+</LORD 1>
+
+<SPEECH 59><ACT 4><SCENE 3><74%>
+<LORD 1>	<75%>
+	Excellently.
+</LORD 1>
+
+<SPEECH 60><ACT 4><SCENE 3><75%>
+<LORD 1>	<76%>
+	This is your devoted friend, sir; the manifold linguist and the armipotent soldier.
+</LORD 1>
+
+<SPEECH 61><ACT 4><SCENE 3><76%>
+<LORD 1>	<77%>
+	I begin to love him for this.
+</LORD 1>
+
+<SPEECH 62><ACT 4><SCENE 3><77%>
+<LORD 1>	<77%>
+	He hath out-villained villany so far, that the rarity redeems him.
+</LORD 1>
+
+<SPEECH 63><ACT 4><SCENE 3><78%>
+<LORD 1>	<78%>
+	God save you, noble captain.
+</LORD 1>
+
+<SPEECH 64><ACT 4><SCENE 3><78%>
+<LORD 1>	<79%>
+	Good captain, will you give me a copy of the sonnet you writ to Diana in behalf of the Count Rousillon? an I were not a very coward I'd compel it of you; but fare you well.
+</LORD 1>
+

@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 3><SCENE 1><47%>
+<GENTLEMAN>	<47%>
+	An't please your Grace, the two great cardinals
+	Wait in the presence.
+</GENTLEMAN>
+
+<SPEECH 2><ACT 3><SCENE 1><47%>
+<GENTLEMAN>	<47%>
+	They will'd me say so, madam.
+</GENTLEMAN>
+
+<SPEECH 3><ACT 5><SCENE 1><85%>
+<GENTLEMAN>	<85%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Come back: what mean you?
+</GENTLEMAN>
+

@@ -1,0 +1,15 @@
+<SPEECH 1><ACT ?><SCENE 1><0%>
+<HOSTESS>	<0%>
+	A pair of stocks, you rogue!
+</HOSTESS>
+
+<SPEECH 2><ACT ?><SCENE 1><0%>
+<HOSTESS>	<1%>
+	You will not pay for the glasses you have burst?
+</HOSTESS>
+
+<SPEECH 3><ACT ?><SCENE 1><0%>
+<HOSTESS>	<1%>
+	I know my remedy: I must go fetch the third-borough.
+</HOSTESS>
+

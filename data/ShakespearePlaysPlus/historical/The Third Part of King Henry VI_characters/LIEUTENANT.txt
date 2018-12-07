@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 4><SCENE 6><73%>
+<LIEUTENANT>	<74%>
+	Subjects may challenge nothing of their sovereigns;
+	But if a humble prayer may prevail,
+	I then crave pardon of your majesty.
+</LIEUTENANT>
+

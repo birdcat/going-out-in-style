@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 3><SCENE 2><48%>
+<PURSUIVANT>	<48%>
+	The better that your lordship please to ask.
+</PURSUIVANT>
+
+<SPEECH 2><ACT 3><SCENE 2><48%>
+<PURSUIVANT>	<48%>
+	God hold it to your honour's good content!
+</PURSUIVANT>
+
+<SPEECH 3><ACT 3><SCENE 2><48%>
+<PURSUIVANT>	<49%>
+	God save your lordship.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</PURSUIVANT>
+

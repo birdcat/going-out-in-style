@@ -1,0 +1,68 @@
+<SPEECH 1><ACT 1><SCENE 2><14%>
+<JAQUENETTA>	<15%>
+	Man?
+</JAQUENETTA>
+
+<SPEECH 2><ACT 1><SCENE 2><14%>
+<JAQUENETTA>	<15%>
+	That's hereby.
+</JAQUENETTA>
+
+<SPEECH 3><ACT 1><SCENE 2><14%>
+<JAQUENETTA>	<15%>
+	Lord, how wise you are!
+</JAQUENETTA>
+
+<SPEECH 4><ACT 1><SCENE 2><15%>
+<JAQUENETTA>	<15%>
+	With that face?
+</JAQUENETTA>
+
+<SPEECH 5><ACT 1><SCENE 2><15%>
+<JAQUENETTA>	<15%>
+	So I heard you say.
+</JAQUENETTA>
+
+<SPEECH 6><ACT 1><SCENE 2><15%>
+<JAQUENETTA>	<15%>
+	Fair weather after you!
+</JAQUENETTA>
+
+<SPEECH 7><ACT 4><SCENE 2><42%>
+<JAQUENETTA>	<43%>
+	God give you good morrow, Master parson.
+</JAQUENETTA>
+
+<SPEECH 8><ACT 4><SCENE 2><43%>
+<JAQUENETTA>	<43%>
+	Good Master parson <STAGE DIR>
+<giving a letter to Nathaniel],>
+</STAGE DIR> be so good as read me this letter: it was given me by Costard, and sent me from Don Armado: I beseech you, read it.
+</JAQUENETTA>
+
+<SPEECH 9><ACT 4><SCENE 2><44%>
+<JAQUENETTA>	<45%>
+	Ay, sir; from one Monsieur Berowne, one of the strange queen's lords.
+</JAQUENETTA>
+
+<SPEECH 10><ACT 4><SCENE 2><44%>
+<JAQUENETTA>	<45%>
+	Good Costard, go with me. Sir, God save your life!
+</JAQUENETTA>
+
+<SPEECH 11><ACT 4><SCENE 3><52%>
+<JAQUENETTA>	<53%>
+	God bless the king!
+</JAQUENETTA>
+
+<SPEECH 12><ACT 4><SCENE 3><52%>
+<JAQUENETTA>	<53%>
+	I beseech your Grace, let this letter be read:
+	Our parson misdoubts it; 'twas treason, he said.
+</JAQUENETTA>
+
+<SPEECH 13><ACT 4><SCENE 3><52%>
+<JAQUENETTA>	<53%>
+	Of Costard.
+</JAQUENETTA>
+

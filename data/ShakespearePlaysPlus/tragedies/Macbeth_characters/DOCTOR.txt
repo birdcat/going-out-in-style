@@ -1,0 +1,119 @@
+<SPEECH 1><ACT 4><SCENE 3><77%>
+<DOCTOR>	<78%>
+	Ay, sir; there are a crew of wretched souls
+	That stay his cure; their malady convinces
+	The great assay of art; but, at his touch,
+	Such sanctity hath heaven given his hand,
+	They presently amend.
+</DOCTOR>
+
+<SPEECH 2><ACT 5><SCENE 1><82%>
+<DOCTOR>	<82%>
+	I have two nights watched with you, but can perceive no truth in your report. When was it she last walked?
+</DOCTOR>
+
+<SPEECH 3><ACT 5><SCENE 1><82%>
+<DOCTOR>	<83%>
+	A great perturbation in nature, to receive at once the benefit of sleep and do the effects of watching! In this slumbery agitation, besides her walking and other actual performances, what, at any time, have you heard her say?
+</DOCTOR>
+
+<SPEECH 4><ACT 5><SCENE 1><82%>
+<DOCTOR>	<83%>
+	You may to me, and 'tis most meet you should.
+</DOCTOR>
+
+<SPEECH 5><ACT 5><SCENE 1><83%>
+<DOCTOR>	<83%>
+	How came she by that light?
+</DOCTOR>
+
+<SPEECH 6><ACT 5><SCENE 1><83%>
+<DOCTOR>	<83%>
+	You see, her eyes are open.
+</DOCTOR>
+
+<SPEECH 7><ACT 5><SCENE 1><83%>
+<DOCTOR>	<84%>
+	What is it she does now? Look, how she rubs her hands.
+</DOCTOR>
+
+<SPEECH 8><ACT 5><SCENE 1><83%>
+<DOCTOR>	<84%>
+	Hark! she speaks. I will set down what comes from her, to satisfy my remembrance the more strongly.
+</DOCTOR>
+
+<SPEECH 9><ACT 5><SCENE 1><83%>
+<DOCTOR>	<84%>
+	Do you mark that?
+</DOCTOR>
+
+<SPEECH 10><ACT 5><SCENE 1><84%>
+<DOCTOR>	<84%>
+	Go to, go to; you have known what you should not.
+</DOCTOR>
+
+<SPEECH 11><ACT 5><SCENE 1><84%>
+<DOCTOR>	<85%>
+	What a sigh is there! The heart is sorely charged.
+</DOCTOR>
+
+<SPEECH 12><ACT 5><SCENE 1><84%>
+<DOCTOR>	<85%>
+	Well, well, well.
+</DOCTOR>
+
+<SPEECH 13><ACT 5><SCENE 1><84%>
+<DOCTOR>	<85%>
+	This disease is beyond my practice: yet I have known those which have walked in their sleep who have died holily in their beds.
+</DOCTOR>
+
+<SPEECH 14><ACT 5><SCENE 1><84%>
+<DOCTOR>	<85%>
+	Even so?
+</DOCTOR>
+
+<SPEECH 15><ACT 5><SCENE 1><85%>
+<DOCTOR>	<85%>
+	Will she go now to bed?
+</DOCTOR>
+
+<SPEECH 16><ACT 5><SCENE 1><85%>
+<DOCTOR>	<85%>
+	Foul whisperings are abroad. Unnatural deeds
+	Do breed unnatural troubles; infected minds
+	To their deaf pillows will discharge their secrets;
+	More needs she the divine than the physician.
+	God, God forgive us all! Look after her;
+	Remove from her the means of all annoyance,
+	And still keep eyes upon her. So, good-night:
+	My mind she has mated, and amaz'd my sight.
+	I think, but dare not speak.
+</DOCTOR>
+
+<SPEECH 17><ACT 5><SCENE 3><89%>
+<DOCTOR>	<89%>
+	Not so sick, my lord,
+	As she is troubled with thick-coming fancies,
+	That keep her from her rest.
+</DOCTOR>
+
+<SPEECH 18><ACT 5><SCENE 3><89%>
+<DOCTOR>	<89%>
+	Therein the patient
+	Must minister to himself.
+</DOCTOR>
+
+<SPEECH 19><ACT 5><SCENE 3><89%>
+<DOCTOR>	<90%>
+	Ay, my good lord; your royal preparation
+	Makes us hear something.
+</DOCTOR>
+
+<SPEECH 20><ACT 5><SCENE 3><90%>
+<DOCTOR>	<90%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Were I from Dunsinane away and clear,
+	Profit again should hardly draw me here.
+</DOCTOR>
+

@@ -1,0 +1,62 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+<ALL>	<1%>
+	Long live Queen Margaret, England's happiness!
+</ALL>
+
+<SPEECH 2><ACT 1><SCENE 3><12%>
+<ALL>	<13%>
+	Come, let's be gone.
+</ALL>
+
+<SPEECH 3><ACT 4><SCENE 2><70%>
+<ALL>	<70%>
+	God save your majesty!
+</ALL>
+
+<SPEECH 4><ACT 4><SCENE 2><71%>
+<ALL>	<71%>
+	He hath confessed: away with him! he's a villain and a traitor.
+</ALL>
+
+<SPEECH 5><ACT 4><SCENE 2><73%>
+<ALL>	<73%>
+	Ay, marry, will we; therefore get ye gone.
+</ALL>
+
+<SPEECH 6><ACT 4><SCENE 2><73%>
+<ALL>	<73%>
+	No, no; and therefore we'll have his head.
+</ALL>
+
+<SPEECH 7><ACT 4><SCENE 7><81%>
+<ALL>	<81%>
+	It shall be done.
+</ALL>
+
+<SPEECH 8><ACT 4><SCENE 7><82%>
+<ALL>	<82%>
+	O! brave!
+
+</ALL>
+
+<SPEECH 9><ACT 4><SCENE 8><82%>
+<ALL>	<83%>
+	God save the king! God save the king!
+</ALL>
+
+<SPEECH 10><ACT 4><SCENE 8><83%>
+<ALL>	<83%>
+	We'll follow Cade, we'll follow Cade!
+</ALL>
+
+<SPEECH 11><ACT 4><SCENE 8><83%>
+<ALL>	<84%>
+	A Clifford! a Clifford! we'll follow the king and Clifford.
+</ALL>
+
+<SPEECH 12><ACT 4><SCENE 1><85%>
+<ALL>	<85%>
+	God save the king! God save the king!
+
+</ALL>
+

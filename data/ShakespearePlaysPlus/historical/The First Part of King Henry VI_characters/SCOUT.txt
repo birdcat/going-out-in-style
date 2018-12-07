@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 5><SCENE 2><82%>
+<SCOUT>	<82%>
+	Success unto our valiant general,
+	And happiness to his accomplices!
+</SCOUT>
+
+<SPEECH 2><ACT 5><SCENE 2><82%>
+<SCOUT>	<82%>
+	The English army, that divided was
+	Into two parties, is now conjoin'd in one,
+	And means to give you battle presently.
+</SCOUT>
+

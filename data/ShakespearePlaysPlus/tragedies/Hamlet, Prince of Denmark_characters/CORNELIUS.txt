@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 2><5%>
+<CORNELIUS>	<6%>
+	In that and all things will we show our duty.
+</CORNELIUS>
+

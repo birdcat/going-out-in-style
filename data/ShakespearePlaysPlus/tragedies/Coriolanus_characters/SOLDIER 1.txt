@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 1><SCENE 4><14%>
+<SOLDIER 1>	<14%>
+	Foolhardiness! not I.
+</SOLDIER 1>
+
+<SPEECH 2><ACT 1><SCENE 4><14%>
+<SOLDIER 1>	<15%>
+	Following the fliers at the very heels,
+	With them he enters; who, upon the sudden,
+	Clapp'd-to their gates; he is himself alone,
+	To answer all the city.
+</SOLDIER 1>
+
+<SPEECH 3><ACT 1><SCENE 4><14%>
+<SOLDIER 1>	<15%>
+	Look, sir!
+</SOLDIER 1>
+
+<SPEECH 4><ACT 1><SCENE X.— ><22%>
+<SOLDIER 1>	<23%>
+	'Twill be deliver'd back on good condition.
+</SOLDIER 1>
+
+<SPEECH 5><ACT 1><SCENE X.— ><22%>
+<SOLDIER 1>	<23%>
+	He's the devil.
+</SOLDIER 1>
+
+<SPEECH 6><ACT 1><SCENE X.— ><23%>
+<SOLDIER 1>	<23%>
+	Will not you go?
+</SOLDIER 1>
+
+<SPEECH 7><ACT 1><SCENE X.— ><23%>
+<SOLDIER 1>	<24%>
+	I shall, sir.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</SOLDIER 1>
+

@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 2><SCENE 3><27%>
+<MESENGER>	<27%>
+	So like you, sir, ambassadors from Rome;
+	The one is Caius Lucius.
+</MESENGER>
+
+<SPEECH 2><ACT 5><SCENE 4><84%>
+<MESENGER>	<85%>
+	Knock off his manacles; bring your prisoner to the king.
+</MESENGER>
+

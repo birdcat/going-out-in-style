@@ -1,0 +1,24 @@
+<SPEECH 1><ACT 4><SCENE 3><75%>
+<POET>	<77%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Let me go in to see the generals;
+	There is some grudge between 'em, 'tis not meet
+	They be alone.
+</POET>
+
+<SPEECH 2><ACT 4><SCENE 3><76%>
+<POET>	<77%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Nothing but death shall stay me.
+
+</POET>
+
+<SPEECH 3><ACT 4><SCENE 3><76%>
+<POET>	<77%>
+	For shame, you generals! What do you mean?
+	Love, and be friends, as two such men should be;
+	For I have seen more years, I'm sure, than ye.
+</POET>
+

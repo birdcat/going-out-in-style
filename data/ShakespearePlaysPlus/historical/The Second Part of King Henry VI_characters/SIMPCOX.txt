@@ -1,0 +1,96 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+<SIMPCOX>	<24%>
+	Born blind, an't please your Grace.
+</SIMPCOX>
+
+<SPEECH 2><ACT 2><SCENE 1><24%>
+<SIMPCOX>	<24%>
+	At Berwick in the north, an't like your Grace.
+</SIMPCOX>
+
+<SPEECH 3><ACT 2><SCENE 1><24%>
+<SIMPCOX>	<25%>
+	God knows, of pure devotion; being call'd
+	A hundred times and oft'ner in my sleep,
+	By good Saint Alban; who said, 'Simpcox, come;
+	Come, offer at my shrine, and I will help thee.'
+</SIMPCOX>
+
+<SPEECH 4><ACT 2><SCENE 1><24%>
+<SIMPCOX>	<25%>
+	Ay, God Almighty help me!
+</SIMPCOX>
+
+<SPEECH 5><ACT 2><SCENE 1><24%>
+<SIMPCOX>	<25%>
+	A fall off of a tree.
+</SIMPCOX>
+
+<SPEECH 6><ACT 2><SCENE 1><24%>
+<SIMPCOX>	<25%>
+	O! born so, master.
+</SIMPCOX>
+
+<SPEECH 7><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<25%>
+	But that in all my life, when I was a youth.
+</SIMPCOX>
+
+<SPEECH 8><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<25%>
+	Alas! master, my wife desir'd some damsons,
+	And made me climb with danger of my life.
+</SIMPCOX>
+
+<SPEECH 9><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<25%>
+	Yes, master, clear as day; I thank God and Saint Alban.
+</SIMPCOX>
+
+<SPEECH 10><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<25%>
+	Red, master; red as blood.
+</SIMPCOX>
+
+<SPEECH 11><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<25%>
+	Black, forsooth; coal-black, as jet.
+</SIMPCOX>
+
+<SPEECH 12><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<25%>
+	Alas! master, I know not.
+</SIMPCOX>
+
+<SPEECH 13><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<26%>
+	I know not.
+</SIMPCOX>
+
+<SPEECH 14><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<26%>
+	No, indeed, master.
+</SIMPCOX>
+
+<SPEECH 15><ACT 2><SCENE 1><25%>
+<SIMPCOX>	<26%>
+	Saunder Simpcox, an if it please you, master.
+</SIMPCOX>
+
+<SPEECH 16><ACT 2><SCENE 1><26%>
+<SIMPCOX>	<26%>
+	O, master, that you could!
+</SIMPCOX>
+
+<SPEECH 17><ACT 2><SCENE 1><26%>
+<SIMPCOX>	<26%>
+	Alas! master, I am not able to stand alone:
+	You go about to torture me in vain.
+
+</SIMPCOX>
+
+<SPEECH 18><ACT 2><SCENE 1><26%>
+<SIMPCOX>	<26%>
+	Alas! master, what shall I do? I am not able to stand.
+</SIMPCOX>
+

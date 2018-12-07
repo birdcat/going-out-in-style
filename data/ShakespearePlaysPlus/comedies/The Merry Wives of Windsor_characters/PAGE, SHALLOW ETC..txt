@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 2><48%>
+<PAGE, SHALLOW ETC.>	<48%>
+	Well met, Master Ford.
+</PAGE, SHALLOW ETC.>
+

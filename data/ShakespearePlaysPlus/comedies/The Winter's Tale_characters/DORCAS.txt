@@ -1,0 +1,68 @@
+<SPEECH 1><ACT 4><SCENE 3><58%>
+<DORCAS>	<59%>
+	Mopsa must be your mistress: marry, garlic,
+	To mend her kissing with.
+</DORCAS>
+
+<SPEECH 2><ACT 4><SCENE 3><60%>
+<DORCAS>	<61%>
+	He hath promised you more than that, or there be liars.
+</DORCAS>
+
+<SPEECH 3><ACT 4><SCENE 3><61%>
+<DORCAS>	<62%>
+	Bless me from marrying a usurer!
+</DORCAS>
+
+<SPEECH 4><ACT 4><SCENE 3><61%>
+<DORCAS>	<62%>
+	Is it true too, think you?
+</DORCAS>
+
+<SPEECH 5><ACT 4><SCENE 3><62%>
+<DORCAS>	<63%>
+	We had the tune on't a month ago.
+</DORCAS>
+
+<SPEECH 6><ACT 4><SCENE 3><62%>
+<DORCAS>	<63%>
+
+	Whither?
+
+</DORCAS>
+
+<SPEECH 7><ACT 4><SCENE 3><62%>
+<DORCAS>	<63%>
+
+	Whither?
+
+</DORCAS>
+
+<SPEECH 8><ACT 4><SCENE 3><62%>
+<DORCAS>	<63%>
+
+	Me too: let me go thither.
+
+</DORCAS>
+
+<SPEECH 9><ACT 4><SCENE 3><62%>
+<DORCAS>	<63%>
+
+	If to either, thou dost ill.
+
+</DORCAS>
+
+<SPEECH 10><ACT 4><SCENE 3><62%>
+<DORCAS>	<63%>
+
+	What, neither?
+
+</DORCAS>
+
+<SPEECH 11><ACT 4><SCENE 3><62%>
+<DORCAS>	<63%>
+
+	Thou hast sworn my love to be
+
+</DORCAS>
+

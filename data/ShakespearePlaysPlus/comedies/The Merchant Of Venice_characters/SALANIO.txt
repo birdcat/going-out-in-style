@@ -1,0 +1,143 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<SALANIO>	<1%>
+	Believe me, sir, had I such venture forth,
+	The better part of my affections would
+	Be with my hopes abroad. I should be still
+	Plucking the grass to know where sits the wind;
+	Peering in maps for ports, and piers, and roads;
+	And every object that might make me fear
+	Misfortune to my ventures, out of doubt
+	Would make me sad.
+</SALANIO>
+
+<SPEECH 2><ACT 1><SCENE 1><2%>
+<SALANIO>	<2%>
+	Here comes Bassanio, your most noble kinsman,
+	Gratiano, and Lorenzo. Fare ye well:
+	We leave you now with better company.
+</SALANIO>
+
+<SPEECH 3><ACT 2><SCENE 4><29%>
+<SALANIO>	<30%>
+	'Tis vile, unless it may be quaintly order'd,
+	And better, in my mind, not undertook.
+</SALANIO>
+
+<SPEECH 4><ACT 2><SCENE 4><30%>
+<SALANIO>	<31%>
+	And so will I.
+</SALANIO>
+
+<SPEECH 5><ACT 2><SCENE 8><39%>
+<SALANIO>	<40%>
+	The villain Jew with outcries rais'd the duke,
+	Who went with him to search Bassanio's ship.
+</SALANIO>
+
+<SPEECH 6><ACT 2><SCENE 8><39%>
+<SALANIO>	<40%>
+	I never heard a passion so confus'd,
+	So strange, outrageous, and so variable,
+	As the dog Jew did utter in the streets:
+	'My daughter! O my ducats! O my daughter!
+	Fled with a Christian! O my Christian ducats!
+	Justice! the law! my ducats, and my daughter!
+	A sealed bag, two sealed bags of ducats,
+	Of double ducats, stol'n from me by my daughter!
+	And jewels! two stones, two rich and precious stones,
+	Stol'n by my daughter! Justice! find the girl!
+	She hath the stones upon her, and the ducats.'
+</SALANIO>
+
+<SPEECH 7><ACT 2><SCENE 8><40%>
+<SALANIO>	<40%>
+	Let good Antonio look he keep his day,
+	Or he shall pay for this.
+</SALANIO>
+
+<SPEECH 8><ACT 2><SCENE 8><40%>
+<SALANIO>	<41%>
+	You were best to tell Antonio what you hear;
+	Yet do not suddenly, for it may grieve him.
+</SALANIO>
+
+<SPEECH 9><ACT 2><SCENE 8><41%>
+<SALANIO>	<41%>
+	I think he only loves the world for him.
+	I pray thee, let us go and find him out,
+	And quicken his embraced heaviness
+	With some delight or other.
+</SALANIO>
+
+<SPEECH 10><ACT 3><SCENE 1><45%>
+<SALANIO>	<45%>
+	Now, what news on the Rialto?
+</SALANIO>
+
+<SPEECH 11><ACT 3><SCENE 1><45%>
+<SALANIO>	<46%>
+	I would she were as lying a gossip in that as ever knapped ginger, or made her neighbours believe she wept for the death of a third husband. But it is true,—without any slips of prolixity or crossing the plain highway of talk,—that the good Antonio, the honest Antonio,—O, that I had a title good enough to keep his name company!—
+</SALANIO>
+
+<SPEECH 12><ACT 3><SCENE 1><45%>
+<SALANIO>	<46%>
+	Ha! what sayst thou? Why, the end is, he hath lost a ship.
+</SALANIO>
+
+<SPEECH 13><ACT 3><SCENE 1><45%>
+<SALANIO>	<46%>
+	Let me say 'amen' betimes, lest the devil cross my prayer, for here he comes in the likeness of a Jew.
+
+</SALANIO>
+
+<SPEECH 14><ACT 3><SCENE 1><46%>
+<SALANIO>	<46%>
+	And Shylock, for his own part, knew the bird was fledged; and then it is the complexion of them all to leave the dam.
+</SALANIO>
+
+<SPEECH 15><ACT 3><SCENE 1><46%>
+<SALANIO>	<47%>
+	Out upon it, old carrion! rebels it at these years?
+</SALANIO>
+
+<SPEECH 16><ACT 3><SCENE 1><47%>
+<SALANIO>	<48%>
+	Here comes another of the tribe: a third cannot be matched, unless the devil himself turn Jew.
+</SALANIO>
+
+<SPEECH 17><ACT 3><SCENE 2><57%>
+<SALANIO>	<58%>
+	I did, my lord,
+	And I have reason for it. Signior Antonio
+	Commends him to you.
+</SALANIO>
+
+<SPEECH 18><ACT 3><SCENE 2><58%>
+<SALANIO>	<59%>
+	Not sick, my lord, unless it be in mind;
+	Nor well, unless in mind: his letter there
+	Will show you his estate.
+</SALANIO>
+
+<SPEECH 19><ACT 3><SCENE 2><58%>
+<SALANIO>	<59%>
+	I would you had won the fleece that he hath lost.
+</SALANIO>
+
+<SPEECH 20><ACT 3><SCENE 2><59%>
+<SALANIO>	<60%>
+	Not one, my lord.
+	Besides, it should appear, that if he had
+	The present money to discharge the Jew,
+	He would not take it. Never did I know
+	A creature, that did bear the shape of man,
+	So keen and greedy to confound a man.
+	He plies the duke at morning and at night,
+	And doth impeach the freedom of the state,
+	If they deny him justice: twenty merchants,
+	The duke himself, and the magnificoes
+	Of greatest port, have all persuaded with him;
+	But none can drive him from the envious plea
+	Of forfeiture, of justice, and his bond.
+</SALANIO>
+

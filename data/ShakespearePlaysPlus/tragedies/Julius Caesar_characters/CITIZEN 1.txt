@@ -1,0 +1,88 @@
+<SPEECH 1><ACT 3><SCENE 2><54%>
+<CITIZEN 1>	<56%>
+	I will hear Brutus speak.
+</CITIZEN 1>
+
+<SPEECH 2><ACT 3><SCENE 2><56%>
+<CITIZEN 1>	<57%>
+	Bring him with triumph home unto his house.
+</CITIZEN 1>
+
+<SPEECH 3><ACT 3><SCENE 2><56%>
+<CITIZEN 1>	<58%>
+	We'll bring him to his house with shouts and clamours.
+</CITIZEN 1>
+
+<SPEECH 4><ACT 3><SCENE 2><56%>
+<CITIZEN 1>	<58%>
+	Peace, ho!
+</CITIZEN 1>
+
+<SPEECH 5><ACT 3><SCENE 2><56%>
+<CITIZEN 1>	<58%>
+	Stay, ho! and let us hear Mark Antony.
+</CITIZEN 1>
+
+<SPEECH 6><ACT 3><SCENE 2><57%>
+<CITIZEN 1>	<58%>
+	This Cæsar was a tyrant.
+</CITIZEN 1>
+
+<SPEECH 7><ACT 3><SCENE 2><58%>
+<CITIZEN 1>	<60%>
+	Methinks there is much reason in his sayings.
+</CITIZEN 1>
+
+<SPEECH 8><ACT 3><SCENE 2><58%>
+<CITIZEN 1>	<60%>
+	If it be found so, some will dear abide it.
+</CITIZEN 1>
+
+<SPEECH 9><ACT 3><SCENE 2><60%>
+<CITIZEN 1>	<62%>
+	Stand from the hearse; stand from the body.
+</CITIZEN 1>
+
+<SPEECH 10><ACT 3><SCENE 2><61%>
+<CITIZEN 1>	<63%>
+	O piteous spectacle!
+</CITIZEN 1>
+
+<SPEECH 11><ACT 3><SCENE 2><62%>
+<CITIZEN 1>	<63%>
+	O most bloody sight!
+</CITIZEN 1>
+
+<SPEECH 12><ACT 3><SCENE 2><62%>
+<CITIZEN 1>	<63%>
+	Peace there! Hear the noble Antony.
+</CITIZEN 1>
+
+<SPEECH 13><ACT 3><SCENE 2><63%>
+<CITIZEN 1>	<64%>
+	We'll burn the house of Brutus.
+</CITIZEN 1>
+
+<SPEECH 14><ACT 3><SCENE 2><64%>
+<CITIZEN 1>	<65%>
+	Never, never! Come, away, away!
+	We'll burn his body in the holy place,
+	And with the brands fire the traitors' houses.
+	Take up the body.
+</CITIZEN 1>
+
+<SPEECH 15><ACT 3><SCENE 3><65%>
+<CITIZEN 1>	<66%>
+	What is your name?
+</CITIZEN 1>
+
+<SPEECH 16><ACT 3><SCENE 3><65%>
+<CITIZEN 1>	<66%>
+	Ay, and briefly.
+</CITIZEN 1>
+
+<SPEECH 17><ACT 3><SCENE 3><65%>
+<CITIZEN 1>	<67%>
+	As a friend or an enemy?
+</CITIZEN 1>
+

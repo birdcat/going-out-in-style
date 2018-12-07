@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 4><SCENE 4><68%>
+<CITIZEN>	<68%>
+	And you.
+</CITIZEN>
+
+<SPEECH 2><ACT 4><SCENE 4><68%>
+<CITIZEN>	<68%>
+	He is, and feasts the nobles of the state
+	At his house this night.
+</CITIZEN>
+
+<SPEECH 3><ACT 4><SCENE 4><68%>
+<CITIZEN>	<68%>
+	This, here before you.
+</CITIZEN>
+

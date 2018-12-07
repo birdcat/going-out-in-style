@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 3><90%>
+<ALL>	<90%>
+	We are.
+</ALL>
+

@@ -1,0 +1,1145 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+<MENENIUS>	<2%>
+	What work's, my countrymen, in hand? Where go you
+	With bats and clubs? The matter? Speak, I pray you.
+</MENENIUS>
+
+<SPEECH 2><ACT 1><SCENE 1><1%>
+<MENENIUS>	<2%>
+	Why, masters, my good friends, mine honest neighbours,
+	Will you undo yourselves?
+</MENENIUS>
+
+<SPEECH 3><ACT 1><SCENE 1><1%>
+<MENENIUS>	<2%>
+	I tell you, friends, most charitable care
+	Have the patricians of you. For your wants,
+	Your suffering in this dearth, you may as well
+	Strike at the heaven with your staves as lift them
+	Against the Roman state, whose course will on
+	The way it takes, cracking ten thousand curbs
+	Of more strong link asunder than can ever
+	Appear in your impediment. For the dearth,
+	The gods, not the patricians, make it, and
+	Your knees to them, not arms, must help. Alack!
+	You are transported by calamity
+	Thither where more attends you; and you slander
+	The helms o' the state, who care for you like fathers,
+	When you curse them as enemies.
+</MENENIUS>
+
+<SPEECH 4><ACT 1><SCENE 1><2%>
+<MENENIUS>	<3%>
+	Either you must
+	Confess yourselves wondrous malicious,
+	Or be accus'd of folly. I shall tell you
+	A pretty tale: it may be you have heard it;
+	But, since it serves my purpose, I will venture
+	To scale't a little more.
+</MENENIUS>
+
+<SPEECH 5><ACT 1><SCENE 1><2%>
+<MENENIUS>	<3%>
+	There was a time when all the body's members
+	Rebell'd against the belly; thus accus'd it:
+	That only like a gulf it did remain
+	I' the midst o' the body, idle and unactive,
+	Still cupboarding the viand, never bearing
+	Like labour with the rest, where the other instruments
+	Did see and hear, devise, instruct, walk, feel,
+	And, mutually participate, did minister
+	Unto the appetite and affection common
+	Of the whole body. The belly answer'd,—
+</MENENIUS>
+
+<SPEECH 6><ACT 1><SCENE 1><2%>
+<MENENIUS>	<3%>
+	Sir, I shall tell you.—With a kind of smile,
+	Which ne'er came from the lungs, but even thus—
+	For, look you, I may make the belly smile
+	As well as speak—it tauntingly replied
+	To the discontented members, the mutinous parts
+	That envied his receipt; even so most fitly
+	As you malign our senators for that
+	They are not such as you.
+</MENENIUS>
+
+<SPEECH 7><ACT 1><SCENE 1><3%>
+<MENENIUS>	<3%>
+	What then?—
+	'Fore me, this fellow speaks! what then? what then?
+</MENENIUS>
+
+<SPEECH 8><ACT 1><SCENE 1><3%>
+<MENENIUS>	<4%>
+	Well, what then?
+</MENENIUS>
+
+<SPEECH 9><ACT 1><SCENE 1><3%>
+<MENENIUS>	<4%>
+	I will tell you;
+	If you'll bestow a small, of what you have little,
+	Patience a while, you'll hear the belly's answer.
+</MENENIUS>
+
+<SPEECH 10><ACT 1><SCENE 1><3%>
+<MENENIUS>	<4%>
+	Note me this, good friend;
+	Your most grave belly was deliberate,
+	Not rash like his accusers, and thus answer'd:
+	'True is it, my incorporate friends,' quoth he,
+	'That I receive the general food at first,
+	Which you do live upon; and fit it is;
+	Because I am the store-house and the shop
+	Of the whole body: but, if you do remember,
+	I send it through the rivers of your blood,
+	Even to the court, the heart, to the seat o' the brain;
+	And, through the cranks and offices of man,
+	The strongest nerves and small inferior veins
+	From me receive that natural competency
+	Whereby they live. And though that all at once,
+	You, my good friends,'—this says the belly, mark me,—
+</MENENIUS>
+
+<SPEECH 11><ACT 1><SCENE 1><3%>
+<MENENIUS>	<4%>
+	'Though all at once cannot
+	See what I do deliver out to each,
+	Yet I can make my audit up, that all
+	From me do back receive the flour of all,
+	And leave me but the bran.' What say you to't?
+</MENENIUS>
+
+<SPEECH 12><ACT 1><SCENE 1><4%>
+<MENENIUS>	<4%>
+	The senators of Rome are this good belly,
+	And you the mutinous members; for, examine
+	Their counsels and their cares, digest things rightly
+	Touching the weal o' the common, you shall find
+	No public benefit which you receive
+	But it proceeds or comes from them to you,
+	And no way from yourselves. What do you think,
+	You, the great toe of this assembly?
+</MENENIUS>
+
+<SPEECH 13><ACT 1><SCENE 1><4%>
+<MENENIUS>	<4%>
+	For that, being one o' the lowest, basest, poorest,
+	Of this most wise rebellion, thou go'st foremost:
+	Thou rascal, that art worst in blood to run,
+	Lead'st first to win some vantage.
+	But make you ready your stiff bats and clubs:
+	Rome and her rats are at the point of battle;
+	The one side must have bale.
+
+</MENENIUS>
+
+<SPEECH 14><ACT 1><SCENE 1><5%>
+<MENENIUS>	<5%>
+	For corn at their own rates; whereof they say
+	The city is well stor'd.
+</MENENIUS>
+
+<SPEECH 15><ACT 1><SCENE 1><5%>
+<MENENIUS>	<6%>
+	Nay, these are almost thoroughly persuaded;
+	For though abundantly they lack discretion,
+	Yet are they passing cowardly. But, I beseech you,
+	What says the other troop?
+</MENENIUS>
+
+<SPEECH 16><ACT 1><SCENE 1><5%>
+<MENENIUS>	<6%>
+	What is granted them?
+</MENENIUS>
+
+<SPEECH 17><ACT 1><SCENE 1><6%>
+<MENENIUS>	<6%>
+	This is strange.
+</MENENIUS>
+
+<SPEECH 18><ACT 1><SCENE 1><6%>
+<MENENIUS>	<7%>
+	O! true-bred.
+</MENENIUS>
+
+<SPEECH 19><ACT 2><SCENE 1><23%>
+<MENENIUS>	<24%>
+	The augurer tells me we shall have news to-night.
+</MENENIUS>
+
+<SPEECH 20><ACT 2><SCENE 1><23%>
+<MENENIUS>	<24%>
+	Not according to the prayer of the people, for they love not Marcius.
+</MENENIUS>
+
+<SPEECH 21><ACT 2><SCENE 1><23%>
+<MENENIUS>	<24%>
+	Pray you, who does the wolf love?
+</MENENIUS>
+
+<SPEECH 22><ACT 2><SCENE 1><23%>
+<MENENIUS>	<24%>
+	Ay, to devour him; as the hungry plebeians would the noble Marcius.
+</MENENIUS>
+
+<SPEECH 23><ACT 2><SCENE 1><23%>
+<MENENIUS>	<24%>
+	He's a bear indeed, that lives like a lamb. You two are old men; tell me one thing that I shall ask you.
+</MENENIUS>
+
+<SPEECH 24><ACT 2><SCENE 1><23%>
+<MENENIUS>	<24%>
+	In what enormity is Marcius poor in, that you two have not in abundance?
+</MENENIUS>
+
+<SPEECH 25><ACT 2><SCENE 1><23%>
+<MENENIUS>	<24%>
+	This is strange now: do you two know how you are censured here in the city, I mean of us o' the right hand file? Do you?
+</MENENIUS>
+
+<SPEECH 26><ACT 2><SCENE 1><23%>
+<MENENIUS>	<24%>
+	Because you talk of pride now,—Will you not be angry?
+</MENENIUS>
+
+<SPEECH 27><ACT 2><SCENE 1><24%>
+<MENENIUS>	<24%>
+	Why, 'tis no great matter; for a very little thief of occasion will rob you of a great deal of patience: give your dispositions the reins, and be angry at your pleasures; at the least, if you take it as a pleasure to you in being so. You blame Marcius for being proud?
+</MENENIUS>
+
+<SPEECH 28><ACT 2><SCENE 1><24%>
+<MENENIUS>	<25%>
+	I know you can do very little alone; for your helps are many, or else your actions would grow wondrous single: your abilities are too infant-like, for doing much alone. You talk of pride: O! that you could turn your eyes towards the napes of your necks, and make but an interior survey of your good selves. O! that you could.
+</MENENIUS>
+
+<SPEECH 29><ACT 2><SCENE 1><24%>
+<MENENIUS>	<25%>
+	Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates—alias fools—as any in Rome.
+</MENENIUS>
+
+<SPEECH 30><ACT 2><SCENE 1><24%>
+<MENENIUS>	<25%>
+	I am known to be a humorous patrician, and one that loves a cup of hot wine with not a drop of allaying Tiber in't; said to be something imperfect in favouring the first complaint; hasty and tinder-like upon too trivial motion; one that converses more with the buttock of the night than with the forehead of the morning. What I think I utter, and spend my malice in my breath. Meeting two such wealsmen as you are,—I cannot call you Lycurguses,—if the drink you give me touch my palate adversely, I make a crooked face at it. I cannot say your worships have delivered the matter well when I find the ass in compound with the major part of your syllables; and though I must be content to bear with those that say you are reverend grave men, yet they lie deadly that tell you have good faces. If you see this in the map of my microcosm, follows it that I am known well enough too? What harm can your bisson conspectuities glean out of this character, if I be known well enough too?
+</MENENIUS>
+
+<SPEECH 31><ACT 2><SCENE 1><25%>
+<MENENIUS>	<25%>
+	You know neither me, yourselves, nor anything. You are ambitious for poor knaves' caps and legs: you wear out a good wholesome forenoon in hearing a cause between an orange-wife and a fosset-seller, and then rejourn the controversy of three-pence to a second day of audience. When you are hearing a matter between party and party, if you chance to be pinched with the colic, you make faces like mummers, set up the bloody flag against all patience, and, in roaring for a chamber-pot, dismiss the controversy bleeding, the more entangled by your hearing: all the peace you make in their cause is, calling both the parties knaves. You are a pair of strange ones.
+</MENENIUS>
+
+<SPEECH 32><ACT 2><SCENE 1><25%>
+<MENENIUS>	<26%>
+	Our very priests must become mockers if they shall encounter such ridiculous subjects as you are. When you speak best unto the purpose it is not worth the wagging of your beards; and your beards deserve not so honourable a grave as to stuff a botcher's cushion, or to be entombed in an ass's pack-saddle. Yet you must be saying Marcius is proud; who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of 'em were hereditary hangmen. Good den to your worships: more of your conversation would infect my brain, being the herdsmen of the beastly plebeians: I will be bold to take my leave of you.
+<STAGE DIR>
+<Brutus and Sicinius go aside.>
+</STAGE DIR>
+
+</MENENIUS>
+
+<SPEECH 33><ACT 2><SCENE 1><26%>
+<MENENIUS>	<26%>
+	Ha! Marcius coming home?
+</MENENIUS>
+
+<SPEECH 34><ACT 2><SCENE 1><26%>
+<MENENIUS>	<27%>
+	Take my cap, Jupiter, and I thank thee. Hoo! Marcius coming home!
+</MENENIUS>
+
+<SPEECH 35><ACT 2><SCENE 1><26%>
+<MENENIUS>	<27%>
+	I will make my very house reel to-night. A letter for me!
+</MENENIUS>
+
+<SPEECH 36><ACT 2><SCENE 1><26%>
+<MENENIUS>	<27%>
+	A letter for me! It gives me an estate of seven years' health; in which time I will make a lip at the physician: the most sovereign prescription in Galen is but empiricutic, and, to this preservative, of no better report than a horse-drench. Is he not wounded? he was wont to come home wounded.
+</MENENIUS>
+
+<SPEECH 37><ACT 2><SCENE 1><26%>
+<MENENIUS>	<27%>
+	So do I too, if it be not too much. Brings a' victory in his pocket? The wounds become him.
+</MENENIUS>
+
+<SPEECH 38><ACT 2><SCENE 1><26%>
+<MENENIUS>	<27%>
+	Has he disciplined Aufidius soundly?
+</MENENIUS>
+
+<SPEECH 39><ACT 2><SCENE 1><26%>
+<MENENIUS>	<27%>
+	And 'twas time for him too, I'll warrant him that: an he had stayed by him I would not have been so fidiused for all the chests in Corioli, and the gold that's in them. Is the senate possessed of this?
+</MENENIUS>
+
+<SPEECH 40><ACT 2><SCENE 1><27%>
+<MENENIUS>	<27%>
+	Wondrous! ay, I warrant you, and not without his true purchasing.
+</MENENIUS>
+
+<SPEECH 41><ACT 2><SCENE 1><27%>
+<MENENIUS>	<28%>
+	True! I'll be sworn they are true. Where is he wounded? 
+<STAGE DIR>
+<To the Tribunes.> 
+</STAGE DIR>
+	God save your good worships! Marcius is coming home: he has more cause to be proud. 
+<STAGE DIR>
+<To Volumnia.>
+</STAGE DIR> 
+	Where is he wounded?
+</MENENIUS>
+
+<SPEECH 42><ACT 2><SCENE 1><27%>
+<MENENIUS>	<28%>
+	One i' the neck, and two i' the thigh, there's nine that I know.
+</MENENIUS>
+
+<SPEECH 43><ACT 2><SCENE 1><27%>
+<MENENIUS>	<28%>
+	Now, it's twenty-seven: every gash was an enemy's grave. <STAGE DIR>
+<A shout and flourish.>
+</STAGE DIR> Hark! the trumpets.
+</MENENIUS>
+
+<SPEECH 44><ACT 2><SCENE 1><28%>
+<MENENIUS>	<29%>
+	Now, the gods crown thee!
+</MENENIUS>
+
+<SPEECH 45><ACT 2><SCENE 1><28%>
+<MENENIUS>	<29%>
+	A hundred thousand welcomes: I could weep,
+	And I could laugh; I am light, and heavy. Welcome.
+	A curse begnaw at very root on 's heart
+	That is not glad to see thee! You are three
+	That Rome should dote on; yet, by the faith of men,
+	We have some old crab-trees here at home that will not
+	Be grafted to your relish. Yet, welcome, warriors!
+	We call a nettle but a nettle, and
+	The faults of fools but folly.
+</MENENIUS>
+
+<SPEECH 46><ACT 2><SCENE 2><32%>
+<MENENIUS>	<33%>
+	Having determin'd of the Volsces, and
+	To send for Titus Lartius, it remains,
+	As the main point of this our after-meeting,
+	To gratify his noble service that
+	Hath thus stood for his country: therefore, please you,
+	Most reverend and grave elders, to desire
+	The present consul, and last general
+	In our well-found successes, to report
+	A little of that worthy work perform'd
+	By Caius Marcius Coriolanus, whom
+	We meet here both to thank and to remember
+	With honours like himself.
+</MENENIUS>
+
+<SPEECH 47><ACT 2><SCENE 2><32%>
+<MENENIUS>	<33%>
+	That's off, that's off;
+	I would you rather had been silent. Please you
+	To hear Cominius speak?
+</MENENIUS>
+
+<SPEECH 48><ACT 2><SCENE 2><32%>
+<MENENIUS>	<33%>
+	He loves your people;
+	But tie him not to be their bedfellow.
+	Worthy Cominius, speak.
+<STAGE DIR>
+<Coriolanus rises, and offers to go away.>
+</STAGE DIR>
+	Nay, keep your place.
+</MENENIUS>
+
+<SPEECH 49><ACT 2><SCENE 2><33%>
+<MENENIUS>	<34%>
+	Pray now, sit down.
+</MENENIUS>
+
+<SPEECH 50><ACT 2><SCENE 2><33%>
+<MENENIUS>	<34%>
+	Masters of the people,
+	Your multiplying spawn how can he flatter,—
+	That's thousand to one good one,—when you now see
+	He had rather venture all his limbs for honour
+	Than one on 's ears to hear it. Proceed, Cominius.
+</MENENIUS>
+
+<SPEECH 51><ACT 2><SCENE 2><34%>
+<MENENIUS>	<35%>
+	Worthy man!
+</MENENIUS>
+
+<SPEECH 52><ACT 2><SCENE 2><34%>
+<MENENIUS>	<35%>
+	He's right noble:
+	Let him be call'd for.
+</MENENIUS>
+
+<SPEECH 53><ACT 2><SCENE 2><34%>
+<MENENIUS>	<35%>
+	The senate, Coriolanus, are well pleas'd
+	To make thee consul.
+</MENENIUS>
+
+<SPEECH 54><ACT 2><SCENE 2><34%>
+<MENENIUS>	<35%>
+	It then remains
+	That you do speak to the people.
+</MENENIUS>
+
+<SPEECH 55><ACT 2><SCENE 2><35%>
+<MENENIUS>	<36%>
+	Put them not to 't:
+	Pray you, go fit you to the custom, and
+	Take to you, as your predecessors have,
+	Your honour with your form.
+</MENENIUS>
+
+<SPEECH 56><ACT 2><SCENE 2><35%>
+<MENENIUS>	<36%>
+	Do not stand upon't.
+	We recommend to you, tribunes of the people,
+	Our purpose to them; and to our noble consul
+	Wish we all joy and honour.
+</MENENIUS>
+
+<SPEECH 57><ACT 2><SCENE 3><37%>
+<MENENIUS>	<38%>
+	O, sir, you are not right: have you not known
+	The worthiest men have done't?
+</MENENIUS>
+
+<SPEECH 58><ACT 2><SCENE 3><37%>
+<MENENIUS>	<38%>
+	O me! the gods!
+	You must not speak of that: you must desire them
+	To think upon you.
+</MENENIUS>
+
+<SPEECH 59><ACT 2><SCENE 3><37%>
+<MENENIUS>	<38%>
+	You'll mar all:
+	I'll leave you. Pray you, speak to 'em, I pray you,
+	In wholesome manner.
+</MENENIUS>
+
+<SPEECH 60><ACT 2><SCENE 3><39%>
+<MENENIUS>	<40%>
+	You have stood your limitation; and the tribunes
+	Endue you with the people's voice: remains
+	That, in the official marks invested, you
+	Anon do meet the senate.
+</MENENIUS>
+
+<SPEECH 61><ACT 2><SCENE 3><40%>
+<MENENIUS>	<41%>
+	I'll keep you company. Will you along?
+</MENENIUS>
+
+<SPEECH 62><ACT 3><SCENE 1><44%>
+<MENENIUS>	<45%>
+	The matter?
+</MENENIUS>
+
+<SPEECH 63><ACT 3><SCENE 1><44%>
+<MENENIUS>	<45%>
+	Be calm, be calm.
+</MENENIUS>
+
+<SPEECH 64><ACT 3><SCENE 1><45%>
+<MENENIUS>	<46%>
+	Let's be calm.
+</MENENIUS>
+
+<SPEECH 65><ACT 3><SCENE 1><45%>
+<MENENIUS>	<46%>
+	Not now, not now.
+</MENENIUS>
+
+<SPEECH 66><ACT 3><SCENE 1><45%>
+<MENENIUS>	<46%>
+	Well, no more.
+</MENENIUS>
+
+<SPEECH 67><ACT 3><SCENE 1><46%>
+<MENENIUS>	<46%>
+	What, what? his choler?
+</MENENIUS>
+
+<SPEECH 68><ACT 3><SCENE 1><47%>
+<MENENIUS>	<47%>
+	Well, well; no more of that.
+</MENENIUS>
+
+<SPEECH 69><ACT 3><SCENE 1><47%>
+<MENENIUS>	<48%>
+	Come, enough.
+</MENENIUS>
+
+<SPEECH 70><ACT 3><SCENE 1><49%>
+<MENENIUS>	<49%>
+	On both sides more respect.
+</MENENIUS>
+
+<SPEECH 71><ACT 3><SCENE 1><49%>
+<MENENIUS>	<49%>
+	What is about to be?—I am out of breath;
+	Confusion's near; I cannot speak. You, tribunes
+	To the people! Coriolanus, patience!
+	Speak, good Sicinius.
+</MENENIUS>
+
+<SPEECH 72><ACT 3><SCENE 1><49%>
+<MENENIUS>	<50%>
+	Fie, fie, fie!
+	This is the way to kindle, not to quench.
+</MENENIUS>
+
+<SPEECH 73><ACT 3><SCENE 1><49%>
+<MENENIUS>	<50%>
+	And so are like to do.
+</MENENIUS>
+
+<SPEECH 74><ACT 3><SCENE 1><50%>
+<MENENIUS>	<50%>
+	Hear me one word;
+	Beseech you, tribunes, hear me but a word.
+</MENENIUS>
+
+<SPEECH 75><ACT 3><SCENE 1><50%>
+<MENENIUS>	<50%>
+	Be that you seem, truly your country's friends,
+	And temperately proceed to what you would
+	Thus violently redress.
+</MENENIUS>
+
+<SPEECH 76><ACT 3><SCENE 1><50%>
+<MENENIUS>	<51%>
+	Down with that sword! Tribunes, withdraw awhile.
+</MENENIUS>
+
+<SPEECH 77><ACT 3><SCENE 1><50%>
+<MENENIUS>	<51%>
+	Help Marcius, help,
+	You that be noble; help him, young and old!
+</MENENIUS>
+
+<SPEECH 78><ACT 3><SCENE 1><50%>
+<MENENIUS>	<51%>
+	Go, get you to your house; be gone, away!
+	All will be naught else.
+</MENENIUS>
+
+<SPEECH 79><ACT 3><SCENE 1><50%>
+<MENENIUS>	<51%>
+	Shall it be put to that?
+</MENENIUS>
+
+<SPEECH 80><ACT 3><SCENE 1><50%>
+<MENENIUS>	<51%>
+	For 'tis a sore upon us,
+	You cannot tent yourself: be gone, beseech you.
+</MENENIUS>
+
+<SPEECH 81><ACT 3><SCENE 1><51%>
+<MENENIUS>	<51%>
+	Be gone;
+	Put not your worthy rage into your tongue;
+	One time will owe another.
+</MENENIUS>
+
+<SPEECH 82><ACT 3><SCENE 1><51%>
+<MENENIUS>	<51%>
+	I could myself
+	Take up a brace o' the best of them; yea, the two tribunes.
+</MENENIUS>
+
+<SPEECH 83><ACT 3><SCENE 1><51%>
+<MENENIUS>	<51%>
+	Pray you, be gone.
+	I'll try whether my old wit be in request
+	With those that have but little: this must be patch'd
+	With cloth of any colour.
+</MENENIUS>
+
+<SPEECH 84><ACT 3><SCENE 1><51%>
+<MENENIUS>	<52%>
+	His nature is too noble for the world:
+	He would not flatter Neptune for his trident,
+	Or Jove for 's power to thunder. His heart's his mouth:
+	What his breast forges, that his tongue must vent;
+	And, being angry, does forget that ever
+	He heard the name of death.
+<STAGE DIR>
+<A noise within.>
+</STAGE DIR>
+	Here's goodly work!
+</MENENIUS>
+
+<SPEECH 85><ACT 3><SCENE 1><51%>
+<MENENIUS>	<52%>
+	I would they were in Tiber! What the vengeance!
+	Could he not speak 'em fair?
+
+</MENENIUS>
+
+<SPEECH 86><ACT 3><SCENE 1><51%>
+<MENENIUS>	<52%>
+	You worthy tribunes,—
+</MENENIUS>
+
+<SPEECH 87><ACT 3><SCENE 1><52%>
+<MENENIUS>	<52%>
+	Sir, sir,—
+</MENENIUS>
+
+<SPEECH 88><ACT 3><SCENE 1><52%>
+<MENENIUS>	<52%>
+	Do not cry havoc, where you should but hunt
+	With modest warrant.
+</MENENIUS>
+
+<SPEECH 89><ACT 3><SCENE 1><52%>
+<MENENIUS>	<52%>
+	Hear me speak:
+	As I do know the consul's worthiness,
+	So can I name his faults.
+</MENENIUS>
+
+<SPEECH 90><ACT 3><SCENE 1><52%>
+<MENENIUS>	<52%>
+	The Consul Coriolanus.
+</MENENIUS>
+
+<SPEECH 91><ACT 3><SCENE 1><52%>
+<MENENIUS>	<52%>
+	If, by the tribunes' leave, and yours, good people,
+	I may be heard, I would crave a word or two,
+	The which shall turn you to no further harm
+	Than so much loss of time.
+</MENENIUS>
+
+<SPEECH 92><ACT 3><SCENE 1><52%>
+<MENENIUS>	<53%>
+	Now the good gods forbid
+	That our renowned Rome, whose gratitude
+	Towards her deserved children is enroll'd
+	In Jove's own book, like an unnatural dam
+	Should now eat up her own!
+</MENENIUS>
+
+<SPEECH 93><ACT 3><SCENE 1><52%>
+<MENENIUS>	<53%>
+	O! he's a limb that has but a disease;
+	Mortal to cut it off; to cure it easy.
+	What has he done to Rome that's worthy death?
+	Killing our enemies, the blood he hath lost,—
+	Which, I dare vouch, is more than that he hath
+	By many an ounce,—he dropp'd it for his country;
+	And what is left, to lose it by his country,
+	Were to us all, that do't and suffer it,
+	A brand to th' end o' the world.
+</MENENIUS>
+
+<SPEECH 94><ACT 3><SCENE 1><53%>
+<MENENIUS>	<53%>
+	The service of the foot
+	Being once gangren'd, is not then respected
+	For what before it was.
+</MENENIUS>
+
+<SPEECH 95><ACT 3><SCENE 1><53%>
+<MENENIUS>	<53%>
+	One word more, one word.
+	This tiger-footed rage, when it shall find
+	The harm of unscann'd swiftness, will, too late,
+	Tie leaden pounds to's heels. Proceed by process;
+	Lest parties—as he is belov'd—break out,
+	And sack great Rome with Romans.
+</MENENIUS>
+
+<SPEECH 96><ACT 3><SCENE 1><53%>
+<MENENIUS>	<53%>
+	Consider this: he has been bred i' the wars
+	Since he could draw a sword, and is ill school'd
+	In bolted language; meal and bran together
+	He throws without distinction. Give me leave,
+	I'll go to him, and undertake to bring him
+	Where he shall answer by a lawful form,—
+	In peace,—to his utmost peril.
+</MENENIUS>
+
+<SPEECH 97><ACT 3><SCENE 1><53%>
+<MENENIUS>	<54%>
+	I'll bring him to you.
+<STAGE DIR>
+<To the Senators.>
+</STAGE DIR> Let me desire your company. He must come,
+	Or what is worst will follow.
+</MENENIUS>
+
+<SPEECH 98><ACT 3><SCENE 2><54%>
+<MENENIUS>	<55%>
+	Come, come; you have been too rough, something too rough;
+	You must return and mend it.
+</MENENIUS>
+
+<SPEECH 99><ACT 3><SCENE 2><55%>
+<MENENIUS>	<55%>
+	Well said, noble woman!
+	Before he should thus stoop to the herd, but that
+	The violent fit o' the time craves it as physic
+	For the whole state, I would put mine armour on,
+	Which I can scarcely bear.
+</MENENIUS>
+
+<SPEECH 100><ACT 3><SCENE 2><55%>
+<MENENIUS>	<55%>
+	Return to the tribunes.
+</MENENIUS>
+
+<SPEECH 101><ACT 3><SCENE 2><55%>
+<MENENIUS>	<55%>
+	Repent what you have spoke.
+</MENENIUS>
+
+<SPEECH 102><ACT 3><SCENE 2><55%>
+<MENENIUS>	<55%>
+	A good demand.
+</MENENIUS>
+
+<SPEECH 103><ACT 3><SCENE 2><56%>
+<MENENIUS>	<56%>
+	Noble lady!
+	Come, go with us; speak fair; you may salve so,
+	Not what is dangerous present, but the loss
+	Of what is past.
+</MENENIUS>
+
+<SPEECH 104><ACT 3><SCENE 2><56%>
+<MENENIUS>	<56%>
+	This but done,
+	Even as she speaks, why, their hearts were yours;
+	For they have pardons, being ask'd, as free
+	As words to little purpose.
+</MENENIUS>
+
+<SPEECH 105><ACT 3><SCENE 2><56%>
+<MENENIUS>	<57%>
+	Only fair speech.
+</MENENIUS>
+
+<SPEECH 106><ACT 3><SCENE 2><58%>
+<MENENIUS>	<58%>
+	The word is 'mildly.'
+</MENENIUS>
+
+<SPEECH 107><ACT 3><SCENE 2><58%>
+<MENENIUS>	<58%>
+	Ay, but mildly.
+</MENENIUS>
+
+<SPEECH 108><ACT 3><SCENE 3><59%>
+<MENENIUS>	<59%>
+	Calmly, I do beseech you.
+</MENENIUS>
+
+<SPEECH 109><ACT 3><SCENE 3><59%>
+<MENENIUS>	<59%>
+	A noble wish.
+
+</MENENIUS>
+
+<SPEECH 110><ACT 3><SCENE 3><60%>
+<MENENIUS>	<60%>
+	Lo! citizens, he says he is content:
+	The war-like service he has done, consider; think
+	Upon the wounds his body bears, which show
+	Like graves i' the holy churchyard.
+</MENENIUS>
+
+<SPEECH 111><ACT 3><SCENE 3><60%>
+<MENENIUS>	<60%>
+	Consider further,
+	That when he speaks not like a citizen,
+	You find him like a soldier: do not take
+	His rougher accents for malicious sounds,
+	But, as I say, such as become a soldier,
+	Rather than envy you.
+</MENENIUS>
+
+<SPEECH 112><ACT 3><SCENE 3><60%>
+<MENENIUS>	<60%>
+	Nay, temperately; your promise.
+</MENENIUS>
+
+<SPEECH 113><ACT 3><SCENE 3><61%>
+<MENENIUS>	<61%>
+	Is this the promise that you made your mother?
+</MENENIUS>
+
+<SPEECH 114><ACT 4><SCENE 1><64%>
+<MENENIUS>	<64%>
+	That's worthily
+	As any ear can hear. Come, let's not weep.
+	If I could shake off but one seven years
+	From these old arms and legs, by the good gods,
+	I'd with thee every foot.
+</MENENIUS>
+
+<SPEECH 115><ACT 4><SCENE 2><64%>
+<MENENIUS>	<65%>
+	Peace, peace! be not so loud.
+</MENENIUS>
+
+<SPEECH 116><ACT 4><SCENE 2><65%>
+<MENENIUS>	<65%>
+	Come, come: peace!
+</MENENIUS>
+
+<SPEECH 117><ACT 4><SCENE 2><66%>
+<MENENIUS>	<66%>
+	You have told them home,
+	And, by my troth, you have cause. You'll sup with me?
+</MENENIUS>
+
+<SPEECH 118><ACT 4><SCENE 2><66%>
+<MENENIUS>	<66%>
+	Fie, fie, fie!
+</MENENIUS>
+
+<SPEECH 119><ACT 4><SCENE 6><75%>
+<MENENIUS>	<76%>
+	Hail to you both!
+</MENENIUS>
+
+<SPEECH 120><ACT 4><SCENE 6><75%>
+<MENENIUS>	<76%>
+	All's well; and might have been much better, if
+	He could have temporiz'd.
+</MENENIUS>
+
+<SPEECH 121><ACT 4><SCENE 6><76%>
+<MENENIUS>	<76%>
+	Nay, I hear nothing: his mother and his wife
+	Hear nothing from him.
+
+</MENENIUS>
+
+<SPEECH 122><ACT 4><SCENE 6><76%>
+<MENENIUS>	<76%>
+	I think not so.
+</MENENIUS>
+
+<SPEECH 123><ACT 4><SCENE 6><76%>
+<MENENIUS>	<77%>
+	'Tis Aufidius,
+	Who, hearing of our Marcius' banishment,
+	Thrusts forth his horns again into the world;
+	Which were inshell'd when Marcius stood for Rome,
+	And durst not once peep out.
+</MENENIUS>
+
+<SPEECH 124><ACT 4><SCENE 6><77%>
+<MENENIUS>	<77%>
+	Cannot be!
+	We have record that very well it can,
+	And three examples of the like have been
+	Within my age. But reason with the fellow,
+	Before you punish him, where he heard this,
+	Lest you shall chance to whip your information,
+	And beat the messenger who bids beware
+	Of what is to be dreaded.
+</MENENIUS>
+
+<SPEECH 125><ACT 4><SCENE 6><77%>
+<MENENIUS>	<77%>
+	This is unlikely:
+	He and Aufidius can no more atone,
+	Than violentest contrariety.
+
+</MENENIUS>
+
+<SPEECH 126><ACT 4><SCENE 6><78%>
+<MENENIUS>	<78%>
+	What news? what news?
+</MENENIUS>
+
+<SPEECH 127><ACT 4><SCENE 6><78%>
+<MENENIUS>	<78%>
+	What's the news? what's the news?
+</MENENIUS>
+
+<SPEECH 128><ACT 4><SCENE 6><78%>
+<MENENIUS>	<78%>
+	Pray now, your news?—
+	You have made fair work, I fear me. Pray, your news?
+	If Marcius should be join'd with Volscians,—
+</MENENIUS>
+
+<SPEECH 129><ACT 4><SCENE 6><78%>
+<MENENIUS>	<78%>
+	You have made good work,
+	You, and your apron-men; you that stood so much
+	Upon the voice of occupation and
+	The breath of garlic-eaters!
+</MENENIUS>
+
+<SPEECH 130><ACT 4><SCENE 6><78%>
+<MENENIUS>	<78%>
+	As Hercules
+	Did shake down mellow fruit. You have made fair work!
+</MENENIUS>
+
+<SPEECH 131><ACT 4><SCENE 6><78%>
+<MENENIUS>	<78%>
+	We are all undone unless
+	The noble man have mercy.
+</MENENIUS>
+
+<SPEECH 132><ACT 4><SCENE 6><79%>
+<MENENIUS>	<79%>
+	'Tis true:
+	If he were putting to my house the brand
+	That should consume it, I have not the face
+	To say, 'Beseech you, cease.'—You have made fair hands,
+	You and your crafts! you have crafted fair!
+</MENENIUS>
+
+<SPEECH 133><ACT 4><SCENE 6><79%>
+<MENENIUS>	<79%>
+	How! Was it we? We lov'd him; but, like beasts
+	And cowardly nobles, gave way unto your clusters,
+	Who did hoot him out o' the city.
+</MENENIUS>
+
+<SPEECH 134><ACT 4><SCENE 6><79%>
+<MENENIUS>	<79%>
+	Here come the clusters.
+	And is Aufidius with him? You are they
+	That made the air unwholesome, when you cast
+	Your stinking greasy caps in hooting at
+	Coriolanus' exile. Now he's coming;
+	And not a hair upon a soldier's head
+	Which will not prove a whip: as many coxcombs
+	As you threw caps up will he tumble down,
+	And pay you for your voices. 'Tis no matter;
+	If he could burn us all into one coal,
+	We have deserv'd it.
+</MENENIUS>
+
+<SPEECH 135><ACT 4><SCENE 6><80%>
+<MENENIUS>	<80%>
+	You have made
+	Good work, you and your cry! Shall's to the Capitol?
+</MENENIUS>
+
+<SPEECH 136><ACT 5><SCENE 1><82%>
+<MENENIUS>	<82%>
+	No, I'll not go: you hear what he hath said
+	Which was sometime his general; who lov'd him
+	In a most dear particular. He call'd me father:
+	But what o' that? Go, you that banish'd him;
+	A mile before his tent fall down, and knee
+	The way into his mercy. Nay, if he coy'd
+	To hear Cominius speak, I'll keep at home.
+</MENENIUS>
+
+<SPEECH 137><ACT 5><SCENE 1><82%>
+<MENENIUS>	<82%>
+	Do you hear?
+</MENENIUS>
+
+<SPEECH 138><ACT 5><SCENE 1><82%>
+<MENENIUS>	<82%>
+	Why, so: you have made good work!
+	A pair of tribunes that have rack'd for Rome,
+	To make coals cheap: a noble memory!
+</MENENIUS>
+
+<SPEECH 139><ACT 5><SCENE 1><82%>
+<MENENIUS>	<82%>
+	Very well.
+	Could he say less?
+</MENENIUS>
+
+<SPEECH 140><ACT 5><SCENE 1><82%>
+<MENENIUS>	<82%>
+	For one poor grain or two!
+	I am one of those; his mother, wife, his child,
+	And this brave fellow too, we are the grains:
+	You are the musty chaff, and you are smelt
+	Above the moon. We must be burnt for you.
+</MENENIUS>
+
+<SPEECH 141><ACT 5><SCENE 1><83%>
+<MENENIUS>	<83%>
+	No; I'll not meddle.
+</MENENIUS>
+
+<SPEECH 142><ACT 5><SCENE 1><83%>
+<MENENIUS>	<83%>
+	What should I do?
+</MENENIUS>
+
+<SPEECH 143><ACT 5><SCENE 1><83%>
+<MENENIUS>	<83%>
+	Well; and say that Marcius
+	Return me, as Cominius is return'd,
+	Unheard; what then?
+	But as a discontented friend, grief-shot
+	With his unkindness? say 't be so?
+</MENENIUS>
+
+<SPEECH 144><ACT 5><SCENE 1><83%>
+<MENENIUS>	<83%>
+	I'll undertake it:
+	I think he'll hear me. Yet, to bite his lip,
+	And hum at good Cominius, much unhearts me.
+	He was not taken well; he had not din'd:
+	The veins unfill'd, our blood is cold, and then
+	We pout upon the morning, are unapt
+	To give or to forgive; but when we have stuff'd
+	These pipes and these conveyances of our blood
+	With wine and feeding, we have suppler souls
+	Than in our priest-like fasts: therefore, I'll watch him
+	Till he be dieted to my request,
+	And then I'll set upon him.
+</MENENIUS>
+
+<SPEECH 145><ACT 5><SCENE 1><83%>
+<MENENIUS>	<83%>
+	Good faith, I'll prove him,
+	Speed how it will. I shall ere long have knowledge
+	Of my success.
+</MENENIUS>
+
+<SPEECH 146><ACT 5><SCENE 2><84%>
+<MENENIUS>	<84%>
+	You guard like men; 'tis well; but, by your leave,
+	I am an officer of state, and come
+	To speak with Coriolanus.
+</MENENIUS>
+
+<SPEECH 147><ACT 5><SCENE 2><84%>
+<MENENIUS>	<84%>
+	From Rome.
+</MENENIUS>
+
+<SPEECH 148><ACT 5><SCENE 2><84%>
+<MENENIUS>	<84%>
+	Good my friends,
+	If you have heard your general talk of Rome,
+	And of his friends there, it is lots to blanks
+	My name hath touch'd your ears: it is Menenius.
+</MENENIUS>
+
+<SPEECH 149><ACT 5><SCENE 2><84%>
+<MENENIUS>	<84%>
+	I tell thee, fellow,
+	Thy general is my lover: I have been
+	The book of his good acts, whence men have read
+	His fame unparallel'd, haply amplified;
+	For I have ever glorified my friends—
+	Of whom he's chief—with all the size that verity
+	Would without lapsing suffer: nay, sometimes,
+	Like to a bowl upon a subtle ground,
+	I have tumbled past the throw, and in his praise
+	Have almost stamp'd the leasing. Therefore, fellow,
+	I must have leave to pass.
+</MENENIUS>
+
+<SPEECH 150><ACT 5><SCENE 2><85%>
+<MENENIUS>	<85%>
+	Prithee, fellow, remember my name is Menenius, always factionary on the party of your general.
+</MENENIUS>
+
+<SPEECH 151><ACT 5><SCENE 2><85%>
+<MENENIUS>	<85%>
+	Has he dined, canst thou tell? for I would not speak with him till after dinner.
+</MENENIUS>
+
+<SPEECH 152><ACT 5><SCENE 2><85%>
+<MENENIUS>	<85%>
+	I am as thy general is.
+</MENENIUS>
+
+<SPEECH 153><ACT 5><SCENE 2><85%>
+<MENENIUS>	<85%>
+	Sirrah, if thy captain know I were here, he would use me with estimation.
+</MENENIUS>
+
+<SPEECH 154><ACT 5><SCENE 2><85%>
+<MENENIUS>	<85%>
+	I mean, thy general.
+</MENENIUS>
+
+<SPEECH 155><ACT 5><SCENE 2><85%>
+<MENENIUS>	<85%>
+	Nay, but, fellow, fellow,—
+
+</MENENIUS>
+
+<SPEECH 156><ACT 5><SCENE 2><85%>
+<MENENIUS>	<85%>
+	Now, you companion, I'll say an errand for you: you shall know now that I am in estimation; you shall perceive that a Jack guardant cannot office me from my son Coriolanus: guess, but by my entertainment with him, if thou standest not i' the state of hanging, or of some death more long in spectatorship, and crueller in suffering; behold now presently, and swound for what's to come upon thee. <STAGE DIR>
+<To Coriolanus.>
+</STAGE DIR> The glorious gods sit in hourly synod about thy particular prosperity, and love thee no worse than thy old father Menenius does! O my son! my son! thou art preparing fire for us; look thee, here's water to quench it. I was hardly moved to come to thee; but being assured none but myself could move thee, I have been blown out of your gates with sighs; and conjure thee to pardon Rome, and thy petitionary countrymen. The good gods assuage thy wrath, and turn the dregs of it upon this varlet here; this, who, like a block, hath denied my access to thee.
+</MENENIUS>
+
+<SPEECH 157><ACT 5><SCENE 2><86%>
+<MENENIUS>	<86%>
+	How! away!
+</MENENIUS>
+
+<SPEECH 158><ACT 5><SCENE 2><87%>
+<MENENIUS>	<87%>
+	I neither care for the world, nor your general: for such things as you, I can scarce think there's any, ye're so slight. He that hath a will to die by himself fears it not from another. Let your general do his worst. For you, be that you are, long; and your misery increase with your age! I say to you, as I was said to, Away!
+</MENENIUS>
+
+<SPEECH 159><ACT 5><SCENE 4><93%>
+<MENENIUS>	<93%>
+	See you yond coign o' the Capitol, yond corner-stone?
+</MENENIUS>
+
+<SPEECH 160><ACT 5><SCENE 4><93%>
+<MENENIUS>	<93%>
+	If it be possible for you to displace it with your little finger, there is some hope the ladies of Rome, especially his mother, may prevail with him. But I say, there is no hope in 't. Our throats are sentenced and stay upon execution.
+</MENENIUS>
+
+<SPEECH 161><ACT 5><SCENE 4><93%>
+<MENENIUS>	<93%>
+	There is differency between a grub and a butterfly; yet your butterfly was a grub. This Marcius is grown from man to dragon: he has wings; he's more than a creeping thing.
+</MENENIUS>
+
+<SPEECH 162><ACT 5><SCENE 4><93%>
+<MENENIUS>	<93%>
+	So did he me; and he no more remembers his mother now than an eight-year-old horse. The tartness of his face sours ripe grapes: when he walks, he moves like an engine, and the ground shrinks before his treading: he is able to pierce a corslet with his eye; talks like a knell, and his hum is a battery. He sits in his state, as a thing made for Alexander. What he bids be done is finished with his bidding. He wants nothing of a god but eternity and a heaven to throne in.
+</MENENIUS>
+
+<SPEECH 163><ACT 5><SCENE 4><93%>
+<MENENIUS>	<94%>
+	I paint him in the character. Mark what mercy his mother shall bring from him: there is no more mercy in him than there is milk in a male tiger; that shall our poor city find: and all this is 'long of you.
+</MENENIUS>
+
+<SPEECH 164><ACT 5><SCENE 4><93%>
+<MENENIUS>	<94%>
+	No, in such a case the gods will not be good unto us. When we banished him, we respected not them; and, he returning to break our necks, they respect not us.
+
+</MENENIUS>
+
+<SPEECH 165><ACT 5><SCENE 4><94%>
+<MENENIUS>	<95%>
+	This is good news:
+	I will go meet the ladies. This Volumnia
+	Is worth of consuls, senators, patricians,
+	A city full; of tribunes, such as you,
+	A sea and land full. You have pray'd well to-day:
+	This morning for ten thousand of your throats
+	I'd not have given a doit. Hark, how they joy!
+</MENENIUS>
+

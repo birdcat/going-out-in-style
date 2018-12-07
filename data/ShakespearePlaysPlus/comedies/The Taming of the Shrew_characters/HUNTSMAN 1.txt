@@ -1,0 +1,25 @@
+<SPEECH 1><ACT ?><SCENE 1><1%>
+<HUNTSMAN 1>	<1%>
+	Why, Bellman is as good as he, my lord;
+	He cried upon it at the merest loss,
+	And twice to-day pick'd out the dullest scent:
+	Trust me, I take him for the better dog.
+</HUNTSMAN 1>
+
+<SPEECH 2><ACT ?><SCENE 1><1%>
+<HUNTSMAN 1>	<2%>
+	I will, my lord.
+</HUNTSMAN 1>
+
+<SPEECH 3><ACT ?><SCENE 1><1%>
+<HUNTSMAN 1>	<2%>
+	Believe me, lord, I think he cannot choose.
+</HUNTSMAN 1>
+
+<SPEECH 4><ACT ?><SCENE 1><2%>
+<HUNTSMAN 1>	<3%>
+	My lord, I warrant you we will play our part,
+	As he shall think, by our true diligence,
+	He is no less than what we say he is.
+</HUNTSMAN 1>
+

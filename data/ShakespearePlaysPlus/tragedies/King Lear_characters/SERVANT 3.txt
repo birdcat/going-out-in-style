@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 3><SCENE 7><64%>
+<SERVANT 3>	<65%>
+	If she live long,
+	And, in the end, meet the old course of death,
+	Women will all turn monsters.
+</SERVANT 3>
+
+<SPEECH 2><ACT 3><SCENE 7><64%>
+<SERVANT 3>	<65%>
+	Go thou; I'll fetch some flax, and whites of eggs,
+	To apply to his bleeding face. Now, heaven help him!
+<STAGE DIR>
+<Exeunt severally.>
+</STAGE DIR>
+
+</SERVANT 3>
+

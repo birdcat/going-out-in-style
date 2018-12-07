@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 4><SCENE 2><70%>
+<SOLDIER 1>	<71%>
+	Stand!
+</SOLDIER 1>
+
+<SPEECH 2><ACT 5><SCENE 4><95%>
+<SOLDIER 1>	<96%>
+	Yield, or thou diest.
+</SOLDIER 1>
+
+<SPEECH 3><ACT 5><SCENE 4><95%>
+<SOLDIER 1>	<96%>
+	We must not. A noble prisoner!
+</SOLDIER 1>
+
+<SPEECH 4><ACT 5><SCENE 4><95%>
+<SOLDIER 1>	<96%>
+	I'll tell the news: here comes the general.
+
+</SOLDIER 1>
+

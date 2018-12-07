@@ -1,0 +1,127 @@
+<SPEECH 1><ACT 5><SCENE 3><84%>
+<MARGARET>	<85%>
+	Margaret my name, and daughter to a king,
+	The King of Naples, whosoe'er thou art.
+</MARGARET>
+
+<SPEECH 2><ACT 5><SCENE 3><85%>
+<MARGARET>	<86%>
+	Say, Earl of Suffolk,—if thy name be so,—
+	What ransom must I pay before I pass?
+	For I perceive, I am thy prisoner.
+</MARGARET>
+
+<SPEECH 3><ACT 5><SCENE 3><85%>
+<MARGARET>	<86%>
+	Why speak'st thou not? what ransom must I pay?
+</MARGARET>
+
+<SPEECH 4><ACT 5><SCENE 3><85%>
+<MARGARET>	<86%>
+	Wilt thou accept of ransom, yea or no?
+</MARGARET>
+
+<SPEECH 5><ACT 5><SCENE 3><85%>
+<MARGARET>	<86%>
+	I were best to leave him, for he will not hear.
+</MARGARET>
+
+<SPEECH 6><ACT 5><SCENE 3><86%>
+<MARGARET>	<86%>
+	He talks at random; sure, the man is mad.
+</MARGARET>
+
+<SPEECH 7><ACT 5><SCENE 3><86%>
+<MARGARET>	<86%>
+	And yet I would that you would answer me.
+</MARGARET>
+
+<SPEECH 8><ACT 5><SCENE 3><86%>
+<MARGARET>	<86%>
+<STAGE DIR>
+<Overhearing him.>
+</STAGE DIR> He talks of wood: it is some carpenter.
+</MARGARET>
+
+<SPEECH 9><ACT 5><SCENE 3><86%>
+<MARGARET>	<87%>
+	Hear ye, captain? Are you not at leisure?
+</MARGARET>
+
+<SPEECH 10><ACT 5><SCENE 3><86%>
+<MARGARET>	<87%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> What though I be enthrall'd? he seems a knight,
+	And will not any way dishonour me.
+</MARGARET>
+
+<SPEECH 11><ACT 5><SCENE 3><86%>
+<MARGARET>	<87%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Perhaps I shall be rescu'd by the French;
+	And then I need not crave his courtesy.
+</MARGARET>
+
+<SPEECH 12><ACT 5><SCENE 3><87%>
+<MARGARET>	<87%>
+	Tush, women have been captivate ere now.
+</MARGARET>
+
+<SPEECH 13><ACT 5><SCENE 3><87%>
+<MARGARET>	<87%>
+	I cry you mercy, 'tis but quid for quo.
+</MARGARET>
+
+<SPEECH 14><ACT 5><SCENE 3><87%>
+<MARGARET>	<87%>
+	To be a queen in bondage is more vile
+	Than is a slave in base servility;
+	For princes should be free.
+</MARGARET>
+
+<SPEECH 15><ACT 5><SCENE 3><87%>
+<MARGARET>	<87%>
+	Why, what concerns his freedom unto me?
+</MARGARET>
+
+<SPEECH 16><ACT 5><SCENE 3><87%>
+<MARGARET>	<88%>
+	What?
+</MARGARET>
+
+<SPEECH 17><ACT 5><SCENE 3><87%>
+<MARGARET>	<88%>
+	I am unworthy to be Henry's wife.
+</MARGARET>
+
+<SPEECH 18><ACT 5><SCENE 3><87%>
+<MARGARET>	<88%>
+	An if my father please, I am content.
+</MARGARET>
+
+<SPEECH 19><ACT 5><SCENE 3><89%>
+<MARGARET>	<89%>
+	Farewell, my lord. Good wishes, praise, and prayers
+	Shall Suffolk ever have of Margaret.
+</MARGARET>
+
+<SPEECH 20><ACT 5><SCENE 3><89%>
+<MARGARET>	<90%>
+	Such commendations as become a maid,
+	A virgin, and his servant, say to him.
+</MARGARET>
+
+<SPEECH 21><ACT 5><SCENE 3><89%>
+<MARGARET>	<90%>
+	Yes, my good lord; a pure unspotted heart,
+	Never yet taint with love, I send the king.
+</MARGARET>
+
+<SPEECH 22><ACT 5><SCENE 3><90%>
+<MARGARET>	<90%>
+	That for thyself: I will not so presume,
+	To send such peevish tokens to a king.
+</MARGARET>
+

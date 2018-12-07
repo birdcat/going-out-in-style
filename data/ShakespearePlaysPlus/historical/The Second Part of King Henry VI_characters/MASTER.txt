@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 4><SCENE 1><64%>
+<MASTER>	<64%>
+	A thousand crowns, or else lay down your head.
+</MASTER>
+

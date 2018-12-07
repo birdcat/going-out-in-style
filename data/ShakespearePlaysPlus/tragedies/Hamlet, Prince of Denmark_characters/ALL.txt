@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 1><SCENE 2><11%>
+<ALL>	<11%>
+	Our duty to your honour.
+</ALL>
+
+<SPEECH 2><ACT 3><SCENE 2><52%>
+<ALL>	<53%>
+	Lights, lights, lights!
+</ALL>
+
+<SPEECH 3><ACT 5><SCENE 1><88%>
+<ALL>	<88%>
+	Gentlemen,—
+</ALL>
+
+<SPEECH 4><ACT 5><SCENE 2><97%>
+<ALL>	<98%>
+	Treason! treason!
+</ALL>
+

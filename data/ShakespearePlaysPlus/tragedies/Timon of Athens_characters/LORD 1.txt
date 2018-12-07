@@ -1,0 +1,145 @@
+<SPEECH 1><ACT 1><SCENE 1><11%>
+<LORD 1>	<11%>
+	What time o'day is't, Apemantus?
+</LORD 1>
+
+<SPEECH 2><ACT 1><SCENE 1><11%>
+<LORD 1>	<11%>
+	That time serves still.
+</LORD 1>
+
+<SPEECH 3><ACT 1><SCENE 1><12%>
+<LORD 1>	<12%>
+	Hang thyself!
+</LORD 1>
+
+<SPEECH 4><ACT 1><SCENE 1><12%>
+<LORD 1>	<12%>
+	He's opposite to humanity. Come, shall we in,
+	And taste Lord Timon's bounty? he outgoes
+	The very heart of kindness.
+</LORD 1>
+
+<SPEECH 5><ACT 1><SCENE 1><12%>
+<LORD 1>	<12%>
+	The noblest mind he carries
+	That ever govern'd man.
+</LORD 1>
+
+<SPEECH 6><ACT 1><SCENE 1><13%>
+<LORD 1>	<12%>
+	I'll keep you company.
+</LORD 1>
+
+<SPEECH 7><ACT 1><SCENE 2><14%>
+<LORD 1>	<14%>
+	My lord, we always have confess'd it.
+</LORD 1>
+
+<SPEECH 8><ACT 1><SCENE 2><16%>
+<LORD 1>	<16%>
+	Might we but have that happiness, my lord, that you would once use our hearts, whereby we might express some part of our zeals, we should think ourselves for ever perfect.
+</LORD 1>
+
+<SPEECH 9><ACT 1><SCENE 2><18%>
+<LORD 1>	<18%>
+	You see, my lord, how ample you're belov'd.
+
+</LORD 1>
+
+<SPEECH 10><ACT 1><SCENE 2><20%>
+<LORD 1>	<20%>
+	Where be our men?
+</LORD 1>
+
+<SPEECH 11><ACT 1><SCENE 2><20%>
+<LORD 1>	<20%>
+	I am so far already in your gifts—
+</LORD 1>
+
+<SPEECH 12><ACT 1><SCENE 2><22%>
+<LORD 1>	<22%>
+	We are so virtuously bound,—
+</LORD 1>
+
+<SPEECH 13><ACT 1><SCENE 2><23%>
+<LORD 1>	<23%>
+	The best of happiness,
+	Honour, and fortunes, keep with you, Lord Timon!
+</LORD 1>
+
+<SPEECH 14><ACT 3><SCENE 6><54%>
+<LORD 1>	<54%>
+	The good time of day to you, sir.
+</LORD 1>
+
+<SPEECH 15><ACT 3><SCENE 6><54%>
+<LORD 1>	<54%>
+	Upon that were my thoughts tiring when we encountered: I hope it is not so low with him as he made it seem in the trial of his several friends.
+</LORD 1>
+
+<SPEECH 16><ACT 3><SCENE 6><55%>
+<LORD 1>	<54%>
+	I should think so: he hath sent me an earnest inviting, which many my near occasions did urge me to put off; but he hath conjured me beyond them, and I must needs appear.
+</LORD 1>
+
+<SPEECH 17><ACT 3><SCENE 6><55%>
+<LORD 1>	<54%>
+	I am sick of that grief too, as I understand how all things go.
+</LORD 1>
+
+<SPEECH 18><ACT 3><SCENE 6><55%>
+<LORD 1>	<54%>
+	A thousand pieces.
+</LORD 1>
+
+<SPEECH 19><ACT 3><SCENE 6><55%>
+<LORD 1>	<55%>
+	What of you?
+</LORD 1>
+
+<SPEECH 20><ACT 3><SCENE 6><55%>
+<LORD 1>	<55%>
+	Ever at the best, hearing well of your lordship.
+</LORD 1>
+
+<SPEECH 21><ACT 3><SCENE 6><56%>
+<LORD 1>	<55%>
+	I hope it remains not unkindly with your lordship that I returned you an empty messenger.
+</LORD 1>
+
+<SPEECH 22><ACT 3><SCENE 6><56%>
+<LORD 1>	<56%>
+	Royal cheer, I warrant you.
+</LORD 1>
+
+<SPEECH 23><ACT 3><SCENE 6><56%>
+<LORD 1>	<56%>
+	How do you? What's the news?
+</LORD 1>
+
+<SPEECH 24><ACT 3><SCENE 6><56%>
+<LORD 1>	<56%>
+	Alcibiades banished!
+</LORD 1>
+
+<SPEECH 25><ACT 3><SCENE 6><56%>
+<LORD 1>	<56%>
+	How? how?
+</LORD 1>
+
+<SPEECH 26><ACT 3><SCENE 6><59%>
+<LORD 1>	<58%>
+	How now, my lords!
+</LORD 1>
+
+<SPEECH 27><ACT 3><SCENE 6><59%>
+<LORD 1>	<58%>
+	He's but a mad lord, and nought but humour sways him. He gave me a jewel th' other day, and now he has beat it out of my hat: did you see my jewel?
+</LORD 1>
+
+<SPEECH 28><ACT 3><SCENE 6><59%>
+<LORD 1>	<59%>
+	Let's make no stay.
+</LORD 1>
+

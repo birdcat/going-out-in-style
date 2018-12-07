@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 5><SCENE 5><97%>
+<VOLUMNIUS>	<97%>
+	What says my lord?
+</VOLUMNIUS>
+
+<SPEECH 2><ACT 5><SCENE 5><97%>
+<VOLUMNIUS>	<97%>
+	Not so, my lord.
+</VOLUMNIUS>
+
+<SPEECH 3><ACT 5><SCENE 5><97%>
+<VOLUMNIUS>	<98%>
+	That's not an office for a friend, my lord.
+</VOLUMNIUS>
+

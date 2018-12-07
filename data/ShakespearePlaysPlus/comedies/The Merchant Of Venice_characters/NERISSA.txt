@@ -1,0 +1,215 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+<NERISSA>	<7%>
+	You would be, sweet madam, if your miseries were in the same abundance as your good fortunes are: and yet, for aught I see, they are as sick that surfeit with too much as they that starve with nothing. It is no mean happiness therefore, to be seated in the mean: superfluity comes sooner by white hairs, but competency lives longer.
+</NERISSA>
+
+<SPEECH 2><ACT 1><SCENE 2><7%>
+<NERISSA>	<8%>
+	They would be better if well followed.
+</NERISSA>
+
+<SPEECH 3><ACT 1><SCENE 2><8%>
+<NERISSA>	<8%>
+	Your father was ever virtuous, and holy men at their death have good inspirations; therefore, the lottery that he hath devised in these three chests of gold, silver, and lead, whereof who chooses his meaning chooses you, will, no doubt, never be chosen by any rightly but one who you shall rightly love. But what warmth is there in your affection towards any of these princely suitors that are already come?
+</NERISSA>
+
+<SPEECH 4><ACT 1><SCENE 2><8%>
+<NERISSA>	<9%>
+	First, there is the Neapolitan prince.
+</NERISSA>
+
+<SPEECH 5><ACT 1><SCENE 2><8%>
+<NERISSA>	<9%>
+	Then is there the County Palatine.
+</NERISSA>
+
+<SPEECH 6><ACT 1><SCENE 2><9%>
+<NERISSA>	<9%>
+	How say you by the French lord, Monsieur Le Bon?
+</NERISSA>
+
+<SPEECH 7><ACT 1><SCENE 2><9%>
+<NERISSA>	<10%>
+	What say you, then, to Falconbridge, the young baron of England?
+</NERISSA>
+
+<SPEECH 8><ACT 1><SCENE 2><9%>
+<NERISSA>	<10%>
+	What think you of the Scottish lord, his neighbour?
+</NERISSA>
+
+<SPEECH 9><ACT 1><SCENE 2><10%>
+<NERISSA>	<10%>
+	How like you the young German, the Duke of Saxony's nephew?
+</NERISSA>
+
+<SPEECH 10><ACT 1><SCENE 2><10%>
+<NERISSA>	<11%>
+	If he should offer to choose, and choose the right casket, you should refuse to perform your father's will, if you should refuse to accept him.
+</NERISSA>
+
+<SPEECH 11><ACT 1><SCENE 2><10%>
+<NERISSA>	<11%>
+	You need not fear, lady, the having any of these lords: they have acquainted me with their determinations; which is, indeed, to return to their home and to trouble you with no more suit, unless you may be won by some other sort than your father's imposition depending on the caskets.
+</NERISSA>
+
+<SPEECH 12><ACT 1><SCENE 2><11%>
+<NERISSA>	<11%>
+	Do you not remember, lady, in your father's time, a Venetian, a scholar and a soldier, that came hither in the company of the Marquis of Montferrat?
+</NERISSA>
+
+<SPEECH 13><ACT 1><SCENE 2><11%>
+<NERISSA>	<12%>
+	True, madam: he, of all the men that ever my foolish eyes looked upon, was the best deserving a fair lady.
+</NERISSA>
+
+<SPEECH 14><ACT 2><SCENE 1><41%>
+<NERISSA>	<42%>
+	Quick, quick, I pray thee; draw the curtain straight:
+	The Prince of Arragon hath ta'en his oath,
+	And comes to his election presently.
+
+</NERISSA>
+
+<SPEECH 15><ACT 2><SCENE 1><44%>
+<NERISSA>	<44%>
+	The ancient saying is no heresy:
+	'Hanging and wiving goes by destiny.'
+</NERISSA>
+
+<SPEECH 16><ACT 2><SCENE 1><44%>
+<NERISSA>	<45%>
+	Bassanio, lord Love, if thy will it be!
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</NERISSA>
+
+<SPEECH 17><ACT 3><SCENE 2><56%>
+<NERISSA>	<57%>
+	My lord and lady, it is now our time,
+	That have stood by and seen our wishes prosper,
+	To cry, good joy. Good joy, my lord and lady!
+</NERISSA>
+
+<SPEECH 18><ACT 3><SCENE 2><56%>
+<NERISSA>	<58%>
+	Madam, it is, so you stand pleas'd withal.
+</NERISSA>
+
+<SPEECH 19><ACT 3><SCENE 2><57%>
+<NERISSA>	<58%>
+	What! and stake down?
+</NERISSA>
+
+<SPEECH 20><ACT 3><SCENE 4><64%>
+<NERISSA>	<66%>
+	Shall they see us?
+</NERISSA>
+
+<SPEECH 21><ACT 3><SCENE 4><65%>
+<NERISSA>	<66%>
+	Why, shall we turn to men?
+</NERISSA>
+
+<SPEECH 22><ACT 4><SCENE 1><73%>
+<NERISSA>	<74%>
+	From both, my lord. Bellario greets your Grace.
+</NERISSA>
+
+<SPEECH 23><ACT 4><SCENE 1><74%>
+<NERISSA>	<75%>
+	He attendeth here hard by,
+	To know your answer, whether you'll admit him.
+</NERISSA>
+
+<SPEECH 24><ACT 4><SCENE 1><80%>
+<NERISSA>	<81%>
+	'Tis well you offer it behind her back;
+	The wish would make else an unquiet house.
+</NERISSA>
+
+<SPEECH 25><ACT 4><SCENE 2><87%>
+<NERISSA>	<88%>
+	Sir, I would speak with you.
+<STAGE DIR>
+<Aside to Portia.>
+</STAGE DIR> I'll see if I can get my husband's ring,
+	Which I did make him swear to keep for ever.
+</NERISSA>
+
+<SPEECH 26><ACT 4><SCENE 2><87%>
+<NERISSA>	<88%>
+	Come, good sir, will you show me to this house?
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</NERISSA>
+
+<SPEECH 27><ACT 5><SCENE 1><91%>
+<NERISSA>	<92%>
+	When the moon shone, we did not see the candle.
+</NERISSA>
+
+<SPEECH 28><ACT 5><SCENE 1><91%>
+<NERISSA>	<92%>
+	It is your music, madam, of the house.
+</NERISSA>
+
+<SPEECH 29><ACT 5><SCENE 1><91%>
+<NERISSA>	<92%>
+	Silence bestows that virtue on it, madam.
+</NERISSA>
+
+<SPEECH 30><ACT 5><SCENE 1><94%>
+<NERISSA>	<94%>
+	What talk you of the posy, or the value?
+	You swore to me, when I did give it you,
+	That you would wear it till your hour of death,
+	And that it should lie with you in your grave:
+	Though not for me, yet for your vehement oaths,
+	You should have been respective and have kept it.
+	Gave it a judge's clerk! no, God's my judge,
+	The clerk will ne'er wear hair on's face that had it.
+</NERISSA>
+
+<SPEECH 31><ACT 5><SCENE 1><94%>
+<NERISSA>	<95%>
+	Ay, if a woman live to be a man.
+</NERISSA>
+
+<SPEECH 32><ACT 5><SCENE 1><95%>
+<NERISSA>	<96%>
+	Nor I in yours,
+	Till I again see mine.
+</NERISSA>
+
+<SPEECH 33><ACT 5><SCENE 1><97%>
+<NERISSA>	<97%>
+	And I his clerk; therefore be well advis'd
+	How you do leave me to mine own protection.
+</NERISSA>
+
+<SPEECH 34><ACT 5><SCENE 1><98%>
+<NERISSA>	<98%>
+	And pardon me, my gentle Gratiano;
+	For that same scrubbed boy, the doctor's clerk,
+	In lieu of this last night did lie with me.
+</NERISSA>
+
+<SPEECH 35><ACT 5><SCENE 1><98%>
+<NERISSA>	<99%>
+	Ay; but the clerk that never means to do it,
+	Unless he live until he be a man.
+</NERISSA>
+
+<SPEECH 36><ACT 5><SCENE 1><99%>
+<NERISSA>	<99%>
+	Ay, and I'll give them him without a fee.
+	There do I give to you and Jessica,
+	From the rich Jew, a special deed of gift,
+	After his death, of all he dies possess'd of.
+</NERISSA>
+

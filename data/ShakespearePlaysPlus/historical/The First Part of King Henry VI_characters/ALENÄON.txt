@@ -1,0 +1,143 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+<ALENÇON>	<7%>
+	They want their porridge and their fat bull-beeves:
+	Either they must be dieted like mules
+	And have their provender tied to their mouths,
+	Or piteous they will look, like drowned mice.
+</ALENÇON>
+
+<SPEECH 2><ACT 1><SCENE 2><7%>
+<ALENÇON>	<8%>
+	Froissart, a countryman of ours, records,
+	England all Olivers and Rowlands bred
+	During the time Edward the Third did reign.
+	More truly now may this be verified;
+	For none but Samsons and Goliases,
+	It sendeth forth to skirmish. One to ten!
+	Lean raw-bon'd rascals! who would e'er suppose
+	They had such courage and audacity?
+</ALENÇON>
+
+<SPEECH 3><ACT 1><SCENE 2><8%>
+<ALENÇON>	<8%>
+	Be it so.
+
+</ALENÇON>
+
+<SPEECH 4><ACT 1><SCENE 2><10%>
+<ALENÇON>	<11%>
+	Doubtless he shrives this woman to her smock;
+	Else ne'er could he so long protract his speech.
+</ALENÇON>
+
+<SPEECH 5><ACT 1><SCENE 2><10%>
+<ALENÇON>	<11%>
+	He may mean more than we poor men do know:
+	These women are shrewd tempters with their tongues.
+</ALENÇON>
+
+<SPEECH 6><ACT 1><SCENE 2><11%>
+<ALENÇON>	<12%>
+	Leave off delays and let us raise the siege.
+</ALENÇON>
+
+<SPEECH 7><ACT 1><SCENE 6><22%>
+<ALENÇON>	<23%>
+	All France will be replete with mirth and joy,
+	When they shall hear how we have play'd the men.
+</ALENÇON>
+
+<SPEECH 8><ACT 2><SCENE 1><24%>
+<ALENÇON>	<25%>
+	How now, my lords! what! all unready so?
+</ALENÇON>
+
+<SPEECH 9><ACT 2><SCENE 1><24%>
+<ALENÇON>	<25%>
+	Of all exploits since first I follow'd arms,
+	Ne'er heard I of a war-like enterprise
+	More venturous or desperate than this.
+</ALENÇON>
+
+<SPEECH 10><ACT 2><SCENE 1><24%>
+<ALENÇON>	<25%>
+	Here cometh Charles: I marvel how he sped.
+</ALENÇON>
+
+<SPEECH 11><ACT 2><SCENE 1><25%>
+<ALENÇON>	<26%>
+	Had all your quarters been so safely kept
+	As that whereof I had the government,
+	We had not been thus shamefully surpris'd.
+</ALENÇON>
+
+<SPEECH 12><ACT 3><SCENE 2><49%>
+<ALENÇON>	<49%>
+	By thrusting out a torch from yonder tower;
+	Which, once discern'd, shows that her meaning is,
+	No way to that, for weakness, which she enter'd.
+
+</ALENÇON>
+
+<SPEECH 13><ACT 3><SCENE 2><49%>
+<ALENÇON>	<50%>
+	Defer no time, delays have dangerous ends;
+	Enter, and cry 'The Dauphin!' presently,
+	And then do execution on the watch.
+<STAGE DIR>
+<They enter the town.>
+</STAGE DIR>
+
+</ALENÇON>
+
+<SPEECH 14><ACT 3><SCENE 2><51%>
+<ALENÇON>	<51%>
+	Signior, no.
+</ALENÇON>
+
+<SPEECH 15><ACT 3><SCENE 3><54%>
+<ALENÇON>	<54%>
+	We'll set thy statue in some holy place
+	And have thee reverenc'd like a blessed saint:
+	Employ thee, then, sweet virgin, for our good.
+</ALENÇON>
+
+<SPEECH 16><ACT 3><SCENE 3><55%>
+<ALENÇON>	<55%>
+	For ever should they be expuls'd from France,
+	And not have title of an earldom here.
+</ALENÇON>
+
+<SPEECH 17><ACT 3><SCENE 3><57%>
+<ALENÇON>	<57%>
+	Pucelle hath bravely play'd her part in this,
+	And doth deserve a coronet of gold.
+</ALENÇON>
+
+<SPEECH 18><ACT 5><SCENE 2><81%>
+<ALENÇON>	<82%>
+	Then, march to Paris, royal Charles of France,
+	And keep not back your powers in dalliance.
+</ALENÇON>
+
+<SPEECH 19><ACT 5><SCENE 4><95%>
+<ALENÇON>	<95%>
+	Must he be then, as shadow of himself?
+	Adorn his temples with a coronet,
+	And yet, in substance and authority,
+	Retain but privilege of a private man?
+	This proffer is absurd and reasonless.
+</ALENÇON>
+
+<SPEECH 20><ACT 5><SCENE 4><95%>
+<ALENÇON>	<96%>
+<STAGE DIR>
+<Aside to Charles.>
+</STAGE DIR> To say the truth, it is your policy
+	To save your subjects from such massacre
+	And ruthless slaughters as are daily seen
+	By our proceeding in hostility;
+	And therefore take this compact of a truce,
+	Although you break it when your pleasure serves.
+</ALENÇON>
+

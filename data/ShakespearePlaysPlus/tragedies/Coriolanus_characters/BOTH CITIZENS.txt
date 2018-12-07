@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 2><SCENE 3><39%>
+<BOTH CITIZENS>	<39%>
+	The gods give you joy, sir, heartily!
+</BOTH CITIZENS>
+

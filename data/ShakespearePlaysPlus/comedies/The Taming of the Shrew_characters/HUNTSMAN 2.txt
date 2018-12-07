@@ -1,0 +1,11 @@
+<SPEECH 1><ACT ?><SCENE 1><1%>
+<HUNTSMAN 2>	<2%>
+	He breathes, my lord. Were he not warm'd with ale,
+	This were a bed but cold to sleep so soundly.
+</HUNTSMAN 2>
+
+<SPEECH 2><ACT ?><SCENE 1><1%>
+<HUNTSMAN 2>	<2%>
+	It would seem strange unto him when he wak'd.
+</HUNTSMAN 2>
+

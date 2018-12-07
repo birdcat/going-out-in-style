@@ -1,0 +1,153 @@
+<SPEECH 1><ACT 3><SCENE 7><47%>
+<ORLEANS>	<48%>
+	You have an excellent armour; but let my horse have his due.
+</ORLEANS>
+
+<SPEECH 2><ACT 3><SCENE 7><47%>
+<ORLEANS>	<48%>
+	Will it never be morning?
+</ORLEANS>
+
+<SPEECH 3><ACT 3><SCENE 7><47%>
+<ORLEANS>	<48%>
+	You are as well provided of both as any prince in the world.
+</ORLEANS>
+
+<SPEECH 4><ACT 3><SCENE 7><48%>
+<ORLEANS>	<49%>
+	He's of the colour of the nutmeg.
+</ORLEANS>
+
+<SPEECH 5><ACT 3><SCENE 7><48%>
+<ORLEANS>	<49%>
+	No more, cousin.
+</ORLEANS>
+
+<SPEECH 6><ACT 3><SCENE 7><48%>
+<ORLEANS>	<49%>
+	I have heard a sonnet begin so to one's mistress.
+</ORLEANS>
+
+<SPEECH 7><ACT 3><SCENE 7><48%>
+<ORLEANS>	<50%>
+	Your mistress bears well.
+</ORLEANS>
+
+<SPEECH 8><ACT 3><SCENE 7><50%>
+<ORLEANS>	<51%>
+	The Dauphin longs for morning.
+</ORLEANS>
+
+<SPEECH 9><ACT 3><SCENE 7><50%>
+<ORLEANS>	<51%>
+	By the white hand of my lady, he's a gallant prince.
+</ORLEANS>
+
+<SPEECH 10><ACT 3><SCENE 7><50%>
+<ORLEANS>	<51%>
+	He is simply the most active gentleman of France.
+</ORLEANS>
+
+<SPEECH 11><ACT 3><SCENE 7><50%>
+<ORLEANS>	<51%>
+	He never did harm, that I heard of.
+</ORLEANS>
+
+<SPEECH 12><ACT 3><SCENE 7><50%>
+<ORLEANS>	<51%>
+	I know him to be valiant.
+</ORLEANS>
+
+<SPEECH 13><ACT 3><SCENE 7><50%>
+<ORLEANS>	<51%>
+	What's he?
+</ORLEANS>
+
+<SPEECH 14><ACT 3><SCENE 7><50%>
+<ORLEANS>	<51%>
+	He needs not; it is no hidden virtue in him.
+</ORLEANS>
+
+<SPEECH 15><ACT 3><SCENE 7><51%>
+<ORLEANS>	<51%>
+	'Ill will never said well.'
+</ORLEANS>
+
+<SPEECH 16><ACT 3><SCENE 7><51%>
+<ORLEANS>	<51%>
+	And I will take up that with 'Give the devil his due.'
+</ORLEANS>
+
+<SPEECH 17><ACT 3><SCENE 7><51%>
+<ORLEANS>	<52%>
+	You are the better at proverbs, by how much 'A fool's bolt is soon shot.'
+</ORLEANS>
+
+<SPEECH 18><ACT 3><SCENE 7><51%>
+<ORLEANS>	<52%>
+	'Tis not the first time you were overshot.
+
+</ORLEANS>
+
+<SPEECH 19><ACT 3><SCENE 7><51%>
+<ORLEANS>	<52%>
+	What a wretched and peevish fellow is this King of England, to mope with his fatbrained followers so far out of his knowledge!
+</ORLEANS>
+
+<SPEECH 20><ACT 3><SCENE 7><51%>
+<ORLEANS>	<52%>
+	That they lack; for if their heads had any intellectual armour they could never wear such heavy head-pieces.
+</ORLEANS>
+
+<SPEECH 21><ACT 3><SCENE 7><51%>
+<ORLEANS>	<52%>
+	Foolish curs! that run winking into the mouth of a Russian bear and have their heads crushed like rotten apples. You may as well say that's a valiant flea that dare eat his breakfast on the lip of a lion.
+</ORLEANS>
+
+<SPEECH 22><ACT 3><SCENE 7><52%>
+<ORLEANS>	<52%>
+	Ay, but these English are shrewdly out of beef.
+</ORLEANS>
+
+<SPEECH 23><ACT 3><SCENE 7><52%>
+<ORLEANS>	<53%>
+	It is now two o'clock: but, let me see, by ten
+	We shall have each a hundred Englishmen.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</ORLEANS>
+
+<SPEECH 24><ACT 4><SCENE 2><63%>
+<ORLEANS>	<64%>
+	The sun doth gild our armour: up, my lords!
+</ORLEANS>
+
+<SPEECH 25><ACT 4><SCENE 2><63%>
+<ORLEANS>	<64%>
+	O brave spirit!
+</ORLEANS>
+
+<SPEECH 26><ACT 4><SCENE 2><63%>
+<ORLEANS>	<64%>
+	Rien puis? l'air et le feu.
+</ORLEANS>
+
+<SPEECH 27><ACT 4><SCENE 5><72%>
+<ORLEANS>	<72%>
+	O seigneur! le jour est perdu! tout est perdu!
+</ORLEANS>
+
+<SPEECH 28><ACT 4><SCENE 5><72%>
+<ORLEANS>	<72%>
+	Is this the king we sent to for his ransom?
+</ORLEANS>
+
+<SPEECH 29><ACT 4><SCENE 5><72%>
+<ORLEANS>	<73%>
+	We are enough yet living in the field
+	To smother up the English in our throngs,
+	If any order might be thought upon.
+</ORLEANS>
+

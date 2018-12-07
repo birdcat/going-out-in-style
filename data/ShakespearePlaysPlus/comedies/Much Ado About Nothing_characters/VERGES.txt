@@ -1,0 +1,91 @@
+<SPEECH 1><ACT 3><SCENE 3><49%>
+<VERGES>	<50%>
+	Yea, or else it were pity but they should suffer salvation, body and soul.
+</VERGES>
+
+<SPEECH 2><ACT 3><SCENE 3><50%>
+<VERGES>	<50%>
+	Well, give them their charge, neighbour Dogberry.
+</VERGES>
+
+<SPEECH 3><ACT 3><SCENE 3><50%>
+<VERGES>	<51%>
+	If he will not stand when he is bidden, he is none of the prince's subjects.
+</VERGES>
+
+<SPEECH 4><ACT 3><SCENE 3><51%>
+<VERGES>	<52%>
+	You have been always called a merciful man, partner.
+</VERGES>
+
+<SPEECH 5><ACT 3><SCENE 3><51%>
+<VERGES>	<52%>
+	If you hear a child cry in the night, you must call to the nurse and bid her still it.
+</VERGES>
+
+<SPEECH 6><ACT 3><SCENE 3><52%>
+<VERGES>	<53%>
+	'Tis very true.
+</VERGES>
+
+<SPEECH 7><ACT 3><SCENE 3><52%>
+<VERGES>	<53%>
+	Nay, by 'r lady, that I think, a' cannot.
+</VERGES>
+
+<SPEECH 8><ACT 3><SCENE 3><52%>
+<VERGES>	<53%>
+	By 'r lady, I think it be so.
+</VERGES>
+
+<SPEECH 9><ACT 3><SCENE 5><59%>
+<VERGES>	<60%>
+	Yes, in truth it is, sir.
+</VERGES>
+
+<SPEECH 10><ACT 3><SCENE 5><60%>
+<VERGES>	<60%>
+	Yes, I thank God, I am as honest as any man living, that is an old man and no honester than I.
+</VERGES>
+
+<SPEECH 11><ACT 3><SCENE 5><60%>
+<VERGES>	<61%>
+	And so am I.
+</VERGES>
+
+<SPEECH 12><ACT 3><SCENE 5><60%>
+<VERGES>	<61%>
+	Marry, sir, our watch to-night, excepting your worship's presence, ha' ta'en a couple of as arrant knaves as any in Messina.
+</VERGES>
+
+<SPEECH 13><ACT 3><SCENE 5><61%>
+<VERGES>	<62%>
+	And we must do it wisely.
+</VERGES>
+
+<SPEECH 14><ACT 4><SCENE 2><74%>
+<VERGES>	<74%>
+	O! a stool and a cushion for the sexton.
+</VERGES>
+
+<SPEECH 15><ACT 4><SCENE 2><74%>
+<VERGES>	<74%>
+	Nay, that's certain: we have the exhibition to examine.
+</VERGES>
+
+<SPEECH 16><ACT 4><SCENE 2><76%>
+<VERGES>	<76%>
+	Yea, by the mass, that it is.
+</VERGES>
+
+<SPEECH 17><ACT 4><SCENE 2><76%>
+<VERGES>	<77%>
+	Let them be in the hands—
+</VERGES>
+
+<SPEECH 18><ACT 5><SCENE 1><86%>
+<VERGES>	<87%>
+	Here, here comes Master Signior Leonato, and the sexton too.
+
+</VERGES>
+

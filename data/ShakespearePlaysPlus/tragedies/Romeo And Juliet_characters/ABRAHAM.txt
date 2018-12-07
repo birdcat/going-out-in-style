@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+<ABRAHAM>	<2%>
+	Do you bite your thumb at us, sir?
+</ABRAHAM>
+
+<SPEECH 2><ACT 1><SCENE 1><2%>
+<ABRAHAM>	<2%>
+	Do you bite your thumb at us, sir?
+</ABRAHAM>
+
+<SPEECH 3><ACT 1><SCENE 1><2%>
+<ABRAHAM>	<2%>
+	Quarrel, sir! no, sir.
+</ABRAHAM>
+
+<SPEECH 4><ACT 1><SCENE 1><2%>
+<ABRAHAM>	<3%>
+	No better.
+</ABRAHAM>
+
+<SPEECH 5><ACT 1><SCENE 1><2%>
+<ABRAHAM>	<3%>
+	You lie.
+</ABRAHAM>
+

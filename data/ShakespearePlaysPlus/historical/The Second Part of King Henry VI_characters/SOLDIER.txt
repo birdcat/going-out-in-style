@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 4><SCENE 6><77%>
+<SOLDIER>	<77%>
+	Jack Cade! Jack Cade!
+</SOLDIER>
+

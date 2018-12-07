@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 4><SCENE 1><78%>
+<BISHOP>	<79%>
+	The woe's to come; the children yet unborn
+	Shall feel this day as sharp to them as thorn.
+</BISHOP>
+

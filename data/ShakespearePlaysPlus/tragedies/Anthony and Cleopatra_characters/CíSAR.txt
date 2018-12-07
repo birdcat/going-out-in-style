@@ -1,0 +1,838 @@
+<SPEECH 1><ACT 1><SCENE 4><11%>
+<CÆSAR>	<12%>
+	You may see, Lepidus, and henceforth know,
+	It is not Cæsar's natural vice to hate
+	Our great competitor. From Alexandria
+	This is the news: he fishes, drinks, and wastes
+	The lamps of night in revel; is not more manlike
+	Than Cleopatra, nor the queen of Ptolemy
+	More womanly than he; hardly gave audience, or
+	Vouchsaf'd to think he had partners: you shall find there
+	A man who is the abstract of all faults
+	That all men follow.
+</CÆSAR>
+
+<SPEECH 2><ACT 1><SCENE 4><12%>
+<CÆSAR>	<12%>
+	You are too indulgent. Let us grant it is not
+	Amiss to tumble on the bed of Ptolemy,
+	To give a kingdom for a mirth, to sit
+	And keep the turn of tippling with a slave,
+	To reel the streets at noon, and stand the buffet
+	With knaves that smell of sweat; say this becomes him,—
+	As his composure must be rare indeed
+	Whom these things cannot blemish,—yet must Antony
+	No way excuse his soils, when we do bear
+	So great weight in his lightness. If he fill'd
+	His vacancy with his voluptuousness,
+	Full surfeits and the dryness of his bones
+	Call on him for 't; but to confound such time
+	That drums him from his sport, and speaks as loud
+	As his own state and ours, 'tis to be chid
+	As we rate boys, who, being mature in knowledge,
+	Pawn their experience to their present pleasure,
+	And so rebel to judgment.
+
+</CÆSAR>
+
+<SPEECH 3><ACT 1><SCENE 4><12%>
+<CÆSAR>	<13%>
+	I should have known no less.
+	It hath been taught us from the primal state,
+	That he which is was wish'd until he were;
+	And the ebb'd man, ne'er lov'd till ne'er worth love,
+	Comes dear'd by being lack'd. This common body,
+	Like to a vagabond flag upon the stream,
+	Goes to and back, lackeying the varying tide,
+	To rot itself with motion.
+</CÆSAR>
+
+<SPEECH 4><ACT 1><SCENE 4><13%>
+<CÆSAR>	<13%>
+	Antony,
+	Leave thy lascivious wassails. When thou once
+	Wast beaten from Modena, where thou slew'st
+	Hirtius and Pansa, consuls, at thy heel
+	Did famine follow, whom thou fought'st against,
+	Though daintily brought up, with patience more
+	Than savages could suffer; thou didst drink
+	The stale of horses and the gilded puddle
+	Which beasts would cough at; thy palate then did deign
+	The roughest berry on the rudest hedge;
+	Yea, like the stag, when snow the pasture sheets,
+	The barks of trees thou browsed'st; on the Alps
+	It is reported thou didst eat strange flesh,
+	Which some did die to look on; and all this—
+	It wounds thy honour that I speak it now—
+	Was borne so like a soldier, that thy cheek
+	So much as lank'd not.
+</CÆSAR>
+
+<SPEECH 5><ACT 1><SCENE 4><13%>
+<CÆSAR>	<14%>
+	Let his shames quickly
+	Drive him to Rome. 'Tis time we twain
+	Did show ourselves i' the field; and to that end
+	Assemble me immediate council; Pompey
+	Thrives in our idleness.
+</CÆSAR>
+
+<SPEECH 6><ACT 1><SCENE 4><13%>
+<CÆSAR>	<14%>
+	Till which encounter,
+	It is my business too. Farewell.
+</CÆSAR>
+
+<SPEECH 7><ACT 1><SCENE 4><14%>
+<CÆSAR>	<14%>
+	Doubt not, sir;
+	I knew it for my bond.
+</CÆSAR>
+
+<SPEECH 8><ACT 2><SCENE 2><18%>
+<CÆSAR>	<19%>
+	I do not know,
+	Mecænas; ask Agrippa.
+</CÆSAR>
+
+<SPEECH 9><ACT 2><SCENE 2><19%>
+<CÆSAR>	<19%>
+	Welcome to Rome.
+</CÆSAR>
+
+<SPEECH 10><ACT 2><SCENE 2><19%>
+<CÆSAR>	<19%>
+	Sit.
+</CÆSAR>
+
+<SPEECH 11><ACT 2><SCENE 2><19%>
+<CÆSAR>	<19%>
+	Nay, then.
+</CÆSAR>
+
+<SPEECH 12><ACT 2><SCENE 2><19%>
+<CÆSAR>	<19%>
+	I must be laugh'd at
+	If, or for nothing or a little, I
+	Should say myself offended, and with you
+	Chiefly i' the world; more laugh'd at that I should
+	Once name you derogately, when to sound your name
+	It not concern'd me.
+</CÆSAR>
+
+<SPEECH 13><ACT 2><SCENE 2><19%>
+<CÆSAR>	<19%>
+	No more than my residing here at Rome
+	Might be to you in Egypt; yet, if you there
+	Did practise on my state, your being in Egypt
+	Might be my question.
+</CÆSAR>
+
+<SPEECH 14><ACT 2><SCENE 2><19%>
+<CÆSAR>	<20%>
+	You may be pleas'd to catch at mine intent
+	By what did here befall me. Your wife and brother
+	Made wars upon me, and their contestation
+	Was theme for you, you were the word of war.
+</CÆSAR>
+
+<SPEECH 15><ACT 2><SCENE 2><19%>
+<CÆSAR>	<20%>
+	You praise yourself
+	By laying defects of judgment to me, but
+	You patch'd up your excuses.
+</CÆSAR>
+
+<SPEECH 16><ACT 2><SCENE 2><20%>
+<CÆSAR>	<21%>
+	I wrote to you
+	When rioting in Alexandria; you
+	Did pocket up my letters, and with taunts
+	Did gibe my missive out of audience.
+</CÆSAR>
+
+<SPEECH 17><ACT 2><SCENE 2><20%>
+<CÆSAR>	<21%>
+	You have broken
+	The article of your oath, which you shall never
+	Have tongue to charge me with.
+</CÆSAR>
+
+<SPEECH 18><ACT 2><SCENE 2><20%>
+<CÆSAR>	<21%>
+	To lend me arms and aid when I requir'd them,
+	The which you both denied.
+</CÆSAR>
+
+<SPEECH 19><ACT 2><SCENE 2><21%>
+<CÆSAR>	<22%>
+	I do not much dislike the matter, but
+	The manner of his speech; for it cannot be
+	We shall remain in friendship, our conditions
+	So differing in their acts. Yet, if I knew
+	What hoop should hold us stanch, from edge to edge
+	O' the world I would pursue it.
+</CÆSAR>
+
+<SPEECH 20><ACT 2><SCENE 2><21%>
+<CÆSAR>	<22%>
+	Speak, Agrippa.
+</CÆSAR>
+
+<SPEECH 21><ACT 2><SCENE 2><21%>
+<CÆSAR>	<22%>
+	Say not so, Agrippa:
+	If Cleopatra heard you, your reproof
+	Were well deserv'd of rashness.
+</CÆSAR>
+
+<SPEECH 22><ACT 2><SCENE 2><22%>
+<CÆSAR>	<22%>
+	Not till he hears how Antony is touch'd
+	With what is spoke already.
+</CÆSAR>
+
+<SPEECH 23><ACT 2><SCENE 2><22%>
+<CÆSAR>	<23%>
+	The power of Cæsar, and
+	His power unto Octavia.
+</CÆSAR>
+
+<SPEECH 24><ACT 2><SCENE 2><22%>
+<CÆSAR>	<23%>
+	There is my hand.
+	A sister I bequeath you, whom no brother
+	Did ever love so dearly; let her live
+	To join our kingdoms and our hearts, and never
+	Fly off our loves again!
+</CÆSAR>
+
+<SPEECH 25><ACT 2><SCENE 2><23%>
+<CÆSAR>	<23%>
+	About the Mount Misenum.
+</CÆSAR>
+
+<SPEECH 26><ACT 2><SCENE 2><23%>
+<CÆSAR>	<23%>
+	Great and increasing; but by sea
+	He is an absolute master.
+</CÆSAR>
+
+<SPEECH 27><ACT 2><SCENE 2><23%>
+<CÆSAR>	<23%>
+	With most gladness;
+	And do invite you to my sister's view,
+	Whither straight I'll lead you.
+</CÆSAR>
+
+<SPEECH 28><ACT 2><SCENE 3><25%>
+<CÆSAR>	<26%>
+	Good night.
+<STAGE DIR>
+<Exeunt Cæsar and Octavia.>
+</STAGE DIR>
+
+</CÆSAR>
+
+<SPEECH 29><ACT 2><SCENE 6><31%>
+<CÆSAR>	<32%>
+	Most meet
+	That first we come to words, and therefore have we
+	Our written purposes before us sent;
+	Which if thou hast consider'd, let us know
+	If 'twill tie up thy discontented sword,
+	And carry back to Sicily much tall youth
+	That else must perish here.
+</CÆSAR>
+
+<SPEECH 30><ACT 2><SCENE 6><32%>
+<CÆSAR>	<32%>
+	Take your time.
+</CÆSAR>
+
+<SPEECH 31><ACT 2><SCENE 6><32%>
+<CÆSAR>	<33%>
+	There's the point.
+</CÆSAR>
+
+<SPEECH 32><ACT 2><SCENE 6><32%>
+<CÆSAR>	<33%>
+	And what may follow,
+	To try a larger fortune.
+</CÆSAR>
+
+<SPEECH 33><ACT 2><SCENE 6><32%>
+<CÆSAR>	<33%>
+	That's our offer.
+</CÆSAR>
+
+<SPEECH 34><ACT 2><SCENE 6><33%>
+<CÆSAR>	<33%>
+	Since I saw you last,
+	There is a change upon you.
+</CÆSAR>
+
+<SPEECH 35><ACT 2><SCENE 6><33%>
+<CÆSAR>	<34%>
+	That 's the next to do.
+</CÆSAR>
+
+<SPEECH 36><ACT 2><SCENE 6><34%>
+<CÆSAR>	<34%>
+	Show us the way, sir.
+</CÆSAR>
+
+<SPEECH 37><ACT 2><SCENE 7><37%>
+<CÆSAR>	<37%>
+	Will this description satisfy him?
+</CÆSAR>
+
+<SPEECH 38><ACT 2><SCENE 7><39%>
+<CÆSAR>	<39%>
+	I could well forbear't.
+	It's monstrous labour, when I wash my brain,
+	And it grows fouler.
+</CÆSAR>
+
+<SPEECH 39><ACT 2><SCENE 7><39%>
+<CÆSAR>	<39%>
+	Possess it, I'll make answer;
+	But I had rather fast from all four days
+	Than drink so much in one.
+</CÆSAR>
+
+<SPEECH 40><ACT 2><SCENE 7><40%>
+<CÆSAR>	<40%>
+	What would you more? Pompey, good night. Good brother,
+	Let me request you off; our graver business
+	Frowns at this levity. Gentle lords, let's part;
+	You see we have burnt our cheeks; strong Enobarb
+	Is weaker than the wine, and mine own tongue
+	Splits what it speaks; the wild disguise hath almost
+	Antick'd us all. What needs more words? Good night.
+	Good Antony, your hand.
+</CÆSAR>
+
+<SPEECH 41><ACT 3><SCENE 2><43%>
+<CÆSAR>	<42%>
+	You take from me a great part of myself;
+	Use me well in't. Sister, prove such a wife
+	As my thoughts make thee, and as my furthest band
+	Shall pass on thy approof. Most noble Antony,
+	Let not the piece of virtue, which is set
+	Betwixt us as the cement of our love
+	To keep it builded, be the ram to batter
+	The fortress of it; for better might we
+	Have lov'd without this mean, if on both parts
+	This be not cherish'd.
+</CÆSAR>
+
+<SPEECH 42><ACT 3><SCENE 2><43%>
+<CÆSAR>	<43%>
+	I have said.
+</CÆSAR>
+
+<SPEECH 43><ACT 3><SCENE 2><43%>
+<CÆSAR>	<43%>
+	Farewell, my dearest sister, fare thee well:
+	The elements be kind to thee, and make
+	Thy spirits all of comfort! fare thee well.
+</CÆSAR>
+
+<SPEECH 44><ACT 3><SCENE 2><43%>
+<CÆSAR>	<43%>
+	What,
+	Octavia?
+</CÆSAR>
+
+<SPEECH 45><ACT 3><SCENE 2><44%>
+<CÆSAR>	<44%>
+	No, sweet Octavia,
+	You shall hear from me still; the time shall not
+	Out-go my thinking on you.
+</CÆSAR>
+
+<SPEECH 46><ACT 3><SCENE 2><44%>
+<CÆSAR>	<44%>
+	Adieu; be happy!
+</CÆSAR>
+
+<SPEECH 47><ACT 3><SCENE 2><44%>
+<CÆSAR>	<44%>
+	Farewell, farewell!
+</CÆSAR>
+
+<SPEECH 48><ACT 3><SCENE 6><48%>
+<CÆSAR>	<48%>
+	Contemning Rome, he has done all this and more
+	In Alexandria; here's the manner of 't;
+	I' the market-place, on a tribunal silver'd,
+	Cleopatra and himself in chairs of gold
+	Were publicly enthron'd; at the feet sat
+	Cæsarion, whom they call my father's son,
+	And all the unlawful issue that their lust
+	Since then hath made between them. Unto her
+	He gave the 'stablishment of Egypt; made her
+	Of Lower Syria, Cyprus, Lydia,
+	Absolute queen.
+</CÆSAR>
+
+<SPEECH 49><ACT 3><SCENE 6><48%>
+<CÆSAR>	<48%>
+	I' the common show-place, where they exercise.
+	His sons he there proclaim'd the kings of kings;
+	Great Media, Parthia, and Armenia
+	He gave to Alexander; to Ptolemy he assign'd
+	Syria, Cilicia, and Phœnicia. She
+	In the habiliments of the goddess Isis
+	That day appear'd; and oft before gave audience,
+	As 'tis reported, so.
+</CÆSAR>
+
+<SPEECH 50><ACT 3><SCENE 6><48%>
+<CÆSAR>	<48%>
+	The people know it; and have now receiv'd
+	His accusations.
+</CÆSAR>
+
+<SPEECH 51><ACT 3><SCENE 6><48%>
+<CÆSAR>	<48%>
+	Cæsar; and that, having in Sicily
+	Sextus Pompeius spoil'd, we had not rated him
+	His part o' the isle; then does he say, he lent me
+	Some shipping unrestor'd; lastly, he frets
+	That Lepidus of the triumvirate
+	Should be depos'd; and, being, that we detain
+	All his revenue.
+</CÆSAR>
+
+<SPEECH 52><ACT 3><SCENE 6><49%>
+<CÆSAR>	<48%>
+	'Tis done already, and the messenger gone.
+	I have told him, Lepidus was grown too cruel;
+	That he his high authority abus'd,
+	And did deserve his change: for what I have conquer'd,
+	I grant him part; but then, in his Armenia,
+	And other of his conquer'd kingdoms, I
+	Demand the like.
+</CÆSAR>
+
+<SPEECH 53><ACT 3><SCENE 6><49%>
+<CÆSAR>	<49%>
+	Nor must not then be yielded to in this.
+
+</CÆSAR>
+
+<SPEECH 54><ACT 3><SCENE 6><49%>
+<CÆSAR>	<49%>
+	That ever I should call thee cast-away!
+</CÆSAR>
+
+<SPEECH 55><ACT 3><SCENE 6><49%>
+<CÆSAR>	<49%>
+	Why have you stol'n upon us thus? You come not
+	Like Cæsar's sister; the wife of Antony
+	Should have an army for an usher, and
+	The neighs of horse to tell of her approach
+	Long ere she did appear; the trees by the way
+	Should have borne men; and expectation fainted,
+	Longing for what it had not; nay, the dust
+	Should have ascended to the roof of heaven,
+	Rais'd by your populous troops. But you are come
+	A market-maid to Rome, and have prevented
+	The ostentation of our love, which, left unshown,
+	Is often left unlov'd: we should have met you
+	By sea and land, supplying every stage
+	With an augmented greeting.
+</CÆSAR>
+
+<SPEECH 56><ACT 3><SCENE 6><50%>
+<CÆSAR>	<49%>
+	Which soon he granted,
+	Being an obstruct 'tween his lust and him.
+</CÆSAR>
+
+<SPEECH 57><ACT 3><SCENE 6><50%>
+<CÆSAR>	<49%>
+	I have eyes upon him,
+	And his affairs come to me on the wind.
+	Where is he now?
+</CÆSAR>
+
+<SPEECH 58><ACT 3><SCENE 6><50%>
+<CÆSAR>	<49%>
+	No, my most wrong'd sister; Cleopatra
+	Hath nodded him to her. He hath given his empire
+	Up to a whore; who now are levying
+	The kings o' the earth for war. He hath assembled
+	Bocchus, the King of Libya; Archelaus,
+	Of Cappadocia; Philadelphos, King
+	Of Paphlagonia; the Thracian king, Adallas;
+	King Malchus of Arabia; King of Pont;
+	Herod of Jewry; Mithridates, King
+	Of Comagene; Polemon and Amintas,
+	The Kings of Mede and Lycaonia,
+	With a more larger list of sceptres.
+</CÆSAR>
+
+<SPEECH 59><ACT 3><SCENE 6><50%>
+<CÆSAR>	<50%>
+	Welcome hither:
+	Your letters did withhold our breaking forth,
+	Till we perceiv'd both how you were wrong led
+	And we in negligent danger. Cheer your heart;
+	Be you not troubled with the time, which drives
+	O'er your content these strong necessities,
+	But let determin'd things to destiny
+	Hold unbewail'd their way. Welcome to Rome;
+	Nothing more dear to me. You are abus'd
+	Beyond the mark of thought, and the high gods,
+	To do you justice, make their ministers
+	Of us and those that love you. Best of comfort,
+	And ever welcome to us.
+</CÆSAR>
+
+<SPEECH 60><ACT 3><SCENE 6><51%>
+<CÆSAR>	<50%>
+	Most certain. Sister, welcome; pray you,
+	Be ever known to patience; my dearest sister!
+</CÆSAR>
+
+<SPEECH 61><ACT 3><SCENE 8><54%>
+<CÆSAR>	<53%>
+	Taurus!
+</CÆSAR>
+
+<SPEECH 62><ACT 3><SCENE 8><54%>
+<CÆSAR>	<53%>
+	Strike not by land; keep whole: provoke not battle.
+	Till we have done at sea. Do not exceed
+	The prescript of this scroll: our fortune lies
+	Upon this jump.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</CÆSAR>
+
+<SPEECH 63><ACT 3><SCENE X.— ><58%>
+<CÆSAR>	<57%>
+	Let him appear that's come from Antony.
+	Know you him?
+</CÆSAR>
+
+<SPEECH 64><ACT 3><SCENE X.— ><58%>
+<CÆSAR>	<57%>
+	Approach, and speak.
+</CÆSAR>
+
+<SPEECH 65><ACT 3><SCENE X.— ><58%>
+<CÆSAR>	<58%>
+	Be 't so. Declare thine office.
+</CÆSAR>
+
+<SPEECH 66><ACT 3><SCENE X.— ><58%>
+<CÆSAR>	<58%>
+	For Antony,
+	I have no ears to his request. The queen
+	Of audience nor desire shall fail, so she
+	From Egypt drive her all-disgraced friend,
+	Or take his life there; this if she perform,
+	She shall not sue unheard. So to them both.
+</CÆSAR>
+
+<SPEECH 67><ACT 3><SCENE X.— ><58%>
+<CÆSAR>	<58%>
+	Bring him through the bands.
+<STAGE DIR>
+<Exit Euphronius.>
+</STAGE DIR>
+
+<STAGE DIR>
+<To Thyreus.] To try thy eloquence, now 'tis time; dispatch.>
+</STAGE DIR>
+	From Antony win Cleopatra; promise,
+	And in our name, what she requires; add more,
+	From thine invention, offers. Women are not
+	In their best fortunes strong, but want will perjure
+	The ne'er-touch'd vestal. Try thy cunning, Thyreus;
+	Make thine own edict for thy pains, which we
+</CÆSAR>
+
+<SPEECH 68><ACT 3><SCENE X.— ><59%>
+<CÆSAR>	<58%>
+	Observe how Antony becomes his flaw,
+	And what thou think'st his very action speaks
+	In every power that moves.
+</CÆSAR>
+
+<SPEECH 69><ACT 4><SCENE 1><65%>
+<CÆSAR>	<65%>
+	He calls me boy, and chides as he had power
+	To beat me out of Egypt; my messenger
+	He hath whipp'd with rods; dares me to personal combat,
+	Cæsar to Antony. Let the old ruffian know
+	I have many other ways to die; meantime
+	Laugh at his challenge.
+</CÆSAR>
+
+<SPEECH 70><ACT 4><SCENE 1><66%>
+<CÆSAR>	<65%>
+	Let our best heads
+	Know that to-morrow the last of many battles
+	We mean to fight. Within our files there are,
+	Of those that serv'd Mark Antony but late,
+	Enough to fetch him in. See it done;
+	And feast the army; we have store to do 't,
+	And they have earn'd the waste. Poor Antony!
+</CÆSAR>
+
+<SPEECH 71><ACT 4><SCENE 6><71%>
+<CÆSAR>	<71%>
+	Go forth, Agrippa, and begin the fight:
+	Our will is Antony be took alive;
+	Make it so known.
+</CÆSAR>
+
+<SPEECH 72><ACT 4><SCENE 6><71%>
+<CÆSAR>	<71%>
+	The time of universal peace is near:
+	Prove this a prosperous day, the three-nook'd world
+	Shall bear the olive freely.
+
+</CÆSAR>
+
+<SPEECH 73><ACT 4><SCENE 6><71%>
+<CÆSAR>	<71%>
+	Go charge Agrippa
+	Plant those that have revolted in the van,
+	That Antony may seem to spend his fury
+	Upon himself.
+</CÆSAR>
+
+<SPEECH 74><ACT 4><SCENE X.— ><76%>
+<CÆSAR>	<75%>
+	But being charg'd, we will be still by land,
+	Which, as I take 't, we shall; for his best force
+	Is forth to man his galleys. To the vales,
+	And hold our best advantage!
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</CÆSAR>
+
+<SPEECH 75><ACT 5><SCENE 1><85%>
+<CÆSAR>	<85%>
+	Go to him, Dolabella, bid him yield;
+	Being so frustrate, tell him he mocks
+	The pauses that he makes.
+</CÆSAR>
+
+<SPEECH 76><ACT 5><SCENE 1><85%>
+<CÆSAR>	<86%>
+	Wherefore is that? and what art thou that dar'st
+	Appear thus to us?
+</CÆSAR>
+
+<SPEECH 77><ACT 5><SCENE 1><86%>
+<CÆSAR>	<86%>
+	What is 't thou sayst?
+</CÆSAR>
+
+<SPEECH 78><ACT 5><SCENE 1><86%>
+<CÆSAR>	<86%>
+	The breaking of so great a thing should make
+	A greater crack; the round world
+	Should have shook lions into civil streets,
+	And citizens to their dens. The death of Antony
+	Is not a single doom; in the name lay
+	A moiety of the world.
+</CÆSAR>
+
+<SPEECH 79><ACT 5><SCENE 1><86%>
+<CÆSAR>	<86%>
+	Look you sad, friends?
+	The gods rebuke me, but it is tidings
+	To wash the eyes of kings.
+</CÆSAR>
+
+<SPEECH 80><ACT 5><SCENE 1><86%>
+<CÆSAR>	<86%>
+	O Antony!
+	I have follow'd thee to this; but we do lance
+	Diseases in our bodies: I must perforce
+	Have shown to thee such a declining day,
+	Or look on thine; we could not stall together
+	In the whole world. But yet let me lament,
+	With tears as sovereign as the blood of hearts,
+	That thou, my brother, my competitor
+	In top of all design, my mate in empire,
+	Friend and companion in the front of war,
+	The arm of mine own body, and the heart
+	Where mine his thoughts did kindle, that our stars,
+	Unreconciliable, should divide
+	Our equalness to this. Hear me, good friends,—
+
+<STAGE DIR>
+<Enter an Egyptian.>
+</STAGE DIR>
+	But I will tell you at some meeter season:
+	The business of this man looks out of him;
+</CÆSAR>
+
+<SPEECH 81><ACT 5><SCENE 1><87%>
+<CÆSAR>	<87%>
+	Bid her have good heart;
+	She soon shall know of us, by some of ours,
+	How honourable and how kindly we
+	Determine for her; for Cæsar cannot live
+	To be ungentle.
+</CÆSAR>
+
+<SPEECH 82><ACT 5><SCENE 1><87%>
+<CÆSAR>	<87%>
+	Come hither, Proculeius. Go and say,
+	We purpose her no shame; give her what comforts
+	The quality of her passion shall require,
+	Lest, in her greatness, by some mortal stroke
+	She do defeat us; for her life in Rome
+	Would be eternal in our triumph. Go,
+	And with your speediest bring us what she says,
+	And how you find of her.
+</CÆSAR>
+
+<SPEECH 83><ACT 5><SCENE 1><87%>
+<CÆSAR>	<87%>
+	Gallus, go you along.
+<STAGE DIR>
+<Exit Gallus. Where's Dolabella,>
+</STAGE DIR>
+	To second Proculeius?
+</CÆSAR>
+
+<SPEECH 84><ACT 5><SCENE 1><87%>
+<CÆSAR>	<88%>
+	Let him alone, for I remember now
+	How he's employ'd, he shall in time be ready.
+	Go with me to my tent; where you shall see
+	How hardly I was drawn into this war;
+	How calm and gentle I proceeded still
+	In all my writings. Go with me, and see
+	What I can show in this.
+</CÆSAR>
+
+<SPEECH 85><ACT 5><SCENE 2><91%>
+<CÆSAR>	<92%>
+	Which is the Queen of Egypt?
+</CÆSAR>
+
+<SPEECH 86><ACT 5><SCENE 2><91%>
+<CÆSAR>	<92%>
+	Arise, you shall not kneel.
+	I pray you, rise; rise, Egypt.
+</CÆSAR>
+
+<SPEECH 87><ACT 5><SCENE 2><92%>
+<CÆSAR>	<92%>
+	Take to you no hard thoughts;
+	The record of what injuries you did us,
+	Though written in our flesh, we shall remember
+	As things but done by chance.
+</CÆSAR>
+
+<SPEECH 88><ACT 5><SCENE 2><92%>
+<CÆSAR>	<92%>
+	Cleopatra, know,
+	We will extenuate rather than enforce:
+	If you apply yourself to our intents,—
+	Which towards you are most gentle,—you shall find
+	A benefit in this change; but if you seek
+	To lay on me a cruelty, by taking
+	Antony's course, you shall bereave yourself
+	Of my good purposes, and put your children
+	To that destruction which I'll guard them from,
+	If thereon you rely. I'll take my leave.
+</CÆSAR>
+
+<SPEECH 89><ACT 5><SCENE 2><92%>
+<CÆSAR>	<92%>
+	You shall advise me in all for Cleopatra.
+</CÆSAR>
+
+<SPEECH 90><ACT 5><SCENE 2><93%>
+<CÆSAR>	<93%>
+	Nay, blush not, Cleopatra; I approve
+	Your wisdom in the deed.
+</CÆSAR>
+
+<SPEECH 91><ACT 5><SCENE 2><93%>
+<CÆSAR>	<93%>
+	Good queen, let us entreat you.
+</CÆSAR>
+
+<SPEECH 92><ACT 5><SCENE 2><93%>
+<CÆSAR>	<94%>
+	Forbear, Seleucus.
+</CÆSAR>
+
+<SPEECH 93><ACT 5><SCENE 2><93%>
+<CÆSAR>	<94%>
+	Cleopatra,
+	Not what you have reserv'd, nor what acknowledg'd,
+	Put we i' the roll of conquest: still be 't yours,
+	Bestow it at your pleasure; and believe,
+	Cæsar's no merchant, to make prize with you
+	Of things that merchants sold. Therefore be cheer'd;
+	Make not your thoughts your prisons: no, dear queen;
+	For we intend so to dispose you as
+	Yourself shall give us counsel. Feed, and sleep:
+	Our care and pity is so much upon you,
+	That we remain your friend; and so, adieu.
+</CÆSAR>
+
+<SPEECH 94><ACT 5><SCENE 2><94%>
+<CÆSAR>	<94%>
+	Not so. Adieu.
+</CÆSAR>
+
+<SPEECH 95><ACT 5><SCENE 2><99%>
+<CÆSAR>	<99%>
+	Bravest at the last,
+	She levell'd at our purposes, and, being royal,
+	Took her own way. The manner of their deaths?
+	I do not see them bleed.
+</CÆSAR>
+
+<SPEECH 96><ACT 5><SCENE 2><99%>
+<CÆSAR>	<99%>
+	Poison'd then.
+</CÆSAR>
+
+<SPEECH 97><ACT 5><SCENE 2><99%>
+<CÆSAR>	<99%>
+	O noble weakness!
+	If they had swallow'd poison 'twould appear
+	By external swelling; but she looks like sleep,
+	As she would catch another Antony
+	In her strong toil of grace.
+</CÆSAR>
+
+<SPEECH 98><ACT 5><SCENE 2><99%>
+<CÆSAR>	<100%>
+	Most probable
+	That so she died; for her physician tells me
+	She hath pursu'd conclusions infinite
+	Of easy ways to die. Take up her bed;
+	And bear her women from the monument.
+	She shall be buried by her Antony:
+	No grave upon the earth shall clip in it
+	A pair so famous. High events as these
+	Strike those that make them; and their story is
+	No less in pity than his glory which
+	Brought them to be lamented. Our army shall,
+	In solemn show, attend this funeral,
+	And then to Rome. Come, Dolabella, see
+	High order in this great solemnity.
+</CÆSAR>
+

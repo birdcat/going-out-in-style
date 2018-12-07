@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+<PETITIONER 2>	<12%>
+	Marry, the Lord protect him, for he's a good man! Jesu bless him!
+
+</PETITIONER 2>
+
+<SPEECH 2><ACT 1><SCENE 3><11%>
+<PETITIONER 2>	<12%>
+	Come back, fool! this is the Duke of Suffolk and not my Lord Protector.
+</PETITIONER 2>
+
+<SPEECH 3><ACT 1><SCENE 3><11%>
+<PETITIONER 2>	<12%>
+	Alas! sir, I am but a poor petitioner of our whole township.
+</PETITIONER 2>
+

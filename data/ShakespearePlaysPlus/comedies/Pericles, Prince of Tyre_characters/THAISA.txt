@@ -1,0 +1,223 @@
+<SPEECH 1><ACT 2><SCENE 2><29%>
+<THAISA>	<30%>
+	It pleaseth you, my royal father, to express
+	My commendations great, whose merit's less.
+</THAISA>
+
+<SPEECH 2><ACT 2><SCENE 2><29%>
+<THAISA>	<30%>
+	Which, to preserve mine honour, I'll perform.
+
+</THAISA>
+
+<SPEECH 3><ACT 2><SCENE 2><29%>
+<THAISA>	<30%>
+	A knight of Sparta, my renowned father;
+	And the device he bears upon his shield
+	Is a black Ethiop reaching at the sun;
+	The word, Lux tua vita mihi.
+</THAISA>
+
+<SPEECH 4><ACT 2><SCENE 2><29%>
+<THAISA>	<31%>
+	A prince of Macedon, my royal father;
+	And the device he bears upon his shield
+	Is an arm'd knight that's conquer'd by a lady;
+	The motto thus, in Spanish, Piu por dulzura que por fuerza.
+</THAISA>
+
+<SPEECH 5><ACT 2><SCENE 2><30%>
+<THAISA>	<31%>
+	The third of Antioch;
+	And his device, a wreath of chivalry;
+	The word, Me pompæ provexit apex.
+</THAISA>
+
+<SPEECH 6><ACT 2><SCENE 2><30%>
+<THAISA>	<31%>
+	A burning torch that's turned upside down;
+	The word, Quod me alit me extinguit.
+</THAISA>
+
+<SPEECH 7><ACT 2><SCENE 2><30%>
+<THAISA>	<31%>
+	The fifth, a hand environed with clouds,
+	Holding out gold that's by the touchstone tried;
+	The motto thus, Sic spectanda fides.
+</THAISA>
+
+<SPEECH 8><ACT 2><SCENE 2><30%>
+<THAISA>	<32%>
+	He seems to be a stranger; but his present is
+	A wither'd branch, that's only green at top;
+	The motto, In hac spe vivo.
+</THAISA>
+
+<SPEECH 9><ACT 2><SCENE 3><32%>
+<THAISA>	<33%>
+	But you, my knight and guest;
+	To whom this wreath of victory I give,
+	And crown you king of this day's happiness.
+</THAISA>
+
+<SPEECH 10><ACT 2><SCENE 3><33%>
+<THAISA>	<34%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> By Juno, that is queen of marriage,
+	All viands that I eat do seem unsavoury,
+	Wishing him my meat. Sure, he's a gallant gentleman.
+</THAISA>
+
+<SPEECH 11><ACT 2><SCENE 3><33%>
+<THAISA>	<34%>
+	To me he seems like diamond to glass.
+</THAISA>
+
+<SPEECH 12><ACT 2><SCENE 3><34%>
+<THAISA>	<35%>
+	What is it
+	To me, my father?
+</THAISA>
+
+<SPEECH 13><ACT 2><SCENE 3><34%>
+<THAISA>	<35%>
+	Alas! my father, it befits not me
+	Unto a stranger knight to be so bold;
+	He may my proffer take for an offence,
+	Since men take women's gifts for impudence.
+</THAISA>
+
+<SPEECH 14><ACT 2><SCENE 3><34%>
+<THAISA>	<35%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Now, by the gods, he could not please me better.
+</THAISA>
+
+<SPEECH 15><ACT 2><SCENE 3><34%>
+<THAISA>	<36%>
+	The king, my father, sir, has drunk to you.
+</THAISA>
+
+<SPEECH 16><ACT 2><SCENE 3><35%>
+<THAISA>	<36%>
+	Wishing it so much blood unto your life.
+</THAISA>
+
+<SPEECH 17><ACT 2><SCENE 3><35%>
+<THAISA>	<36%>
+	And further he desires to know of you,
+	Of whence you are, your name and parentage.
+</THAISA>
+
+<SPEECH 18><ACT 2><SCENE 3><35%>
+<THAISA>	<36%>
+	He thanks your Grace; names himself Pericles,
+	A gentleman of Tyre,
+	Who only by misfortune of the seas
+	Bereft of ships and men, cast on this shore.
+</THAISA>
+
+<SPEECH 19><ACT 2><SCENE 5><42%>
+<THAISA>	<43%>
+	Why, sir, say if you had,
+	Who takes offence at that would make me glad?
+</THAISA>
+
+<SPEECH 20><ACT 2><SCENE 5><43%>
+<THAISA>	<44%>
+	Yes, if you love me, sir.
+</THAISA>
+
+<SPEECH 21><ACT 2><SCENE 5><43%>
+<THAISA>	<44%>
+	Yes, if 't please your majesty.
+</THAISA>
+
+<SPEECH 22><ACT 3><SCENE 2><53%>
+<THAISA>	<54%>
+	O dear Diana!
+	Where am I? Where's my lord? What world is this?
+</THAISA>
+
+<SPEECH 23><ACT 3><SCENE 4><56%>
+<THAISA>	<57%>
+	It is my lord's.
+	That I was shipp'd at sea, I well remember,
+	Even on my eaning time; but whether there
+	Deliver'd, by the holy gods,
+	I cannot rightly say. But since King Pericles,
+	My wedded lord, I ne'er shall see again,
+	A vestal livery will I take me to,
+	And never more have joy.
+</THAISA>
+
+<SPEECH 24><ACT 3><SCENE 4><56%>
+<THAISA>	<57%>
+	My recompense is thanks, that's all;
+	Yet my good will is great, though the gift small.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</THAISA>
+
+<SPEECH 25><ACT 5><SCENE 3><96%>
+<THAISA>	<96%>
+	Voice and favour!
+	You are, you are—O royal Pericles!—
+</THAISA>
+
+<SPEECH 26><ACT 5><SCENE 3><96%>
+<THAISA>	<97%>
+	O! let me look!
+	If he be none of mine, my sanctity
+	Will to my sense bend no licentious ear,
+	But curb it, spite of seeing. O! my lord,
+	Are you not Pericles? Like him you speak,
+	Like him you are. Did you not name a tempest,
+	A birth, and death?
+</THAISA>
+
+<SPEECH 27><ACT 5><SCENE 3><97%>
+<THAISA>	<97%>
+	That Thaisa am I, supposed dead
+	And drown'd.
+</THAISA>
+
+<SPEECH 28><ACT 5><SCENE 3><97%>
+<THAISA>	<97%>
+	Now I know you better.
+	When we with tears parted Pentapolis,
+	The king my father gave you such a ring.
+</THAISA>
+
+<SPEECH 29><ACT 5><SCENE 3><97%>
+<THAISA>	<98%>
+	Bless'd, and mine own!
+</THAISA>
+
+<SPEECH 30><ACT 5><SCENE 3><97%>
+<THAISA>	<98%>
+	I know you not.
+</THAISA>
+
+<SPEECH 31><ACT 5><SCENE 3><98%>
+<THAISA>	<98%>
+	'Twas Helicanus then.
+</THAISA>
+
+<SPEECH 32><ACT 5><SCENE 3><98%>
+<THAISA>	<98%>
+	Lord Cerimon, my lord; this man,
+	Through whom the gods have shown their power; that can
+	From first to last resolve you.
+</THAISA>
+
+<SPEECH 33><ACT 5><SCENE 3><98%>
+<THAISA>	<99%>
+	Lord Cerimon hath letters of good credit, sir,
+	My father's dead.
+</THAISA>
+

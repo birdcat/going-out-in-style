@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 5><SCENE 3><79%>
+<CAPTAIN 2>	<79%>
+	There was a fourth man, in a silly habit,
+	That gave th' affront with them.
+</CAPTAIN 2>
+
+<SPEECH 2><ACT 5><SCENE 3><79%>
+<CAPTAIN 2>	<79%>
+	Lay hands on him; a dog!
+	A lag of Rome shall not return to tell
+	What crows have peck'd them here. He brags his service
+	As if he were of note: bring him to the king.
+
+<STAGE DIR>
+<Enter Cymbeline, attended: Belarius, Guiderius, Arviragus,...>
+<... Pisanio, and Roman Captives. The Captains present...>
+<... Posthumus to Cymbeline, who delivers him over to a Gaoler; then exeunt omnes.>
+</STAGE DIR>
+
+</CAPTAIN 2>
+

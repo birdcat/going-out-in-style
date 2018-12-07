@@ -1,0 +1,221 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<MARCELLUS>	<1%>
+	And liegemen to the Dane.
+</MARCELLUS>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<MARCELLUS>	<1%>
+	O! farewell, honest soldier:
+	Who hath reliev'd you?
+</MARCELLUS>
+
+<SPEECH 3><ACT 1><SCENE 1><0%>
+<MARCELLUS>	<1%>
+	Holla! Bernardo!
+</MARCELLUS>
+
+<SPEECH 4><ACT 1><SCENE 1><0%>
+<MARCELLUS>	<1%>
+	What! has this thing appear'd again to-night?
+</MARCELLUS>
+
+<SPEECH 5><ACT 1><SCENE 1><1%>
+<MARCELLUS>	<1%>
+	Horatio says 'tis but our fantasy,
+	And will not let belief take hold of him
+	Touching this dreaded sight twice seen of us:
+	Therefore I have entreated him along
+	With us to watch the minutes of this night;
+	That if again this apparition come,
+	He may approve our eyes and speak to it.
+</MARCELLUS>
+
+<SPEECH 6><ACT 1><SCENE 1><1%>
+<MARCELLUS>	<1%>
+	Peace! break thee off; look, where it comes again!
+
+</MARCELLUS>
+
+<SPEECH 7><ACT 1><SCENE 1><1%>
+<MARCELLUS>	<1%>
+	Thou art a scholar; speak to it, Horatio.
+</MARCELLUS>
+
+<SPEECH 8><ACT 1><SCENE 1><1%>
+<MARCELLUS>	<1%>
+	Question it, Horatio.
+</MARCELLUS>
+
+<SPEECH 9><ACT 1><SCENE 1><1%>
+<MARCELLUS>	<2%>
+	It is offended.
+</MARCELLUS>
+
+<SPEECH 10><ACT 1><SCENE 1><1%>
+<MARCELLUS>	<2%>
+	'Tis gone, and will not answer.
+</MARCELLUS>
+
+<SPEECH 11><ACT 1><SCENE 1><2%>
+<MARCELLUS>	<2%>
+	Is it not like the king?
+</MARCELLUS>
+
+<SPEECH 12><ACT 1><SCENE 1><2%>
+<MARCELLUS>	<2%>
+	Thus twice before, and jump at this dead hour,
+	With martial stalk hath he gone by our watch.
+</MARCELLUS>
+
+<SPEECH 13><ACT 1><SCENE 1><2%>
+<MARCELLUS>	<2%>
+	Good now, sit down, and tell me, he that knows,
+	Why this same strict and most observant watch
+	So nightly toils the subject of the land;
+	And why such daily cast of brazen cannon,
+	And foreign mart for implements of war;
+	Why such impress of shipwrights, whose sore task
+	Does not divide the Sunday from the week;
+	What might be toward, that this sweaty haste
+	Doth make the night joint-labourer with the day:
+	Who is 't that can inform me?
+</MARCELLUS>
+
+<SPEECH 14><ACT 1><SCENE 1><3%>
+<MARCELLUS>	<4%>
+	Shall I strike at it with my partisan?
+</MARCELLUS>
+
+<SPEECH 15><ACT 1><SCENE 1><4%>
+<MARCELLUS>	<4%>
+	'Tis gone!
+	We do it wrong, being so majestical,
+	To offer it the show of violence;
+	For it is, as the air, invulnerable,
+	And our vain blows malicious mockery.
+</MARCELLUS>
+
+<SPEECH 16><ACT 1><SCENE 1><4%>
+<MARCELLUS>	<4%>
+	It faded on the crowing of the cock.
+	Some say that ever 'gainst that season comes
+	Wherein our Saviour's birth is celebrated,
+	The bird of dawning singeth all night long;
+	And then, they say, no spirit can walk abroad;
+	The nights are wholesome; then no planets strike,
+	No fairy takes, nor witch hath power to charm,
+	So hallow'd and so gracious is the time.
+</MARCELLUS>
+
+<SPEECH 17><ACT 1><SCENE 1><4%>
+<MARCELLUS>	<5%>
+	Let's do't, I pray; and I this morning know
+	Where we shall find him most conveniently.
+</MARCELLUS>
+
+<SPEECH 18><ACT 1><SCENE 2><8%>
+<MARCELLUS>	<9%>
+	My good lord,—
+</MARCELLUS>
+
+<SPEECH 19><ACT 1><SCENE 2><10%>
+<MARCELLUS>	<10%>
+	My lord, upon the platform where we watch'd.
+</MARCELLUS>
+
+<SPEECH 20><ACT 1><SCENE 2><10%>
+<MARCELLUS>	<10%>
+	We do, my lord.
+</MARCELLUS>
+
+<SPEECH 21><ACT 1><SCENE 2><10%>
+<MARCELLUS>	<10%>
+	Arm'd, my lord.
+</MARCELLUS>
+
+<SPEECH 22><ACT 1><SCENE 2><10%>
+<MARCELLUS>	<11%>
+	My lord, from head to foot.
+</MARCELLUS>
+
+<SPEECH 23><ACT 1><SCENE 2><10%>
+<MARCELLUS>	<11%>
+	Longer, longer.
+</MARCELLUS>
+
+<SPEECH 24><ACT 1><SCENE 4><15%>
+<MARCELLUS>	<15%>
+	No, it is struck.
+</MARCELLUS>
+
+<SPEECH 25><ACT 1><SCENE 4><16%>
+<MARCELLUS>	<16%>
+	Look, with what courteous action
+	It waves you to a more removed ground:
+	But do not go with it.
+</MARCELLUS>
+
+<SPEECH 26><ACT 1><SCENE 4><16%>
+<MARCELLUS>	<17%>
+	You shall not go, my lord.
+</MARCELLUS>
+
+<SPEECH 27><ACT 1><SCENE 4><17%>
+<MARCELLUS>	<17%>
+	Let's follow; 'tis not fit thus to obey him.
+</MARCELLUS>
+
+<SPEECH 28><ACT 1><SCENE 4><17%>
+<MARCELLUS>	<17%>
+	Something is rotten in the state of Denmark.
+</MARCELLUS>
+
+<SPEECH 29><ACT 1><SCENE 4><17%>
+<MARCELLUS>	<17%>
+	Nay, let's follow him.
+</MARCELLUS>
+
+<SPEECH 30><ACT 1><SCENE 5><20%>
+<MARCELLUS>	<20%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Lord Hamlet!
+</MARCELLUS>
+
+<SPEECH 31><ACT 1><SCENE 5><20%>
+<MARCELLUS>	<20%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> So be it!
+</MARCELLUS>
+
+<SPEECH 32><ACT 1><SCENE 5><20%>
+<MARCELLUS>	<20%>
+	How is't, my noble lord?
+</MARCELLUS>
+
+<SPEECH 33><ACT 1><SCENE 5><20%>
+<MARCELLUS>	<20%>
+	Nor I, my lord.
+</MARCELLUS>
+
+<SPEECH 34><ACT 1><SCENE 5><20%>
+<MARCELLUS>	<20%>
+	Ay, by heaven, my lord.
+</MARCELLUS>
+
+<SPEECH 35><ACT 1><SCENE 5><21%>
+<MARCELLUS>	<21%>
+	My lord, we will not.
+</MARCELLUS>
+
+<SPEECH 36><ACT 1><SCENE 5><21%>
+<MARCELLUS>	<21%>
+	Nor I, my lord, in faith.
+</MARCELLUS>
+
+<SPEECH 37><ACT 1><SCENE 5><21%>
+<MARCELLUS>	<21%>
+	We have sworn, my lord, already.
+</MARCELLUS>
+

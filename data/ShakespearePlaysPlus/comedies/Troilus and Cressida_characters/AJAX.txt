@@ -1,0 +1,298 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+<AJAX>	<23%>
+	Thersites!
+</AJAX>
+
+<SPEECH 2><ACT 2><SCENE 1><23%>
+<AJAX>	<24%>
+	Thersites!
+</AJAX>
+
+<SPEECH 3><ACT 2><SCENE 1><23%>
+<AJAX>	<24%>
+	Dog!
+</AJAX>
+
+<SPEECH 4><ACT 2><SCENE 1><23%>
+<AJAX>	<24%>
+	Thou bitch-wolf's son, canst thou not hear?
+	Feel, then.
+</AJAX>
+
+<SPEECH 5><ACT 2><SCENE 1><23%>
+<AJAX>	<24%>
+	Speak then, thou vinewedst leaven, speak: I will beat thee into handsomeness.
+</AJAX>
+
+<SPEECH 6><ACT 2><SCENE 1><23%>
+<AJAX>	<24%>
+	Toadstool, learn me the proclamation.
+</AJAX>
+
+<SPEECH 7><ACT 2><SCENE 1><23%>
+<AJAX>	<24%>
+	The proclamation!
+</AJAX>
+
+<SPEECH 8><ACT 2><SCENE 1><23%>
+<AJAX>	<24%>
+	Do not, porpentine, do not: my fingers itch.
+</AJAX>
+
+<SPEECH 9><ACT 2><SCENE 1><23%>
+<AJAX>	<24%>
+	I say, the proclamation!
+</AJAX>
+
+<SPEECH 10><ACT 2><SCENE 1><24%>
+<AJAX>	<24%>
+	Mistress Thersites!
+</AJAX>
+
+<SPEECH 11><ACT 2><SCENE 1><24%>
+<AJAX>	<24%>
+	Cobloaf!
+</AJAX>
+
+<SPEECH 12><ACT 2><SCENE 1><24%>
+<AJAX>	<24%>
+	You whoreson cur.
+</AJAX>
+
+<SPEECH 13><ACT 2><SCENE 1><24%>
+<AJAX>	<25%>
+	Thou stool for a witch!
+</AJAX>
+
+<SPEECH 14><ACT 2><SCENE 1><24%>
+<AJAX>	<25%>
+	You dog!
+</AJAX>
+
+<SPEECH 15><ACT 2><SCENE 1><24%>
+<AJAX>	<25%>
+	You cur!
+</AJAX>
+
+<SPEECH 16><ACT 2><SCENE 1><25%>
+<AJAX>	<25%>
+	Therefore I beat thee.
+</AJAX>
+
+<SPEECH 17><ACT 2><SCENE 1><25%>
+<AJAX>	<26%>
+	O thou damned cur! I shall—
+</AJAX>
+
+<SPEECH 18><ACT 2><SCENE 1><25%>
+<AJAX>	<26%>
+	I bade the vile owl go learn me the tenour of the proclamation, and he rails upon me.
+</AJAX>
+
+<SPEECH 19><ACT 2><SCENE 1><25%>
+<AJAX>	<26%>
+	Well, go to, go to.
+</AJAX>
+
+<SPEECH 20><ACT 2><SCENE 1><26%>
+<AJAX>	<26%>
+	I shall cut out your tongue.
+</AJAX>
+
+<SPEECH 21><ACT 2><SCENE 1><26%>
+<AJAX>	<27%>
+	Farewell. Who shall answer him?
+</AJAX>
+
+<SPEECH 22><ACT 2><SCENE 1><26%>
+<AJAX>	<27%>
+	O, meaning you. I will go learn more of it.
+</AJAX>
+
+<SPEECH 23><ACT 2><SCENE 3><34%>
+<AJAX>	<35%>
+	Yes, lion-sick, sick of proud heart: you may call it melancholy if you will favour the man; but, by my head, 'tis pride: but why, why? let him show us a cause. A word, my lord.
+</AJAX>
+
+<SPEECH 24><ACT 2><SCENE 3><36%>
+<AJAX>	<37%>
+	What is he more than another?
+</AJAX>
+
+<SPEECH 25><ACT 2><SCENE 3><36%>
+<AJAX>	<37%>
+	Is he so much? Do you not think he thinks himself a better man than I am?
+</AJAX>
+
+<SPEECH 26><ACT 2><SCENE 3><36%>
+<AJAX>	<37%>
+	Will you subscribe his thought, and say he is?
+</AJAX>
+
+<SPEECH 27><ACT 2><SCENE 3><36%>
+<AJAX>	<37%>
+	Why should a man be proud? How doth pride grow? I know not what pride is.
+</AJAX>
+
+<SPEECH 28><ACT 2><SCENE 3><36%>
+<AJAX>	<37%>
+	I do hate a proud man, as I hate the engendering of toads.
+</AJAX>
+
+<SPEECH 29><ACT 2><SCENE 3><38%>
+<AJAX>	<39%>
+	If I go to him, with my armed fist
+	I'll pash him o'er the face.
+</AJAX>
+
+<SPEECH 30><ACT 2><SCENE 3><38%>
+<AJAX>	<39%>
+	An a' be proud with me, I'll pheeze his pride.
+	Let me go to him.
+</AJAX>
+
+<SPEECH 31><ACT 2><SCENE 3><38%>
+<AJAX>	<39%>
+	A paltry, insolent fellow!
+</AJAX>
+
+<SPEECH 32><ACT 2><SCENE 3><38%>
+<AJAX>	<39%>
+	Can he not be sociable?
+</AJAX>
+
+<SPEECH 33><ACT 2><SCENE 3><38%>
+<AJAX>	<39%>
+	I'll let his humours blood.
+</AJAX>
+
+<SPEECH 34><ACT 2><SCENE 3><38%>
+<AJAX>	<39%>
+	An all men were o' my mind,—
+</AJAX>
+
+<SPEECH 35><ACT 2><SCENE 3><38%>
+<AJAX>	<39%>
+	A' should not bear it so, a' should eat swords first: shall pride carry it?
+</AJAX>
+
+<SPEECH 36><ACT 2><SCENE 3><38%>
+<AJAX>	<39%>
+	I will knead him; I will make him supple.
+</AJAX>
+
+<SPEECH 37><ACT 2><SCENE 3><39%>
+<AJAX>	<40%>
+	A whoreson dog, that shall palter thus with us! Would he were a Trojan!
+</AJAX>
+
+<SPEECH 38><ACT 2><SCENE 3><39%>
+<AJAX>	<40%>
+	Shall I call you father?
+</AJAX>
+
+<SPEECH 39><ACT 3><SCENE 3><52%>
+<AJAX>	<53%>
+	How now, Patroclus?
+</AJAX>
+
+<SPEECH 40><ACT 3><SCENE 3><52%>
+<AJAX>	<53%>
+	Ha?
+</AJAX>
+
+<SPEECH 41><ACT 3><SCENE 3><52%>
+<AJAX>	<53%>
+	Ay, and good next day too.
+</AJAX>
+
+<SPEECH 42><ACT 4><SCENE 5><69%>
+<AJAX>	<70%>
+	Thou, trumpet, there's my purse.
+	Now crack thy lungs, and split thy brazen pipe:
+	Blow, villain, till thy sphered bias cheek
+	Outswell the colic of puff'd Aquilon.
+	Come, stretch thy chest, and let thy eyes spout blood;
+	Thou blow'st for Hector.
+</AJAX>
+
+<SPEECH 43><ACT 4><SCENE 5><73%>
+<AJAX>	<74%>
+	I am not warm yet; let us fight again.
+</AJAX>
+
+<SPEECH 44><ACT 4><SCENE 5><74%>
+<AJAX>	<75%>
+	I thank thee, Hector:
+	Thou art too gentle and too free a man:
+	I came to kill thee, cousin, and bear hence
+	A great addition earned in thy death.
+</AJAX>
+
+<SPEECH 45><ACT 4><SCENE 5><74%>
+<AJAX>	<75%>
+	If I might in entreaties find success,—
+	As seld I have the chance,—I would desire
+	My famous cousin to our Grecian tents.
+</AJAX>
+
+<SPEECH 46><ACT 4><SCENE 5><74%>
+<AJAX>	<75%>
+	Great Agamemnon comes to meet us here.
+</AJAX>
+
+<SPEECH 47><ACT 4><SCENE 5><77%>
+<AJAX>	<78%>
+	Do not chafe thee, cousin:
+	And you, Achilles, let these threats alone,
+	Till accident or purpose bring you to't:
+	You may have every day enough of Hector,
+	If you have stomach. The general state, I fear,
+	Can scarce entreat you to be odd with him.
+</AJAX>
+
+<SPEECH 48><ACT 5><SCENE 1><80%>
+<AJAX>	<81%>
+	No, yonder 'tis;
+	There, where we see the lights.
+</AJAX>
+
+<SPEECH 49><ACT 5><SCENE 1><80%>
+<AJAX>	<81%>
+	No, not a whit.
+</AJAX>
+
+<SPEECH 50><ACT 5><SCENE 5><94%>
+<AJAX>	<94%>
+	Troilus! thou coward Troilus!
+</AJAX>
+
+<SPEECH 51><ACT 5><SCENE 6><94%>
+<AJAX>	<95%>
+	Troilus, thou coward Troilus, show thy head!
+
+</AJAX>
+
+<SPEECH 52><ACT 5><SCENE 6><95%>
+<AJAX>	<95%>
+	What wouldst thou?
+</AJAX>
+
+<SPEECH 53><ACT 5><SCENE 6><95%>
+<AJAX>	<95%>
+	Were I the general, thou shouldst have my office
+	Ere that correction. Troilus, I say! what, Troilus!
+
+</AJAX>
+
+<SPEECH 54><ACT 5><SCENE 6><95%>
+<AJAX>	<95%>
+	I'll fight with him alone: stand, Diomed.
+</AJAX>
+
+<SPEECH 55><ACT 5><SCENE 9><98%>
+<AJAX>	<98%>
+	If it be so, yet bragless let it be;
+	Great Hector was a man as good as he.
+</AJAX>
+

@@ -1,0 +1,46 @@
+<SPEECH 1><ACT 1><SCENE 4><15%>
+<RUGBY>	<15%>
+	I'll go watch.
+</RUGBY>
+
+<SPEECH 2><ACT 1><SCENE 4><16%>
+<RUGBY>	<16%>
+	Out, alas! here comes my master.
+</RUGBY>
+
+<SPEECH 3><ACT 1><SCENE 4><17%>
+<RUGBY>	<17%>
+	Here, sir.
+</RUGBY>
+
+<SPEECH 4><ACT 1><SCENE 4><17%>
+<RUGBY>	<17%>
+	'Tis ready, sir, here in the porch.
+</RUGBY>
+
+<SPEECH 5><ACT 2><SCENE 3><39%>
+<RUGBY>	<39%>
+	Sir?
+</RUGBY>
+
+<SPEECH 6><ACT 2><SCENE 3><39%>
+<RUGBY>	<39%>
+	'Tis past the hour, sir, that Sir Hugh promised to meet.
+</RUGBY>
+
+<SPEECH 7><ACT 2><SCENE 3><39%>
+<RUGBY>	<39%>
+	He is wise, sir; he knew your worship would kill him, if he came.
+</RUGBY>
+
+<SPEECH 8><ACT 2><SCENE 3><39%>
+<RUGBY>	<39%>
+	Alas, sir! I cannot fence.
+</RUGBY>
+
+<SPEECH 9><ACT 2><SCENE 3><39%>
+<RUGBY>	<39%>
+	Forbear; here's company.
+
+</RUGBY>
+

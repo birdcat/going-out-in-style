@@ -1,0 +1,87 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<MESSENGER>	<0%>
+	He is very near by this: he was not three leagues off when I left him.
+</MESSENGER>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<MESSENGER>	<1%>
+	But few of any sort, and none of name.
+</MESSENGER>
+
+<SPEECH 3><ACT 1><SCENE 1><0%>
+<MESSENGER>	<1%>
+	Much deserved on his part and equally remembered by Don Pedro. He hath borne himself beyond the promise of his age, doing in the figure of a lamb the feats of a lion: he hath indeed better bettered expectation than you must expect of me to tell you how.
+</MESSENGER>
+
+<SPEECH 4><ACT 1><SCENE 1><0%>
+<MESSENGER>	<1%>
+	I have already delivered him letters, and there appears much joy in him; even so much that joy could not show itself modest enough without a badge of bitterness.
+</MESSENGER>
+
+<SPEECH 5><ACT 1><SCENE 1><1%>
+<MESSENGER>	<1%>
+	In great measure.
+</MESSENGER>
+
+<SPEECH 6><ACT 1><SCENE 1><1%>
+<MESSENGER>	<1%>
+	I know none of that name, lady: there was none such in the army of any sort.
+</MESSENGER>
+
+<SPEECH 7><ACT 1><SCENE 1><1%>
+<MESSENGER>	<2%>
+	O! he is returned, and as pleasant as ever he was.
+</MESSENGER>
+
+<SPEECH 8><ACT 1><SCENE 1><1%>
+<MESSENGER>	<2%>
+	He hath done good service, lady, in these wars.
+</MESSENGER>
+
+<SPEECH 9><ACT 1><SCENE 1><2%>
+<MESSENGER>	<2%>
+	And a good soldier too, lady.
+</MESSENGER>
+
+<SPEECH 10><ACT 1><SCENE 1><2%>
+<MESSENGER>	<2%>
+	A lord to a lord, a man to a man, stuffed with all honourable virtues.
+</MESSENGER>
+
+<SPEECH 11><ACT 1><SCENE 1><2%>
+<MESSENGER>	<3%>
+	Is't possible?
+</MESSENGER>
+
+<SPEECH 12><ACT 1><SCENE 1><2%>
+<MESSENGER>	<3%>
+	I see, lady, the gentleman is not in your books.
+</MESSENGER>
+
+<SPEECH 13><ACT 1><SCENE 1><3%>
+<MESSENGER>	<3%>
+	He is most in the company of the right noble Claudio.
+</MESSENGER>
+
+<SPEECH 14><ACT 1><SCENE 1><3%>
+<MESSENGER>	<3%>
+	I will hold friends with you, lady.
+</MESSENGER>
+
+<SPEECH 15><ACT 1><SCENE 1><3%>
+<MESSENGER>	<3%>
+	Don Pedro is approached.
+
+</MESSENGER>
+
+<SPEECH 16><ACT 3><SCENE 5><61%>
+<MESSENGER>	<62%>
+	My lord, they stay for you to give your daughter to her husband.
+</MESSENGER>
+
+<SPEECH 17><ACT 5><SCENE 4><99%>
+<MESSENGER>	<100%>
+	My lord, your brother John is ta'en in flight,
+	And brought with armed men back to Messina.
+</MESSENGER>
+

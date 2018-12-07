@@ -1,0 +1,80 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<GREGORY>	<1%>
+	No. for then we should be colliers.
+</GREGORY>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<GREGORY>	<1%>
+	Ay, while you live, draw your neck out o' the collar.
+</GREGORY>
+
+<SPEECH 3><ACT 1><SCENE 1><1%>
+<GREGORY>	<1%>
+	But thou art not quickly moved to strike.
+</GREGORY>
+
+<SPEECH 4><ACT 1><SCENE 1><1%>
+<GREGORY>	<1%>
+	To move is to stir, and to be valiant is to stand; therefore, if thou art moved, thou runnest away.
+</GREGORY>
+
+<SPEECH 5><ACT 1><SCENE 1><1%>
+<GREGORY>	<1%>
+	That shows thee a weak slave; for the weakest goes to the wall.
+</GREGORY>
+
+<SPEECH 6><ACT 1><SCENE 1><1%>
+<GREGORY>	<1%>
+	The quarrel is between our masters and us their men.
+</GREGORY>
+
+<SPEECH 7><ACT 1><SCENE 1><1%>
+<GREGORY>	<2%>
+	The heads of the maids?
+</GREGORY>
+
+<SPEECH 8><ACT 1><SCENE 1><1%>
+<GREGORY>	<2%>
+	They must take it in sense that feel it.
+</GREGORY>
+
+<SPEECH 9><ACT 1><SCENE 1><1%>
+<GREGORY>	<2%>
+	'Tis well thou art not fish; if thou hadst, thou hadst been poor John. Draw thy tool; here comes two of the house of the Montagues.
+
+</GREGORY>
+
+<SPEECH 10><ACT 1><SCENE 1><1%>
+<GREGORY>	<2%>
+	How! turn thy back and run?
+</GREGORY>
+
+<SPEECH 11><ACT 1><SCENE 1><2%>
+<GREGORY>	<2%>
+	No, marry; I fear thee!
+</GREGORY>
+
+<SPEECH 12><ACT 1><SCENE 1><2%>
+<GREGORY>	<2%>
+	I will frown as I pass by, and let them take it as they list.
+</GREGORY>
+
+<SPEECH 13><ACT 1><SCENE 1><2%>
+<GREGORY>	<2%>
+<STAGE DIR>
+<Aside to Sampson.>
+</STAGE DIR> No.
+</GREGORY>
+
+<SPEECH 14><ACT 1><SCENE 1><2%>
+<GREGORY>	<2%>
+	Do you quarrel, sir?
+</GREGORY>
+
+<SPEECH 15><ACT 1><SCENE 1><2%>
+<GREGORY>	<3%>
+<STAGE DIR>
+<Aside to Sampson.>
+</STAGE DIR> Say, 'better;' here comes one of my master's kinsmen.
+</GREGORY>
+

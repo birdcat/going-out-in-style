@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 4><SCENE 1><70%>
+<MESSENGER>	<71%>
+	These letters come from your father.
+</MESSENGER>
+
+<SPEECH 2><ACT 4><SCENE 1><70%>
+<MESSENGER>	<71%>
+	He cannot come, my lord: he's grievous sick.
+</MESSENGER>
+
+<SPEECH 3><ACT 4><SCENE 1><71%>
+<MESSENGER>	<71%>
+	His letters bear his mind, not I, my lord.
+</MESSENGER>
+
+<SPEECH 4><ACT 4><SCENE 1><71%>
+<MESSENGER>	<71%>
+	He did, my lord, four days ere I set forth;
+	And at the time of my departure thence
+	He was much fear'd by his physicians.
+</MESSENGER>
+
+<SPEECH 5><ACT 5><SCENE 2><89%>
+<MESSENGER>	<89%>
+	My lord, here are letters for you.
+</MESSENGER>
+
+<SPEECH 6><ACT 5><SCENE 2><89%>
+<MESSENGER>	<90%>
+	My lord, prepare; the king comes on apace.
+</MESSENGER>
+

@@ -1,0 +1,186 @@
+<SPEECH 1><ACT 2><SCENE 2><21%>
+<AGRIPPA>	<22%>
+	Give me leave, Cæsar.
+</AGRIPPA>
+
+<SPEECH 2><ACT 2><SCENE 2><21%>
+<AGRIPPA>	<22%>
+	Thou hast a sister by the mother's side,
+	Admir'd Octavia; great Mark Antony
+	Is now a widower.
+</AGRIPPA>
+
+<SPEECH 3><ACT 2><SCENE 2><22%>
+<AGRIPPA>	<22%>
+	To hold you in perpetual amity,
+	To make you brothers, and to knit your hearts
+	With an unslipping knot, take Antony
+	Octavia to his wife; whose beauty claims
+	No worse a husband than the best of men,
+	Whose virtue and whose general graces speak
+	That which none else can utter. By this marriage,
+	All little jealousies which now seem great,
+	And all great fears which now import their dangers,
+	Would then be nothing; truths would be but tales
+	Where now half tales be truths; her love to both
+	Would each to other and all loves to both
+	Draw after her. Pardon what I have spoke,
+	For 'tis a studied, not a present thought,
+	By duty ruminated.
+</AGRIPPA>
+
+<SPEECH 4><ACT 2><SCENE 2><23%>
+<AGRIPPA>	<24%>
+	Good Enobarbus!
+</AGRIPPA>
+
+<SPEECH 5><ACT 2><SCENE 2><24%>
+<AGRIPPA>	<24%>
+	There she appeared indeed, or my reporter devised well for her.
+</AGRIPPA>
+
+<SPEECH 6><ACT 2><SCENE 2><24%>
+<AGRIPPA>	<24%>
+	O! rare for Antony.
+</AGRIPPA>
+
+<SPEECH 7><ACT 2><SCENE 2><24%>
+<AGRIPPA>	<25%>
+	Rare Egyptian!
+</AGRIPPA>
+
+<SPEECH 8><ACT 2><SCENE 2><25%>
+<AGRIPPA>	<25%>
+	Royal wench!
+	She made great Cæsar lay his sword to bed;
+	He plough'd her, and she cropp'd.
+</AGRIPPA>
+
+<SPEECH 9><ACT 2><SCENE 2><25%>
+<AGRIPPA>	<25%>
+	Let us go.
+	Good Enobarbus, make yourself my guest
+	Whilst you abide here.
+</AGRIPPA>
+
+<SPEECH 10><ACT 2><SCENE 4><27%>
+<AGRIPPA>	<27%>
+	Sir, Mark Antony
+	Will e'en but kiss Octavia, and we'll follow.
+</AGRIPPA>
+
+<SPEECH 11><ACT 2><SCENE 4><27%>
+<AGRIPPA>	<27%>
+	Sir, good success!
+</AGRIPPA>
+
+<SPEECH 12><ACT 3><SCENE 2><42%>
+<AGRIPPA>	<42%>
+	What! are the brothers parted?
+</AGRIPPA>
+
+<SPEECH 13><ACT 3><SCENE 2><42%>
+<AGRIPPA>	<42%>
+	'Tis a noble Lepidus.
+</AGRIPPA>
+
+<SPEECH 14><ACT 3><SCENE 2><42%>
+<AGRIPPA>	<42%>
+	Nay, but how dearly he adores Mark Antony!
+</AGRIPPA>
+
+<SPEECH 15><ACT 3><SCENE 2><42%>
+<AGRIPPA>	<42%>
+	What's Antony? The god of Jupiter.
+</AGRIPPA>
+
+<SPEECH 16><ACT 3><SCENE 2><42%>
+<AGRIPPA>	<42%>
+	O, Antony! O thou Arabian bird!
+</AGRIPPA>
+
+<SPEECH 17><ACT 3><SCENE 2><42%>
+<AGRIPPA>	<42%>
+	Indeed, he plied them both with excellent praises.
+</AGRIPPA>
+
+<SPEECH 18><ACT 3><SCENE 2><42%>
+<AGRIPPA>	<42%>
+	Both he loves.
+</AGRIPPA>
+
+<SPEECH 19><ACT 3><SCENE 2><42%>
+<AGRIPPA>	<42%>
+	Good fortune, worthy soldier, and farewell.
+
+</AGRIPPA>
+
+<SPEECH 20><ACT 3><SCENE 2><43%>
+<AGRIPPA>	<43%>
+	He has a cloud in's face.
+</AGRIPPA>
+
+<SPEECH 21><ACT 3><SCENE 2><43%>
+<AGRIPPA>	<43%>
+	Why, Enobarbus,
+	When Antony found Julius Cæsar dead
+	He cried almost to roaring; and he wept
+	When at Philippi he found Brutus slain.
+</AGRIPPA>
+
+<SPEECH 22><ACT 3><SCENE 6><48%>
+<AGRIPPA>	<48%>
+	Who, queasy with his insolence
+	Already, will their good thoughts call from him.
+</AGRIPPA>
+
+<SPEECH 23><ACT 3><SCENE 6><48%>
+<AGRIPPA>	<48%>
+	Whom does he accuse?
+</AGRIPPA>
+
+<SPEECH 24><ACT 3><SCENE 6><49%>
+<AGRIPPA>	<48%>
+	Sir, this should be answer'd.
+</AGRIPPA>
+
+<SPEECH 25><ACT 3><SCENE 6><50%>
+<AGRIPPA>	<50%>
+	Welcome, lady.
+</AGRIPPA>
+
+<SPEECH 26><ACT 4><SCENE 6><71%>
+<AGRIPPA>	<71%>
+	Cæsar, I shall.
+</AGRIPPA>
+
+<SPEECH 27><ACT 4><SCENE 7><72%>
+<AGRIPPA>	<72%>
+	Retire, we have engag'd ourselves too far.
+	Cæsar himself has work, and our oppression
+	Exceeds what we expected.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</AGRIPPA>
+
+<SPEECH 28><ACT 5><SCENE 1><86%>
+<AGRIPPA>	<86%>
+	And strange it is,
+	That nature must compel us to lament
+	Our most persisted deeds.
+</AGRIPPA>
+
+<SPEECH 29><ACT 5><SCENE 1><86%>
+<AGRIPPA>	<86%>
+	A rarer spirit never
+	Did steer humanity; but you, gods, will give us
+	Some faults to make us men. Cæsar is touch'd.
+</AGRIPPA>
+
+<SPEECH 30><ACT 5><SCENE 1><87%>
+<AGRIPPA>	<88%>
+	Dolabella!
+</AGRIPPA>
+

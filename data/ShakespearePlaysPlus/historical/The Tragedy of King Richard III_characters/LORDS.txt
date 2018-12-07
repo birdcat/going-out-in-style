@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 5><SCENE 3><95%>
+<LORDS>	<95%>
+	Good morrow, Richmond!
+</LORDS>
+
+<SPEECH 2><ACT 5><SCENE 3><95%>
+<LORDS>	<95%>
+	How have you slept, my lord?
+</LORDS>
+
+<SPEECH 3><ACT 5><SCENE 3><95%>
+<LORDS>	<95%>
+	Upon the stroke of four.
+</LORDS>
+

@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 2><SCENE 1><18%>
+<FROTH>	<19%>
+	No, indeed.
+</FROTH>
+
+<SPEECH 2><ACT 2><SCENE 1><19%>
+<FROTH>	<19%>
+	Ay, so I did, indeed.
+</FROTH>
+
+<SPEECH 3><ACT 2><SCENE 1><19%>
+<FROTH>	<19%>
+	All this is true.
+</FROTH>
+
+<SPEECH 4><ACT 2><SCENE 1><19%>
+<FROTH>	<20%>
+	All-hallownd eve.
+</FROTH>
+
+<SPEECH 5><ACT 2><SCENE 1><19%>
+<FROTH>	<20%>
+	I have so, because it is an open room and good for winter.
+</FROTH>
+
+<SPEECH 6><ACT 2><SCENE 1><21%>
+<FROTH>	<22%>
+	Here in Vienna, sir.
+</FROTH>
+
+<SPEECH 7><ACT 2><SCENE 1><22%>
+<FROTH>	<22%>
+	Yes, an't please you, sir.
+</FROTH>
+
+<SPEECH 8><ACT 2><SCENE 1><22%>
+<FROTH>	<22%>
+	I thank your worship. For mine own part, I never come into any room in a taphouse, but I am drawn in.
+</FROTH>
+

@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 1><22%>
+<FLEANCE>	<23%>
+	The moon is down; I have not heard the clock.
+</FLEANCE>
+
+<SPEECH 2><ACT 2><SCENE 1><22%>
+<FLEANCE>	<23%>
+	I take't, 'tis later, sir.
+</FLEANCE>
+

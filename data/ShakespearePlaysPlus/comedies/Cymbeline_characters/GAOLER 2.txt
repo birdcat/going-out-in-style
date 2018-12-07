@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 4><79%>
+<GAOLER 2>	<80%>
+	Ay, or a stomach.
+</GAOLER 2>
+

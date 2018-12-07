@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 4><SCENE 1><62%>
+<NATHANIEL>	<63%>
+	Welcome home, Grumio!
+</NATHANIEL>
+
+<SPEECH 2><ACT 4><SCENE 1><62%>
+<NATHANIEL>	<63%>
+	How now, old lad!
+</NATHANIEL>
+
+<SPEECH 3><ACT 4><SCENE 1><62%>
+<NATHANIEL>	<63%>
+	All things is ready. How near is our master?
+</NATHANIEL>
+
+<SPEECH 4><ACT 4><SCENE 1><65%>
+<NATHANIEL>	<66%>
+	Peter, didst ever see the like?
+</NATHANIEL>
+

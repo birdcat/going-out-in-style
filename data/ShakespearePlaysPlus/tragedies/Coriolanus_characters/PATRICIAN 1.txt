@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 3><SCENE 1><51%>
+<PATRICIAN 1>	<52%>
+	This man has marr'd his fortune.
+</PATRICIAN 1>
+
+<SPEECH 2><ACT 3><SCENE 2><54%>
+<PATRICIAN 1>	<54%>
+	You do the nobler.
+</PATRICIAN 1>
+

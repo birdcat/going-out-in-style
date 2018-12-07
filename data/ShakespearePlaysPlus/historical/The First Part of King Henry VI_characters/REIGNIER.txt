@@ -1,0 +1,141 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+<REIGNIER>	<7%>
+	Let's raise the siege: why live we idly here?
+	Talbot is taken, whom we wont to fear:
+	Remaineth none but mad-brain'd Salisbury,
+	And he may well in fretting spend his gall;
+	Nor men nor money hath he to make war.
+</REIGNIER>
+
+<SPEECH 2><ACT 1><SCENE 2><7%>
+<REIGNIER>	<8%>
+	Salisbury is a desperate homicide;
+	He fighteth as one weary of his life:
+	The other lords, like lions wanting food,
+	Do rush upon us as their hungry prey.
+</REIGNIER>
+
+<SPEECH 3><ACT 1><SCENE 2><7%>
+<REIGNIER>	<8%>
+	I think, by some odd gimmals or device,
+	Their arms are set like clocks, still to strike on;
+	Else ne'er could they hold out so as they do.
+	By my consent, we'll e'en let them alone.
+</REIGNIER>
+
+<SPEECH 4><ACT 1><SCENE 2><8%>
+<REIGNIER>	<9%>
+	Fair maid, is't thou wilt do these wondrous feats?
+</REIGNIER>
+
+<SPEECH 5><ACT 1><SCENE 2><9%>
+<REIGNIER>	<9%>
+	She takes upon her bravely at first dash.
+</REIGNIER>
+
+<SPEECH 6><ACT 1><SCENE 2><10%>
+<REIGNIER>	<11%>
+	My lord, methinks, is very long in talk.
+</REIGNIER>
+
+<SPEECH 7><ACT 1><SCENE 2><10%>
+<REIGNIER>	<11%>
+	Shall we disturb him, since he keeps no mean?
+</REIGNIER>
+
+<SPEECH 8><ACT 1><SCENE 2><10%>
+<REIGNIER>	<11%>
+	My lord, where are you? what devise you on?
+	Shall we give over Orleans, or no?
+</REIGNIER>
+
+<SPEECH 9><ACT 1><SCENE 2><11%>
+<REIGNIER>	<12%>
+	Woman, do what thou canst to save our honours;
+	Drive them from Orleans and be immortalis'd.
+</REIGNIER>
+
+<SPEECH 10><ACT 1><SCENE 6><22%>
+<REIGNIER>	<22%>
+	Why ring not out the bells throughout the town?
+	Dauphin, command the citizens make bonfires
+	And feast and banquet in the open streets,
+	To celebrate the joy that God hath given us.
+</REIGNIER>
+
+<SPEECH 11><ACT 2><SCENE 1><24%>
+<REIGNIER>	<25%>
+	'Twas time, I trow, to wake and leave our beds,
+	Hearing alarums at our chamber-doors.
+</REIGNIER>
+
+<SPEECH 12><ACT 2><SCENE 1><24%>
+<REIGNIER>	<25%>
+	If not of hell, the heavens, sure, favour him.
+</REIGNIER>
+
+<SPEECH 13><ACT 2><SCENE 1><25%>
+<REIGNIER>	<26%>
+	And so was mine, my lord.
+</REIGNIER>
+
+<SPEECH 14><ACT 5><SCENE 3><88%>
+<REIGNIER>	<88%>
+	To whom?
+</REIGNIER>
+
+<SPEECH 15><ACT 5><SCENE 3><88%>
+<REIGNIER>	<88%>
+	Suffolk, what remedy?
+	I am a soldier, and unapt to weep,
+	Or to exclaim on Fortune's fickleness.
+</REIGNIER>
+
+<SPEECH 16><ACT 5><SCENE 3><88%>
+<REIGNIER>	<88%>
+	Speaks Suffolk as he thinks?
+</REIGNIER>
+
+<SPEECH 17><ACT 5><SCENE 3><88%>
+<REIGNIER>	<88%>
+	Upon thy princely warrant, I descend
+	To give thee answer of thy just demand.
+</REIGNIER>
+
+<SPEECH 18><ACT 5><SCENE 3><88%>
+<REIGNIER>	<89%>
+	Welcome, brave earl, into our territories:
+	Command in Anjou what your honour pleases.
+</REIGNIER>
+
+<SPEECH 19><ACT 5><SCENE 3><88%>
+<REIGNIER>	<89%>
+	Since thou dost deign to woo her little worth
+	To be the princely bride of such a lord,
+	Upon condition I may quietly
+	Enjoy mine own, the county Maine and Anjou,
+	Free from oppression or the stroke of war,
+	My daughter shall be Henry's if he please.
+</REIGNIER>
+
+<SPEECH 20><ACT 5><SCENE 3><89%>
+<REIGNIER>	<89%>
+	And I again, in Henry's royal name,
+	As deputy unto that gracious king,
+	Give thee her hand for sign of plighted faith.
+</REIGNIER>
+
+<SPEECH 21><ACT 5><SCENE 3><89%>
+<REIGNIER>	<89%>
+	I do embrace thee, as I would embrace
+	The Christian prince, King Henry, were he here.
+</REIGNIER>
+
+<SPEECH 22><ACT 5><SCENE 4><95%>
+<REIGNIER>	<96%>
+	My lord, you do not well in obstinacy
+	To cavil in the course of this contract:
+	If once it be neglected, ten to one,
+	We shall not find like opportunity.
+</REIGNIER>
+

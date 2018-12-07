@@ -1,0 +1,45 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<MERCHANT>	<1%>
+	O! 'tis a worthy lord.
+</MERCHANT>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<MERCHANT>	<1%>
+	A most incomparable man, breath'd, as it were,
+	To an untirable and continuate goodness:
+	He passes.
+</MERCHANT>
+
+<SPEECH 3><ACT 1><SCENE 1><1%>
+<MERCHANT>	<1%>
+	O! pray, let's see 't: for the Lord Timon, sir?
+</MERCHANT>
+
+<SPEECH 4><ACT 1><SCENE 1><1%>
+<MERCHANT>	<1%>
+<STAGE DIR>
+<Looking at the jewel.>
+</STAGE DIR> 'Tis a good form.
+</MERCHANT>
+
+<SPEECH 5><ACT 1><SCENE 1><8%>
+<MERCHANT>	<8%>
+	No, my good lord; he speaks the common tongue,
+	Which all men speak with him.
+</MERCHANT>
+
+<SPEECH 6><ACT 1><SCENE 1><8%>
+<MERCHANT>	<8%>
+	He'll spare none.
+</MERCHANT>
+
+<SPEECH 7><ACT 1><SCENE 1><10%>
+<MERCHANT>	<10%>
+	Ay, Apemantus.
+</MERCHANT>
+
+<SPEECH 8><ACT 1><SCENE 1><10%>
+<MERCHANT>	<10%>
+	If traffic do it, the gods do it.
+</MERCHANT>
+

@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 3><SCENE 4><49%>
+<LORDS>	<50%>
+	Thanks to your majesty.
+</LORDS>
+
+<SPEECH 2><ACT 3><SCENE 4><52%>
+<LORDS>	<52%>
+	What, my good lord?
+</LORDS>
+
+<SPEECH 3><ACT 3><SCENE 4><54%>
+<LORDS>	<54%>
+	Our duties, and the pledge.
+
+</LORDS>
+

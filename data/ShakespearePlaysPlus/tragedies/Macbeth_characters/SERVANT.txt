@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 3><SCENE 2><45%>
+<SERVANT>	<46%>
+	Ay, madam, but returns again to-night.
+</SERVANT>
+
+<SPEECH 2><ACT 3><SCENE 2><45%>
+<SERVANT>	<46%>
+	Madam, I will.
+</SERVANT>
+
+<SPEECH 3><ACT 5><SCENE 3><87%>
+<SERVANT>	<88%>
+	There is ten thousand—
+</SERVANT>
+
+<SPEECH 4><ACT 5><SCENE 3><87%>
+<SERVANT>	<88%>
+	Soldiers, sir.
+</SERVANT>
+
+<SPEECH 5><ACT 5><SCENE 3><88%>
+<SERVANT>	<88%>
+	The English force, so please you.
+</SERVANT>
+

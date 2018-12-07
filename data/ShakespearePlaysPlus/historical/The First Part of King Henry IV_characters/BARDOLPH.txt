@@ -1,0 +1,92 @@
+<SPEECH 1><ACT 2><SCENE 2><24%>
+<BARDOLPH>	<25%>
+	What news?
+</BARDOLPH>
+
+<SPEECH 2><ACT 2><SCENE 4><41%>
+<BARDOLPH>	<41%>
+	Faith, I ran when I saw others run.
+</BARDOLPH>
+
+<SPEECH 3><ACT 2><SCENE 4><41%>
+<BARDOLPH>	<41%>
+	Yea, and to tickle our noses with spear-grass to make them bleed, and then to beslubber our garments with it and swear it was the blood of true men. I did that I did not this seven year before; I blushed to hear his monstrous devices.
+</BARDOLPH>
+
+<SPEECH 4><ACT 2><SCENE 4><41%>
+<BARDOLPH>	<41%>
+<STAGE DIR>
+<Pointing to his face.>
+</STAGE DIR> My lord, do you see these meteors? do you behold these exhalations?
+</BARDOLPH>
+
+<SPEECH 5><ACT 2><SCENE 4><41%>
+<BARDOLPH>	<42%>
+	What think you they portend?
+</BARDOLPH>
+
+<SPEECH 6><ACT 2><SCENE 4><41%>
+<BARDOLPH>	<42%>
+	Choler, my lord, if rightly taken.
+</BARDOLPH>
+
+<SPEECH 7><ACT 2><SCENE 4><47%>
+<BARDOLPH>	<47%>
+	O! my lord, my lord, the sheriff with a most monstrous watch is at the door.
+</BARDOLPH>
+
+<SPEECH 8><ACT 3><SCENE 3><63%>
+<BARDOLPH>	<64%>
+	Sir John, you are so fretful, you cannot live long.
+</BARDOLPH>
+
+<SPEECH 9><ACT 3><SCENE 3><63%>
+<BARDOLPH>	<64%>
+	Why, you are so fat, Sir John, that you must needs be out of all compass, out of all reasonable compass, Sir John.
+</BARDOLPH>
+
+<SPEECH 10><ACT 3><SCENE 3><64%>
+<BARDOLPH>	<64%>
+	Why, Sir John, my face does you no harm.
+</BARDOLPH>
+
+<SPEECH 11><ACT 3><SCENE 3><64%>
+<BARDOLPH>	<65%>
+	'Sblood, I would my face were in your belly.
+</BARDOLPH>
+
+<SPEECH 12><ACT 3><SCENE 3><66%>
+<BARDOLPH>	<66%>
+	Yea, two and two, Newgate fashion.
+</BARDOLPH>
+
+<SPEECH 13><ACT 3><SCENE 3><68%>
+<BARDOLPH>	<68%>
+	Indeed, Sir John, you said so.
+</BARDOLPH>
+
+<SPEECH 14><ACT 3><SCENE 3><69%>
+<BARDOLPH>	<69%>
+	Do, my lord.
+</BARDOLPH>
+
+<SPEECH 15><ACT 3><SCENE 3><69%>
+<BARDOLPH>	<69%>
+	My lord?
+</BARDOLPH>
+
+<SPEECH 16><ACT 4><SCENE 2><74%>
+<BARDOLPH>	<75%>
+	Will you give me money, captain?
+</BARDOLPH>
+
+<SPEECH 17><ACT 4><SCENE 2><74%>
+<BARDOLPH>	<75%>
+	This bottle makes an angel.
+</BARDOLPH>
+
+<SPEECH 18><ACT 4><SCENE 2><75%>
+<BARDOLPH>	<75%>
+	I will, captain: farewell.
+</BARDOLPH>
+

@@ -1,0 +1,134 @@
+<SPEECH 1><ACT 3><SCENE 2><55%>
+<CROMWELL>	<55%>
+	To his own hand, in his bedchamber.
+</CROMWELL>
+
+<SPEECH 2><ACT 3><SCENE 2><55%>
+<CROMWELL>	<55%>
+	Presently
+	He did unseal them; and the first he view'd,
+	He did it with a serious mind; a heed
+	Was in his countenance. You he bade
+	Attend him here this morning.
+</CROMWELL>
+
+<SPEECH 3><ACT 3><SCENE 2><55%>
+<CROMWELL>	<55%>
+	I think, by this he is.
+</CROMWELL>
+
+<SPEECH 4><ACT 3><SCENE 2><64%>
+<CROMWELL>	<65%>
+	I have no power to speak, sir.
+</CROMWELL>
+
+<SPEECH 5><ACT 3><SCENE 2><64%>
+<CROMWELL>	<65%>
+	How does your Grace?
+</CROMWELL>
+
+<SPEECH 6><ACT 3><SCENE 2><65%>
+<CROMWELL>	<65%>
+	I am glad your Grace has made that right use of it.
+</CROMWELL>
+
+<SPEECH 7><ACT 3><SCENE 2><65%>
+<CROMWELL>	<65%>
+	The heaviest and the worst,
+	Is your displeasure with the king.
+</CROMWELL>
+
+<SPEECH 8><ACT 3><SCENE 2><65%>
+<CROMWELL>	<66%>
+	The next is, that Sir Thomas More is chosen
+	Lord Chancellor in your place.
+</CROMWELL>
+
+<SPEECH 9><ACT 3><SCENE 2><65%>
+<CROMWELL>	<66%>
+	That Cranmer is return'd with welcome,
+	Install'd Lord Archbishop of Canterbury.
+</CROMWELL>
+
+<SPEECH 10><ACT 3><SCENE 2><65%>
+<CROMWELL>	<66%>
+	Last, that the Lady Anne,
+	Whom the king hath in secrecy long married,
+	This day was view'd in open, as his queen,
+	Going to chapel; and the voice is now
+	Only about her coronation.
+</CROMWELL>
+
+<SPEECH 11><ACT 3><SCENE 2><66%>
+<CROMWELL>	<66%>
+	O my lord!
+	Must I then, leave you? must I needs forego
+	So good, so noble, and so true a master?
+	Bear witness all that have not hearts of iron,
+	With what a sorrow Cromwell leaves his lord.
+	The king shall have my service; but my prayers
+	For ever and for ever, shall be yours.
+</CROMWELL>
+
+<SPEECH 12><ACT 3><SCENE 2><67%>
+<CROMWELL>	<68%>
+	Good sir, have patience.
+</CROMWELL>
+
+<SPEECH 13><ACT 5><SCENE 3><87%>
+<CROMWELL>	<87%>
+	Please your honours,
+	The chief cause concerns his Grace of Canterbury.
+</CROMWELL>
+
+<SPEECH 14><ACT 5><SCENE 3><87%>
+<CROMWELL>	<88%>
+	Yes.
+</CROMWELL>
+
+<SPEECH 15><ACT 5><SCENE 3><89%>
+<CROMWELL>	<90%>
+	My Lord of Winchester, you are a little,
+	By your good favour, too sharp; men so noble,
+	However faulty, yet should find respect
+	For what they have been: 'tis a cruelty
+	To load a falling man.
+</CROMWELL>
+
+<SPEECH 16><ACT 5><SCENE 3><90%>
+<CROMWELL>	<90%>
+	Why, my lord?
+</CROMWELL>
+
+<SPEECH 17><ACT 5><SCENE 3><90%>
+<CROMWELL>	<90%>
+	Not sound?
+</CROMWELL>
+
+<SPEECH 18><ACT 5><SCENE 3><90%>
+<CROMWELL>	<90%>
+	Would you were half so honest!
+	Men's prayers then would seek you, not their fears.
+</CROMWELL>
+
+<SPEECH 19><ACT 5><SCENE 3><90%>
+<CROMWELL>	<90%>
+	Do.
+	Remember your bold life too.
+</CROMWELL>
+
+<SPEECH 20><ACT 5><SCENE 3><90%>
+<CROMWELL>	<90%>
+	And I.
+</CROMWELL>
+
+<SPEECH 21><ACT 5><SCENE 3><91%>
+<CROMWELL>	<91%>
+	My mind gave me,
+	In seeking tales and informations
+	Against this man—whose honesty the devil
+	And his disciples only envy at—
+	Ye blew the fire that burns ye: now have at ye!
+
+</CROMWELL>
+

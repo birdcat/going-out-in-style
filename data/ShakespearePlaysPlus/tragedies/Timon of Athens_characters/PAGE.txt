@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 2><SCENE 2><29%>
+<PAGE>	<28%>
+<STAGE DIR>
+<To the Fool.>
+</STAGE DIR> Why, how now, captain! what do you in this wise company? How dost thou, Apemantus?
+</PAGE>
+
+<SPEECH 2><ACT 2><SCENE 2><29%>
+<PAGE>	<29%>
+	Prithee, Apemantus, read me the superscription of these letters: I know not which is which.
+</PAGE>
+
+<SPEECH 3><ACT 2><SCENE 2><29%>
+<PAGE>	<29%>
+	No.
+</PAGE>
+
+<SPEECH 4><ACT 2><SCENE 2><29%>
+<PAGE>	<29%>
+	Thou wast whelped a dog, and thou shalt famish a dog's death. Answer not; I am gone.
+</PAGE>
+

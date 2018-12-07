@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 5><SCENE 1><87%>
+<EGYPTIAN>	<87%>
+	A poor Egyptian yet. The queen my mistress,
+	Confin'd in all she has, her monument,
+	Of thy intents desires instruction,
+	That she preparedly may frame herself
+	To the way she's forc'd to.
+</EGYPTIAN>
+
+<SPEECH 2><ACT 5><SCENE 1><87%>
+<EGYPTIAN>	<87%>
+	So the gods preserve thee!
+</EGYPTIAN>
+

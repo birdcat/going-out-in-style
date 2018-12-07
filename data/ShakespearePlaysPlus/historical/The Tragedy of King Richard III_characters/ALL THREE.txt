@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 5><SCENE 3><92%>
+<ALL THREE>	<92%>
+<STAGE DIR>
+<To Richmond.>
+</STAGE DIR> Awake! and think our wrongs in Richard's bosom
+	Will conquer him: awake, and win the day!
+
+</ALL THREE>
+

@@ -1,0 +1,246 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+<GENTLEMAN 2>	<23%>
+	O! God save ye.
+	E'en to the hall, to hear what shall become
+	Of the great Duke of Buckingham.
+</GENTLEMAN 2>
+
+<SPEECH 2><ACT 2><SCENE 1><23%>
+<GENTLEMAN 2>	<23%>
+	Were you there?
+</GENTLEMAN 2>
+
+<SPEECH 3><ACT 2><SCENE 1><23%>
+<GENTLEMAN 2>	<23%>
+	Pray speak what has happen'd.
+</GENTLEMAN 2>
+
+<SPEECH 4><ACT 2><SCENE 1><23%>
+<GENTLEMAN 2>	<24%>
+	Is he found guilty?
+</GENTLEMAN 2>
+
+<SPEECH 5><ACT 2><SCENE 1><23%>
+<GENTLEMAN 2>	<24%>
+	I am sorry for 't.
+</GENTLEMAN 2>
+
+<SPEECH 6><ACT 2><SCENE 1><23%>
+<GENTLEMAN 2>	<24%>
+	But, pray, how pass'd it?
+</GENTLEMAN 2>
+
+<SPEECH 7><ACT 2><SCENE 1><24%>
+<GENTLEMAN 2>	<24%>
+	That was he
+	That fed him with his prophecies?
+</GENTLEMAN 2>
+
+<SPEECH 8><ACT 2><SCENE 1><24%>
+<GENTLEMAN 2>	<24%>
+	After all this how did he bear himself?
+</GENTLEMAN 2>
+
+<SPEECH 9><ACT 2><SCENE 1><24%>
+<GENTLEMAN 2>	<25%>
+	I do not think he fears death.
+</GENTLEMAN 2>
+
+<SPEECH 10><ACT 2><SCENE 1><24%>
+<GENTLEMAN 2>	<25%>
+	Certainly
+	The cardinal is the end of this.
+</GENTLEMAN 2>
+
+<SPEECH 11><ACT 2><SCENE 1><25%>
+<GENTLEMAN 2>	<25%>
+	That trick of state
+	Was a deep envious one.
+</GENTLEMAN 2>
+
+<SPEECH 12><ACT 2><SCENE 1><25%>
+<GENTLEMAN 2>	<25%>
+	All the commons
+	Hate him perniciously, and o' my conscience,
+	Wish him ten fathom deep: this duke as much
+	They love and dote on; call him bounteous Buckingham,
+	The mirror of all courtesy;—
+</GENTLEMAN 2>
+
+<SPEECH 13><ACT 2><SCENE 1><25%>
+<GENTLEMAN 2>	<25%>
+	Let's stand close, and behold him.
+</GENTLEMAN 2>
+
+<SPEECH 14><ACT 2><SCENE 1><28%>
+<GENTLEMAN 2>	<28%>
+	If the duke be guiltless,
+	'Tis full of woe; yet I can give you inkling
+	Of an ensuing evil, if it fall,
+	Greater than this.
+</GENTLEMAN 2>
+
+<SPEECH 15><ACT 2><SCENE 1><28%>
+<GENTLEMAN 2>	<28%>
+	This secret is so weighty, 'twill require
+	A strong faith to conceal it.
+</GENTLEMAN 2>
+
+<SPEECH 16><ACT 2><SCENE 1><28%>
+<GENTLEMAN 2>	<28%>
+	I am confident:
+	You shall, sir. Did you not of late days hear
+	A buzzing of a separation
+	Between the king and Katharine?
+</GENTLEMAN 2>
+
+<SPEECH 17><ACT 2><SCENE 1><28%>
+<GENTLEMAN 2>	<28%>
+	But that slander, sir,
+	Is found a truth now; for it grows again
+	Fresher than e'er it was; and held for certain
+	The king will venture at it. Either the cardinal,
+	Or some about him near, have, out of malice
+	To the good queen, possess'd him with a scruple
+	That will undo her: to confirm this too,
+	Cardinal Campeius is arriv'd, and lately;
+	As all think, for this business.
+</GENTLEMAN 2>
+
+<SPEECH 18><ACT 2><SCENE 1><29%>
+<GENTLEMAN 2>	<29%>
+	I think you have hit the mark: but is't not cruel
+	That she should feel the smart of this? The cardinal
+	Will have his will, and she must fall.
+</GENTLEMAN 2>
+
+<SPEECH 19><ACT 4><SCENE 1><67%>
+<GENTLEMAN 2>	<68%>
+	So are you.
+</GENTLEMAN 2>
+
+<SPEECH 20><ACT 4><SCENE 1><67%>
+<GENTLEMAN 2>	<68%>
+	'Tis all my business. At our last encounter
+	The Duke of Buckingham came from his trial.
+</GENTLEMAN 2>
+
+<SPEECH 21><ACT 4><SCENE 1><67%>
+<GENTLEMAN 2>	<68%>
+	'Tis well: the citizens,
+	I am sure, have shown at full their royal minds,
+	As, let 'em have their rights, they are ever forward,
+	In celebration of this day with shows,
+	Pageants, and sights of honour.
+</GENTLEMAN 2>
+
+<SPEECH 22><ACT 4><SCENE 1><68%>
+<GENTLEMAN 2>	<68%>
+	May I be bold to ask what that contains,
+	That paper in your hand?
+</GENTLEMAN 2>
+
+<SPEECH 23><ACT 4><SCENE 1><68%>
+<GENTLEMAN 2>	<68%>
+	I thank you, sir: had I not known those customs,
+	I should have been beholding to your paper.
+	But, I beseech you, what's become of Katharine,
+	The princess dowager? how goes her business?
+</GENTLEMAN 2>
+
+<SPEECH 24><ACT 4><SCENE 1><68%>
+<GENTLEMAN 2>	<69%>
+	Alas! good lady!
+<STAGE DIR>
+<Trumpets.>
+</STAGE DIR>
+	The trumpets sound: stand close, the queen is coming.
+<STAGE DIR>
+<Hautboys.>
+</STAGE DIR>
+
+<The Order of the Coronation.>
+	A lively flourish of trumpets.
+</GENTLEMAN 2>
+
+<SPEECH 25><ACT 4><SCENE 1><69%>
+<GENTLEMAN 2>	<70%>
+	A royal train, believe me. These I know;
+	Who's that that bears the sceptre?
+</GENTLEMAN 2>
+
+<SPEECH 26><ACT 4><SCENE 1><69%>
+<GENTLEMAN 2>	<70%>
+	A bold brave gentleman. That should be
+	The Duke of Suffolk?
+</GENTLEMAN 2>
+
+<SPEECH 27><ACT 4><SCENE 1><70%>
+<GENTLEMAN 2>	<70%>
+	And that my Lord of Norfolk?
+</GENTLEMAN 2>
+
+<SPEECH 28><ACT 4><SCENE 1><70%>
+<GENTLEMAN 2>	<70%>
+<STAGE DIR>
+<Looking on the Queen.>
+</STAGE DIR> Heaven bless thee!
+	Thou hast the sweetest face I ever look'd on.
+	Sir, as I have a soul, she is an angel;
+	Our king has all the Indies in his arms,
+	And more and richer, when he strains that lady:
+	I cannot blame his conscience.
+</GENTLEMAN 2>
+
+<SPEECH 29><ACT 4><SCENE 1><70%>
+<GENTLEMAN 2>	<70%>
+	Those men are happy; and so are all are near her.
+	I take it, she that carries up the train
+	Is that old noble lady, Duchess of Norfolk.
+</GENTLEMAN 2>
+
+<SPEECH 30><ACT 4><SCENE 1><70%>
+<GENTLEMAN 2>	<71%>
+	Their coronets say so. These are stars indeed;
+	And sometimes falling ones.
+</GENTLEMAN 2>
+
+<SPEECH 31><ACT 4><SCENE 1><70%>
+<GENTLEMAN 2>	<71%>
+	You saw
+	The ceremony?
+</GENTLEMAN 2>
+
+<SPEECH 32><ACT 4><SCENE 1><71%>
+<GENTLEMAN 2>	<71%>
+	Good sir, speak it to us.
+</GENTLEMAN 2>
+
+<SPEECH 33><ACT 4><SCENE 1><71%>
+<GENTLEMAN 2>	<72%>
+	But, what follow'd?
+</GENTLEMAN 2>
+
+<SPEECH 34><ACT 4><SCENE 1><72%>
+<GENTLEMAN 2>	<72%>
+	What two reverend bishops
+	Were those that went on each side of the queen?
+</GENTLEMAN 2>
+
+<SPEECH 35><ACT 4><SCENE 1><72%>
+<GENTLEMAN 2>	<72%>
+	He of Winchester
+	Is held no great good lover of the archbishop's,
+	The virtuous Cranmer.
+</GENTLEMAN 2>
+
+<SPEECH 36><ACT 4><SCENE 1><72%>
+<GENTLEMAN 2>	<73%>
+	Who may that be, I pray you?
+</GENTLEMAN 2>
+
+<SPEECH 37><ACT 4><SCENE 1><72%>
+<GENTLEMAN 2>	<73%>
+	He will deserve more.
+</GENTLEMAN 2>
+

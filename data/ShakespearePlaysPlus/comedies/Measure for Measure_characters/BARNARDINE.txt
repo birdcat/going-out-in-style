@@ -1,0 +1,45 @@
+<SPEECH 1><ACT 4><SCENE 3><71%>
+<BARNARDINE>	<72%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> A pox o' your throats!
+	Who makes that noise there? What are you?
+</BARNARDINE>
+
+<SPEECH 2><ACT 4><SCENE 3><72%>
+<BARNARDINE>	<72%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Away! you rogue, away!
+	I am sleepy.
+</BARNARDINE>
+
+<SPEECH 3><ACT 4><SCENE 3><72%>
+<BARNARDINE>	<72%>
+	How now, Abhorson! what's the news with you?
+</BARNARDINE>
+
+<SPEECH 4><ACT 4><SCENE 3><72%>
+<BARNARDINE>	<73%>
+	You rogue, I have been drinking all night; I am not fitted for't.
+</BARNARDINE>
+
+<SPEECH 5><ACT 4><SCENE 3><73%>
+<BARNARDINE>	<73%>
+	Friar, not I: I have been drinking hard all night, and I will have more time to prepare me, or they shall beat out my brains with billets. I will not consent to die this day, that's certain.
+</BARNARDINE>
+
+<SPEECH 6><ACT 4><SCENE 3><73%>
+<BARNARDINE>	<73%>
+	I swear I will not die to-day for any man's persuasion.
+</BARNARDINE>
+
+<SPEECH 7><ACT 4><SCENE 3><73%>
+<BARNARDINE>	<73%>
+	Not a word: if you have anything to say to me, come to my ward; for thence will not I to day.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</BARNARDINE>
+

@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+<DAUGHTER>	<4%>
+	Of all say'd yet, mayst thou prove prosperous!
+	Of all say'd yet, I wish thee happiness!
+</DAUGHTER>
+

@@ -1,0 +1,847 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<K. JOHN>	<0%>
+	Now, say, Chatillon, what would France with us?
+</K. JOHN>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<K. JOHN>	<1%>
+	Silence, good mother; hear the embassy.
+</K. JOHN>
+
+<SPEECH 3><ACT 1><SCENE 1><1%>
+<K. JOHN>	<1%>
+	What follows if we disallow of this?
+</K. JOHN>
+
+<SPEECH 4><ACT 1><SCENE 1><1%>
+<K. JOHN>	<1%>
+	Here have we war for war, and blood for blood,
+	Controlment for controlment: so answer France.
+</K. JOHN>
+
+<SPEECH 5><ACT 1><SCENE 1><1%>
+<K. JOHN>	<1%>
+	Bear mine to him, and so depart in peace:
+	Be thou as lightning in the eyes of France;
+	For ere thou canst report I will be there,
+	The thunder of my cannon shall be heard.
+	So, hence! Be thou the trumpet of our wrath
+	And sullen presage of your own decay.
+	An honourable conduct let him have:
+	Pembroke, look to't. Farewell, Chatillon.
+</K. JOHN>
+
+<SPEECH 6><ACT 1><SCENE 1><1%>
+<K. JOHN>	<2%>
+	Our strong possession and our right for us.
+</K. JOHN>
+
+<SPEECH 7><ACT 1><SCENE 1><2%>
+<K. JOHN>	<2%>
+	Let them approach.
+<STAGE DIR>
+<Exit Sheriff.>
+</STAGE DIR>
+	Our abbeys and our priories shall pay
+	This expedition's charge.
+
+</K. JOHN>
+
+<SPEECH 8><ACT 1><SCENE 1><2%>
+<K. JOHN>	<3%>
+	What art thou?
+</K. JOHN>
+
+<SPEECH 9><ACT 1><SCENE 1><2%>
+<K. JOHN>	<3%>
+	Is that the elder, and art thou the heir?
+	You came not of one mother then, it seems.
+</K. JOHN>
+
+<SPEECH 10><ACT 1><SCENE 1><3%>
+<K. JOHN>	<3%>
+	A good blunt fellow. Why, being younger born,
+	Doth he lay claim to thine inheritance?
+</K. JOHN>
+
+<SPEECH 11><ACT 1><SCENE 1><3%>
+<K. JOHN>	<4%>
+	Why, what a madcap hath heaven lent us here!
+</K. JOHN>
+
+<SPEECH 12><ACT 1><SCENE 1><3%>
+<K. JOHN>	<4%>
+	Mine eye hath well examined his parts,
+	And finds them perfect Richard. Sirrah, speak:
+	What doth move you to claim your brother's land?
+</K. JOHN>
+
+<SPEECH 13><ACT 1><SCENE 1><4%>
+<K. JOHN>	<5%>
+	Sirrah, your brother is legitimate;
+	Your father's wife did after wedlock bear him,
+	And if she did play false, the fault was hers;
+	Which fault lies on the hazards of all husbands
+	That marry wives. Tell me, how if my brother,
+	Who, as you say, took pains to get this son,
+	Had of your father claim'd this son for his?
+	In sooth, good friend, your father might have kept
+	This calf bred from his cow from all the world;
+	In sooth he might: then, if he were my brother's,
+	My brother might not claim him; nor your father,
+	Being none of his, refuse him: this concludes;
+	My mother's son did get your father's heir;
+	Your father's heir must have your father's land.
+</K. JOHN>
+
+<SPEECH 14><ACT 1><SCENE 1><6%>
+<K. JOHN>	<6%>
+	What is thy name?
+</K. JOHN>
+
+<SPEECH 15><ACT 1><SCENE 1><6%>
+<K. JOHN>	<7%>
+	From henceforth bear his name whose form thou bearest:
+	Kneel thou down Philip, but arise more great;
+	Arise Sir Richard, and Plantagenet.
+</K. JOHN>
+
+<SPEECH 16><ACT 1><SCENE 1><7%>
+<K. JOHN>	<7%>
+	Go, Faulconbridge: now hast thou thy desire;
+	A landless knight makes thee a landed squire.
+	Come, madam, and come, Richard: we must speed
+	For France, for France, for it is more than need.
+</K. JOHN>
+
+<SPEECH 17><ACT 2><SCENE 1><14%>
+<K. JOHN>	<14%>
+	Peace be to France, if France in peace permit
+	Our just and lineal entrance to our own;
+	If not, bleed France, and peace ascend to heaven,
+	Whiles we, God's wrathful agent, do correct
+	Their proud contempt that beats his peace to heaven.
+</K. JOHN>
+
+<SPEECH 18><ACT 2><SCENE 1><15%>
+<K. JOHN>	<15%>
+	From whom hast thou this great commission, France,
+	To draw my answer from thy articles?
+</K. JOHN>
+
+<SPEECH 19><ACT 2><SCENE 1><15%>
+<K. JOHN>	<16%>
+	Alack! thou dost usurp authority.
+</K. JOHN>
+
+<SPEECH 20><ACT 2><SCENE 1><16%>
+<K. JOHN>	<17%>
+	My life as soon: I do defy thee, France.
+	Arthur of Britaine, yield thee to my hand;
+	And out of my dear love I'll give thee more
+	Than e'er the coward hand of France can win.
+	Submit thee, boy.
+</K. JOHN>
+
+<SPEECH 21><ACT 2><SCENE 1><18%>
+<K. JOHN>	<18%>
+	Bedlam, have done.
+</K. JOHN>
+
+<SPEECH 22><ACT 2><SCENE 1><18%>
+<K. JOHN>	<19%>
+	England for itself.
+	You men of Angiers, and my loving subjects,—
+</K. JOHN>
+
+<SPEECH 23><ACT 2><SCENE 1><19%>
+<K. JOHN>	<19%>
+	For our advantage; therefore hear us first.
+	These flags of France, that are advanced here
+	Before the eye and prospect of your town,
+	Have hither march'd to your endamagement:
+	The cannons have their bowels full of wrath,
+	And ready mounted are they to spit forth
+	Their iron indignation 'gainst your walls:
+	All preparation for a bloody siege
+	And merciless proceeding by these French
+	Confronts your city's eyes, your winking gates;
+	And but for our approach those sleeping stones,
+	That as a waist do girdle you about,
+	By the compulsion of their ordinance
+	By this time from their fixed beds of lime
+	Had been dishabited, and wide havoc made
+	For bloody power to rush upon your peace.
+	But on the sight of us your lawful king,—
+	Who painfully with much expedient march
+	Have brought a countercheck before your gates,
+	To save unscratch'd your city's threaten'd cheeks,—
+	Behold, the French amaz'd vouchsafe a parle;
+	And now, instead of bullets wrapp'd in fire,
+	To make a shaking fever in your walls,
+	They shoot but calm words folded up in smoke,
+	To make a faithless error in your ears:
+	Which trust accordingly, kind citizens,
+	And let us in, your king, whose labour'd spirits,
+	Forwearied in this action of swift speed,
+	Crave harbourage within your city walls.
+</K. JOHN>
+
+<SPEECH 24><ACT 2><SCENE 1><21%>
+<K. JOHN>	<21%>
+	Acknowledge then the king, and let me in.
+</K. JOHN>
+
+<SPEECH 25><ACT 2><SCENE 1><21%>
+<K. JOHN>	<21%>
+	Doth not the crown of England prove the king?
+	And if not that, I bring you witnesses,
+	Twice fifteen thousand hearts of England's breed,—
+</K. JOHN>
+
+<SPEECH 26><ACT 2><SCENE 1><21%>
+<K. JOHN>	<22%>
+	To verify our title with their lives.
+</K. JOHN>
+
+<SPEECH 27><ACT 2><SCENE 1><21%>
+<K. JOHN>	<22%>
+	Then God forgive the sins of all those souls
+	That to their everlasting residence,
+	Before the dew of evening fall, shall fleet,
+	In dreadful trial of our kingdom's king!
+</K. JOHN>
+
+<SPEECH 28><ACT 2><SCENE 1><22%>
+<K. JOHN>	<22%>
+	Up higher to the plain; where we'll set forth
+	In best appointment all our regiments.
+</K. JOHN>
+
+<SPEECH 29><ACT 2><SCENE 1><23%>
+<K. JOHN>	<24%>
+	France, hast thou yet more blood to cast away?
+	Say, shall the current of our right run on?
+	Whose passage, vex'd with thy impediment,
+	Shall leave his native channel and o'erswell
+	With course disturb'd even thy conflning shores,
+	Unless thou let his silver water keep
+	A peaceful progress to the ocean.
+</K. JOHN>
+
+<SPEECH 30><ACT 2><SCENE 1><24%>
+<K. JOHN>	<25%>
+	Whose party do the townsmen yet admit?
+</K. JOHN>
+
+<SPEECH 31><ACT 2><SCENE 1><25%>
+<K. JOHN>	<25%>
+	In us, that are our own great deputy,
+	And bear possession of our person here,
+	Lord of our presence, Angiers, and of you.
+</K. JOHN>
+
+<SPEECH 32><ACT 2><SCENE 1><26%>
+<K. JOHN>	<26%>
+	Now, by the sky that hangs above our heads,
+	I like it well. France, shall we knit our powers
+	And lay this Angiers even with the ground;
+	Then after fight who shall be king of it?
+</K. JOHN>
+
+<SPEECH 33><ACT 2><SCENE 1><26%>
+<K. JOHN>	<27%>
+	We from the west will send destruction
+	Into this city's bosom.
+</K. JOHN>
+
+<SPEECH 34><ACT 2><SCENE 1><27%>
+<K. JOHN>	<27%>
+	Speak on with favour: we are bent to hear.
+</K. JOHN>
+
+<SPEECH 35><ACT 2><SCENE 1><29%>
+<K. JOHN>	<30%>
+	If that the Dauphin there, thy princely son,
+	Can in this book of beauty read 'I love,'
+	Her dowry shall weigh equal with a queen:
+	For Anjou, and fair Touraine, Maine, Poictiers,
+	And all that we upon this side the sea,—
+	Except this city now by us besieg'd,—
+	Find liable to our crown and dignity,
+	Shall gild her bridal bed and make her rich
+	In titles, honours, and promotions,
+	As she in beauty, education, blood,
+	Holds hand with any princess of the world.
+</K. JOHN>
+
+<SPEECH 36><ACT 2><SCENE 1><30%>
+<K. JOHN>	<31%>
+	What say these young ones? What say you, my niece?
+</K. JOHN>
+
+<SPEECH 37><ACT 2><SCENE 1><30%>
+<K. JOHN>	<31%>
+	Speak then, Prince Dauphin; can you love this lady?
+</K. JOHN>
+
+<SPEECH 38><ACT 2><SCENE 1><31%>
+<K. JOHN>	<31%>
+	Then do I give Volquessen, Touraine, Maine,
+	Poictiers, and Anjou, these five provinces,
+	With her to thee; and this addition more,
+	Full thirty thousand marks of English coin.
+	Philip of France, if thou be pleas'd withal,
+	Command thy son and daughter to join hands.
+</K. JOHN>
+
+<SPEECH 39><ACT 2><SCENE 1><31%>
+<K. JOHN>	<32%>
+	We will heal up all;
+	For we'll create young Arthur Duke of Britaine
+	And Earl of Richmond; and this rich fair town
+	We make him lord of. Call the Lady Constance:
+	Some speedy messenger bid her repair
+	To our solemnity: I trust we shall,
+	If not fill up the measure of her will,
+	Yet in some measure satisfy her so,
+	That we shall stop her exclamation.
+	Go we, as well as haste will suffer us,
+	To this unlook'd-for unprepared pomp.
+</K. JOHN>
+
+<SPEECH 40><ACT 3><SCENE 1><38%>
+<K. JOHN>	<39%>
+	We like not this; thou dost forget thyself.
+
+</K. JOHN>
+
+<SPEECH 41><ACT 3><SCENE 1><39%>
+<K. JOHN>	<39%>
+	What earthly name to interrogatories
+	Can task the free breath of a sacred king?
+	Thou canst not, cardinal, devise a name
+	So slight, unworthy and ridiculous,
+	To charge me to an answer, as the pope.
+	Tell him this tale; and from the mouth of England
+	Add thus much more: that no Italian priest
+	Shall tithe or toll in our dominions;
+	But as we under heaven are supreme head,
+	So under him that great supremacy,
+	Where we do reign, we will alone uphold,
+	Without the assistance of a mortal hand:
+	So tell the pope; all reverence set apart
+	To him, and his usurp'd authority.
+</K. JOHN>
+
+<SPEECH 42><ACT 3><SCENE 1><39%>
+<K. JOHN>	<40%>
+	Though you and all the kings of Christendom
+	Are led so grossly by this meddling priest,
+	Dreading the curse that money may buy out;
+	And, by the merit of vile gold, dross, dust,
+	Purchase corrupted pardon of a man,
+	Who in that sale sells pardon from himself;
+	Though you and all the rest so grossly led
+	This juggling witchcraft with revenue cherish;
+	Yet I alone, alone do me oppose
+	Against the pope, and count his friends my foes.
+</K. JOHN>
+
+<SPEECH 43><ACT 3><SCENE 1><41%>
+<K. JOHN>	<41%>
+	Philip, what sayst thou to the cardinal?
+</K. JOHN>
+
+<SPEECH 44><ACT 3><SCENE 1><41%>
+<K. JOHN>	<42%>
+	The king is mov'd, and answers not to this.
+</K. JOHN>
+
+<SPEECH 45><ACT 3><SCENE 1><45%>
+<K. JOHN>	<46%>
+	France, thou shalt rue this hour within this hour.
+</K. JOHN>
+
+<SPEECH 46><ACT 3><SCENE 1><46%>
+<K. JOHN>	<47%>
+	Cousin, go draw our puissance together.
+<STAGE DIR>
+<Exit Bastard.>
+</STAGE DIR>
+	France, I am burn'd up with inflaming wrath;
+	A rage whose heat hath this condition,
+	That nothing can allay, nothing but blood,
+	The blood, and dearest-valu'd blood of France.
+</K. JOHN>
+
+<SPEECH 47><ACT 3><SCENE 1><46%>
+<K. JOHN>	<47%>
+	No more than he that threats. To arms let's hie!
+</K. JOHN>
+
+<SPEECH 48><ACT 3><SCENE 2><47%>
+<K. JOHN>	<47%>
+	Hubert, keep this boy. Philip, make up,
+	My mother is assailed in our tent,
+	And ta'en, I fear.
+</K. JOHN>
+
+<SPEECH 49><ACT 3><SCENE 3><47%>
+<K. JOHN>	<48%>
+<STAGE DIR>
+<To Elinor.>
+</STAGE DIR> So shall it be; your grace shall stay behind
+	So strongly guarded. <STAGE DIR>
+<To Arthur.>
+</STAGE DIR> Cousin, look not sad:
+	Thy grandam loves thee; and thy uncle will
+	As dear be to thee as thy father was.
+</K. JOHN>
+
+<SPEECH 50><ACT 3><SCENE 3><47%>
+<K. JOHN>	<48%>
+<STAGE DIR>
+<To the Bastard.>
+</STAGE DIR> Cousin, away for England! haste before;
+	And, ere our coming, see thou shake the bags
+	Of hoarding abbots; set at liberty
+	Imprison'd angels: the fat ribs of peace
+	Must by the hungry now be fed upon:
+	Use our commission in his utmost force.
+</K. JOHN>
+
+<SPEECH 51><ACT 3><SCENE 3><48%>
+<K. JOHN>	<48%>
+	Coz, farewell.
+</K. JOHN>
+
+<SPEECH 52><ACT 3><SCENE 3><48%>
+<K. JOHN>	<49%>
+	Come hither, Hubert. O my gentle Hubert,
+	We owe thee much: within this wall of flesh
+	There is a soul counts thee her creditor,
+	And with advantage means to pay thy love:
+	And, my good friend, thy voluntary oath
+	Lives in this bosom, dearly cherished.
+	Give me thy hand. I had a thing to say,
+	But I will fit it with some better time.
+	By heaven, Hubert, I am almost asham'd
+	To say what good respect I have of thee.
+</K. JOHN>
+
+<SPEECH 53><ACT 3><SCENE 3><48%>
+<K. JOHN>	<49%>
+	Good friend, thou hast no cause to say so yet;
+	But thou shalt have; and creep time ne'er so slow,
+	Yet it shall come for me to do thee good.
+	I had a thing to say, but let it go:
+	The sun is in the heaven, and the proud day,
+	Attended with the pleasures of the world,
+	Is all too wanton and too full of gawds
+	To give me audience: if the midnight bell
+	Did, with his iron tongue and brazen mouth,
+	Sound one into the drowsy race of night;
+	If this same were a churchyard where we stand,
+	And thou possessed with a thousand wrongs;
+	Or if that surly spirit, melancholy,
+	Had bak'd thy blood and made it heavy-thick,
+	Which else runs tickling up and down the veins,
+	Making that idiot, laughter, keep men's eyes
+	And strain their cheeks to idle merriment,
+	A passion hateful to my purposes;
+	Or if that thou couldst see me without eyes,
+	Hear me without thine ears, and make reply
+	Without a tongue, using conceit alone,
+	Without eyes, ears, and harmful sound of words;
+	Then, in despite of brooded watchful day,
+	I would into thy bosom pour my thoughts:
+	But ah! I will not: yet I love thee well;
+	And, by my troth, I think thou lov'st me well.
+</K. JOHN>
+
+<SPEECH 54><ACT 3><SCENE 3><49%>
+<K. JOHN>	<50%>
+	Do not I know thou wouldst?
+	Good Hubert! Hubert, Hubert, throw thine eye
+	On yon young boy: I'll tell thee what, my friend,
+	He is a very serpent in my way;
+	And wheresoe'er this foot of mine doth tread
+	He lies before me: dost thou understand me?
+	Thou art his keeper.
+</K. JOHN>
+
+<SPEECH 55><ACT 3><SCENE 3><49%>
+<K. JOHN>	<50%>
+	Death.
+</K. JOHN>
+
+<SPEECH 56><ACT 3><SCENE 3><50%>
+<K. JOHN>	<50%>
+	A grave.
+</K. JOHN>
+
+<SPEECH 57><ACT 3><SCENE 3><50%>
+<K. JOHN>	<50%>
+	Enough.
+	I could be merry now. Hubert, I love thee;
+	Well, I'll not say what I intend for thee:
+	Remember. Madam, fare you well:
+	I'll send those powers o'er to your majesty.
+</K. JOHN>
+
+<SPEECH 58><ACT 3><SCENE 3><50%>
+<K. JOHN>	<50%>
+	For England, cousin; go:
+	Hubert shall be your man, attend on you
+	With all true duty. On toward Calais, ho!
+</K. JOHN>
+
+<SPEECH 59><ACT 4><SCENE 2><62%>
+<K. JOHN>	<63%>
+	Here once again we sit, once again crown'd,
+	And look'd upon, I hope, with cheerful eyes.
+</K. JOHN>
+
+<SPEECH 60><ACT 4><SCENE 2><64%>
+<K. JOHN>	<65%>
+	Some reasons of this double coronation
+	I have possess'd you with and think them strong;
+	And more, more strong,—when lesser is my fear,—
+	I shall indue you with: meantime but ask
+	What you would have reform'd that is not well;
+	And well shall you perceive how willingly
+	I will both hear and grant you your requests.
+</K. JOHN>
+
+<SPEECH 61><ACT 4><SCENE 2><65%>
+<K. JOHN>	<66%>
+	Let it be so: I do commit his youth
+	To your direction. Hubert, what news with you?
+</K. JOHN>
+
+<SPEECH 62><ACT 4><SCENE 2><65%>
+<K. JOHN>	<66%>
+	We cannot hold mortality's strong hand:
+	Good lords, although my will to give is living,
+	The suit which you demand is gone and dead:
+	He tells us Arthur is deceas'd to-night.
+</K. JOHN>
+
+<SPEECH 63><ACT 4><SCENE 2><66%>
+<K. JOHN>	<66%>
+	Why do you bend such solemn brows on me?
+	Think you I bear the shears of destiny?
+	Have I commandment on the pulse of life?
+</K. JOHN>
+
+<SPEECH 64><ACT 4><SCENE 2><66%>
+<K. JOHN>	<67%>
+	They burn in indignation. I repent:
+	There is no sure foundation set on blood,
+	No certain life achiev'd by others' death.
+
+<STAGE DIR>
+<Enter a Messenger.>
+</STAGE DIR>
+	A fearful eye thou hast: where is that blood
+	That I have seen inhabit in those cheeks?
+	So foul a sky clears not without a storm:
+</K. JOHN>
+
+<SPEECH 65><ACT 4><SCENE 2><67%>
+<K. JOHN>	<67%>
+	O! where hath our intelligence been drunk?
+	Where hath it slept? Where is my mother's care
+	That such an army could be drawn in France,
+	And she not hear of it?
+</K. JOHN>
+
+<SPEECH 66><ACT 4><SCENE 2><67%>
+<K. JOHN>	<68%>
+	Withhold thy speed, dreadful occasion!
+	O! make a league with me, till I have pleas'd
+	My discontented peers. What! mother dead!
+	How wildly then walks my estate in France!
+	Under whose conduct came those powers of France
+	That thou for truth giv'st out are landed here?
+</K. JOHN>
+
+<SPEECH 67><ACT 4><SCENE 2><67%>
+<K. JOHN>	<68%>
+	Thou hast made me giddy
+	With these ill tidings.
+
+<STAGE DIR>
+<Enter the Bastard, and Peter of Pomfret.>
+</STAGE DIR>
+	Now, what says the world
+	To your proceedings? do not seek to stuff
+</K. JOHN>
+
+<SPEECH 68><ACT 4><SCENE 2><68%>
+<K. JOHN>	<68%>
+	Bear with me, cousin, for I was amaz'd
+	Under the tide; but now I breathe again
+	Aloft the flood, and can give audience
+	To any tongue, speak it of what it will.
+</K. JOHN>
+
+<SPEECH 69><ACT 4><SCENE 2><68%>
+<K. JOHN>	<69%>
+	Thou idle dreamer, wherefore didst thou so?
+</K. JOHN>
+
+<SPEECH 70><ACT 4><SCENE 2><68%>
+<K. JOHN>	<69%>
+	Hubert, away with him; imprison him:
+	And on that day at noon, whereon, he says,
+	I shall yield up my crown, let him be hang'd.
+	Deliver him to safety, and return,
+	For I must use thee.
+<STAGE DIR>
+<Exit Hubert, with Peter.>
+</STAGE DIR>
+	O my gentle cousin,
+	Hear'st thou the news abroad, who are arriv'd?
+</K. JOHN>
+
+<SPEECH 71><ACT 4><SCENE 2><69%>
+<K. JOHN>	<69%>
+	Gentle kinsman, go,
+	And thrust thyself into their companies.
+	I have a way to win their loves again;
+	Bring them before me.
+</K. JOHN>
+
+<SPEECH 72><ACT 4><SCENE 2><69%>
+<K. JOHN>	<70%>
+	Nay, but make haste; the better foot before.
+	O! let me have no subject enemies
+	When adverse foreigners affright my towns
+	With dreadful pomp of stout invasion.
+	Be Mercury, set feathers to thy heels,
+	And fly like thought from them to me again.
+</K. JOHN>
+
+<SPEECH 73><ACT 4><SCENE 2><69%>
+<K. JOHN>	<70%>
+	Spoke like a sprightful noble gentleman.
+<STAGE DIR>
+<Exit Bastard.>
+</STAGE DIR>
+	Go after him; for he perhaps shall need
+	Some messenger betwixt me and the peers;
+	And be thou he.
+</K. JOHN>
+
+<SPEECH 74><ACT 4><SCENE 2><69%>
+<K. JOHN>	<70%>
+	My mother dead!
+
+</K. JOHN>
+
+<SPEECH 75><ACT 4><SCENE 2><70%>
+<K. JOHN>	<70%>
+	Five moons!
+</K. JOHN>
+
+<SPEECH 76><ACT 4><SCENE 2><70%>
+<K. JOHN>	<71%>
+	Why seek'st thou to possess me with these fears?
+	Why urgest thou so oft young Arthur's death?
+	Thy hand hath murder'd him: I had a mighty cause
+	To wish him dead, but thou hadst none to kill him.
+</K. JOHN>
+
+<SPEECH 77><ACT 4><SCENE 2><70%>
+<K. JOHN>	<71%>
+	It is the curse of kings to be attended
+	By slaves that take their humours for a warrant
+	To break within the bloody house of life,
+	And on the winking of authority
+	To understand a law, to know the meaning
+	Of dangerous majesty, when, perchance, it frowns
+	More upon humour than advis'd respect.
+</K. JOHN>
+
+<SPEECH 78><ACT 4><SCENE 2><71%>
+<K. JOHN>	<71%>
+	O! when the last account 'twixt heaven and earth
+	Is to be made, then shall this hand and seal
+	Witness against us to damnation.
+	How oft the sight of means to do ill deeds
+	Makes ill deeds done! Hadst not thou been by,
+	A fellow by the hand of nature mark'd,
+	Quoted and sign'd to do a deed of shame,
+	This murder had not come into my mind;
+	But taking note of thy abhorr'd aspect,
+	Finding thee fit for bloody villany,
+	Apt, liable to be employ'd in danger,
+	I faintly broke with thee of Arthur's death;
+	And thou, to be endeared to a king,
+	Made it no conscience to destroy a prince.
+</K. JOHN>
+
+<SPEECH 79><ACT 4><SCENE 2><71%>
+<K. JOHN>	<72%>
+	Hadst thou but shook thy head or made a pause
+	When I spake darkly what I purposed,
+	Or turn'd an eye of doubt upon my face,
+	As bid me tell my tale in express words,
+	Deep shame had struck me dumb, made me break off,
+	And those thy fears might have wrought fears in me:
+	But thou didst understand me by my signs
+	And didst in signs again parley with sin;
+	Yea, without stop, didst let thy heart consent,
+	And consequently thy rude hand to act
+	The deed which both our tongues held vile to name.
+	Out of my sight, and never see me more!
+	My nobles leave me; and my state is brav'd,
+	Even at my gates, with ranks of foreign powers:
+	Nay, in the body of this fleshly land,
+	This kingdom, this confine of blood and breath,
+	Hostility and civil tumult reigns
+	Between my conscience and my cousin's death.
+</K. JOHN>
+
+<SPEECH 80><ACT 4><SCENE 2><72%>
+<K. JOHN>	<73%>
+	Doth Arthur live? O! haste thee to the peers,
+	Throw this report on their incensed rage,
+	And make them tame to their obedience.
+	Forgive the comment that my passion made
+	Upon thy feature; for my rage was blind,
+	And foul imaginary eyes of blood
+	Presented thee more hideous than thou art.
+	O! answer not; but to my closet bring
+	The angry lords, with all expedient haste.
+	I conjure thee but slowly; run more fast.
+</K. JOHN>
+
+<SPEECH 81><ACT 5><SCENE 1><79%>
+<K. JOHN>	<80%>
+	Thus have I yielded up into your hand
+	The circle of my glory.
+</K. JOHN>
+
+<SPEECH 82><ACT 5><SCENE 1><80%>
+<K. JOHN>	<80%>
+	Now keep your holy word: go meet the French,
+	And from his holiness use all your power
+	To stop their marches 'fore we are inflam'd.
+	Our discontented counties do revolt,
+	Our people quarrel with obedience,
+	Swearing allegiance and the love of soul
+	To stranger blood, to foreign royalty.
+	This inundation of mistemper'd humour
+	Rests by you only to be qualified:
+	Then pause not; for the present time's so sick,
+	That present medicine must be minister'd,
+	Or overthrow incurable ensues.
+</K. JOHN>
+
+<SPEECH 83><ACT 5><SCENE 1><80%>
+<K. JOHN>	<81%>
+	Is this Ascension-day? Did not the prophet
+	Say that before Ascension-day at noon
+	My crown I should give off? Even so I have:
+	I did suppose it should be on constraint;
+	But, heaven be thank'd, it is but voluntary.
+
+</K. JOHN>
+
+<SPEECH 84><ACT 5><SCENE 1><81%>
+<K. JOHN>	<81%>
+	Would not my lords return to me again
+	After they heard young Arthur was alive?
+</K. JOHN>
+
+<SPEECH 85><ACT 5><SCENE 1><81%>
+<K. JOHN>	<81%>
+	That villain Hubert told me he did live.
+</K. JOHN>
+
+<SPEECH 86><ACT 5><SCENE 1><82%>
+<K. JOHN>	<82%>
+	The legate of the pope hath been with me,
+	And I have made a happy peace with him;
+	And he hath promis'd to dismiss the powers
+	Led by the Dauphin.
+</K. JOHN>
+
+<SPEECH 87><ACT 5><SCENE 1><82%>
+<K. JOHN>	<83%>
+	Have thou the ordering of this present time.
+</K. JOHN>
+
+<SPEECH 88><ACT 5><SCENE 3><89%>
+<K. JOHN>	<89%>
+	How goes the day with us? O! tell me, Hubert.
+</K. JOHN>
+
+<SPEECH 89><ACT 5><SCENE 3><89%>
+<K. JOHN>	<89%>
+	This fever, that hath troubled me so long,
+	Lies heavy on me: O! my heart is sick.
+
+</K. JOHN>
+
+<SPEECH 90><ACT 5><SCENE 3><89%>
+<K. JOHN>	<90%>
+	Tell him, toward Swinstead, to the abbey there.
+</K. JOHN>
+
+<SPEECH 91><ACT 5><SCENE 3><89%>
+<K. JOHN>	<90%>
+	Ay me! this tyrant fever burns me up,
+	And will not let me welcome this good news.
+	Set on toward Swinstead: to my litter straight;
+	Weakness possesseth me, and I am faint.
+</K. JOHN>
+
+<SPEECH 92><ACT 5><SCENE 7><96%>
+<K. JOHN>	<97%>
+	Ay, marry, now my soul hath elbow-room;
+	It would not out at windows, nor at doors.
+	There is so hot a summer in my bosom
+	That all my bowels crumble up to dust:
+	I am a scribbled form, drawn with a pen
+	Upon a parchment, and against this fire
+	Do I shrink up.
+</K. JOHN>
+
+<SPEECH 93><ACT 5><SCENE 7><96%>
+<K. JOHN>	<97%>
+	Poison'd, ill-fare; dead, forsook, cast off;
+	And none of you will bid the winter come
+	To thrust his icy fingers in my maw;
+	Nor let my kingdom's rivers take their course
+	Through my burn'd bosom; nor entreat the north
+	To make his bleak winds kiss my parched lips
+	And comfort me with cold. I do not ask you much:
+	I beg cold comfort; and you are so strait
+	And so ingrateful you deny me that.
+</K. JOHN>
+
+<SPEECH 94><ACT 5><SCENE 7><97%>
+<K. JOHN>	<97%>
+	The salt in them is hot.
+	Within me is a hell; and there the poison
+	Is as a fiend confin'd to tyrannize
+	On unreprievable condemned blood.
+
+</K. JOHN>
+
+<SPEECH 95><ACT 5><SCENE 7><97%>
+<K. JOHN>	<97%>
+	O cousin! thou art come to set mine eye:
+	The tackle of my heart is crack'd and burn'd,
+	And all the shrouds wherewith my life should sail
+	Are turned to one thread, one little hair;
+	My heart hath one poor string to stay it by,
+	Which holds but till thy news be uttered;
+	And then all this thou seest is but a clod
+	And module of confounded royalty.
+</K. JOHN>
+

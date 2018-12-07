@@ -1,0 +1,57 @@
+<SPEECH 1><ACT 1><SCENE 2><13%>
+<FLUTE>	<14%>
+	Here, Peter Quince.
+</FLUTE>
+
+<SPEECH 2><ACT 1><SCENE 2><13%>
+<FLUTE>	<14%>
+	What is Thisby? a wandering knight?
+</FLUTE>
+
+<SPEECH 3><ACT 1><SCENE 2><13%>
+<FLUTE>	<14%>
+	Nay, faith, let not me play a woman; I have a beard coming.
+</FLUTE>
+
+<SPEECH 4><ACT 3><SCENE 1><39%>
+<FLUTE>	<40%>
+	Must I speak now?
+</FLUTE>
+
+<SPEECH 5><ACT 3><SCENE 1><40%>
+<FLUTE>	<41%>
+	Most radiant Pyramus, most lily-white of hue,
+	Of colour like the red rose on triumphant brier,
+	Most brisky juvenal, and eke most lovely Jew,
+	As true as truest horse that yet would never tire,
+	I'll meet thee, Pyramus, at Ninny's tomb.
+</FLUTE>
+
+<SPEECH 6><ACT 3><SCENE 1><40%>
+<FLUTE>	<41%>
+	O!—As true as truest horse, that yet would never tire.
+
+</FLUTE>
+
+<SPEECH 7><ACT 4><SCENE 2><78%>
+<FLUTE>	<79%>
+	If he come not, then the play is marred: it goes not forward, doth it?
+</FLUTE>
+
+<SPEECH 8><ACT 4><SCENE 2><78%>
+<FLUTE>	<79%>
+	No; he hath simply the best wit of any handicraft man in Athens.
+</FLUTE>
+
+<SPEECH 9><ACT 4><SCENE 2><78%>
+<FLUTE>	<79%>
+	You must say, 'paragon:' a paramour is, God bless us! a thing of naught.
+
+</FLUTE>
+
+<SPEECH 10><ACT 4><SCENE 2><79%>
+<FLUTE>	<79%>
+	O sweet bully Bottom! Thus hath he lost sixpence a day during his life; he could not have 'scaped sixpence a day: an the duke had not given him sixpence a day for playing Pyramus, I'll be hanged; he would have deserved it: sixpence a day in Pyramus, or nothing.
+
+</FLUTE>
+

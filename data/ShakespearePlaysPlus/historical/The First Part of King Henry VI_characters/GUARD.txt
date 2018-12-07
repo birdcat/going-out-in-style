@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 3><SCENE 2><48%>
+<GUARD>	<49%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Qui est là?
+</GUARD>
+
+<SPEECH 2><ACT 3><SCENE 2><49%>
+<GUARD>	<49%>
+<STAGE DIR>
+<Opening the gates.>
+</STAGE DIR> Enter, go in; the market-bell is rung.
+</GUARD>
+

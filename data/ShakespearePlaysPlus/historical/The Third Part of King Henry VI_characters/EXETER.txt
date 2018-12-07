@@ -1,0 +1,70 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+<EXETER>	<3%>
+	But when the duke is slain they'll quickly fly.
+</EXETER>
+
+<SPEECH 2><ACT 1><SCENE 1><3%>
+<EXETER>	<3%>
+	For shame! come down: he made thee Duke of York.
+</EXETER>
+
+<SPEECH 3><ACT 1><SCENE 1><3%>
+<EXETER>	<3%>
+	Thy father was a traitor to the crown.
+</EXETER>
+
+<SPEECH 4><ACT 1><SCENE 1><5%>
+<EXETER>	<6%>
+	No; for he could not so resign his crown
+	But that the next heir should succeed and reign.
+</EXETER>
+
+<SPEECH 5><ACT 1><SCENE 1><5%>
+<EXETER>	<6%>
+	His is the right, and therefore pardon me.
+</EXETER>
+
+<SPEECH 6><ACT 1><SCENE 1><5%>
+<EXETER>	<6%>
+	My conscience tells me he is lawful king.
+</EXETER>
+
+<SPEECH 7><ACT 1><SCENE 1><7%>
+<EXETER>	<7%>
+	They seek revenge and therefore will not yield.
+</EXETER>
+
+<SPEECH 8><ACT 1><SCENE 1><7%>
+<EXETER>	<8%>
+	Accurs'd be he that seeks to make them foes!
+</EXETER>
+
+<SPEECH 9><ACT 1><SCENE 1><8%>
+<EXETER>	<8%>
+	Here comes the queen, whose looks bewray her anger:
+	I'll steal away.
+</EXETER>
+
+<SPEECH 10><ACT 1><SCENE 1><10%>
+<EXETER>	<10%>
+	And I, I hope, shall reconcile them all.
+</EXETER>
+
+<SPEECH 11><ACT 2><SCENE 5><39%>
+<EXETER>	<39%>
+	Away! for vengeance comes along with them.
+	Nay, stay not to expostulate; make speed,
+	Or else come after: I'll away before.
+</EXETER>
+
+<SPEECH 12><ACT 4><SCENE 8><81%>
+<EXETER>	<81%>
+	The doubt is that he will seduce the rest.
+</EXETER>
+
+<SPEECH 13><ACT 4><SCENE 8><81%>
+<EXETER>	<82%>
+	Hark, hark, my lord! what shouts are these?
+
+</EXETER>
+

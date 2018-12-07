@@ -1,0 +1,37 @@
+<SPEECH 1><ACT 2><SCENE 2><24%>
+<GOALER>	<24%>
+	For a worthy lady
+	And one whom much I honour.
+</GOALER>
+
+<SPEECH 2><ACT 2><SCENE 2><24%>
+<GOALER>	<24%>
+	I may not, madam: to the contrary
+	I have express commandment.
+</GOALER>
+
+<SPEECH 3><ACT 2><SCENE 2><24%>
+<GOALER>	<24%>
+	So please you, madam,
+	To put apart these your attendants, I
+	Shall bring Emilia forth.
+</GOALER>
+
+<SPEECH 4><ACT 2><SCENE 2><24%>
+<GOALER>	<24%>
+	And, madam,
+	I must be present at your conference.
+</GOALER>
+
+<SPEECH 5><ACT 2><SCENE 2><25%>
+<GOALER>	<26%>
+	Madam, if't please the queen to send the babe,
+	I know not what I shall incur to pass it,
+	Having no warrant.
+</GOALER>
+
+<SPEECH 6><ACT 2><SCENE 2><26%>
+<GOALER>	<26%>
+	I do believe it.
+</GOALER>
+

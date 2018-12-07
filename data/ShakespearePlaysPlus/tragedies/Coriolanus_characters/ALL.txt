@@ -1,0 +1,93 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<ALL>	<0%>
+	Speak, speak.
+</ALL>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<ALL>	<0%>
+	Resolved, resolved.
+</ALL>
+
+<SPEECH 3><ACT 1><SCENE 1><0%>
+<ALL>	<0%>
+	We know't, we know't.
+</ALL>
+
+<SPEECH 4><ACT 1><SCENE 1><0%>
+<ALL>	<1%>
+	No more talking on't; let it be done.
+	Away, away!
+</ALL>
+
+<SPEECH 5><ACT 1><SCENE 1><1%>
+<ALL>	<2%>
+	Come, come.
+</ALL>
+
+<SPEECH 6><ACT 1><SCENE 2><9%>
+<ALL>	<9%>
+	The gods assist you!
+</ALL>
+
+<SPEECH 7><ACT 1><SCENE 2><9%>
+<ALL>	<9%>
+	Farewell.
+</ALL>
+
+<SPEECH 8><ACT 1><SCENE 4><14%>
+<ALL>	<15%>
+	To the pot, I warrant him.
+<STAGE DIR>
+<Alarum continues.>
+</STAGE DIR>
+
+</ALL>
+
+<SPEECH 9><ACT 1><SCENE 4><14%>
+<ALL>	<15%>
+	Slain, sir, doubtless.
+</ALL>
+
+<SPEECH 10><ACT 1><SCENE 1><21%>
+<ALL>	<22%>
+	Caius Marcius Coriolanus!
+</ALL>
+
+<SPEECH 11><ACT 2><SCENE 1><27%>
+<ALL>	<28%>
+	Welcome to Rome, renowned Coriolanus!
+</ALL>
+
+<SPEECH 12><ACT 2><SCENE 3><37%>
+<ALL>	<38%>
+	Content, content.
+</ALL>
+
+<SPEECH 13><ACT 2><SCENE 3><39%>
+<ALL>	<40%>
+	Amen, amen.
+	God save thee, noble consul!
+</ALL>
+
+<SPEECH 14><ACT 2><SCENE 3><40%>
+<ALL>	<41%>
+	No, no; no man saw 'em.
+</ALL>
+
+<SPEECH 15><ACT 2><SCENE 3><43%>
+<ALL>	<44%>
+	We will so; almost all
+	Repent in their election.
+</ALL>
+
+<SPEECH 16><ACT 4><SCENE 5><75%>
+<ALL>	<75%>
+	In, in, in, in!
+</ALL>
+
+<SPEECH 17><ACT 5><SCENE 4><95%>
+<ALL>	<95%>
+	Welcome, ladies,
+	Welcome!
+</ALL>
+

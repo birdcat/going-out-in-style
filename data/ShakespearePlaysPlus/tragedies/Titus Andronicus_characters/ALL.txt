@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 1><SCENE 1><15%>
+<ALL>	<16%>
+<STAGE DIR>
+<Kneeling.>
+</STAGE DIR> No man shed tears for noble Mutius;
+	He lives in fame that died in virtue's cause.
+</ALL>
+

@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 3><SCENE 1><47%>
+<SAILOR 1>	<48%>
+	What courage, sir? God save you!
+</SAILOR 1>
+
+<SPEECH 2><ACT 3><SCENE 1><47%>
+<SAILOR 1>	<48%>
+	Slack the bolins there! thou wilt not, wilt thou? Blow, and split thyself.
+</SAILOR 1>
+
+<SPEECH 3><ACT 3><SCENE 1><47%>
+<SAILOR 1>	<48%>
+	Sir, you queen must overboard: the sea works high, the wind is loud, and will not lie till the ship be cleared of the dead.
+</SAILOR 1>
+
+<SPEECH 4><ACT 3><SCENE 1><47%>
+<SAILOR 1>	<48%>
+	Pardon us, sir; with us at sea it hath been still observed, and we are strong in custom. Therefore briefly yield her, for she must overboard straight.
+</SAILOR 1>
+

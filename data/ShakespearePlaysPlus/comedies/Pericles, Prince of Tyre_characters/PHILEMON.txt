@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 2><49%>
+<PHILEMON>	<50%>
+	Doth my lord call?
+</PHILEMON>
+

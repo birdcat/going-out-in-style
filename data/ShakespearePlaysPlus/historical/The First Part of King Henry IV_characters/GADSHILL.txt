@@ -1,0 +1,91 @@
+<SPEECH 1><ACT 2><SCENE 1><20%>
+<GADSHILL>	<21%>
+	Good morrow, carriers. What's o'clock?
+</GADSHILL>
+
+<SPEECH 2><ACT 2><SCENE 1><20%>
+<GADSHILL>	<21%>
+	I prithee, lend me thy lanthorn, to see my gelding in the stable.
+</GADSHILL>
+
+<SPEECH 3><ACT 2><SCENE 1><20%>
+<GADSHILL>	<21%>
+	I prithee, lend me thine.
+</GADSHILL>
+
+<SPEECH 4><ACT 2><SCENE 1><21%>
+<GADSHILL>	<21%>
+	Sirrah carrier, what time do you mean to come to London?
+</GADSHILL>
+
+<SPEECH 5><ACT 2><SCENE 1><21%>
+<GADSHILL>	<21%>
+	What, ho! chamberlain!
+</GADSHILL>
+
+<SPEECH 6><ACT 2><SCENE 1><21%>
+<GADSHILL>	<22%>
+	That's even as fair as, 'at hand, quoth the chamberlain'; for thou variest no more from picking of purses than giving direction doth from labouring; thou layest the plot how.
+
+</GADSHILL>
+
+<SPEECH 7><ACT 2><SCENE 1><21%>
+<GADSHILL>	<22%>
+	Sirrah, if they meet not with Saint Nicholas' clerks, I'll give thee this neck.
+</GADSHILL>
+
+<SPEECH 8><ACT 2><SCENE 1><21%>
+<GADSHILL>	<22%>
+	What talkest thou to me of the hangman? If I hang I'll make a fat pair of gallows; for if I hang, old Sir John hangs with me, and thou knowest he's no starveling. Tut! there are other Troyans that thou dreamest not of, the which for sport sake are content to do the profession some grace; that would, if matters should be looked into, for their own credit sake make all whole. I am joined with no foot-land-rakers, no long-staff sixpenny strikers, none of these mad mustachio-purple-hued malt worms; but with nobility and tranquillity, burgomasters and great oneyers such as can hold in, such as will strike sooner than speak, and speak sooner than drink, and drink sooner than pray: and yet I lie; for they pray continually to their saint, the commonwealth; or, rather, not pray to her, but prey on her, for they ride up and down on her and make her their boots.
+</GADSHILL>
+
+<SPEECH 9><ACT 2><SCENE 1><22%>
+<GADSHILL>	<23%>
+	She will, she will; justice hath liquored her. We steal as in a castle, cock-sure; we have the receipt of fern-seed, we walk invisible.
+</GADSHILL>
+
+<SPEECH 10><ACT 2><SCENE 1><22%>
+<GADSHILL>	<23%>
+	Give me thy hand: thou shalt have a share in our purchase, as I am a true man.
+</GADSHILL>
+
+<SPEECH 11><ACT 2><SCENE 1><22%>
+<GADSHILL>	<23%>
+	Go to; homo is a common name to all men. Bid the ostler bring my gelding out of the stable. Farewell, you muddy knave.
+</GADSHILL>
+
+<SPEECH 12><ACT 2><SCENE 2><24%>
+<GADSHILL>	<25%>
+	Stand.
+</GADSHILL>
+
+<SPEECH 13><ACT 2><SCENE 2><24%>
+<GADSHILL>	<25%>
+	Case ye, case ye; on with your vizards: there's money of the king's coming down the hill; 'tis going to the king's exchequer.
+</GADSHILL>
+
+<SPEECH 14><ACT 2><SCENE 2><24%>
+<GADSHILL>	<25%>
+	There's enough to make us all.
+</GADSHILL>
+
+<SPEECH 15><ACT 2><SCENE 2><25%>
+<GADSHILL>	<25%>
+	Some eight or ten.
+</GADSHILL>
+
+<SPEECH 16><ACT 2><SCENE 4><36%>
+<GADSHILL>	<37%>
+	We four set upon some dozen,—
+</GADSHILL>
+
+<SPEECH 17><ACT 2><SCENE 4><36%>
+<GADSHILL>	<37%>
+	And bound them.
+</GADSHILL>
+
+<SPEECH 18><ACT 2><SCENE 4><37%>
+<GADSHILL>	<37%>
+	As we were sharing, some six or seven fresh men set upon us,—
+</GADSHILL>
+

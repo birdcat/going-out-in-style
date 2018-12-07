@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+<BOTH>	<24%>
+	Why, how are we censured?
+</BOTH>
+
+<SPEECH 2><ACT 2><SCENE 1><24%>
+<BOTH>	<24%>
+	Well, well, sir; well.
+</BOTH>
+

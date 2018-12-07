@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 1><SCENE 4><16%>
+<SON>	<16%>
+	Father, I know; and oft have shot at them,
+	Howe'er unfortunate I miss'd my aim.
+</SON>
+
+<SPEECH 2><ACT 1><SCENE 4><16%>
+<SON>	<17%>
+	Father, I warrant you; take you no care;
+	I'll never trouble you if I may spy them.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</SON>
+

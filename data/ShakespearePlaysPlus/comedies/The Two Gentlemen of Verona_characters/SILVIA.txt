@@ -1,0 +1,393 @@
+<SPEECH 1><ACT 2><SCENE 1><22%>
+<SILVIA>	<22%>
+	Sir Valentine and servant, to you two thousand.
+</SILVIA>
+
+<SPEECH 2><ACT 2><SCENE 1><22%>
+<SILVIA>	<22%>
+	I thank you, gentle servant. 'Tis very clerkly done.
+</SILVIA>
+
+<SPEECH 3><ACT 2><SCENE 1><22%>
+<SILVIA>	<22%>
+	Perchance you think too much of so much pains?
+</SILVIA>
+
+<SPEECH 4><ACT 2><SCENE 1><23%>
+<SILVIA>	<23%>
+	A pretty period! Well, I guess the sequel;
+	And yet I will not name it; and yet I care not;
+	And yet take this again; and yet I thank you,
+	Meaning henceforth to trouble you no more.
+</SILVIA>
+
+<SPEECH 5><ACT 2><SCENE 1><23%>
+<SILVIA>	<23%>
+	Yes, yes: the lines are very quaintly writ,
+	But since unwillingly, take them again:
+	Nay, take them.
+</SILVIA>
+
+<SPEECH 6><ACT 2><SCENE 1><23%>
+<SILVIA>	<23%>
+	Ay, ay; you writ them, sir, at my request,
+	But I will none of them; they are for you.
+	I would have had them writ more movingly.
+</SILVIA>
+
+<SPEECH 7><ACT 2><SCENE 1><23%>
+<SILVIA>	<23%>
+	And when it's writ, for my sake read it over:
+	And if it please you, so; if not, why, so.
+</SILVIA>
+
+<SPEECH 8><ACT 2><SCENE 1><23%>
+<SILVIA>	<23%>
+	Why, if it please you, take it for your labour:
+	And so, good morrow, servant.
+</SILVIA>
+
+<SPEECH 9><ACT 2><SCENE 4><29%>
+<SILVIA>	<29%>
+	Servant!
+</SILVIA>
+
+<SPEECH 10><ACT 2><SCENE 4><30%>
+<SILVIA>	<30%>
+	Servant, you are sad.
+</SILVIA>
+
+<SPEECH 11><ACT 2><SCENE 4><30%>
+<SILVIA>	<30%>
+	What, angry, Sir Thurio! do you change colour?
+</SILVIA>
+
+<SPEECH 12><ACT 2><SCENE 4><31%>
+<SILVIA>	<30%>
+	A fine volley of words, gentlemen, and quickly shot off.
+</SILVIA>
+
+<SPEECH 13><ACT 2><SCENE 4><31%>
+<SILVIA>	<30%>
+	Who is that, servant?
+</SILVIA>
+
+<SPEECH 14><ACT 2><SCENE 4><31%>
+<SILVIA>	<31%>
+	No more, gentlemen, no more. Here comes my father.
+
+</SILVIA>
+
+<SPEECH 15><ACT 2><SCENE 4><33%>
+<SILVIA>	<33%>
+	Belike that now she hath enfranchis'd them
+	Upon some other pawn for fealty.
+</SILVIA>
+
+<SPEECH 16><ACT 2><SCENE 4><33%>
+<SILVIA>	<33%>
+	Nay, then he should be blind; and, being blind,
+	How could he see his way to seek out you?
+</SILVIA>
+
+<SPEECH 17><ACT 2><SCENE 4><33%>
+<SILVIA>	<33%>
+	Have done, have done. Here comes the gentleman.
+
+</SILVIA>
+
+<SPEECH 18><ACT 2><SCENE 4><34%>
+<SILVIA>	<33%>
+	His worth is warrant for his welcome hither,
+	If this be he you oft have wish'd to hear from.
+</SILVIA>
+
+<SPEECH 19><ACT 2><SCENE 4><34%>
+<SILVIA>	<34%>
+	Too low a mistress for so high a servant.
+</SILVIA>
+
+<SPEECH 20><ACT 2><SCENE 4><34%>
+<SILVIA>	<34%>
+	And duty never yet did want his meed.
+	Servant, you are welcome to a worthless mistress.
+</SILVIA>
+
+<SPEECH 21><ACT 2><SCENE 4><34%>
+<SILVIA>	<34%>
+	That you are welcome?
+</SILVIA>
+
+<SPEECH 22><ACT 2><SCENE 4><35%>
+<SILVIA>	<34%>
+	I wait upon his pleasure. <STAGE DIR>
+<Exit Servant.>
+</STAGE DIR> Come, Sir Thurio,
+	Go with me. Once more, new servant, welcome:
+	I'll leave you to confer of home-affairs;
+	When you have done, we look to hear from you.
+</SILVIA>
+
+<SPEECH 23><ACT 4><SCENE 2><74%>
+<SILVIA>	<74%>
+	I thank you for your music, gentlemen.
+	Who is that that spake?
+</SILVIA>
+
+<SPEECH 24><ACT 4><SCENE 2><74%>
+<SILVIA>	<74%>
+	Sir Proteus, as I take it.
+</SILVIA>
+
+<SPEECH 25><ACT 4><SCENE 2><74%>
+<SILVIA>	<74%>
+	What is your will?
+</SILVIA>
+
+<SPEECH 26><ACT 4><SCENE 2><75%>
+<SILVIA>	<74%>
+	You have your wish; my will is even this:
+	That presently you hie you home to bed.
+	Thou subtle, perjur'd, false, disloyal man!
+	Think'st thou I am so shallow, so conceitless,
+	To be seduced by thy flattery,
+	That hast deceiv'd so many with thy vows?
+	Return, return, and make thy love amends.
+	For me, by this pale queen of night I swear,
+	I am so far from granting thy request
+	That I despise thee for thy wrongful suit,
+	And by and by intend to chide myself
+	Even for this time I spend in talking to thee.
+</SILVIA>
+
+<SPEECH 27><ACT 4><SCENE 2><75%>
+<SILVIA>	<75%>
+	Say that she be; yet Valentine thy friend
+	Survives; to whom, thyself art witness
+	I am betroth'd: and art thou not asham'd
+	To wrong him with thy importunacy?
+</SILVIA>
+
+<SPEECH 28><ACT 4><SCENE 2><75%>
+<SILVIA>	<75%>
+	And so suppose am I; for in his grave, Assure thyself my love is buried.
+</SILVIA>
+
+<SPEECH 29><ACT 4><SCENE 2><75%>
+<SILVIA>	<75%>
+	Go to thy lady's grave and call hers thence;
+	Or, at the least, in hers sepulchre thine.
+</SILVIA>
+
+<SPEECH 30><ACT 4><SCENE 2><76%>
+<SILVIA>	<76%>
+	I am very loath to be your idol, sir;
+	But, since your falsehood shall become you well
+	To worship shadows and adore false shapes,
+	Send to me in the morning and I'll send it.
+	And so, good rest.
+</SILVIA>
+
+<SPEECH 31><ACT 4><SCENE 3><77%>
+<SILVIA>	<77%>
+	Who calls?
+</SILVIA>
+
+<SPEECH 32><ACT 4><SCENE 3><77%>
+<SILVIA>	<77%>
+	Sir Eglamour, a thousand times good morrow.
+</SILVIA>
+
+<SPEECH 33><ACT 4><SCENE 3><77%>
+<SILVIA>	<77%>
+	O Eglamour, thou art a gentleman—
+	Think not I flatter, for I swear I do not—
+	Valiant, wise, remorseful, well-accomplish'd.
+	Thou art not ignorant what dear good will
+	I bear unto the banish'd Valentine,
+	Nor how my father would enforce me marry
+	Vain Thurio, whom my very soul abhors.
+	Thyself hast lov'd; and I have heard thee say
+	No grief did ever come so near thy heart
+	As when thy lady and thy true love died,
+	Upon whose grave thou vow'dst pure chastity.
+	Sir Eglamour, I would to Valentine,
+	To Mantua, where, I hear he makes abode;
+	And, for the ways are dangerous to pass,
+	I do desire thy worthy company,
+	Upon whose faith and honour I repose.
+	Urge not my father's anger, Eglamour,
+	But think upon my grief, a lady's grief,
+	And on the justice of my flying hence,
+	To keep me from a most unholy match,
+	Which heaven and fortune still rewards with plagues.
+	I do desire thee, even from a heart
+	As full of sorrows as the sea of sands,
+	To bear me company and go with me:
+	If not, to hide what I have said to thee,
+	That I may venture to depart alone.
+</SILVIA>
+
+<SPEECH 34><ACT 4><SCENE 3><78%>
+<SILVIA>	<78%>
+	This evening coming.
+</SILVIA>
+
+<SPEECH 35><ACT 4><SCENE 3><78%>
+<SILVIA>	<78%>
+	At Friar Patrick's cell,
+	Where I intend holy confession.
+</SILVIA>
+
+<SPEECH 36><ACT 4><SCENE 3><79%>
+<SILVIA>	<79%>
+	Good morrow, kind Sir Eglamour.
+</SILVIA>
+
+<SPEECH 37><ACT 4><SCENE 4><83%>
+<SILVIA>	<84%>
+	What would you with her, if that I be she?
+</SILVIA>
+
+<SPEECH 38><ACT 4><SCENE 4><84%>
+<SILVIA>	<84%>
+	From whom?
+</SILVIA>
+
+<SPEECH 39><ACT 4><SCENE 4><84%>
+<SILVIA>	<84%>
+	O! he sends you for a picture?
+</SILVIA>
+
+<SPEECH 40><ACT 4><SCENE 4><84%>
+<SILVIA>	<84%>
+	Ursula, bring my picture there.
+<STAGE DIR>
+<A picture brought.>
+</STAGE DIR>
+	Go, give your master this: tell him from me,
+	One Julia, that his changing thoughts forget,
+	Would better fit his chamber than this shadow.
+</SILVIA>
+
+<SPEECH 41><ACT 4><SCENE 4><84%>
+<SILVIA>	<84%>
+	I pray thee, let me look on that again.
+</SILVIA>
+
+<SPEECH 42><ACT 4><SCENE 4><84%>
+<SILVIA>	<84%>
+	There, hold.
+	I will not look upon your master's lines:
+	I know, they are stuff'd with protestations
+	And full of new-found oaths, which he will break
+	As easily as I do tear his paper.
+</SILVIA>
+
+<SPEECH 43><ACT 4><SCENE 4><84%>
+<SILVIA>	<85%>
+	The more shame for him that he sends it me;
+	For, I have heard him say a thousand times,
+	His Julia gave it him at his departure.
+	Though his false finger have profan'd the ring,
+	Mine shall not do his Julia so much wrong.
+</SILVIA>
+
+<SPEECH 44><ACT 4><SCENE 4><85%>
+<SILVIA>	<85%>
+	What say'st thou?
+</SILVIA>
+
+<SPEECH 45><ACT 4><SCENE 4><85%>
+<SILVIA>	<85%>
+	Dost thou know her?
+</SILVIA>
+
+<SPEECH 46><ACT 4><SCENE 4><85%>
+<SILVIA>	<85%>
+	Belike, she thinks, that Proteus hath forsook her.
+</SILVIA>
+
+<SPEECH 47><ACT 4><SCENE 4><85%>
+<SILVIA>	<85%>
+	Is she not passing fair?
+</SILVIA>
+
+<SPEECH 48><ACT 4><SCENE 4><85%>
+<SILVIA>	<86%>
+	How tall was she?
+</SILVIA>
+
+<SPEECH 49><ACT 4><SCENE 4><86%>
+<SILVIA>	<86%>
+	She is beholding to thee, gentle youth.—
+	Alas, poor lady, desolate and left!
+	I weep myself to think upon thy words.
+	Here, youth, there is my purse: I give thee this
+	For thy sweet mistress' sake, because thou lov'st her.
+	Farewell.
+</SILVIA>
+
+<SPEECH 50><ACT 5><SCENE 1><88%>
+<SILVIA>	<88%>
+	Amen, amen! go on, good Eglamour,
+	Out at the postern by the abbey-wall.
+	I fear I am attended by some spies.
+</SILVIA>
+
+<SPEECH 51><ACT 5><SCENE 3><91%>
+<SILVIA>	<91%>
+	A thousand more mischances than this one
+	Have learn'd me how to brook this patiently.
+</SILVIA>
+
+<SPEECH 52><ACT 5><SCENE 3><92%>
+<SILVIA>	<92%>
+	O Valentine! this I endure for thee.
+</SILVIA>
+
+<SPEECH 53><ACT 5><SCENE 4><93%>
+<SILVIA>	<94%>
+	O, miserable, unhappy that I am!
+</SILVIA>
+
+<SPEECH 54><ACT 5><SCENE 4><93%>
+<SILVIA>	<94%>
+	By thy approach thou mak'st me most unhappy.
+</SILVIA>
+
+<SPEECH 55><ACT 5><SCENE 4><93%>
+<SILVIA>	<94%>
+	Had I been seized by a hungry lion,
+	I would have been a breakfast to the beast,
+	Rather than have false Proteus rescue me.
+	O! heaven be judge how I love Valentine,
+	Whose life's as tender to me as my soul,
+	And full as much—for more there cannot be—
+	I do detest false perjur'd Proteus.
+	Therefore be gone, solicit me no more.
+</SILVIA>
+
+<SPEECH 56><ACT 5><SCENE 4><94%>
+<SILVIA>	<94%>
+	When Proteus cannot love where he's belov'd.
+	Read over Julia's heart, thy first best love,
+	For whose dear sake thou didst then rend thy faith
+	Into a thousand oaths; and all those oaths
+	Descended into perjury to love me.
+	Thou hast no faith left now, unless thou'dst two,
+	And that's far worse than none: better have none
+	Than plural faith which is too much by one.
+	Thou counterfeit to thy true friend!
+</SILVIA>
+
+<SPEECH 57><ACT 5><SCENE 4><94%>
+<SILVIA>	<95%>
+	All men but Proteus.
+</SILVIA>
+
+<SPEECH 58><ACT 5><SCENE 4><94%>
+<SILVIA>	<95%>
+	O heaven!
+</SILVIA>
+

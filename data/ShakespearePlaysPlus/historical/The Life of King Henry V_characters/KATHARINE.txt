@@ -1,0 +1,166 @@
+<SPEECH 1><ACT 3><SCENE 4><38%>
+<KATHARINE>	<39%>
+	Alice, tu as esté en Angleterre, et tu parles bien le langage.
+</KATHARINE>
+
+<SPEECH 2><ACT 3><SCENE 4><38%>
+<KATHARINE>	<39%>
+	Je te prie, m'enseignez; il faut que j'apprenne à parler. Comment appellez vous la main en Anglois?
+</KATHARINE>
+
+<SPEECH 3><ACT 3><SCENE 4><38%>
+<KATHARINE>	<39%>
+	De hand. Et les doigts?
+</KATHARINE>
+
+<SPEECH 4><ACT 3><SCENE 4><38%>
+<KATHARINE>	<39%>
+	La main, de hand; les doigts, de fingres. Je pense que je suis le bon escolier. J'ai gagné deux mots d'Anglois vistement. Comment appellez vous les ongles?
+</KATHARINE>
+
+<SPEECH 5><ACT 3><SCENE 4><38%>
+<KATHARINE>	<40%>
+	De nails. Escoutez; dites moy, si je parle bien: de hands, de fingres, et de nails.
+</KATHARINE>
+
+<SPEECH 6><ACT 3><SCENE 4><38%>
+<KATHARINE>	<40%>
+	Dites moy l'Anglois pour le bras.
+</KATHARINE>
+
+<SPEECH 7><ACT 3><SCENE 4><38%>
+<KATHARINE>	<40%>
+	Et le coude?
+</KATHARINE>
+
+<SPEECH 8><ACT 3><SCENE 4><38%>
+<KATHARINE>	<40%>
+	De elbow. Je m'en fais la répétition de tous les mots que vous m'avez appris dès à présent.
+</KATHARINE>
+
+<SPEECH 9><ACT 3><SCENE 4><38%>
+<KATHARINE>	<40%>
+	Excusez moy, Alice; escoutez: de hand, de fingres, de nails, de arma, de bilbow.
+</KATHARINE>
+
+<SPEECH 10><ACT 3><SCENE 4><39%>
+<KATHARINE>	<40%>
+	O Seigneur Dieu! je m'en oublie; de elbow. Comment appellez vous le col?
+</KATHARINE>
+
+<SPEECH 11><ACT 3><SCENE 4><39%>
+<KATHARINE>	<40%>
+	De nick. Et le menton?
+</KATHARINE>
+
+<SPEECH 12><ACT 3><SCENE 4><39%>
+<KATHARINE>	<40%>
+	De sin. Le col, de nick: le menton, de sin.
+</KATHARINE>
+
+<SPEECH 13><ACT 3><SCENE 4><39%>
+<KATHARINE>	<40%>
+	Je ne doute point d'apprendre par la grace de Dieu, et en peu de temps.
+</KATHARINE>
+
+<SPEECH 14><ACT 3><SCENE 4><39%>
+<KATHARINE>	<40%>
+	Non, je reciteray à vous promptement.
+	De hand, de fingre, de mails,—
+</KATHARINE>
+
+<SPEECH 15><ACT 3><SCENE 4><39%>
+<KATHARINE>	<40%>
+	De nails, de arme, de ilbow.
+</KATHARINE>
+
+<SPEECH 16><ACT 3><SCENE 4><39%>
+<KATHARINE>	<40%>
+	Ainsi dis je; d'elbow, de nick, et de sin. Comment appellez vous le pied et la robe?
+</KATHARINE>
+
+<SPEECH 17><ACT 3><SCENE 4><39%>
+<KATHARINE>	<40%>
+	De foot, et de coun? O Seigneur Dieu! ces sont mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d'honneur d'user. Je ne voudrois prononcer ces mots devant les seigneurs de France, pour tout le monde. Foh! le foot, et le coun. Néantmoins je reciterai une autre fois ma leçon ensemble: de hand, de fingre, de nails, d'arm, d'elbow, de nick, de sin, de foot, de coun.
+</KATHARINE>
+
+<SPEECH 18><ACT 3><SCENE 4><39%>
+<KATHARINE>	<41%>
+	C'est assez pour une fois: allons nous à diner.
+</KATHARINE>
+
+<SPEECH 19><ACT 5><SCENE 2><91%>
+<KATHARINE>	<91%>
+	Your majesty sall mock at me; I cannot speak your England.
+</KATHARINE>
+
+<SPEECH 20><ACT 5><SCENE 2><91%>
+<KATHARINE>	<91%>
+	Pardonnez moy, I cannot tell vat is 'like me.'
+</KATHARINE>
+
+<SPEECH 21><ACT 5><SCENE 2><91%>
+<KATHARINE>	<91%>
+	Que dit-il? que je suis semblable à les anges?
+</KATHARINE>
+
+<SPEECH 22><ACT 5><SCENE 2><91%>
+<KATHARINE>	<91%>
+	O bon Dieu! les langues des hommes sont pleines des tromperies.
+</KATHARINE>
+
+<SPEECH 23><ACT 5><SCENE 2><92%>
+<KATHARINE>	<92%>
+	Sauf vostre honneur, me understand vell.
+</KATHARINE>
+
+<SPEECH 24><ACT 5><SCENE 2><93%>
+<KATHARINE>	<93%>
+	Is it possible dat I sould love de enemy of France?
+</KATHARINE>
+
+<SPEECH 25><ACT 5><SCENE 2><93%>
+<KATHARINE>	<93%>
+	I cannot tell vat is dat.
+</KATHARINE>
+
+<SPEECH 26><ACT 5><SCENE 2><93%>
+<KATHARINE>	<94%>
+	Sauf vostre honneur, le François que vous parlez est meilleur que l'Anglois lequel je parle.
+</KATHARINE>
+
+<SPEECH 27><ACT 5><SCENE 2><93%>
+<KATHARINE>	<94%>
+	I cannot tell.
+</KATHARINE>
+
+<SPEECH 28><ACT 5><SCENE 2><94%>
+<KATHARINE>	<94%>
+	I do not know dat.
+</KATHARINE>
+
+<SPEECH 29><ACT 5><SCENE 2><94%>
+<KATHARINE>	<95%>
+	Your majesté ave fausse French enough to deceive de most sage demoiselle dat is en France.
+</KATHARINE>
+
+<SPEECH 30><ACT 5><SCENE 2><95%>
+<KATHARINE>	<96%>
+	Dat is as it sall please de roy mon père.
+</KATHARINE>
+
+<SPEECH 31><ACT 5><SCENE 2><95%>
+<KATHARINE>	<96%>
+	Den it sall also content me.
+</KATHARINE>
+
+<SPEECH 32><ACT 5><SCENE 2><95%>
+<KATHARINE>	<96%>
+	Laissez, mon seigneur, laissez, laissez! Ma foy, je ne veux point que vous abaissez vostre grandeur, en baisant la main d'une vostre indigne serviteure: excusez moy, je vous supplie, mon très puissant seigneur.
+</KATHARINE>
+
+<SPEECH 33><ACT 5><SCENE 2><95%>
+<KATHARINE>	<96%>
+	Les dames, et demoiselles, pour estre baisées devant leur noces, il n'est pas la coutume de France.
+</KATHARINE>
+

@@ -1,0 +1,78 @@
+<SPEECH 1><ACT 4><SCENE 4><72%>
+<CLARENCE>	<73%>
+	What would my lord and father?
+</CLARENCE>
+
+<SPEECH 2><ACT 4><SCENE 4><73%>
+<CLARENCE>	<73%>
+	I shall observe him with all care and love.
+</CLARENCE>
+
+<SPEECH 3><ACT 4><SCENE 4><73%>
+<CLARENCE>	<73%>
+	He is not there to-day; he dines in London.
+</CLARENCE>
+
+<SPEECH 4><ACT 4><SCENE 4><73%>
+<CLARENCE>	<73%>
+	With Poins and other his continual followers.
+</CLARENCE>
+
+<SPEECH 5><ACT 4><SCENE 4><75%>
+<CLARENCE>	<75%>
+	O my royal father!
+</CLARENCE>
+
+<SPEECH 6><ACT 4><SCENE 4><75%>
+<CLARENCE>	<75%>
+	No, no; he cannot long hold out these pangs:
+	The incessant care and labour of his mind
+	Hath wrought the mure that should confine it in
+	So thin, that life looks through and will break out.
+</CLARENCE>
+
+<SPEECH 7><ACT 4><SCENE 4><75%>
+<CLARENCE>	<76%>
+	The river hath thrice flow'd, no ebb between;
+	And the old folk, time's doting chronicles,
+	Say it did so a little time before
+	That our great-grandsire, Edward, sick'd and died.
+</CLARENCE>
+
+<SPEECH 8><ACT 4><SCENE 5><76%>
+<CLARENCE>	<76%>
+	His eye is hollow, and he changes much.
+</CLARENCE>
+
+<SPEECH 9><ACT 4><SCENE 5><76%>
+<CLARENCE>	<76%>
+	I am here, brother, full of heaviness.
+</CLARENCE>
+
+<SPEECH 10><ACT 4><SCENE 5><76%>
+<CLARENCE>	<77%>
+	Let us withdraw into the other room.
+</CLARENCE>
+
+<SPEECH 11><ACT 4><SCENE 5><77%>
+<CLARENCE>	<78%>
+	Doth the king call?
+</CLARENCE>
+
+<SPEECH 12><ACT 4><SCENE 5><77%>
+<CLARENCE>	<78%>
+	We left the prince my brother here, my liege,
+	Who undertook to sit and watch by you.
+</CLARENCE>
+
+<SPEECH 13><ACT 5><SCENE 2><86%>
+<CLARENCE>	<87%>
+	Good morrow, cousin.
+</CLARENCE>
+
+<SPEECH 14><ACT 5><SCENE 2><87%>
+<CLARENCE>	<87%>
+	Well, you must now speak Sir John Falstaff fair,
+	Which swims against your stream of quality.
+</CLARENCE>
+

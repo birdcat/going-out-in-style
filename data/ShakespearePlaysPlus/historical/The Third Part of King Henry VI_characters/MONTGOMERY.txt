@@ -1,0 +1,99 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<MONTGOMERY>	<1%>
+	And, brother, here's the Earl of Wiltshire's blood,
+<STAGE DIR>
+<To York, showing his.>
+</STAGE DIR>
+	Whom I encounter'd as the battles join'd.
+</MONTGOMERY>
+
+<SPEECH 2><ACT 1><SCENE 1><4%>
+<MONTGOMERY>	<5%>
+<STAGE DIR>
+<To York.>
+</STAGE DIR> Good brother, as thou lov'st and honour'st arms,
+	Let's fight it out and not stand cavilling thus.
+</MONTGOMERY>
+
+<SPEECH 3><ACT 1><SCENE 1><8%>
+<MONTGOMERY>	<8%>
+	And I unto the sea from whence I came.
+</MONTGOMERY>
+
+<SPEECH 4><ACT 1><SCENE 2><10%>
+<MONTGOMERY>	<10%>
+	But I have reasons strong and forcible.
+
+</MONTGOMERY>
+
+<SPEECH 5><ACT 1><SCENE 2><12%>
+<MONTGOMERY>	<12%>
+	Brother, I go; I'll win them, fear it not:
+	And thus most humbly I do take my leave.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</MONTGOMERY>
+
+<SPEECH 6><ACT 4><SCENE 1><63%>
+<MONTGOMERY>	<64%>
+	Yet to have join'd with France in such alliance
+	Would more have strengthen'd this our commonwealth
+	'Gainst foreign storms, than any home-bred marriage.
+</MONTGOMERY>
+
+<SPEECH 7><ACT 4><SCENE 1><63%>
+<MONTGOMERY>	<64%>
+	Yes; but the safer when 'tis back'd with France.
+</MONTGOMERY>
+
+<SPEECH 8><ACT 4><SCENE 1><67%>
+<MONTGOMERY>	<67%>
+	So God help Montague as he proves true!
+</MONTGOMERY>
+
+<SPEECH 9><ACT 4><SCENE 7><78%>
+<MONTGOMERY>	<78%>
+	To help King Edward in his time of storm,
+	As every loyal subject ought to do.
+</MONTGOMERY>
+
+<SPEECH 10><ACT 4><SCENE 7><78%>
+<MONTGOMERY>	<79%>
+	Then fare you well, for I will hence again:
+	I came to serve a king and not a duke.
+	Drummer, strike up, and let us march away.
+</MONTGOMERY>
+
+<SPEECH 11><ACT 4><SCENE 7><78%>
+<MONTGOMERY>	<79%>
+	What talk you of debating? in few words,
+	If you'll not here proclaim yourself our king.
+	I'll leave you to your fortune, and be gone
+	To keep them back that come to succour you.
+	Why shall we fight, if you pretend no title?
+</MONTGOMERY>
+
+<SPEECH 12><ACT 4><SCENE 7><79%>
+<MONTGOMERY>	<79%>
+	Ay, now my sov'reign speaketh like himself;
+	And now will I be Edward's champion.
+</MONTGOMERY>
+
+<SPEECH 13><ACT 4><SCENE 7><79%>
+<MONTGOMERY>	<79%>
+	And whosoe'er gainsays King Edward's right,
+	By this I challenge him to single fight.
+</MONTGOMERY>
+
+<SPEECH 14><ACT 4><SCENE 8><80%>
+<MONTGOMERY>	<81%>
+	Comfort, my lord; and so, I take my leave.
+</MONTGOMERY>
+
+<SPEECH 15><ACT 5><SCENE 1><84%>
+<MONTGOMERY>	<85%>
+	Montague, Montague, for Lancaster!
+</MONTGOMERY>
+

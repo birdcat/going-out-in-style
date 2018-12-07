@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 1><SCENE 2><5%>
+<ATTENDANT 1>	<6%>
+	The man from Sicyon, is there such an one?
+</ATTENDANT 1>
+
+<SPEECH 2><ACT 3><SCENE XI.— ><63%>
+<ATTENDANT 1>	<63%>
+	Soundly, my lord.
+</ATTENDANT 1>
+
+<SPEECH 3><ACT 3><SCENE XI.— ><63%>
+<ATTENDANT 1>	<63%>
+	He did ask favour.
+</ATTENDANT 1>
+

@@ -1,0 +1,80 @@
+<SPEECH 1><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	Ay, sir, when he goes before me.
+</SERVANT>
+
+<SPEECH 2><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	Sir, I do depend upon the Lord.
+</SERVANT>
+
+<SPEECH 3><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	The Lord be praised!
+</SERVANT>
+
+<SPEECH 4><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	Faith, sir, superficially.
+</SERVANT>
+
+<SPEECH 5><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	I hope I shall know your honour better.
+</SERVANT>
+
+<SPEECH 6><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	You are in the state of grace.
+</SERVANT>
+
+<SPEECH 7><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	I do but partly know, sir: it is music in parts.
+</SERVANT>
+
+<SPEECH 8><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	Wholly, sir.
+</SERVANT>
+
+<SPEECH 9><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	To the hearers, sir.
+</SERVANT>
+
+<SPEECH 10><ACT 3><SCENE 1><40%>
+<SERVANT>	<41%>
+	At mine, sir, and theirs that love music.
+</SERVANT>
+
+<SPEECH 11><ACT 3><SCENE 1><41%>
+<SERVANT>	<41%>
+	Who shall I command, sir?
+</SERVANT>
+
+<SPEECH 12><ACT 3><SCENE 1><41%>
+<SERVANT>	<41%>
+	That's to't, indeed, sir. Marry, sir, at the request of Paris my lord, who is there in person; with him the mortal Venus, the heartblood of beauty, love's invisible soul.
+</SERVANT>
+
+<SPEECH 13><ACT 3><SCENE 1><41%>
+<SERVANT>	<42%>
+	No, sir, Helen: could you not find out that by her attributes?
+</SERVANT>
+
+<SPEECH 14><ACT 3><SCENE 1><41%>
+<SERVANT>	<42%>
+	Sodden business: there's a stewed phrase, indeed.
+
+</SERVANT>
+
+<SPEECH 15><ACT 5><SCENE 5><93%>
+<SERVANT>	<93%>
+	I go, my lord.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</SERVANT>
+

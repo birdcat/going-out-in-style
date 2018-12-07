@@ -1,0 +1,428 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+<GONERIL>	<2%>
+	Sir, I love you more than words can wield the matter;
+	Dearer than eye-sight, space, and liberty;
+	Beyond what can be valu'd, rich or rare;
+	No less than life, with grace, health, beauty, honour;
+	As much as child e'er lov'd, or father found;
+	A love that makes breath poor and speech unable;
+	Beyond all manner of so much I love you.
+</GONERIL>
+
+<SPEECH 2><ACT 1><SCENE 1><8%>
+<GONERIL>	<8%>
+	Let your study
+	Be to content your lord, who hath receiv'd you
+	At fortune's alms; you have obedience scanted,
+	And well are worth the want that you have wanted.
+</GONERIL>
+
+<SPEECH 3><ACT 1><SCENE 1><8%>
+<GONERIL>	<9%>
+	Sister, it is not little I have to say of what most nearly appertains to us both. I think our father will hence to-night.
+</GONERIL>
+
+<SPEECH 4><ACT 1><SCENE 1><8%>
+<GONERIL>	<9%>
+	You see how full of changes his age is; the observation we have made of it hath not been little: he always loved our sister most; and with what poor judgment he hath now cast her off appears too grossly.
+</GONERIL>
+
+<SPEECH 5><ACT 1><SCENE 1><8%>
+<GONERIL>	<9%>
+	The best and soundest of his time hath been but rash; then, must we look to receive from his age, not alone the imperfections of long-engraffed condition, but, therewithal the unruly waywardness that infirm and choleric years bring with them.
+</GONERIL>
+
+<SPEECH 6><ACT 1><SCENE 1><8%>
+<GONERIL>	<9%>
+	There is further compliment of leave-taking between France and him. Pray you, let us hit together: if our father carry authority with such dispositions as he bears, this last surrender of his will but offend us.
+</GONERIL>
+
+<SPEECH 7><ACT 1><SCENE 1><9%>
+<GONERIL>	<9%>
+	We must do something, and i' the heat.
+</GONERIL>
+
+<SPEECH 8><ACT 1><SCENE 3><14%>
+<GONERIL>	<15%>
+	Did my father strike my gentleman for chiding of his fool?
+</GONERIL>
+
+<SPEECH 9><ACT 1><SCENE 3><14%>
+<GONERIL>	<15%>
+	By day and night he wrongs me; every hour
+	He flashes into one gross crime or other,
+	That sets us all at odds: I'll not endure it:
+	His knights grow riotous, and himself upbraids us
+	On every trifle. When he returns from hunting
+	I will not speak with him; say I am sick:
+	If you come slack of former services,
+	You shall do well; the fault of it I'll answer.
+</GONERIL>
+
+<SPEECH 10><ACT 1><SCENE 3><15%>
+<GONERIL>	<15%>
+	Put on what weary negligence you please,
+	You and your fellows; I'd have it come to question:
+	If he distaste it, let him to my sister,
+	Whose mind and mine, I know, in that are one,
+	Not to be over-rul'd. Idle old man,
+	That still would manage those authorities
+	That he hath given away! Now, by my life,
+	Old fools are babes again, and must be us'd
+	With cheeks as flatteries, when they are seen abus'd.
+	Remember what I have said.
+</GONERIL>
+
+<SPEECH 11><ACT 1><SCENE 3><15%>
+<GONERIL>	<16%>
+	And let his knights have colder looks among you;
+	What grown of it, no matter; advise your fellows so:
+	I would breed from hence occasions, and I shall,
+	That I may speak: I'll write straight to my sister
+	To hold my very source. Prepare for dinner.
+</GONERIL>
+
+<SPEECH 12><ACT 1><SCENE 4><21%>
+<GONERIL>	<21%>
+	Not only, sir, this your all-licens'd fool,
+	But other of your insolent retinue
+	Do hourly carp and quarrel, breaking forth
+	In rank and not-to-be-endured riots. Sir,
+	I had thought, by making this well known unto you,
+	To have found a safe redress; but now grow fearful,
+	By what yourself too late have spoke and done.
+	That you protect this course, and put it on
+	By your allowance; which if you should, the fault
+	Would not 'scape censure, nor the redresses sleep,
+	Which, in the tender of a wholesome weal,
+	Might in their working do you that offence,
+	Which else were shame, that then necessity
+	Will call discreet proceeding.
+</GONERIL>
+
+<SPEECH 13><ACT 1><SCENE 4><21%>
+<GONERIL>	<22%>
+	I would you would make use of your good wisdom,
+	Whereof I know you are fraught; and put away
+	These dispositions which of late transform you
+	From what you rightly are.
+</GONERIL>
+
+<SPEECH 14><ACT 1><SCENE 4><22%>
+<GONERIL>	<22%>
+	This admiration, sir, is much o' the favour
+	Of other your new pranks. I do beseech you
+	To understand my purposes aright:
+	As you are old and reverend, should be wise.
+	Here do you keep a hundred knights and squires;
+	Men so disorder'd, so debosh'd, and bold,
+	That this our court, infected with their manners,
+	Shows like a riotous inn: epicurism and lust
+	Make it more like a tavern or a brothel
+	Than a grac'd palace. The shame itself doth speak
+	For instant remedy; be then desir'd
+	By her that else will take the thing she begs,
+	A little to disquantity your train;
+	And the remainder, that shall still depend,
+	To be such men as may besort your age,
+	Which know themselves and you.
+</GONERIL>
+
+<SPEECH 15><ACT 1><SCENE 4><22%>
+<GONERIL>	<23%>
+	You strike my people, and your disorder'd rabble
+	Make servants of their betters.
+
+</GONERIL>
+
+<SPEECH 16><ACT 1><SCENE 4><23%>
+<GONERIL>	<24%>
+	Never afflict yourself to know the cause;
+	But let his disposition have that scope
+	That dotage gives it.
+
+</GONERIL>
+
+<SPEECH 17><ACT 1><SCENE 4><24%>
+<GONERIL>	<25%>
+	Do you mark that?
+</GONERIL>
+
+<SPEECH 18><ACT 1><SCENE 4><24%>
+<GONERIL>	<25%>
+	Pray you, content. What, Oswald, ho!
+<STAGE DIR>
+<To the Fool.>
+</STAGE DIR> You, sir, more knave than fool, after your master.
+</GONERIL>
+
+<SPEECH 19><ACT 1><SCENE 4><24%>
+<GONERIL>	<25%>
+	This man hath had good counsel. A hundred knights!
+	'Tis politic and safe to let him keep
+	At point a hundred knights; yes, that on every dream,
+	Each buzz, each fancy, each complaint, dislike,
+	He may enguard his dotage with their powers,
+	And hold our lives in mercy. Oswald, I say!
+</GONERIL>
+
+<SPEECH 20><ACT 1><SCENE 4><24%>
+<GONERIL>	<25%>
+	Safer than trust too far.
+	Let me still take away the harms I fear,
+	Not fear still to be taken: I know his heart.
+	What he hath utter'd I have writ my sister;
+	If she sustain him and his hundred knights,
+	When I have show'd the unfitness,—
+
+<STAGE DIR>
+<Re-enter Oswald.>
+</STAGE DIR>
+	How now, Oswald!
+</GONERIL>
+
+<SPEECH 21><ACT 1><SCENE 4><24%>
+<GONERIL>	<25%>
+	Take you some company, and away to horse:
+	Inform her full of my particular fear;
+	And thereto add such reasons of your own
+	As may compact it more. Get you gone,
+	And hasten your return. <STAGE DIR>
+<Exit Oswald.>
+</STAGE DIR> No, no, my lord,
+	This milky gentleness and course of yours
+	Though I condemn not, yet, under pardon,
+	You are much more attask'd for want of wisdom
+	Than prais'd for harmful mildness.
+</GONERIL>
+
+<SPEECH 22><ACT 1><SCENE 4><25%>
+<GONERIL>	<26%>
+	Nay, then—
+</GONERIL>
+
+<SPEECH 23><ACT 2><SCENE 4><42%>
+<GONERIL>	<43%>
+	Why not by the hand, sir? How have I offended?
+	All's not offence that indiscretion finds
+	And dotage terms so.
+</GONERIL>
+
+<SPEECH 24><ACT 2><SCENE 4><43%>
+<GONERIL>	<43%>
+	At your choice, sir.
+</GONERIL>
+
+<SPEECH 25><ACT 2><SCENE 4><43%>
+<GONERIL>	<44%>
+	Why might not you, my lord, receive attendance
+	From those that she calls servants, or from mine?
+</GONERIL>
+
+<SPEECH 26><ACT 2><SCENE 4><44%>
+<GONERIL>	<45%>
+	Hear me, my lord.
+	What need you five-and-twenty, ten, or five,
+	To follow in a house, where twice so many
+	Have a command to tend you?
+</GONERIL>
+
+<SPEECH 27><ACT 2><SCENE 4><45%>
+<GONERIL>	<46%>
+	'Tis his own blame; hath put himself from rest,
+	And must needs taste his folly.
+</GONERIL>
+
+<SPEECH 28><ACT 2><SCENE 4><45%>
+<GONERIL>	<46%>
+	So am I purpos'd.
+	Where is my Lord of Gloucester?
+</GONERIL>
+
+<SPEECH 29><ACT 2><SCENE 4><45%>
+<GONERIL>	<46%>
+	My lord, entreat him by no means to stay.
+</GONERIL>
+
+<SPEECH 30><ACT 3><SCENE 7><60%>
+<GONERIL>	<62%>
+	Pluck out his eyes.
+</GONERIL>
+
+<SPEECH 31><ACT 3><SCENE 7><61%>
+<GONERIL>	<62%>
+	Farewell, sweet lord, and sister.
+</GONERIL>
+
+<SPEECH 32><ACT 4><SCENE 2><67%>
+<GONERIL>	<68%>
+	Welcome, my lord; I marvel our mild husband
+	Not met us on the way. <STAGE DIR>
+<Enter Oswald.>
+</STAGE DIR> Now, where's your master?
+</GONERIL>
+
+<SPEECH 33><ACT 4><SCENE 2><67%>
+<GONERIL>	<68%>
+<STAGE DIR>
+<To Edmund.>
+</STAGE DIR> Then, shall you go no further.
+	It is the cowish terror of his spirit
+	That dares not undertake; he'll not feel wrongs
+	Which tie him to an answer. Our wishes on the way
+	May prove effects. Back, Edmund, to my brother;
+	Hasten his musters and conduct his powers:
+	I must change arms at home, and give the distaff
+	Into my husband's hands. This trusty servant
+	Shall pass between us; ere long you are like to hear,
+	If you dare venture in your own behalf,
+	A mistress's command. Wear this; spare speech;
+<STAGE DIR>
+<Giving a favour.>
+</STAGE DIR>
+	Decline your head: this kiss, if it durst speak,
+	Would stretch thy spirits up into the air.
+	Conceive, and fare thee well.
+</GONERIL>
+
+<SPEECH 34><ACT 4><SCENE 2><67%>
+<GONERIL>	<69%>
+	My most dear Gloucester!
+<STAGE DIR>
+<Exit Edmund.>
+</STAGE DIR>
+	O! the difference of man and man!
+	To thee a woman's services are due:
+	My fool usurps my bed.
+</GONERIL>
+
+<SPEECH 35><ACT 4><SCENE 2><68%>
+<GONERIL>	<69%>
+	I have been worth the whistle.
+</GONERIL>
+
+<SPEECH 36><ACT 4><SCENE 2><68%>
+<GONERIL>	<69%>
+	No more; the text is foolish.
+</GONERIL>
+
+<SPEECH 37><ACT 4><SCENE 2><68%>
+<GONERIL>	<69%>
+	Milk-liver'd man!
+	That bear'st a cheek for blows, a head for wrongs;
+	Who hast not in thy brows an eye discerning
+	Thine honour from thy suffering; that not know'st
+	Fools do those villains pity who are punish'd
+	Ere they have done their mischief. Where's thy drum?
+	France spreads his banners in our noiseless land,
+	With plumed helm thy slayer begins threats,
+	Whilst thou, a moral fool, sitt'st still, and criest
+	'Alack! why does he so?'
+</GONERIL>
+
+<SPEECH 38><ACT 4><SCENE 2><69%>
+<GONERIL>	<70%>
+	O vain fool!
+</GONERIL>
+
+<SPEECH 39><ACT 4><SCENE 2><69%>
+<GONERIL>	<70%>
+	Marry, your manhood.—Mew!
+
+</GONERIL>
+
+<SPEECH 40><ACT 4><SCENE 2><69%>
+<GONERIL>	<70%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> One way I like this well;
+	But being widow, and my Gloucester with her,
+	May all the building in my fancy pluck
+	Upon my hateful life: another way,
+	This news is not so tart. <STAGE DIR>
+<To Messenger.>
+</STAGE DIR> I'll read and answer.
+</GONERIL>
+
+<SPEECH 41><ACT 5><SCENE 1><86%>
+<GONERIL>	<87%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> I had rather lose the battle than that sister
+	Should loosen him and me.
+</GONERIL>
+
+<SPEECH 42><ACT 5><SCENE 1><87%>
+<GONERIL>	<87%>
+	Combine together 'gainst the enemy;
+	For these domestic and particular broils
+	Are not the question here.
+</GONERIL>
+
+<SPEECH 43><ACT 5><SCENE 1><87%>
+<GONERIL>	<88%>
+	No.
+</GONERIL>
+
+<SPEECH 44><ACT 5><SCENE 1><87%>
+<GONERIL>	<88%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> 
+	O, ho! I know the riddle. 
+<STAGE DIR>
+<Aloud.> 
+</STAGE DIR>
+I will go.
+
+</GONERIL>
+
+<SPEECH 45><ACT 5><SCENE 3><91%>
+<GONERIL>	<91%>
+	Not so hot;
+	In his own grace he doth exalt himself
+	More than in your addition.
+</GONERIL>
+
+<SPEECH 46><ACT 5><SCENE 3><91%>
+<GONERIL>	<92%>
+	That were the most, if he should husband you.
+</GONERIL>
+
+<SPEECH 47><ACT 5><SCENE 3><91%>
+<GONERIL>	<92%>
+	Holla, holla!
+	That eye that told you so look'd but a-squint.
+</GONERIL>
+
+<SPEECH 48><ACT 5><SCENE 3><91%>
+<GONERIL>	<92%>
+	Mean you to enjoy him?
+</GONERIL>
+
+<SPEECH 49><ACT 5><SCENE 3><92%>
+<GONERIL>	<92%>
+	An interlude!
+</GONERIL>
+
+<SPEECH 50><ACT 5><SCENE 3><92%>
+<GONERIL>	<92%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> If not, I'll ne'er trust medicine.
+</GONERIL>
+
+<SPEECH 51><ACT 5><SCENE 3><94%>
+<GONERIL>	<94%>
+	This is practice, Gloucester:
+	By the law of arms thou wast not bound to answer
+	An unknown opposite; thou art not vanquish'd,
+	But cozen'd and beguil'd.
+</GONERIL>
+
+<SPEECH 52><ACT 5><SCENE 3><94%>
+<GONERIL>	<95%>
+	Say, if I do, the laws are mine, not thine:
+	Who can arraign me for 't?
+</GONERIL>
+

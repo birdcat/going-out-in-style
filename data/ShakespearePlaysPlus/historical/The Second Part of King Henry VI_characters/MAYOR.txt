@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 1><26%>
+<MAYOR>	<26%>
+	Yes, my lord, if it please your Grace.
+</MAYOR>
+
+<SPEECH 2><ACT 2><SCENE 1><26%>
+<MAYOR>	<26%>
+	Sirrah, go fetch the beadle hither straight.
+</MAYOR>
+

@@ -1,0 +1,628 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+<CELIA>	<7%>
+	I pray thee, Rosalind, sweet my coz, be merry.
+</CELIA>
+
+<SPEECH 2><ACT 1><SCENE 2><6%>
+<CELIA>	<7%>
+	Herein I see thou lovest me not with the full weight that I love thee. If my uncle, thy banished father, had banished thy uncle, the duke my father, so thou hadst been still with me, I could have taught my love to take thy father for mine: so wouldst thou, if the truth of thy love to me were so righteously tempered as mine is to thee.
+</CELIA>
+
+<SPEECH 3><ACT 1><SCENE 2><7%>
+<CELIA>	<7%>
+	You know my father hath no child but I, nor none is like to have; and, truly, when he dies, thou shalt be his heir: for what he hath taken away from thy father perforce, I will render thee again in affection; by mine honour, I will; and when I break that oath, let me turn monster. Therefore, my sweet Rose, my dear Rose, be merry.
+</CELIA>
+
+<SPEECH 4><ACT 1><SCENE 2><7%>
+<CELIA>	<8%>
+	Marry, I prithee, do, to make sport withal: but love no man in good earnest; nor no further in sport neither, than with safety of a pure blush thou mayst in honour come off again.
+</CELIA>
+
+<SPEECH 5><ACT 1><SCENE 2><7%>
+<CELIA>	<8%>
+	Let us sit and mock the good housewife Fortune from her wheel, that her gifts may henceforth be bestowed equally.
+</CELIA>
+
+<SPEECH 6><ACT 1><SCENE 2><7%>
+<CELIA>	<8%>
+	'Tis true; for those that she makes fair she scarce makes honest, and those that she makes honest she makes very ill-favouredly.
+</CELIA>
+
+<SPEECH 7><ACT 1><SCENE 2><8%>
+<CELIA>	<8%>
+	No? when Nature hath made a fair creature, may she not by Fortune fall into the fire? Though Nature hath given us wit to flout at Fortune, hath not Fortune sent in this fool to cut off the argument?
+</CELIA>
+
+<SPEECH 8><ACT 1><SCENE 2><8%>
+<CELIA>	<9%>
+	Peradventure this is not Fortune's work neither, but Nature's; who, perceiving our natural wits too dull to reason of such goddesses, hath sent this natural for our whetstone: for always the dulness of the fool is the whetstone of the wits. How now, wit! whither wander you?
+</CELIA>
+
+<SPEECH 9><ACT 1><SCENE 2><8%>
+<CELIA>	<9%>
+	Were you made the messenger?
+</CELIA>
+
+<SPEECH 10><ACT 1><SCENE 2><8%>
+<CELIA>	<9%>
+	How prove you that, in the great heap of your knowledge?
+</CELIA>
+
+<SPEECH 11><ACT 1><SCENE 2><9%>
+<CELIA>	<9%>
+	By our beards, if we had them, thou art.
+</CELIA>
+
+<SPEECH 12><ACT 1><SCENE 2><9%>
+<CELIA>	<10%>
+	Prithee, who is't that thou meanest?
+</CELIA>
+
+<SPEECH 13><ACT 1><SCENE 2><9%>
+<CELIA>	<10%>
+	My father's love is enough to honour him. Enough! speak no more of him; you'll be whipped for taxation one of these days.
+</CELIA>
+
+<SPEECH 14><ACT 1><SCENE 2><9%>
+<CELIA>	<10%>
+	By my troth, thou sayest true; for since the little wit that fools have was silenced, the little foolery that wise men have makes a great show. Here comes Monsieur Le Beau.
+</CELIA>
+
+<SPEECH 15><ACT 1><SCENE 2><9%>
+<CELIA>	<10%>
+	Which he will put on us, as pigeons feed their young.
+</CELIA>
+
+<SPEECH 16><ACT 1><SCENE 2><9%>
+<CELIA>	<10%>
+	All the better; we shall be more marketable.
+
+</CELIA>
+
+<SPEECH 17><ACT 1><SCENE 2><10%>
+<CELIA>	<10%>
+	Sport! Of what colour?
+</CELIA>
+
+<SPEECH 18><ACT 1><SCENE 2><10%>
+<CELIA>	<10%>
+	Well said: that was laid on with a trowel.
+</CELIA>
+
+<SPEECH 19><ACT 1><SCENE 2><10%>
+<CELIA>	<11%>
+	Well, the beginning, that is dead and buried.
+</CELIA>
+
+<SPEECH 20><ACT 1><SCENE 2><10%>
+<CELIA>	<11%>
+	I could match this beginning with an old tale.
+</CELIA>
+
+<SPEECH 21><ACT 1><SCENE 2><11%>
+<CELIA>	<11%>
+	Or I, I promise thee.
+</CELIA>
+
+<SPEECH 22><ACT 1><SCENE 2><11%>
+<CELIA>	<12%>
+	Yonder, sure, they are coming: let us now stay and see it.
+
+</CELIA>
+
+<SPEECH 23><ACT 1><SCENE 2><11%>
+<CELIA>	<12%>
+	Alas! he is too young: yet he looks successfully.
+</CELIA>
+
+<SPEECH 24><ACT 1><SCENE 2><12%>
+<CELIA>	<12%>
+	Call him hither, good Monsieur le Beau.
+</CELIA>
+
+<SPEECH 25><ACT 1><SCENE 2><12%>
+<CELIA>	<13%>
+	Young gentleman, your spirits are too bold for your years. You have seen cruel proof of this man's strength: if you saw yourself with your eyes or knew yourself with your judgment, the fear of your adventure would counsel you to a more equal enterprise. We pray you, for your own sake, to embrace your own safety and give over this attempt.
+</CELIA>
+
+<SPEECH 26><ACT 1><SCENE 2><13%>
+<CELIA>	<14%>
+	And mine, to eke out hers.
+</CELIA>
+
+<SPEECH 27><ACT 1><SCENE 2><13%>
+<CELIA>	<14%>
+	Your heart's desires be with you!
+</CELIA>
+
+<SPEECH 28><ACT 1><SCENE 2><13%>
+<CELIA>	<14%>
+	I would I were invisible, to catch the strong fellow by the leg.
+</CELIA>
+
+<SPEECH 29><ACT 1><SCENE 2><14%>
+<CELIA>	<14%>
+	If I had a thunderbolt in mine eye, I can tell who should down.
+</CELIA>
+
+<SPEECH 30><ACT 1><SCENE 2><14%>
+<CELIA>	<15%>
+	Were I my father, coz, would I do this?
+</CELIA>
+
+<SPEECH 31><ACT 1><SCENE 2><15%>
+<CELIA>	<15%>
+	Gentle cousin,
+	Let us go thank him and encourage him:
+	My father's rough and envious disposition
+	Sticks me at heart. Sir, you have well deserv'd:
+	If you do keep your promises in love
+	But justly, as you have exceeded all promise,
+	Your mistress shall be happy.
+</CELIA>
+
+<SPEECH 32><ACT 1><SCENE 2><15%>
+<CELIA>	<15%>
+	Ay. Fare you well, fair gentleman.
+</CELIA>
+
+<SPEECH 33><ACT 1><SCENE 2><15%>
+<CELIA>	<16%>
+	Will you go, coz?
+</CELIA>
+
+<SPEECH 34><ACT 1><SCENE 3><17%>
+<CELIA>	<17%>
+	Why, cousin! why, Rosalind! Cupid have mercy! Not a word?
+</CELIA>
+
+<SPEECH 35><ACT 1><SCENE 3><17%>
+<CELIA>	<17%>
+	No, thy words are too precious to be cast away upon curs; throw some of them at me; come, lame me with reasons.
+</CELIA>
+
+<SPEECH 36><ACT 1><SCENE 3><17%>
+<CELIA>	<17%>
+	But is all this for your father?
+</CELIA>
+
+<SPEECH 37><ACT 1><SCENE 3><17%>
+<CELIA>	<18%>
+	They are but burrs, cousin, thrown upon thee in holiday foolery: if we walk not in the trodden paths, our very petticoats will catch them.
+</CELIA>
+
+<SPEECH 38><ACT 1><SCENE 3><17%>
+<CELIA>	<18%>
+	Hem them away.
+</CELIA>
+
+<SPEECH 39><ACT 1><SCENE 3><17%>
+<CELIA>	<18%>
+	Come, come; wrestle with thy affections.
+</CELIA>
+
+<SPEECH 40><ACT 1><SCENE 3><17%>
+<CELIA>	<18%>
+	O, a good wish upon you! you will try in time, in despite of a fall. But, turning these jests out of service, let us talk in good earnest: is it possible, on such a sudden, you should fall into so strong a liking with old Sir Rowland's youngest son?
+</CELIA>
+
+<SPEECH 41><ACT 1><SCENE 3><18%>
+<CELIA>	<18%>
+	Doth it therefore ensue that you should love his son dearly? By this kind of chase, I should hate him, for my father hated his father dearly; yet I hate not Orlando.
+</CELIA>
+
+<SPEECH 42><ACT 1><SCENE 3><18%>
+<CELIA>	<18%>
+	Why should I not? doth he not deserve well?
+</CELIA>
+
+<SPEECH 43><ACT 1><SCENE 3><18%>
+<CELIA>	<18%>
+	With his eyes full of anger.
+
+</CELIA>
+
+<SPEECH 44><ACT 1><SCENE 3><19%>
+<CELIA>	<19%>
+	Dear sovereign, hear me speak.
+</CELIA>
+
+<SPEECH 45><ACT 1><SCENE 3><19%>
+<CELIA>	<20%>
+	I did not then entreat to have her stay:
+	It was your pleasure and your own remorse.
+	I was too young that time to value her;
+	But now I know her: if she be a traitor,
+	Why so am I; we still have slept together,
+	Rose at an instant, learn'd, play'd, eat together;
+	And wheresoe'er we went, like Juno's swans,
+	Still we went coupled and inseparable.
+</CELIA>
+
+<SPEECH 46><ACT 1><SCENE 3><20%>
+<CELIA>	<20%>
+	Pronounce that sentence then, on me, my liege:
+	I cannot live out of her company.
+</CELIA>
+
+<SPEECH 47><ACT 1><SCENE 3><20%>
+<CELIA>	<20%>
+	O my poor Rosalind! whither wilt thou go?
+	Wilt thou change fathers? I will give thee mine.
+	I charge thee, be not thou more griev'd than I am.
+</CELIA>
+
+<SPEECH 48><ACT 1><SCENE 3><20%>
+<CELIA>	<20%>
+	Thou hast not, cousin;
+	Prithee, be cheerful; know'st thou not, the duke
+	Hath banish'd me, his daughter?
+</CELIA>
+
+<SPEECH 49><ACT 1><SCENE 3><20%>
+<CELIA>	<21%>
+	No, hath not? Rosalind lacks then the love
+	Which teacheth thee that thou and I am one:
+	Shall we be sunder'd? shall we part, sweet girl?
+	No: let my father seek another heir.
+	Therefore devise with me how we may fly,
+	Whither to go, and what to bear with us:
+	And do not seek to take your change upon you,
+	To bear your griefs yourself and leave me out;
+	For, by this heaven, now at our sorrows pale,
+	Say what thou canst, I'll go along with thee.
+</CELIA>
+
+<SPEECH 50><ACT 1><SCENE 3><21%>
+<CELIA>	<21%>
+	To seek my uncle in the forest of Arden.
+</CELIA>
+
+<SPEECH 51><ACT 1><SCENE 3><21%>
+<CELIA>	<21%>
+	I'll put myself in poor and mean attire,
+	And with a kind of umber smirch my face;
+	The like do you: so shall we pass along
+	And never stir assailants.
+</CELIA>
+
+<SPEECH 52><ACT 1><SCENE 3><21%>
+<CELIA>	<22%>
+	What shall I call thee when thou art a man?
+</CELIA>
+
+<SPEECH 53><ACT 1><SCENE 3><21%>
+<CELIA>	<22%>
+	Something that hath a reference to my state:
+	No longer Celia, but Aliena.
+</CELIA>
+
+<SPEECH 54><ACT 1><SCENE 3><21%>
+<CELIA>	<22%>
+	He'll go along o'er the wide world with me;
+	Leave me alone to woo him. Let's away,
+	And get our jewels and our wealth together,
+	Devise the fittest time and safest way
+	To hide us from pursuit that will be made
+	After my flight. Now go we in content
+	To liberty and not to banishment.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</CELIA>
+
+<SPEECH 55><ACT 2><SCENE 4><28%>
+<CELIA>	<29%>
+	I pray you, bear with me: I cannot go no further.
+</CELIA>
+
+<SPEECH 56><ACT 2><SCENE 4><30%>
+<CELIA>	<30%>
+	I pray you, one of you question yond man,
+	If he for gold will give us any food:
+	I faint almost to death.
+</CELIA>
+
+<SPEECH 57><ACT 2><SCENE 4><31%>
+<CELIA>	<32%>
+	And we will mend thy wages. I like this place,
+	And willingly could waste my time in it.
+</CELIA>
+
+<SPEECH 58><ACT 3><SCENE 2><46%>
+<CELIA>	<47%>
+
+	Why should this a desert be?
+	For it is unpeopled? No;
+	Tongues I'll hang on every tree,
+	That shall civil sayings show.
+	Some, how brief the life of man
+	Runs his erring pilgrimage,
+	That the stretching of a span
+	Buckles in his sum of age;
+	Some, of violated vows
+	'Twixt the souls of friend and friend:
+	But upon the fairest boughs,
+	Or at every sentence' end,
+	Will I Rosalinda write;
+	Teaching all that read to know
+	The quintessence of every sprite
+	Heaven would in little show.
+	Therefore Heaven Nature charg'd
+	That one body should be fill'd
+	With all graces wide enlarg'd:
+	Nature presently distill'd
+	Helen's cheek, but not her heart,
+	Cleopatra's majesty,
+	Atalanta's better part,
+	Sad Lucretia's modesty.
+	Thus Rosalind of many parts
+	By heavenly synod was devis'd
+	Of many faces, eyes, and hearts,
+	To have the touches dearest priz'd.
+	Heaven would that she these gifts should have,
+	And I to live and die her slave.
+
+</CELIA>
+
+<SPEECH 59><ACT 3><SCENE 2><47%>
+<CELIA>	<48%>
+	How now! back, friends! Shepherd, go off a little: go with him, sirrah.
+</CELIA>
+
+<SPEECH 60><ACT 3><SCENE 2><47%>
+<CELIA>	<48%>
+	Didst thou hear these verses?
+</CELIA>
+
+<SPEECH 61><ACT 3><SCENE 2><47%>
+<CELIA>	<48%>
+	That's no matter: the feet might bear the verses.
+</CELIA>
+
+<SPEECH 62><ACT 3><SCENE 2><47%>
+<CELIA>	<48%>
+	But didst thou hear without wondering, how thy name should be hanged and carved upon these trees?
+</CELIA>
+
+<SPEECH 63><ACT 3><SCENE 2><47%>
+<CELIA>	<49%>
+	Trow you who hath done this?
+</CELIA>
+
+<SPEECH 64><ACT 3><SCENE 2><48%>
+<CELIA>	<49%>
+	And a chain, that you once wore, about his neck. Change you colour?
+</CELIA>
+
+<SPEECH 65><ACT 3><SCENE 2><48%>
+<CELIA>	<49%>
+	O Lord, Lord! it is a hard matter for friends to meet; but mountains may be removed with earthquakes, and so encounter.
+</CELIA>
+
+<SPEECH 66><ACT 3><SCENE 2><48%>
+<CELIA>	<49%>
+	Is it possible?
+</CELIA>
+
+<SPEECH 67><ACT 3><SCENE 2><48%>
+<CELIA>	<49%>
+	O wonderful, wonderful, and most wonderful wonderful! and yet again wonderful! and after that, out of all whooping!
+</CELIA>
+
+<SPEECH 68><ACT 3><SCENE 2><48%>
+<CELIA>	<49%>
+	So you may put a man in your belly.
+</CELIA>
+
+<SPEECH 69><ACT 3><SCENE 2><48%>
+<CELIA>	<49%>
+	Nay, he hath but a little beard.
+</CELIA>
+
+<SPEECH 70><ACT 3><SCENE 2><49%>
+<CELIA>	<50%>
+	It is young Orlando, that tripped up the wrestler's heels and your heart both, in an instant.
+</CELIA>
+
+<SPEECH 71><ACT 3><SCENE 2><49%>
+<CELIA>	<50%>
+	I' faith, coz, 'tis he.
+</CELIA>
+
+<SPEECH 72><ACT 3><SCENE 2><49%>
+<CELIA>	<50%>
+	Orlando.
+</CELIA>
+
+<SPEECH 73><ACT 3><SCENE 2><49%>
+<CELIA>	<50%>
+	You must borrow me Gargantua's mouth first: 'tis a word too great for any mouth of this age's size. To say ay and no to these particulars is more than to answer in a catechism.
+</CELIA>
+
+<SPEECH 74><ACT 3><SCENE 2><49%>
+<CELIA>	<50%>
+	It is as easy to count atomies as to resolve the propositions of a lover; but take a taste of my finding him, and relish it with good observance. I found him under a tree, like a dropped acorn.
+</CELIA>
+
+<SPEECH 75><ACT 3><SCENE 2><50%>
+<CELIA>	<50%>
+	Give me audience, good madam.
+</CELIA>
+
+<SPEECH 76><ACT 3><SCENE 2><50%>
+<CELIA>	<51%>
+	There lay he, stretch'd along like a wounded knight.
+</CELIA>
+
+<SPEECH 77><ACT 3><SCENE 2><50%>
+<CELIA>	<51%>
+	Cry 'holla!' to thy tongue, I prithee; it curvets unseasonably. He was furnish'd like a hunter.
+</CELIA>
+
+<SPEECH 78><ACT 3><SCENE 2><50%>
+<CELIA>	<51%>
+	I would sing my song without a burthen: thou bringest me out of tune.
+</CELIA>
+
+<SPEECH 79><ACT 3><SCENE 2><50%>
+<CELIA>	<51%>
+	You bring me out. Soft! comes he not here?
+</CELIA>
+
+<SPEECH 80><ACT 3><SCENE 4><60%>
+<CELIA>	<61%>
+	Do, I prithee; but yet have the grace to consider that tears do not become a man.
+</CELIA>
+
+<SPEECH 81><ACT 3><SCENE 4><60%>
+<CELIA>	<61%>
+	As good cause as one would desire; therefore weep.
+</CELIA>
+
+<SPEECH 82><ACT 3><SCENE 4><61%>
+<CELIA>	<61%>
+	Something browner than Judas's; marry, his kisses are Judas's own children.
+</CELIA>
+
+<SPEECH 83><ACT 3><SCENE 4><61%>
+<CELIA>	<61%>
+	An excellent colour: your chesnut was ever the only colour.
+</CELIA>
+
+<SPEECH 84><ACT 3><SCENE 4><61%>
+<CELIA>	<61%>
+	He hath bought a pair of cast lips of Diana: a nun of winter's sisterhood kisses not more religiously; the very ice of chastity is in them.
+</CELIA>
+
+<SPEECH 85><ACT 3><SCENE 4><61%>
+<CELIA>	<62%>
+	Nay, certainly, there is no truth in him.
+</CELIA>
+
+<SPEECH 86><ACT 3><SCENE 4><61%>
+<CELIA>	<62%>
+	Yes: I think he is not a pick-purse nor a horse-stealer; but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut.
+</CELIA>
+
+<SPEECH 87><ACT 3><SCENE 4><61%>
+<CELIA>	<62%>
+	Yes, when he is in; but I think he is not in.
+</CELIA>
+
+<SPEECH 88><ACT 3><SCENE 4><61%>
+<CELIA>	<62%>
+	'Was' is not 'is:' besides, the oath of a lover is no stronger than the word of a tapster; they are both the confirmers of false reckonings. He attends here in the forest on the duke your father.
+</CELIA>
+
+<SPEECH 89><ACT 3><SCENE 4><62%>
+<CELIA>	<62%>
+	O, that's a brave man! he writes brave verses, speaks brave words, swears brave oaths, and breaks them bravely, quite traverse, athwart the heart of his lover; as a puisny tilter, that spurs his horse but on one side, breaks his staff like a noble goose. But all's brave that youth mounts and folly guides. Who comes here?
+
+</CELIA>
+
+<SPEECH 90><ACT 3><SCENE 4><62%>
+<CELIA>	<63%>
+	Well, and what of him?
+</CELIA>
+
+<SPEECH 91><ACT 4><SCENE 1><70%>
+<CELIA>	<70%>
+	It pleases him to call you so; but he hath a Rosalind of a better leer than you.
+</CELIA>
+
+<SPEECH 92><ACT 4><SCENE 1><72%>
+<CELIA>	<72%>
+	I cannot say the words.
+</CELIA>
+
+<SPEECH 93><ACT 4><SCENE 1><72%>
+<CELIA>	<72%>
+	Go to.—Will you, Orlando, have to wife this Rosalind?
+</CELIA>
+
+<SPEECH 94><ACT 4><SCENE 1><74%>
+<CELIA>	<75%>
+	You have simply misused our sex in your love-prate: we must have your doublot and hose plucked over your head, and show the world what the bird hath done to her own nest.
+</CELIA>
+
+<SPEECH 95><ACT 4><SCENE 1><75%>
+<CELIA>	<75%>
+	Or rather, bottomless; that as fast as you pour affection in, it runs out.
+</CELIA>
+
+<SPEECH 96><ACT 4><SCENE 1><75%>
+<CELIA>	<76%>
+	And I'll sleep.
+</CELIA>
+
+<SPEECH 97><ACT 4><SCENE 3><76%>
+<CELIA>	<76%>
+	I warrant you, with pure love and a troubled brain, he hath ta'en his bow and arrows, and is gone forth to sleep. Look, who comes here.
+
+</CELIA>
+
+<SPEECH 98><ACT 4><SCENE 3><78%>
+<CELIA>	<79%>
+	Alas, poor shepherd!
+</CELIA>
+
+<SPEECH 99><ACT 4><SCENE 3><79%>
+<CELIA>	<79%>
+	West of this place, down in the neighbour bottom:
+	The rank of osiers by the murmuring stream
+	Left on your right hand brings you to the place.
+	But at this hour the house doth keep itself;
+	There's none within.
+</CELIA>
+
+<SPEECH 100><ACT 4><SCENE 3><79%>
+<CELIA>	<79%>
+	It is no boast, being ask'd, to say, we are.
+</CELIA>
+
+<SPEECH 101><ACT 4><SCENE 3><79%>
+<CELIA>	<80%>
+	I pray you, tell it.
+</CELIA>
+
+<SPEECH 102><ACT 4><SCENE 3><80%>
+<CELIA>	<81%>
+	O! I have heard him speak of that same brother;
+	And he did render him the most unnatural
+	That liv'd 'mongst men.
+</CELIA>
+
+<SPEECH 103><ACT 4><SCENE 3><80%>
+<CELIA>	<81%>
+	Are you his brother?
+</CELIA>
+
+<SPEECH 104><ACT 4><SCENE 3><81%>
+<CELIA>	<81%>
+	Was't you that did so oft contrive to kill him?
+</CELIA>
+
+<SPEECH 105><ACT 4><SCENE 3><81%>
+<CELIA>	<82%>
+<STAGE DIR>
+<Rosalind swoons.>
+</STAGE DIR> Why, how now, Ganymede! sweet Ganymede!
+</CELIA>
+
+<SPEECH 106><ACT 4><SCENE 3><81%>
+<CELIA>	<82%>
+	There is more in it. Cousin! Ganymede!
+</CELIA>
+
+<SPEECH 107><ACT 4><SCENE 3><82%>
+<CELIA>	<82%>
+	We'll lead you thither. I pray you, will you take him by the arm?
+</CELIA>
+
+<SPEECH 108><ACT 4><SCENE 3><82%>
+<CELIA>	<83%>
+	Come; you look paler and paler: pray you, draw homewards. Good sir, go with us.
+</CELIA>
+

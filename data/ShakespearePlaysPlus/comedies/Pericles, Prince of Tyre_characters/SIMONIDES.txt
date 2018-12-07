@@ -1,0 +1,347 @@
+<SPEECH 1><ACT 2><SCENE 2><28%>
+<SIMONIDES>	<30%>
+	Are the knights ready to begin the triumph?
+</SIMONIDES>
+
+<SPEECH 2><ACT 2><SCENE 2><28%>
+<SIMONIDES>	<30%>
+	Return them, we are ready; and our daughter,
+	In honour of whose birth these triumphs are,
+	Sits here, like beauty's child, whom nature gat
+	For men to see, and seeing wonder at.
+</SIMONIDES>
+
+<SPEECH 3><ACT 2><SCENE 2><29%>
+<SIMONIDES>	<30%>
+	'Tis fit it should be so; for princes are
+	A model, which heaven makes like to itself:
+	As jewels lose their glory if neglected,
+	So princes their renowns if not respected.
+	'Tis now your honour, daughter, to explain
+	The labour of each knight in his device.
+</SIMONIDES>
+
+<SPEECH 4><ACT 2><SCENE 2><29%>
+<SIMONIDES>	<30%>
+	Who is the first that doth prefer himself?
+</SIMONIDES>
+
+<SPEECH 5><ACT 2><SCENE 2><29%>
+<SIMONIDES>	<31%>
+	He loves you well that holds his life of you.
+<STAGE DIR>
+<The Second Knight passes over.>
+</STAGE DIR>
+	Who is the second that presents himself?
+</SIMONIDES>
+
+<SPEECH 6><ACT 2><SCENE 2><30%>
+<SIMONIDES>	<31%>
+	And what's the third?
+</SIMONIDES>
+
+<SPEECH 7><ACT 2><SCENE 2><30%>
+<SIMONIDES>	<31%>
+	What is the fourth?
+</SIMONIDES>
+
+<SPEECH 8><ACT 2><SCENE 2><30%>
+<SIMONIDES>	<31%>
+	Which shows that beauty hath his power and will,
+	Which can as well inflame as it can kill.
+</SIMONIDES>
+
+<SPEECH 9><ACT 2><SCENE 2><30%>
+<SIMONIDES>	<31%>
+	And what 's
+	The sixth and last, the which the knight himself
+	With such a graceful courtesy deliver'd?
+</SIMONIDES>
+
+<SPEECH 10><ACT 2><SCENE 2><30%>
+<SIMONIDES>	<32%>
+	A pretty moral;
+	From the dejected state wherein he is,
+	He hopes by you his fortune yet may flourish.
+</SIMONIDES>
+
+<SPEECH 11><ACT 2><SCENE 2><31%>
+<SIMONIDES>	<32%>
+	Opinion's but a fool, that makes us scan
+	The outward habit by the inward man.
+	But stay, the knights are coming; we'll withdraw
+	Into the gallery.
+</SIMONIDES>
+
+<SPEECH 12><ACT 2><SCENE 3><31%>
+<SIMONIDES>	<33%>
+	Knights,
+	To say you're welcome were superfluous.
+	To place upon the volume of your deeds,
+	As in a title-page, your worth in arms,
+	Were more than you expect, or more than's fit,
+	Since every worth in show commends itself.
+	Prepare for mirth, for mirth becomes a feast:
+	You are princes and my guests.
+</SIMONIDES>
+
+<SPEECH 13><ACT 2><SCENE 3><32%>
+<SIMONIDES>	<33%>
+	Call it by what you will, the day is yours;
+	And here, I hope, is none that envies it.
+	In framing an artist art hath thus decreed,
+	To make some good, but others to exceed;
+	And you're her labour'd scholar. Come, queen o' the feast,—
+	For, daughter, so you are,—here take your place;
+	Marshal the rest, as they deserve their grace.
+</SIMONIDES>
+
+<SPEECH 14><ACT 2><SCENE 3><32%>
+<SIMONIDES>	<33%>
+	Your presence glads our days; honour we love,
+	For who hates honour, hates the gods above.
+</SIMONIDES>
+
+<SPEECH 15><ACT 2><SCENE 3><32%>
+<SIMONIDES>	<34%>
+	Sit, sir; sit.
+</SIMONIDES>
+
+<SPEECH 16><ACT 2><SCENE 3><33%>
+<SIMONIDES>	<34%>
+	He's but a country gentleman;
+	He has done no more than other knights have done;
+	He has broken a staff or so; so let it pass.
+</SIMONIDES>
+
+<SPEECH 17><ACT 2><SCENE 3><33%>
+<SIMONIDES>	<34%>
+	What, are you merry, knights?
+</SIMONIDES>
+
+<SPEECH 18><ACT 2><SCENE 3><33%>
+<SIMONIDES>	<35%>
+	Here, with a cup that's stor'd unto the brim,
+	As you do love, fill to your mistress' lips,
+	We drink this health to you.
+</SIMONIDES>
+
+<SPEECH 19><ACT 2><SCENE 3><34%>
+<SIMONIDES>	<35%>
+	Yet pause awhile;
+	Yon knight doth sit too melancholy,
+	As if the entertainment in our court
+	Had not a show might countervail his worth.
+	Note it not you, Thaisa?
+</SIMONIDES>
+
+<SPEECH 20><ACT 2><SCENE 3><34%>
+<SIMONIDES>	<35%>
+	O! attend, my daughter:
+	Princes in this should live like gods above,
+	Who freely give to every one that comes
+	To honour them;
+	And princes not doing so are like to gnats,
+	Which make a sound, but kill'd are wonder'd at.
+	Therefore to make his entrance more sweet,
+	Here say we drink this standing-bowl of wine to him.
+</SIMONIDES>
+
+<SPEECH 21><ACT 2><SCENE 3><34%>
+<SIMONIDES>	<35%>
+	How!
+	Do as I bid you, or you'll move me else.
+</SIMONIDES>
+
+<SPEECH 22><ACT 2><SCENE 3><34%>
+<SIMONIDES>	<35%>
+	And further tell him, we desire to know of him,
+	Of whence he is, his name, and parentage.
+</SIMONIDES>
+
+<SPEECH 23><ACT 2><SCENE 3><35%>
+<SIMONIDES>	<36%>
+	Now, by the gods, I pity his misfortune,
+	And will awake him from his melancholy.
+	Come, gentlemen, we sit too long on trifles,
+	And waste the time which looks for other revels.
+	Even in your armours, as you are address'd,
+	Will very well become a soldier's dance.
+	I will not have excuse, with saying this
+	Loud music is too harsh for ladies' heads
+	Since they love men in arms as well as beds.
+<STAGE DIR>
+<The Knights dance.>
+</STAGE DIR>
+	So this was well ask'd, 'twas so well perform'd.
+	Come, sir;
+	Here is a lady that wants breathing too:
+	And I have often heard, you knights of Tyre
+	Are excellent in making ladies trip,
+	And that their measures are as excellent.
+</SIMONIDES>
+
+<SPEECH 24><ACT 2><SCENE 3><36%>
+<SIMONIDES>	<37%>
+	O! that's as much as you would be denied
+	Of your fair courtesy.
+<STAGE DIR>
+<The Knights and Ladies dance.>
+</STAGE DIR>
+	Unclasp, unclasp;
+	Thanks, gentlemen, to all; all have done well,
+<STAGE DIR>
+<To Pericles.>
+</STAGE DIR> But you the best. Pages and lights, to conduct
+	These knights unto their several lodgings! Yours, sir,
+	We have given order to be next our own.
+</SIMONIDES>
+
+<SPEECH 25><ACT 2><SCENE 3><36%>
+<SIMONIDES>	<37%>
+	Princes, it is too late to talk of love,
+	And that's the mark I know you level at;
+	Therefore each one betake him to his rest;
+	To-morrow all for speeding do their best.
+</SIMONIDES>
+
+<SPEECH 26><ACT 2><SCENE 5><39%>
+<SIMONIDES>	<40%>
+	Knights, from my daughter this I let you know,
+	That for this twelvemonth she'll not undertake
+	A married life.
+	Her reason to herself is only known,
+	Which yet from her by no means can I get.
+</SIMONIDES>
+
+<SPEECH 27><ACT 2><SCENE 5><39%>
+<SIMONIDES>	<40%>
+	Faith, by no means; she hath so strictly tied
+	Her to her chamber that 'tis impossible.
+	One twelve moons more she'll wear Diana's livery;
+	This by the eye of Cynthia hath she vow'd,
+	And on her virgin honour will not break it.
+</SIMONIDES>
+
+<SPEECH 28><ACT 2><SCENE 5><40%>
+<SIMONIDES>	<41%>
+	So,
+	They're well dispatch'd; now to my daughter's letter.
+	She tells me here, she'll wed the stranger knight,
+	Or never more to view nor day nor light.
+	'Tis well, mistress; your choice agrees with mine;
+	I like that well: how absolute she's in 't,
+	Not minding whether I dislike or no!
+	Well, I do commend her choice;
+	And will no longer have it be delay'd.
+	Soft! here he comes: I must dissemble it.
+
+</SIMONIDES>
+
+<SPEECH 29><ACT 2><SCENE 5><40%>
+<SIMONIDES>	<41%>
+	To you as much, sir! I am beholding to you
+	For your sweet music this last night: I do
+	Protest my ears were never better fed
+	With such delightful pleasing harmony
+</SIMONIDES>
+
+<SPEECH 30><ACT 2><SCENE 5><40%>
+<SIMONIDES>	<41%>
+	Sir, you are music's master.
+</SIMONIDES>
+
+<SPEECH 31><ACT 2><SCENE 5><40%>
+<SIMONIDES>	<41%>
+	Let me ask you one thing.
+	What do you think of my daughter, sir?
+</SIMONIDES>
+
+<SPEECH 32><ACT 2><SCENE 5><40%>
+<SIMONIDES>	<41%>
+	And she is fair too, is she not?
+</SIMONIDES>
+
+<SPEECH 33><ACT 2><SCENE 5><41%>
+<SIMONIDES>	<42%>
+	My daughter, sir, thinks very well of you;
+	Ay, so well, that you must be her master,
+	And she will be your scholar: therefore look to it.
+</SIMONIDES>
+
+<SPEECH 34><ACT 2><SCENE 5><41%>
+<SIMONIDES>	<42%>
+	She thinks not so; peruse this writing else.
+</SIMONIDES>
+
+<SPEECH 35><ACT 2><SCENE 5><41%>
+<SIMONIDES>	<42%>
+	Thou hast bewitch'd my daughter, and thou art
+	A villain.
+</SIMONIDES>
+
+<SPEECH 36><ACT 2><SCENE 5><41%>
+<SIMONIDES>	<42%>
+	Traitor, thou liest.
+</SIMONIDES>
+
+<SPEECH 37><ACT 2><SCENE 5><41%>
+<SIMONIDES>	<42%>
+	Ay, traitor.
+</SIMONIDES>
+
+<SPEECH 38><ACT 2><SCENE 5><41%>
+<SIMONIDES>	<42%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Now, by the gods, I do applaud his courage.
+</SIMONIDES>
+
+<SPEECH 39><ACT 2><SCENE 5><42%>
+<SIMONIDES>	<43%>
+	No?
+	Here comes my daughter, she can witness it.
+
+</SIMONIDES>
+
+<SPEECH 40><ACT 2><SCENE 5><42%>
+<SIMONIDES>	<43%>
+	Yea, mistress, are you so peremptory?
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> I am glad on 't, with all my heart.
+	I'll tame you; I'll bring you in subjection.
+	Will you, not having my consent,
+	Bestow your love and your affections
+	Upon a stranger? <STAGE DIR>
+<Aside.>
+</STAGE DIR> who, for aught I know,
+	May be, nor can I think the contrary,
+	As great in blood as I myself.—
+<STAGE DIR>
+<Aloud.>
+</STAGE DIR> Therefore, hear you, mistress; either frame
+	Your will to mine; and you, sir, hear you,
+	Either be rul'd by me, or I will make you—
+	Man and wife: 
+	Nay, come, your hands and lips must seal it too;
+	And being join'd, I'll thus your hopes destroy;
+	And for a further grief,—God give you joy!
+	What! are you both pleas'd?
+</SIMONIDES>
+
+<SPEECH 41><ACT 2><SCENE 5><43%>
+<SIMONIDES>	<44%>
+	What! are you both agreed?
+</SIMONIDES>
+
+<SPEECH 42><ACT 2><SCENE 5><43%>
+<SIMONIDES>	<44%>
+	It pleaseth me so well, that I will see you wed;
+	Then with what haste you can get you to bed.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</SIMONIDES>
+

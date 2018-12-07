@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 5><SCENE 3><92%>
+<GHOST OF VAUGHAN>	<92%>
+<STAGE DIR>
+<To King Richard.>
+</STAGE DIR> Think upon Vaughan, and with guilty fear
+	Let fall thy pointless lance: despair, and die!—
+</GHOST OF VAUGHAN>
+

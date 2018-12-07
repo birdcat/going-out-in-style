@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 5><71%>
+<ALL>	<72%>
+	The Trojans' trumpet.
+</ALL>
+
+<SPEECH 2><ACT 5><SCENE 10><98%>
+<ALL>	<98%>
+	Hector! the gods forbid!
+</ALL>
+

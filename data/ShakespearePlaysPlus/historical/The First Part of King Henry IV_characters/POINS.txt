@@ -1,0 +1,196 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+<POINS>	<7%>
+	Good morrow, sweet Hal. What says Monsieur Remorse? What says Sir John Sack-and-Sugar? Jack! how agrees the devil and thee about thy soul, that thou soldest him on Good-Friday last for a cup of Madeira and a cold capon's leg?
+</POINS>
+
+<SPEECH 2><ACT 1><SCENE 2><7%>
+<POINS>	<7%>
+	Then art thou damned for keeping thy word with the devil.
+</POINS>
+
+<SPEECH 3><ACT 1><SCENE 2><7%>
+<POINS>	<8%>
+	But my lads, my lads, to-morrow morning, by four o'clock, early at Gadshill! There are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses: I have vizards for you all; you have horses for yourselves. Gadshill lies to night in Rochester; I have bespoke supper to-morrow night in Eastcheap: we may do it as secure as sleep. If you will go I will stuff your purses full of crowns; if you will not, tarry at home and be hanged.
+</POINS>
+
+<SPEECH 4><ACT 1><SCENE 2><7%>
+<POINS>	<8%>
+	You will, chops?
+</POINS>
+
+<SPEECH 5><ACT 1><SCENE 2><8%>
+<POINS>	<8%>
+	Sir John, I prithee, leave the prince and me alone: I will lay him down such reasons for this adventure that he shall go.
+</POINS>
+
+<SPEECH 6><ACT 1><SCENE 2><8%>
+<POINS>	<9%>
+	Now, my good sweet honey lord, ride with us to-morrow: I have a jest to execute that I cannot manage alone. Falstaff, Bardolph, Peto, and Gadshill shall rob those men that we have already waylaid; yourself and I will not be there; and when they have the booty, if you and I do not rob them, cut this head from my shoulders.
+</POINS>
+
+<SPEECH 7><ACT 1><SCENE 2><8%>
+<POINS>	<9%>
+	Why, we will set forth before or after them, and appoint them a place of meeting, wherein it is at our pleasure to fail; and then will they adventure upon the exploit themselves, which they shall have no sooner achieved but we'll set upon them.
+</POINS>
+
+<SPEECH 8><ACT 1><SCENE 2><9%>
+<POINS>	<9%>
+	Tut! our horses they shall not see, I'll tie them in the wood; our vizards we will change after we leave them; and, sirrah, I have cases of buckram for the nonce, to inmask our noted outward garments.
+</POINS>
+
+<SPEECH 9><ACT 1><SCENE 2><9%>
+<POINS>	<9%>
+	Well, for two of them, I know them to be as true-bred cowards as ever turned back; and for the third, if he fight longer than he sees reason, I'll forswear arms. The virtue of this jest will be, the incomprehensible lies that this same fat rogue will tell us when we meet at supper: how thirty, at least, he fought with; what wards, what blows, what extremities he endured; and in the reproof of this lies the jest.
+</POINS>
+
+<SPEECH 10><ACT 1><SCENE 2><9%>
+<POINS>	<10%>
+	Farewell, my lord.
+</POINS>
+
+<SPEECH 11><ACT 2><SCENE 2><23%>
+<POINS>	<23%>
+	Come, shelter, shelter: I have removed Falstaff's horse, and he frets like a gummed velvet.
+</POINS>
+
+<SPEECH 12><ACT 2><SCENE 2><24%>
+<POINS>	<25%>
+	O! 'tis our setter: I know his voice.
+
+</POINS>
+
+<SPEECH 13><ACT 2><SCENE 2><25%>
+<POINS>	<25%>
+	Sirrah Jack, thy horse stands behind the hedge: when thou needst him there thou shalt find him. Farewell, and stand fast.
+</POINS>
+
+<SPEECH 14><ACT 2><SCENE 2><25%>
+<POINS>	<26%>
+	Here, hard by; stand close.
+</POINS>
+
+<SPEECH 15><ACT 2><SCENE 2><26%>
+<POINS>	<26%>
+	Stand close; I hear them coming.
+
+</POINS>
+
+<SPEECH 16><ACT 2><SCENE 2><26%>
+<POINS>	<27%>
+	Villains!
+</POINS>
+
+<SPEECH 17><ACT 2><SCENE 2><27%>
+<POINS>	<27%>
+	How the rogue roar'd!
+</POINS>
+
+<SPEECH 18><ACT 2><SCENE 4><31%>
+<POINS>	<31%>
+	Where hast been, Hal?
+</POINS>
+
+<SPEECH 19><ACT 2><SCENE 4><32%>
+<POINS>	<32%>
+	Francis!
+</POINS>
+
+<SPEECH 20><ACT 2><SCENE 4><32%>
+<POINS>	<32%>
+	Francis!
+<STAGE DIR>
+<Exit Poins.>
+</STAGE DIR>
+
+</POINS>
+
+<SPEECH 21><ACT 2><SCENE 4><32%>
+<POINS>	<33%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Francis!
+</POINS>
+
+<SPEECH 22><ACT 2><SCENE 4><32%>
+<POINS>	<33%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Francis!
+</POINS>
+
+<SPEECH 23><ACT 2><SCENE 4><32%>
+<POINS>	<33%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Francis!
+</POINS>
+
+<SPEECH 24><ACT 2><SCENE 4><33%>
+<POINS>	<33%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Francis!
+</POINS>
+
+<SPEECH 25><ACT 2><SCENE 4><33%>
+<POINS>	<34%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Francis!
+</POINS>
+
+<SPEECH 26><ACT 2><SCENE 4><33%>
+<POINS>	<34%>
+	Anon, anon, sir.
+</POINS>
+
+<SPEECH 27><ACT 2><SCENE 4><34%>
+<POINS>	<34%>
+	As merry as crickets, my lad. But hark ye; what cunning match have you made with this jest of the drawer? come, what's the issue?
+</POINS>
+
+<SPEECH 28><ACT 2><SCENE 4><34%>
+<POINS>	<35%>
+	Welcome, Jack: where hast thou been?
+</POINS>
+
+<SPEECH 29><ACT 2><SCENE 4><35%>
+<POINS>	<36%>
+	'Zounds! ye fat paunch, an ye call me coward, I'll stab thee.
+</POINS>
+
+<SPEECH 30><ACT 2><SCENE 4><37%>
+<POINS>	<38%>
+	Ay, ay, he said four.
+</POINS>
+
+<SPEECH 31><ACT 2><SCENE 4><37%>
+<POINS>	<38%>
+	Ay, four, in buckram suits.
+</POINS>
+
+<SPEECH 32><ACT 2><SCENE 4><38%>
+<POINS>	<38%>
+	Down fell their hose.
+</POINS>
+
+<SPEECH 33><ACT 2><SCENE 4><38%>
+<POINS>	<39%>
+	Come, your reason, Jack, your reason.
+</POINS>
+
+<SPEECH 34><ACT 2><SCENE 4><39%>
+<POINS>	<39%>
+	Mark, Jack.
+</POINS>
+
+<SPEECH 35><ACT 2><SCENE 4><39%>
+<POINS>	<40%>
+	Come, let's hear, Jack; what trick hast thou now?
+</POINS>
+
+<SPEECH 36><ACT 2><SCENE 4><42%>
+<POINS>	<42%>
+	Owen Glendower.
+</POINS>
+

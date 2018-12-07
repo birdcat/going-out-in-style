@@ -1,0 +1,153 @@
+<SPEECH 1><ACT 3><SCENE 5><47%>
+<EROS>	<47%>
+	There's strange news come, sir.
+</EROS>
+
+<SPEECH 2><ACT 3><SCENE 5><47%>
+<EROS>	<47%>
+	Cæsar and Lepidus have made wars upon Pompey.
+</EROS>
+
+<SPEECH 3><ACT 3><SCENE 5><47%>
+<EROS>	<47%>
+	Cæsar, having made use of him in the wars 'gainst Pompey, presently denied him rivality, would not let him partake in the glory of the action; and not resting here, accuses him of letters he had formerly wrote to Pompey; upon his own appeal, seizes him: so the poor third is up, till death enlarge his confine.
+</EROS>
+
+<SPEECH 4><ACT 3><SCENE 5><47%>
+<EROS>	<47%>
+	He's walking in the garden—thus: and spurns
+	The rush that lies before him; cries, 'Fool, Lepidus!'
+	And threats the throat of that his officer
+	That murder'd Pompey.
+</EROS>
+
+<SPEECH 5><ACT 3><SCENE 5><48%>
+<EROS>	<47%>
+	For Italy and Cæsar. More, Domitius;
+	My lord desires you presently: my news
+	I might have told hereafter.
+</EROS>
+
+<SPEECH 6><ACT 3><SCENE 5><48%>
+<EROS>	<47%>
+	Come, sir.
+</EROS>
+
+<SPEECH 7><ACT 3><SCENE 1><56%>
+<EROS>	<56%>
+	Nay, gentle madam, to him, comfort him.
+</EROS>
+
+<SPEECH 8><ACT 3><SCENE 1><56%>
+<EROS>	<56%>
+	See you here, sir?
+</EROS>
+
+<SPEECH 9><ACT 3><SCENE 1><56%>
+<EROS>	<56%>
+	Sir, sir!
+</EROS>
+
+<SPEECH 10><ACT 3><SCENE 1><56%>
+<EROS>	<56%>
+	The queen, my lord, the queen.
+</EROS>
+
+<SPEECH 11><ACT 3><SCENE 1><57%>
+<EROS>	<56%>
+	Most noble sir, arise; the queen approaches:
+	Her head's declin'd, and death will seize her, but
+	Your comfort makes the rescue.
+</EROS>
+
+<SPEECH 12><ACT 3><SCENE 1><57%>
+<EROS>	<56%>
+	Sir, the queen.
+</EROS>
+
+<SPEECH 13><ACT 4><SCENE 4><69%>
+<EROS>	<69%>
+	Briefly, sir.
+</EROS>
+
+<SPEECH 14><ACT 4><SCENE 5><70%>
+<EROS>	<70%>
+	Sir, his chests and treasure
+	He has not with him.
+</EROS>
+
+<SPEECH 15><ACT 4><SCENE 7><72%>
+<EROS>	<72%>
+	They are beaten, sir; and our advantage serves
+	For a fair victory.
+</EROS>
+
+<SPEECH 16><ACT 4><SCENE XII.— ><78%>
+<EROS>	<78%>
+	Ay, noble lord.
+</EROS>
+
+<SPEECH 17><ACT 4><SCENE XII.— ><78%>
+<EROS>	<78%>
+	Ay, my lord.
+</EROS>
+
+<SPEECH 18><ACT 4><SCENE XII.— ><78%>
+<EROS>	<78%>
+	It does, my lord.
+</EROS>
+
+<SPEECH 19><ACT 4><SCENE XII.— ><79%>
+<EROS>	<79%>
+	What would my lord?
+</EROS>
+
+<SPEECH 20><ACT 4><SCENE XII.— ><80%>
+<EROS>	<80%>
+	The gods withhold me!
+	Shall I do that which all the Parthian darts,
+	Though enemy, lost aim and could not?
+</EROS>
+
+<SPEECH 21><ACT 4><SCENE XII.— ><80%>
+<EROS>	<80%>
+	I would not see't.
+</EROS>
+
+<SPEECH 22><ACT 4><SCENE XII.— ><80%>
+<EROS>	<80%>
+	O, sir! pardon me.
+</EROS>
+
+<SPEECH 23><ACT 4><SCENE XII.— ><80%>
+<EROS>	<80%>
+	Turn from me then that noble countenance,
+	Wherein the worship of the whole world lies.
+</EROS>
+
+<SPEECH 24><ACT 4><SCENE XII.— ><80%>
+<EROS>	<80%>
+	My sword is drawn.
+</EROS>
+
+<SPEECH 25><ACT 4><SCENE XII.— ><80%>
+<EROS>	<80%>
+	My dear master,
+	My captain, and my emperor, let me say,
+	Before I strike this bloody stroke, farewell.
+</EROS>
+
+<SPEECH 26><ACT 4><SCENE XII.— ><80%>
+<EROS>	<81%>
+	Farewell, great chief. Shall I strike now?
+</EROS>
+
+<SPEECH 27><ACT 4><SCENE XII.— ><80%>
+<EROS>	<81%>
+	Why, there then; thus do I escape the sorrow
+<STAGE DIR>
+<Kills himself.>
+</STAGE DIR>
+	Of Antony's death.
+</EROS>
+

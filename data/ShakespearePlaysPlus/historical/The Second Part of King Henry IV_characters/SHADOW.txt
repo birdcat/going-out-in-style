@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 3><SCENE 2><50%>
+<SHADOW>	<51%>
+	Here, sir.
+</SHADOW>
+
+<SPEECH 2><ACT 3><SCENE 2><50%>
+<SHADOW>	<51%>
+	My mother's son, sir.
+</SHADOW>
+

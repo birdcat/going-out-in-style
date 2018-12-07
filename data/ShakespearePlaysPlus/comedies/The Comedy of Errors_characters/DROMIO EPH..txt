@@ -1,0 +1,386 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+<DROMIO EPH.>	<11%>
+	Return'd so soon! rather approach'd too late:
+	The capon burns, the pig falls from the spit,
+	The clock hath strucken twelve upon the bell;
+	My mistress made it one upon my cheek:
+	She is so hot because the meat is cold;
+	The meat is cold because you come not home;
+	You come not home because you have no stomach;
+	You have no stomach, having broke your fast;
+	But we, that know what 'tis to fast and pray,
+	Are penitent for your default to-day.
+</DROMIO EPH.>
+
+<SPEECH 2><ACT 1><SCENE 2><10%>
+<DROMIO EPH.>	<11%>
+	O!—sixpence, that I had o' Wednesday last
+	To pay the saddler for my mistress' crupper;
+	The saddler had it, sir; I kept it not.
+</DROMIO EPH.>
+
+<SPEECH 3><ACT 1><SCENE 2><10%>
+<DROMIO EPH.>	<12%>
+	I pray you, jest, sir, as you sit at dinner.
+	I from my mistress come to you in post;
+	If I return, I shall be post indeed,
+	For she will score your fault upon my pate.
+	Methinks your maw, like mine, should be your clock
+	And strike you home without a messenger.
+</DROMIO EPH.>
+
+<SPEECH 4><ACT 1><SCENE 2><10%>
+<DROMIO EPH.>	<12%>
+	To me, sir? why, you gave no gold to me.
+</DROMIO EPH.>
+
+<SPEECH 5><ACT 1><SCENE 2><11%>
+<DROMIO EPH.>	<12%>
+	My charge was but to fetch you from the mart
+	Home to your house, the Phœnix, sir, to dinner:
+	My mistress and her sister stays for you.
+</DROMIO EPH.>
+
+<SPEECH 6><ACT 1><SCENE 2><11%>
+<DROMIO EPH.>	<13%>
+	I have some marks of yours upon my pate,
+	Some of my mistress' marks upon my shoulders,
+	But not a thousand marks between you both.
+	If I should pay your worship those again,
+	Perchance you will not bear them patiently.
+</DROMIO EPH.>
+
+<SPEECH 7><ACT 1><SCENE 2><11%>
+<DROMIO EPH.>	<13%>
+	Your worship's wife, my mistress at the Phœnix;
+	She that doth fast till you come home to dinner,
+	And prays that you will hie you home to dinner.
+</DROMIO EPH.>
+
+<SPEECH 8><ACT 1><SCENE 2><12%>
+<DROMIO EPH.>	<13%>
+	What mean you, sir? for God's sake, hold your hands!
+	Nay, an you will not, sir, I'll take my heels.
+</DROMIO EPH.>
+
+<SPEECH 9><ACT 2><SCENE 1><15%>
+<DROMIO EPH.>	<17%>
+	Nay, he's at two hands with me, and that my two ears can witness.
+</DROMIO EPH.>
+
+<SPEECH 10><ACT 2><SCENE 1><15%>
+<DROMIO EPH.>	<17%>
+	Ay, ay, he told his mind upon mine ear.
+	Beshrew his hand, I scarce could understand it.
+</DROMIO EPH.>
+
+<SPEECH 11><ACT 2><SCENE 1><15%>
+<DROMIO EPH.>	<17%>
+	Nay, he struck so plainly, I could too well feel his blows; and withal so doubtfully, that I could scarce understand them.
+</DROMIO EPH.>
+
+<SPEECH 12><ACT 2><SCENE 1><16%>
+<DROMIO EPH.>	<17%>
+	Why, mistress, sure my master is horn-mad.
+</DROMIO EPH.>
+
+<SPEECH 13><ACT 2><SCENE 1><16%>
+<DROMIO EPH.>	<17%>
+	I mean not cuckold-mad; but, sure, he is stark mad.
+	When I desir'd him to come home to dinner,
+	He ask'd me for a thousand marks in gold:
+	''Tis dinner time,' quoth I; 'my gold!' quoth he:
+	'Your meat doth burn,' quoth I; 'my gold!' quoth he:
+	'Will you come home?' quoth I: 'my gold!' quoth he:
+	'Where is the thousand marks I gave thee, villain?'
+	'The pig,' quoth I, 'is burn'd;' 'my gold!' quoth he:
+	'My mistress, sir,' quoth I: 'hang up thy mistress!
+	I know not thy mistress: out on thy mistress!'
+</DROMIO EPH.>
+
+<SPEECH 14><ACT 2><SCENE 1><16%>
+<DROMIO EPH.>	<18%>
+	Quoth my master:
+	'I know,' quoth he, 'no house, no wife, no mistress.'
+	So that my errand, due unto my tongue,
+	I thank him, I bear home upon my shoulders;
+	For, in conclusion, he did beat me there.
+</DROMIO EPH.>
+
+<SPEECH 15><ACT 2><SCENE 1><17%>
+<DROMIO EPH.>	<18%>
+	Go back again, and be new beaten home?
+	For God's sake, send some other messenger.
+</DROMIO EPH.>
+
+<SPEECH 16><ACT 2><SCENE 1><17%>
+<DROMIO EPH.>	<19%>
+	And he will bless that cross with other beating:
+	Between you, I shall have a holy head.
+</DROMIO EPH.>
+
+<SPEECH 17><ACT 2><SCENE 1><17%>
+<DROMIO EPH.>	<19%>
+	Am I so round with you as you with me,
+	That like a football you do spurn me thus?
+	You spurn me hence, and he will spurn me hither:
+	If I last in this service, you must case me in leather.
+</DROMIO EPH.>
+
+<SPEECH 18><ACT 3><SCENE 1><31%>
+<DROMIO EPH.>	<33%>
+	Say what you will, sir, but I know what I know;
+	That you beat me at the mart, I have your hand to show:
+	If the skin were parchment and the blows you gave were ink,
+	Your own handwriting would tell you what I think.
+</DROMIO EPH.>
+
+<SPEECH 19><ACT 3><SCENE 1><32%>
+<DROMIO EPH.>	<33%>
+	Marry, so it doth appear
+	By the wrongs I suffer and the blows I bear.
+	I should kick, being kick'd; and, being at that pass,
+	You would keep from my heels and beware of an ass.
+</DROMIO EPH.>
+
+<SPEECH 20><ACT 3><SCENE 1><33%>
+<DROMIO EPH.>	<34%>
+	Maud, Bridget, Marian, Cicely, Gillian, Ginn!
+</DROMIO EPH.>
+
+<SPEECH 21><ACT 3><SCENE 1><33%>
+<DROMIO EPH.>	<34%>
+	What patch is made our porter?—My master stays in the street.
+</DROMIO EPH.>
+
+<SPEECH 22><ACT 3><SCENE 1><34%>
+<DROMIO EPH.>	<35%>
+	O villain! thou hast stolen both mine office and my name:
+	The one ne'er got me credit, the other mickle blame.
+	If thou hadst been Dromio to-day in my place,
+	Thou wouldst have chang'd thy face for a name, or thy name for an ass.
+</DROMIO EPH.>
+
+<SPEECH 23><ACT 3><SCENE 1><34%>
+<DROMIO EPH.>	<36%>
+	Let my master in, Luce.
+</DROMIO EPH.>
+
+<SPEECH 24><ACT 3><SCENE 1><35%>
+<DROMIO EPH.>	<36%>
+	O Lord! I must laugh.
+	Have at you with a proverb: Shall I set in my staff?
+</DROMIO EPH.>
+
+<SPEECH 25><ACT 3><SCENE 1><35%>
+<DROMIO EPH.>	<36%>
+	So come, help: well struck! there was blow for blow.
+</DROMIO EPH.>
+
+<SPEECH 26><ACT 3><SCENE 1><35%>
+<DROMIO EPH.>	<37%>
+	Master, knock the door hard.
+</DROMIO EPH.>
+
+<SPEECH 27><ACT 3><SCENE 1><36%>
+<DROMIO EPH.>	<37%>
+	If you went in pain, master, this 'knave' would go sore.
+</DROMIO EPH.>
+
+<SPEECH 28><ACT 3><SCENE 1><36%>
+<DROMIO EPH.>	<37%>
+	They stand at the door, master: bid them welcome hither.
+</DROMIO EPH.>
+
+<SPEECH 29><ACT 3><SCENE 1><37%>
+<DROMIO EPH.>	<38%>
+	You would say so, master, if your garments were thin.
+	Your cake here is warm within; you stand here in the cold:
+	It would make a man mad as a buck to be so bought and sold.
+</DROMIO EPH.>
+
+<SPEECH 30><ACT 3><SCENE 1><37%>
+<DROMIO EPH.>	<38%>
+	A man may break a word with you, sir, and words are but wind:
+	Ay, and break it in your face, so he break it not behind.
+</DROMIO EPH.>
+
+<SPEECH 31><ACT 3><SCENE 1><37%>
+<DROMIO EPH.>	<38%>
+	Here's too much 'out upon thee!' I pray thee, let me in.
+</DROMIO EPH.>
+
+<SPEECH 32><ACT 3><SCENE 1><38%>
+<DROMIO EPH.>	<39%>
+	A crow without feather? Master, mean you so?
+	For a fish without a fin, there's a fowl without a feather:
+	If a crow help us in, sirrah, we'll pluck a crow together.
+</DROMIO EPH.>
+
+<SPEECH 33><ACT 4><SCENE 1><51%>
+<DROMIO EPH.>	<52%>
+	I buy a thousand pound a year: I buy a rope!
+</DROMIO EPH.>
+
+<SPEECH 34><ACT 4><SCENE 4><67%>
+<DROMIO EPH.>	<67%>
+	Here's that, I warrant you, will pay them all.
+</DROMIO EPH.>
+
+<SPEECH 35><ACT 4><SCENE 4><67%>
+<DROMIO EPH.>	<68%>
+	Why, sir, I gave the money for the rope.
+</DROMIO EPH.>
+
+<SPEECH 36><ACT 4><SCENE 4><67%>
+<DROMIO EPH.>	<68%>
+	I'll serve you, sir, five hundred at the rate.
+</DROMIO EPH.>
+
+<SPEECH 37><ACT 4><SCENE 4><67%>
+<DROMIO EPH.>	<68%>
+	To a rope's end, sir; and to that end am I return'd.
+</DROMIO EPH.>
+
+<SPEECH 38><ACT 4><SCENE 4><67%>
+<DROMIO EPH.>	<68%>
+	Nay, 'tis for me to be patient; I am in adversity.
+</DROMIO EPH.>
+
+<SPEECH 39><ACT 4><SCENE 4><67%>
+<DROMIO EPH.>	<68%>
+	Nay, rather persuade him to hold his hands.
+</DROMIO EPH.>
+
+<SPEECH 40><ACT 4><SCENE 4><68%>
+<DROMIO EPH.>	<68%>
+	I would I were senseless, sir, that I might not feel your blows.
+</DROMIO EPH.>
+
+<SPEECH 41><ACT 4><SCENE 4><68%>
+<DROMIO EPH.>	<68%>
+	I am an ass indeed; you may prove it by my long ears. I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows. When I am cold, he heats me with beating; when I am warm, he cools me with beating; I am waked with it when I sleep; raised with it when I sit; driven out of doors with it when I go from home; welcomed home with it when I return; nay, I bear it on my shoulders, as a beggar wont her brat; and, I think, when he hath lamed me, I shall beg with it from door to door.
+</DROMIO EPH.>
+
+<SPEECH 42><ACT 4><SCENE 4><69%>
+<DROMIO EPH.>	<69%>
+	Mistress, respice finem, respect your end; or rather, to prophesy like the parrot, 'Beware the rope's end.'
+</DROMIO EPH.>
+
+<SPEECH 43><ACT 4><SCENE 4><70%>
+<DROMIO EPH.>	<71%>
+	Sir, sooth to say, you did not dine at home.
+</DROMIO EPH.>
+
+<SPEECH 44><ACT 4><SCENE 4><70%>
+<DROMIO EPH.>	<71%>
+	Perdy, your doors were lock'd and you shut out.
+</DROMIO EPH.>
+
+<SPEECH 45><ACT 4><SCENE 4><71%>
+<DROMIO EPH.>	<71%>
+	Sans fable, she herself revil'd you there.
+</DROMIO EPH.>
+
+<SPEECH 46><ACT 4><SCENE 4><71%>
+<DROMIO EPH.>	<71%>
+	Certes, she did; the kitchen-vestal scorn'd you.
+</DROMIO EPH.>
+
+<SPEECH 47><ACT 4><SCENE 4><71%>
+<DROMIO EPH.>	<71%>
+	In verity you did: my bones bear witness,
+	That since have felt the vigour of his rage.
+</DROMIO EPH.>
+
+<SPEECH 48><ACT 4><SCENE 4><71%>
+<DROMIO EPH.>	<72%>
+	Money by me! heart and good will you might;
+	But surely, master, not a rag of money.
+</DROMIO EPH.>
+
+<SPEECH 49><ACT 4><SCENE 4><72%>
+<DROMIO EPH.>	<72%>
+	God and the rope-maker bear me witness
+	That I was sent for nothing but a rope!
+</DROMIO EPH.>
+
+<SPEECH 50><ACT 4><SCENE 4><72%>
+<DROMIO EPH.>	<73%>
+	And, gentle master, I receiv'd no gold;
+	But I confess, sir, that we were lock'd out.
+</DROMIO EPH.>
+
+<SPEECH 51><ACT 4><SCENE 4><74%>
+<DROMIO EPH.>	<74%>
+	Master, I am here enter'd in bond for you.
+</DROMIO EPH.>
+
+<SPEECH 52><ACT 4><SCENE 4><74%>
+<DROMIO EPH.>	<74%>
+	Will you be bound for nothing? be mad, good master; cry, 'the devil!'
+</DROMIO EPH.>
+
+<SPEECH 53><ACT 5><SCENE 1><91%>
+<DROMIO EPH.>	<92%>
+	Sir, he din'd with her there, at the Porpentine.
+</DROMIO EPH.>
+
+<SPEECH 54><ACT 5><SCENE 1><91%>
+<DROMIO EPH.>	<92%>
+	Within this hour I was his bondman, sir;
+	But he, I thank him, gnaw'd in two my cords:
+	Now am I Dromio and his man, unbound.
+</DROMIO EPH.>
+
+<SPEECH 55><ACT 5><SCENE 1><92%>
+<DROMIO EPH.>	<93%>
+	Ourselves we do remember, sir, by you;
+	For lately we were bound, as you are now.
+	You are not Pinch's patient, are you, sir?
+</DROMIO EPH.>
+
+<SPEECH 56><ACT 5><SCENE 1><92%>
+<DROMIO EPH.>	<93%>
+	No, trust me, sir, not I.
+</DROMIO EPH.>
+
+<SPEECH 57><ACT 5><SCENE 1><92%>
+<DROMIO EPH.>	<93%>
+	Ay, sir; but I am sure I do not; and whatsoever a man denies, you are now bound to believe him.
+</DROMIO EPH.>
+
+<SPEECH 58><ACT 5><SCENE 1><94%>
+<DROMIO EPH.>	<95%>
+	I, sir, am Dromio: pray let me stay.
+</DROMIO EPH.>
+
+<SPEECH 59><ACT 5><SCENE 1><96%>
+<DROMIO EPH.>	<96%>
+	And I with him.
+</DROMIO EPH.>
+
+<SPEECH 60><ACT 5><SCENE 1><97%>
+<DROMIO EPH.>	<97%>
+	No, none by me.
+</DROMIO EPH.>
+
+<SPEECH 61><ACT 5><SCENE 1><99%>
+<DROMIO EPH.>	<99%>
+	Methinks you are my glass, and not my brother:
+	I see by you I am a sweet-fac'd youth.
+	Will you walk in to see their gossiping?
+</DROMIO EPH.>
+
+<SPEECH 62><ACT 5><SCENE 1><99%>
+<DROMIO EPH.>	<100%>
+	That's a question: how shall we try it?
+</DROMIO EPH.>
+
+<SPEECH 63><ACT 5><SCENE 1><99%>
+<DROMIO EPH.>	<100%>
+	Nay, then, thus:
+	We came into the world like brother and brother;
+	And now let's go hand in hand, not one before another.
+</DROMIO EPH.>
+

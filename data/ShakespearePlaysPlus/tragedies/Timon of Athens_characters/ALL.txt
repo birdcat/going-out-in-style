@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 1><SCENE 2><20%>
+<ALL>	<20%>
+	So are we all.
+
+</ALL>
+
+<SPEECH 2><ACT 4><SCENE 3><80%>
+<ALL>	<80%>
+	Save thee, Timon.
+</ALL>
+
+<SPEECH 3><ACT 4><SCENE 3><80%>
+<ALL>	<80%>
+	Soldiers, not thieves.
+</ALL>
+

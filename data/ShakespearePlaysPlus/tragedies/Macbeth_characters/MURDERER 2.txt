@@ -1,0 +1,49 @@
+<SPEECH 1><ACT 3><SCENE 1><43%>
+<MURDERER 2>	<44%>
+	I am one, my liege,
+	Whom the vile blows and buffets of the world
+	Have so incens'd that I am reckless what
+	I do to spite the world.
+</MURDERER 2>
+
+<SPEECH 2><ACT 3><SCENE 1><43%>
+<MURDERER 2>	<44%>
+	True, my lord.
+</MURDERER 2>
+
+<SPEECH 3><ACT 3><SCENE 1><44%>
+<MURDERER 2>	<45%>
+	We shall, my lord,
+	Perform what you command us.
+</MURDERER 2>
+
+<SPEECH 4><ACT 3><SCENE 1><44%>
+<MURDERER 2>	<45%>
+	We are resolv'd, my lord.
+</MURDERER 2>
+
+<SPEECH 5><ACT 3><SCENE 3><47%>
+<MURDERER 2>	<48%>
+	He needs not our mistrust, since he delivers
+	Our offices and what we have to do
+	To the direction just.
+</MURDERER 2>
+
+<SPEECH 6><ACT 3><SCENE 3><48%>
+<MURDERER 2>	<49%>
+	Then 'tis he: the rest
+	That are within the note of expectation
+	Already are i' the court.
+</MURDERER 2>
+
+<SPEECH 7><ACT 3><SCENE 3><48%>
+<MURDERER 2>	<49%>
+	A light, a light!
+</MURDERER 2>
+
+<SPEECH 8><ACT 3><SCENE 3><49%>
+<MURDERER 2>	<50%>
+	We have lost
+	Best half of our affair.
+</MURDERER 2>
+

@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 4><SCENE 3><68%>
+<SOLDIER 4>	<68%>
+	Here we:
+<STAGE DIR>
+<They take their posts.>
+</STAGE DIR>
+	And if to-morrow
+	Our navy thrive, I have an absolute hope
+	Our landmen will stand up.
+</SOLDIER 4>
+
+<SPEECH 2><ACT 4><SCENE 3><68%>
+<SOLDIER 4>	<68%>
+	Peace! what noise?
+</SOLDIER 4>
+
+<SPEECH 3><ACT 4><SCENE 3><68%>
+<SOLDIER 4>	<68%>
+	It signs well, does it not?
+</SOLDIER 4>
+

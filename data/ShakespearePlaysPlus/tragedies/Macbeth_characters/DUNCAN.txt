@@ -1,0 +1,148 @@
+<SPEECH 1><ACT 1><SCENE 2><1%>
+<DUNCAN>	<1%>
+	What bloody man is that? He can report,
+	As seemeth by his plight, of the revolt
+	The newest state.
+</DUNCAN>
+
+<SPEECH 2><ACT 1><SCENE 2><1%>
+<DUNCAN>	<2%>
+	O valiant cousin! worthy gentleman!
+</DUNCAN>
+
+<SPEECH 3><ACT 1><SCENE 2><2%>
+<DUNCAN>	<2%>
+	Dismay'd not this
+	Our captains, Macbeth and Banquo?
+</DUNCAN>
+
+<SPEECH 4><ACT 1><SCENE 2><2%>
+<DUNCAN>	<3%>
+	So well thy words become thee as thy wounds;
+	They smack of honour both. Go, get him surgeons.
+<STAGE DIR>
+<Exit Sergeant, attended.>
+</STAGE DIR>
+
+</DUNCAN>
+
+<SPEECH 5><ACT 1><SCENE 2><3%>
+<DUNCAN>	<3%>
+	Whence cam'st thou, worthy thane?
+</DUNCAN>
+
+<SPEECH 6><ACT 1><SCENE 2><3%>
+<DUNCAN>	<4%>
+	Great happiness!
+</DUNCAN>
+
+<SPEECH 7><ACT 1><SCENE 2><3%>
+<DUNCAN>	<4%>
+	No more that Thane of Cawdor shall deceive
+	Our bosom interest. Go pronounce his present death,
+	And with his former title greet Macbeth.
+</DUNCAN>
+
+<SPEECH 8><ACT 1><SCENE 2><3%>
+<DUNCAN>	<4%>
+	What he hath lost noble Macbeth hath won.
+</DUNCAN>
+
+<SPEECH 9><ACT 1><SCENE 4><10%>
+<DUNCAN>	<11%>
+	Is execution done on Cawdor? Are not
+	Those in commission yet return'd?
+</DUNCAN>
+
+<SPEECH 10><ACT 1><SCENE 4><11%>
+<DUNCAN>	<11%>
+	There's no art
+	To find the mind's construction in the face:
+	He was a gentleman on whom I built
+	An absolute trust.
+
+<STAGE DIR>
+<Enter Macbeth, Banquo, Ross and Angus.>
+</STAGE DIR>
+	O worthiest cousin!
+	The sin of my ingratitude even now
+	Was heavy on me. Thou art so far before
+	That swiftest wing of recompense is slow
+	To overtake thee; would thou hadst less deserv'd,
+	That the proportion both of thanks and payment
+	Might have been mine! only I have left to say,
+</DUNCAN>
+
+<SPEECH 11><ACT 1><SCENE 4><12%>
+<DUNCAN>	<12%>
+	Welcome hither:
+	I have begun to plant thee, and will labour
+	To make thee full of growing. Noble Banquo,
+	That hast no less deserv'd, nor must be known
+	No less to have done so, let me infold thee
+	And hold thee to my heart.
+</DUNCAN>
+
+<SPEECH 12><ACT 1><SCENE 4><12%>
+<DUNCAN>	<12%>
+	My plenteous joys
+	Wanton in fulness, seek to hide themselves
+	In drops of sorrow. Sons, kinsmen, thanes,
+	And you whose places are the nearest, know
+	We will establish our estate upon
+	Our eldest, Malcolm, whom we name hereafter
+	The Prince of Cumberland; which honour must
+	Not unaccompanied invest him only,
+	But signs of nobleness, like stars, shall shine
+	On all deservers. From hence to Inverness,
+	And bind us further to you.
+</DUNCAN>
+
+<SPEECH 13><ACT 1><SCENE 4><12%>
+<DUNCAN>	<13%>
+	My worthy Cawdor!
+</DUNCAN>
+
+<SPEECH 14><ACT 1><SCENE 4><13%>
+<DUNCAN>	<13%>
+	True, worthy Banquo; he is full so valiant,
+	And in his commendations I am fed;
+	It is a banquet to me. Let's after him,
+	Whose care is gone before to bid us welcome:
+	It is a peerless kinsman.
+</DUNCAN>
+
+<SPEECH 15><ACT 1><SCENE 6><16%>
+<DUNCAN>	<17%>
+	This castle hath a pleasant seat; the air
+	Nimbly and sweetly recommends itself
+	Unto our gentle senses.
+</DUNCAN>
+
+<SPEECH 16><ACT 1><SCENE 6><17%>
+<DUNCAN>	<18%>
+	See, see, our honour'd hostess!
+	The love that follows us sometime is our trouble,
+	Which still we thank as love. Herein I teach you
+	How you shall bid God 'eyld us for your pains,
+	And thank us for your trouble.
+</DUNCAN>
+
+<SPEECH 17><ACT 1><SCENE 6><17%>
+<DUNCAN>	<18%>
+	Where's the Thane of Cawdor?
+	We cours'd him at the heels, and had a purpose
+	To be his purveyor; but he rides well,
+	And his great love, sharp as his spur, hath holp him
+	To his home before us. Fair and noble hostess,
+	We are your guest to-night.
+</DUNCAN>
+
+<SPEECH 18><ACT 1><SCENE 6><18%>
+<DUNCAN>	<19%>
+	Give me your hand;
+	Conduct me to mine host: we love him highly,
+	And shall continue our graces towards him.
+	By your leave, hostess.
+</DUNCAN>
+

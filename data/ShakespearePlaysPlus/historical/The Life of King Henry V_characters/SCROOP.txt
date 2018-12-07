@@ -1,0 +1,37 @@
+<SPEECH 1><ACT 2><SCENE 2><18%>
+<SCROOP>	<19%>
+	No doubt, my liege, if each man do his best.
+</SCROOP>
+
+<SPEECH 2><ACT 2><SCENE 2><19%>
+<SCROOP>	<20%>
+	So service shall with steeled sinews toil,
+	And labour shall refresh itself with hope,
+	To do your Grace incessant services.
+</SCROOP>
+
+<SPEECH 3><ACT 2><SCENE 2><19%>
+<SCROOP>	<20%>
+	That's mercy, but too much security:
+	Let him be punish'd, sovereign, lest example
+	Breed, by his sufference, more of such a kind.
+</SCROOP>
+
+<SPEECH 4><ACT 2><SCENE 2><20%>
+<SCROOP>	<20%>
+	So did you me, my liege.
+</SCROOP>
+
+<SPEECH 5><ACT 2><SCENE 2><20%>
+<SCROOP>	<21%>
+	To which we all appeal.
+</SCROOP>
+
+<SPEECH 6><ACT 2><SCENE 2><22%>
+<SCROOP>	<23%>
+	Our purposes God justly hath discover'd,
+	And I repent my fault more than my death;
+	Which I beseech your highness to forgive,
+	Although my body pay the price of it.
+</SCROOP>
+

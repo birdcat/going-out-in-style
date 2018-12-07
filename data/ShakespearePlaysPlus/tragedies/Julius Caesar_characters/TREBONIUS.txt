@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 2><SCENE 1><28%>
+<TREBONIUS>	<30%>
+	There is no fear in him; let him not die:
+	For he will live, and laugh at this hereafter.
+</TREBONIUS>
+
+<SPEECH 2><ACT 2><SCENE 1><28%>
+<TREBONIUS>	<30%>
+	'Tis time to part.
+</TREBONIUS>
+
+<SPEECH 3><ACT 2><SCENE 2><39%>
+<TREBONIUS>	<40%>
+	Cæsar, I will:—<STAGE DIR>
+<Aside.>
+</STAGE DIR> and so near will I be,
+	That your best friends shall wish I had been further.
+</TREBONIUS>
+
+<SPEECH 4><ACT 3><SCENE 1><46%>
+<TREBONIUS>	<48%>
+	Fled to his house amaz'd.
+	Men, wives and children stare, cry out and run
+	As it were doomsday.
+</TREBONIUS>
+

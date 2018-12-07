@@ -1,0 +1,153 @@
+<SPEECH 1><ACT 3><SCENE X.— ><58%>
+<DOLABELLA>	<57%>
+	Cæsar, 'tis his schoolmaster:
+	An argument that he is pluck'd, when hither
+	He sends so poor a pinion of his wing,
+	Which had superfluous kings for messengers
+	Not many moons gone by.
+
+</DOLABELLA>
+
+<SPEECH 2><ACT 5><SCENE 1><85%>
+<DOLABELLA>	<85%>
+	Cæsar, I shall.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</DOLABELLA>
+
+<SPEECH 3><ACT 5><SCENE 2><90%>
+<DOLABELLA>	<90%>
+	Proculeius,
+	What thou hast done thy master Cæsar knows,
+	And he hath sent for thee; as for the queen,
+	I'll take her to my guard.
+</DOLABELLA>
+
+<SPEECH 4><ACT 5><SCENE 2><90%>
+<DOLABELLA>	<90%>
+	Most noble empress, you have heard of me?
+</DOLABELLA>
+
+<SPEECH 5><ACT 5><SCENE 2><90%>
+<DOLABELLA>	<90%>
+	Assuredly you know me.
+</DOLABELLA>
+
+<SPEECH 6><ACT 5><SCENE 2><90%>
+<DOLABELLA>	<90%>
+	I understand not, madam.
+</DOLABELLA>
+
+<SPEECH 7><ACT 5><SCENE 2><90%>
+<DOLABELLA>	<91%>
+	If it might please ye,—
+</DOLABELLA>
+
+<SPEECH 8><ACT 5><SCENE 2><90%>
+<DOLABELLA>	<91%>
+	Most sovereign creature,—
+</DOLABELLA>
+
+<SPEECH 9><ACT 5><SCENE 2><91%>
+<DOLABELLA>	<91%>
+	Cleopatra,—
+</DOLABELLA>
+
+<SPEECH 10><ACT 5><SCENE 2><91%>
+<DOLABELLA>	<91%>
+	Gentle madam, no.
+</DOLABELLA>
+
+<SPEECH 11><ACT 5><SCENE 2><91%>
+<DOLABELLA>	<91%>
+	Hear me, good madam.
+	Your loss is as yourself, great; and you bear it
+	As answering to the weight: would I might never
+	O'ertake pursu'd success, but I do feel,
+	By the rebound of yours, a grief that smites
+	My very heart at root.
+</DOLABELLA>
+
+<SPEECH 12><ACT 5><SCENE 2><91%>
+<DOLABELLA>	<91%>
+	I am loath to tell you what I would you knew.
+</DOLABELLA>
+
+<SPEECH 13><ACT 5><SCENE 2><91%>
+<DOLABELLA>	<91%>
+	Though he be honourable,—
+</DOLABELLA>
+
+<SPEECH 14><ACT 5><SCENE 2><91%>
+<DOLABELLA>	<92%>
+	Madam, he will; I know 't.
+<STAGE DIR>
+<Within, 'Make way there!—Cæsar!'>
+</STAGE DIR>
+
+</DOLABELLA>
+
+<SPEECH 15><ACT 5><SCENE 2><91%>
+<DOLABELLA>	<92%>
+	It is the emperor, madam.
+</DOLABELLA>
+
+<SPEECH 16><ACT 5><SCENE 2><94%>
+<DOLABELLA>	<94%>
+	Where is the queen?
+</DOLABELLA>
+
+<SPEECH 17><ACT 5><SCENE 2><94%>
+<DOLABELLA>	<94%>
+	Madam, as thereto sworn by your command,
+	Which my love makes religion to obey,
+	I tell you this: Cæsar through Syria
+	Intends his journey; and within three days
+	You with your children will be send before.
+	Make your best use of this; I have perform'd
+	Your pleasure and my promise.
+</DOLABELLA>
+
+<SPEECH 18><ACT 5><SCENE 2><94%>
+<DOLABELLA>	<95%>
+	I your servant.
+	Adieu, good queen; I must attend on Cæsar.
+</DOLABELLA>
+
+<SPEECH 19><ACT 5><SCENE 2><98%>
+<DOLABELLA>	<99%>
+	How goes it here?
+</DOLABELLA>
+
+<SPEECH 20><ACT 5><SCENE 2><98%>
+<DOLABELLA>	<99%>
+	Cæsar, thy thoughts
+	Touch their effects in this; thyself art coming
+	To see perform'd the dreaded act which thou
+	So sought'st to hinder.
+<STAGE DIR>
+<Within, 'A way there!—a way for Cæsar!'>
+</STAGE DIR>
+
+</DOLABELLA>
+
+<SPEECH 21><ACT 5><SCENE 2><99%>
+<DOLABELLA>	<99%>
+	O! sir, you are too sure an augurer;
+	That you did fear is done.
+</DOLABELLA>
+
+<SPEECH 22><ACT 5><SCENE 2><99%>
+<DOLABELLA>	<99%>
+	Who was last with them?
+</DOLABELLA>
+
+<SPEECH 23><ACT 5><SCENE 2><99%>
+<DOLABELLA>	<99%>
+	Here, on her breast,
+	There is a vent of blood, and something blown;
+	The like is on her arm.
+</DOLABELLA>
+

@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 2><25%>
+<TRAVELLERS>	<26%>
+	Jesu bless us!
+</TRAVELLERS>
+
+<SPEECH 2><ACT 2><SCENE 2><26%>
+<TRAVELLERS>	<26%>
+	O! we are undone, both we and ours for ever.
+</TRAVELLERS>
+

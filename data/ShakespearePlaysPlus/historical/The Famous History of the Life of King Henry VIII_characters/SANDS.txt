@@ -1,0 +1,120 @@
+<SPEECH 1><ACT 1><SCENE 3><16%>
+<SANDS>	<16%>
+	New customs,
+	Though they be never so ridiculous,
+	Nay, let 'em be unmanly, yet are follow'd.
+</SANDS>
+
+<SPEECH 2><ACT 1><SCENE 3><16%>
+<SANDS>	<16%>
+	They have all new legs, and lame ones: one would take it,
+	That never saw 'em pace before, the spavin
+	Or springhalt reign'd among 'em.
+</SANDS>
+
+<SPEECH 3><ACT 1><SCENE 3><17%>
+<SANDS>	<17%>
+	'Tis time to give 'em physic, their diseases
+	Are grown so catching.
+</SANDS>
+
+<SPEECH 4><ACT 1><SCENE 3><17%>
+<SANDS>	<18%>
+	The devil fiddle 'em! I am glad they're going:
+	For, sure, there's no converting of 'em: now
+	An honest country lord, as I am, beaten
+	A long time out of play, may bring his plainsong
+	And have an hour of hearing; and, by'r lady,
+	Held current music too.
+</SANDS>
+
+<SPEECH 5><ACT 1><SCENE 3><17%>
+<SANDS>	<18%>
+	No, my lord;
+	Nor shall not, while I have a stump.
+</SANDS>
+
+<SPEECH 6><ACT 1><SCENE 3><18%>
+<SANDS>	<18%>
+	He may, my lord; he has wherewithal: in him
+	Sparing would show a worse sin than ill doctrine:
+	Men of his way should be most liberal;
+	They are set here for examples.
+</SANDS>
+
+<SPEECH 7><ACT 1><SCENE 3><18%>
+<SANDS>	<18%>
+	I am your lordship's.
+</SANDS>
+
+<SPEECH 8><ACT 1><SCENE 4><19%>
+<SANDS>	<19%>
+	Sir Thomas Lovell, had the cardinal
+	But half my lay-thoughts in him, some of these
+	Should find a running banquet ere they rested,
+	I think would better please 'em: by my life,
+	They are a sweet society of fair ones.
+</SANDS>
+
+<SPEECH 9><ACT 1><SCENE 4><19%>
+<SANDS>	<19%>
+	I would I were;
+	They should find easy penance.
+</SANDS>
+
+<SPEECH 10><ACT 1><SCENE 4><19%>
+<SANDS>	<19%>
+	As easy as a down-bed would afford it.
+</SANDS>
+
+<SPEECH 11><ACT 1><SCENE 4><19%>
+<SANDS>	<20%>
+	By my faith,
+	And thank your lordship. By your leave, sweet ladies:
+<STAGE DIR>
+<Seats himself between Anne Bullen and another Lady.>
+</STAGE DIR>
+	If I chance to talk a little wild, forgive me;
+	I had it from my father.
+</SANDS>
+
+<SPEECH 12><ACT 1><SCENE 4><19%>
+<SANDS>	<20%>
+	O! very mad, exceeding mad; in love too:
+	But he would bite none; just as I do now,
+	He would kiss you twenty with a breath.
+</SANDS>
+
+<SPEECH 13><ACT 1><SCENE 4><19%>
+<SANDS>	<20%>
+	For my little cure,
+	Let me alone.
+
+</SANDS>
+
+<SPEECH 14><ACT 1><SCENE 4><20%>
+<SANDS>	<20%>
+	Your Grace is noble:
+	Let me have such a bowl may hold my thanks,
+	And save me so much talking.
+</SANDS>
+
+<SPEECH 15><ACT 1><SCENE 4><20%>
+<SANDS>	<20%>
+	The red wine first must rise
+	In their fair cheeks, my lord; then, we shall have 'em
+	Talk us to silence.
+</SANDS>
+
+<SPEECH 16><ACT 1><SCENE 4><20%>
+<SANDS>	<20%>
+	Yes, if I make my play.
+	Here's to your ladyship; and pledge it, madam,
+	For 'tis to such a thing,—
+</SANDS>
+
+<SPEECH 17><ACT 1><SCENE 4><20%>
+<SANDS>	<21%>
+	I told your Grace they would talk anon.
+</SANDS>
+

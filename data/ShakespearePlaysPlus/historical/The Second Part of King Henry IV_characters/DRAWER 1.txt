@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 2><SCENE 4><31%>
+<DRAWER 1>	<32%>
+	What the devil hast thou brought there? apple-johns? thou knowest Sir John cannot endure an apple-john.
+</DRAWER 1>
+
+<SPEECH 2><ACT 2><SCENE 4><32%>
+<DRAWER 1>	<32%>
+	Why then, cover, and set them down: and see if thou canst find out Sneak's noise; Mistress Tearsheet would fain hear some music. Dispatch: the room where they supped is too hot; they'll come in straight.
+</DRAWER 1>
+
+<SPEECH 3><ACT 2><SCENE 4><32%>
+<DRAWER 1>	<33%>
+	By the mass, here will be old utis: it will be an excellent stratagem.
+</DRAWER 1>
+
+<SPEECH 4><ACT 2><SCENE 4><33%>
+<DRAWER 1>	<34%>
+	Sir, Ancient Pistol's below, and would speak with you.
+</DRAWER 1>
+

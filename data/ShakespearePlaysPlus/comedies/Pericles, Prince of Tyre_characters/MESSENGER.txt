@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+<MESSENGER>	<8%>
+	My lord, Prince Pericles is fled.
+</MESSENGER>
+

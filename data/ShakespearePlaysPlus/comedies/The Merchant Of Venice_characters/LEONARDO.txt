@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 2><SCENE 2><27%>
+<LEONARDO>	<28%>
+	My best endeavours shall be done herein.
+
+</LEONARDO>
+
+<SPEECH 2><ACT 2><SCENE 2><27%>
+<LEONARDO>	<28%>
+	Yonder, sir, he walks.
+</LEONARDO>
+

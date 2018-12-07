@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 4><SCENE 1><33%>
+<FORESTER>	<34%>
+	Hereby, upon the edge of yonder coppice;
+	A stand where you may make the fairest shoot.
+</FORESTER>
+
+<SPEECH 2><ACT 4><SCENE 1><34%>
+<FORESTER>	<34%>
+	Pardon me, madam, for I meant not so.
+</FORESTER>
+
+<SPEECH 3><ACT 4><SCENE 1><34%>
+<FORESTER>	<34%>
+	Yes, madam, fair.
+</FORESTER>
+
+<SPEECH 4><ACT 4><SCENE 1><34%>
+<FORESTER>	<34%>
+	Nothing but fair is that which you inherit.
+</FORESTER>
+

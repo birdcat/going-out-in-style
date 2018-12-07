@@ -1,0 +1,33 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+<SERVANT 1>	<12%>
+	It is the noble Duke of Gloucester.
+</SERVANT 1>
+
+<SPEECH 2><ACT 1><SCENE 3><12%>
+<SERVANT 1>	<13%>
+	Villains, answer you so the Lord Protector?
+</SERVANT 1>
+
+<SPEECH 3><ACT 1><SCENE 3><13%>
+<SERVANT 1>	<13%>
+	Open the gates unto the Lord Protector;
+	Or we'll burst them open, if that you come not quickly.
+
+</SERVANT 1>
+
+<SPEECH 4><ACT 3><SCENE 1><44%>
+<SERVANT 1>	<44%>
+	Nay, if we be forbidden stones, we'll fall to it with our teeth.
+</SERVANT 1>
+
+<SPEECH 5><ACT 3><SCENE 1><44%>
+<SERVANT 1>	<45%>
+	Ay, and the very parings of our nails
+	Shall pitch a field when we are dead.
+</SERVANT 1>
+
+<SPEECH 6><ACT 3><SCENE 1><46%>
+<SERVANT 1>	<46%>
+	Content: I'll to the surgeon's.
+</SERVANT 1>
+

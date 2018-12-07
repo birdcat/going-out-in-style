@@ -1,0 +1,36 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+<WIFE>	<24%>
+	Ay, indeed, was he.
+</WIFE>
+
+<SPEECH 2><ACT 2><SCENE 1><24%>
+<WIFE>	<24%>
+	His wife, an't like your worship.
+</WIFE>
+
+<SPEECH 3><ACT 2><SCENE 1><24%>
+<WIFE>	<25%>
+	Most true, forsooth; and many time and oft
+	Myself have heard a voice to call him so.
+</WIFE>
+
+<SPEECH 4><ACT 2><SCENE 1><24%>
+<WIFE>	<25%>
+	A plum-tree, master.
+</WIFE>
+
+<SPEECH 5><ACT 2><SCENE 1><25%>
+<WIFE>	<25%>
+	Too true; and bought his climbing very dear.
+</WIFE>
+
+<SPEECH 6><ACT 2><SCENE 1><25%>
+<WIFE>	<25%>
+	Never, before this day, in all his life.
+</WIFE>
+
+<SPEECH 7><ACT 2><SCENE 1><27%>
+<WIFE>	<27%>
+	Alas! sir, we did it for pure need.
+</WIFE>
+

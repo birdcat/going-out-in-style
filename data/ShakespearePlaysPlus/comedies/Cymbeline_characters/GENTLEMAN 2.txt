@@ -1,0 +1,49 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<GENTLEMAN 2>	<0%>
+	But what's the matter?
+</GENTLEMAN 2>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<GENTLEMAN 2>	<1%>
+	None but the king?
+</GENTLEMAN 2>
+
+<SPEECH 3><ACT 1><SCENE 1><0%>
+<GENTLEMAN 2>	<1%>
+	And why so?
+</GENTLEMAN 2>
+
+<SPEECH 4><ACT 1><SCENE 1><0%>
+<GENTLEMAN 2>	<1%>
+	You speak him far.
+</GENTLEMAN 2>
+
+<SPEECH 5><ACT 1><SCENE 1><1%>
+<GENTLEMAN 2>	<1%>
+	What's his name and birth?
+</GENTLEMAN 2>
+
+<SPEECH 6><ACT 1><SCENE 1><1%>
+<GENTLEMAN 2>	<2%>
+	I honour him,
+	Even out of your report. But pray you, tell me,
+	Is she sole child to the king?
+</GENTLEMAN 2>
+
+<SPEECH 7><ACT 1><SCENE 1><2%>
+<GENTLEMAN 2>	<2%>
+	How long is this ago?
+</GENTLEMAN 2>
+
+<SPEECH 8><ACT 1><SCENE 1><2%>
+<GENTLEMAN 2>	<2%>
+	That a king's children should be so convey'd,
+	So slackly guarded, and the search so slow,
+	That could not trace them!
+</GENTLEMAN 2>
+
+<SPEECH 9><ACT 1><SCENE 1><2%>
+<GENTLEMAN 2>	<2%>
+	I do well believe you.
+</GENTLEMAN 2>
+

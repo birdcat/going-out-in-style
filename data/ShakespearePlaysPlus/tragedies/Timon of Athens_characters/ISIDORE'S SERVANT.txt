@@ -1,0 +1,29 @@
+<SPEECH 1><ACT 2><SCENE 2><26%>
+<ISIDORE'S SERVANT>	<26%>
+	It is so.
+</ISIDORE'S SERVANT>
+
+<SPEECH 2><ACT 2><SCENE 2><27%>
+<ISIDORE'S SERVANT>	<27%>
+	From Isidore;
+	He humbly prays your speedy payment.
+</ISIDORE'S SERVANT>
+
+<SPEECH 3><ACT 2><SCENE 2><27%>
+<ISIDORE'S SERVANT>	<27%>
+	Your steward puts me off, my lord;
+	And I am sent expressly to your lordship.
+</ISIDORE'S SERVANT>
+
+<SPEECH 4><ACT 2><SCENE 2><28%>
+<ISIDORE'S SERVANT>	<28%>
+	A plague upon him, dog!
+</ISIDORE'S SERVANT>
+
+<SPEECH 5><ACT 2><SCENE 2><28%>
+<ISIDORE'S SERVANT>	<28%>
+<STAGE DIR>
+<To Var. Serv.>
+</STAGE DIR> There's the fool hangs on your back already.
+</ISIDORE'S SERVANT>
+

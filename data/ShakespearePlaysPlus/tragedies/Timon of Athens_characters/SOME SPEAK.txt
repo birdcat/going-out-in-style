@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 6><58%>
+<SOME SPEAK>	<57%>
+	What does his lordship mean?
+</SOME SPEAK>
+

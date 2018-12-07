@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 5><19%>
+<SERVANT 3>	<20%>
+	We cannot be here and there too.
+</SERVANT 3>
+

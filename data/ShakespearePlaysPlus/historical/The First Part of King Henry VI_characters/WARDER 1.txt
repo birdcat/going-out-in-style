@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+<WARDER 1>	<12%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Who's there that knocks so imperiously?
+</WARDER 1>
+
+<SPEECH 2><ACT 1><SCENE 3><12%>
+<WARDER 1>	<13%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> The Lord protect him! so we answer him:
+	We do not otherwise than we are will'd.
+</WARDER 1>
+

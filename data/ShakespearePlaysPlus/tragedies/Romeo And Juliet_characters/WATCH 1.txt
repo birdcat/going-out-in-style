@@ -1,0 +1,54 @@
+<SPEECH 1><ACT 5><SCENE 3><95%>
+<WATCH 1>	<95%>
+<STAGE DIR>
+<Within.>
+</STAGE DIR> Lead, boy: which way?
+</WATCH 1>
+
+<SPEECH 2><ACT 5><SCENE 3><95%>
+<WATCH 1>	<95%>
+	The ground is bloody; search about the churchyard.
+	Go, some of you; whoe'er you find, attach.
+<STAGE DIR>
+<Exeunt some of the Watch.>
+</STAGE DIR>
+	Pitiful sight! here lies the county slain,
+	And Juliet bleeding, warm, and newly dead,
+	Who here hath lain these two days buried.
+	Go, tell the prince, run to the Capulets,
+	Raise up the Montagues, some others search:
+<STAGE DIR>
+<Exeunt others of the Watch.>
+</STAGE DIR>
+	We see the ground whereon these woes do lie;
+	But the true ground of all these piteous woes
+	We cannot without circumstance descry.
+
+</WATCH 1>
+
+<SPEECH 3><ACT 5><SCENE 3><95%>
+<WATCH 1>	<96%>
+	Hold him in safety, till the prince come hither.
+
+</WATCH 1>
+
+<SPEECH 4><ACT 5><SCENE 3><96%>
+<WATCH 1>	<96%>
+	A great suspicion: stay the friar too.
+
+</WATCH 1>
+
+<SPEECH 5><ACT 5><SCENE 3><96%>
+<WATCH 1>	<96%>
+	Sovereign, here lies the County Paris slain;
+	And Romeo dead; and Juliet, dead before,
+	Warm and new kill'd.
+</WATCH 1>
+
+<SPEECH 6><ACT 5><SCENE 3><96%>
+<WATCH 1>	<97%>
+	Here is a friar, and slaughter'd Romeo's man;
+	With instruments upon them, fit to open
+	These dead men's tombs.
+</WATCH 1>
+

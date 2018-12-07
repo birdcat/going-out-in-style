@@ -1,0 +1,393 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+<SEBASTIAN>	<3%>
+	A pox o' your throat, you bawling, blasphemous, incharitable dog!
+</SEBASTIAN>
+
+<SPEECH 2><ACT 1><SCENE 1><3%>
+<SEBASTIAN>	<3%>
+	I am out of patience.
+</SEBASTIAN>
+
+<SPEECH 3><ACT 1><SCENE 1><3%>
+<SEBASTIAN>	<4%>
+	Let's take leave of him.
+</SEBASTIAN>
+
+<SPEECH 4><ACT 2><SCENE 1><28%>
+<SEBASTIAN>	<29%>
+	He receives comfort like cold porridge.
+</SEBASTIAN>
+
+<SPEECH 5><ACT 2><SCENE 1><28%>
+<SEBASTIAN>	<29%>
+	Look, he's winding up the watch of his wit; by and by it will strike.
+</SEBASTIAN>
+
+<SPEECH 6><ACT 2><SCENE 1><28%>
+<SEBASTIAN>	<29%>
+	One: tell.
+</SEBASTIAN>
+
+<SPEECH 7><ACT 2><SCENE 1><29%>
+<SEBASTIAN>	<29%>
+	A dollar.
+</SEBASTIAN>
+
+<SPEECH 8><ACT 2><SCENE 1><29%>
+<SEBASTIAN>	<30%>
+	You have taken it wiselier than I meant you should.
+</SEBASTIAN>
+
+<SPEECH 9><ACT 2><SCENE 1><29%>
+<SEBASTIAN>	<30%>
+	He will be talking.
+</SEBASTIAN>
+
+<SPEECH 10><ACT 2><SCENE 1><29%>
+<SEBASTIAN>	<30%>
+	The old cock.
+</SEBASTIAN>
+
+<SPEECH 11><ACT 2><SCENE 1><29%>
+<SEBASTIAN>	<30%>
+	Done. The wager?
+</SEBASTIAN>
+
+<SPEECH 12><ACT 2><SCENE 1><29%>
+<SEBASTIAN>	<30%>
+	A match!
+</SEBASTIAN>
+
+<SPEECH 13><ACT 2><SCENE 1><29%>
+<SEBASTIAN>	<30%>
+	Ha, ha, ha! So you're paid.
+</SEBASTIAN>
+
+<SPEECH 14><ACT 2><SCENE 1><30%>
+<SEBASTIAN>	<30%>
+	Yet—
+</SEBASTIAN>
+
+<SPEECH 15><ACT 2><SCENE 1><30%>
+<SEBASTIAN>	<30%>
+	Ay, and a subtle; as he most learnedly delivered.
+</SEBASTIAN>
+
+<SPEECH 16><ACT 2><SCENE 1><30%>
+<SEBASTIAN>	<30%>
+	As if it had lungs, and rotten ones.
+</SEBASTIAN>
+
+<SPEECH 17><ACT 2><SCENE 1><30%>
+<SEBASTIAN>	<31%>
+	Of that there's none, or little.
+</SEBASTIAN>
+
+<SPEECH 18><ACT 2><SCENE 1><30%>
+<SEBASTIAN>	<31%>
+	With an eye of green in't.
+</SEBASTIAN>
+
+<SPEECH 19><ACT 2><SCENE 1><30%>
+<SEBASTIAN>	<31%>
+	No; he doth but mistake the truth totally.
+</SEBASTIAN>
+
+<SPEECH 20><ACT 2><SCENE 1><31%>
+<SEBASTIAN>	<31%>
+	As many vouch'd rarities are.
+</SEBASTIAN>
+
+<SPEECH 21><ACT 2><SCENE 1><31%>
+<SEBASTIAN>	<31%>
+	Ay, or very falsely pocket up his report.
+</SEBASTIAN>
+
+<SPEECH 22><ACT 2><SCENE 1><31%>
+<SEBASTIAN>	<31%>
+	'Twas a sweet marriage, and we prosper well in our return.
+</SEBASTIAN>
+
+<SPEECH 23><ACT 2><SCENE 1><31%>
+<SEBASTIAN>	<32%>
+	What if he had said, widower Æneas too? Good Lord, how you take it!
+</SEBASTIAN>
+
+<SPEECH 24><ACT 2><SCENE 1><32%>
+<SEBASTIAN>	<32%>
+	He hath rais'd the wall, and houses too.
+</SEBASTIAN>
+
+<SPEECH 25><ACT 2><SCENE 1><32%>
+<SEBASTIAN>	<32%>
+	I think he will carry this island home in his pocket, and give it his son for an apple.
+</SEBASTIAN>
+
+<SPEECH 26><ACT 2><SCENE 1><32%>
+<SEBASTIAN>	<33%>
+	Bate, I beseech you, widow Dido.
+</SEBASTIAN>
+
+<SPEECH 27><ACT 2><SCENE 1><33%>
+<SEBASTIAN>	<34%>
+	Sir, you may thank yourself for this great loss,
+	That would not bless our Europe with your daughter,
+	But rather lose her to an African;
+	Where she at least is banish'd from your eye,
+	Who hath cause to wet the grief on't.
+</SEBASTIAN>
+
+<SPEECH 28><ACT 2><SCENE 1><34%>
+<SEBASTIAN>	<34%>
+	You were kneel'd to and importun'd otherwise
+	By all of us; and the fair soul herself
+	Weigh'd between loathness and obedience, at
+	Which end o' the beam should bow. We have lost your son,
+	I fear, for ever: Milan and Naples have
+	More widows in them of this business' making,
+	Than we bring men to comfort them: the fault's
+	Your own.
+</SEBASTIAN>
+
+<SPEECH 29><ACT 2><SCENE 1><34%>
+<SEBASTIAN>	<34%>
+	Very well.
+</SEBASTIAN>
+
+<SPEECH 30><ACT 2><SCENE 1><34%>
+<SEBASTIAN>	<34%>
+	Foul weather?
+</SEBASTIAN>
+
+<SPEECH 31><ACT 2><SCENE 1><35%>
+<SEBASTIAN>	<35%>
+	Or docks, or mallows.
+</SEBASTIAN>
+
+<SPEECH 32><ACT 2><SCENE 1><35%>
+<SEBASTIAN>	<35%>
+	'Scape being drunk for want of wine.
+</SEBASTIAN>
+
+<SPEECH 33><ACT 2><SCENE 1><35%>
+<SEBASTIAN>	<35%>
+	Yet he would be king on't.
+</SEBASTIAN>
+
+<SPEECH 34><ACT 2><SCENE 1><35%>
+<SEBASTIAN>	<35%>
+	No marrying 'mong his subjects?
+</SEBASTIAN>
+
+<SPEECH 35><ACT 2><SCENE 1><36%>
+<SEBASTIAN>	<36%>
+	Save his majesty!
+</SEBASTIAN>
+
+<SPEECH 36><ACT 2><SCENE 1><36%>
+<SEBASTIAN>	<36%>
+	An it had not fallen flat-long.
+</SEBASTIAN>
+
+<SPEECH 37><ACT 2><SCENE 1><37%>
+<SEBASTIAN>	<36%>
+	We would so, and then go a-bat-fowling.
+</SEBASTIAN>
+
+<SPEECH 38><ACT 2><SCENE 1><37%>
+<SEBASTIAN>	<37%>
+	Please you, sir,
+	Do not omit the heavy offer of it:
+	It seldom visits sorrow; when it doth
+	It is a comforter.
+</SEBASTIAN>
+
+<SPEECH 39><ACT 2><SCENE 1><37%>
+<SEBASTIAN>	<37%>
+	What a strange drowsiness possesses them!
+</SEBASTIAN>
+
+<SPEECH 40><ACT 2><SCENE 1><37%>
+<SEBASTIAN>	<37%>
+	Why
+	Doth it not then our eyelids sink? I find not
+	Myself dispos'd to sleep.
+</SEBASTIAN>
+
+<SPEECH 41><ACT 2><SCENE 1><38%>
+<SEBASTIAN>	<38%>
+	What! art thou waking?
+</SEBASTIAN>
+
+<SPEECH 42><ACT 2><SCENE 1><38%>
+<SEBASTIAN>	<38%>
+	I do; and surely,
+	It is a sleepy language, and thou speak'st
+	Out of thy sleep. What is it thou didst say?
+	This is a strange repose, to be asleep
+	With eyes wide open; standing, speaking, moving,
+	And yet so fast asleep.
+</SEBASTIAN>
+
+<SPEECH 43><ACT 2><SCENE 1><38%>
+<SEBASTIAN>	<38%>
+	Thou dost snore distinctly:
+	There's meaning in thy snores.
+</SEBASTIAN>
+
+<SPEECH 44><ACT 2><SCENE 1><38%>
+<SEBASTIAN>	<38%>
+	Well; I am standing water.
+</SEBASTIAN>
+
+<SPEECH 45><ACT 2><SCENE 1><39%>
+<SEBASTIAN>	<38%>
+	Do so: to ebb,
+	Hereditary sloth instructs me.
+</SEBASTIAN>
+
+<SPEECH 46><ACT 2><SCENE 1><39%>
+<SEBASTIAN>	<39%>
+	Prithee, say on:
+	The setting of thine eye and cheek proclaim
+	A matter from thee, and a birth indeed
+	Which throes thee much to yield.
+</SEBASTIAN>
+
+<SPEECH 47><ACT 2><SCENE 1><39%>
+<SEBASTIAN>	<39%>
+	I have no hope
+	That he's undrown'd.
+</SEBASTIAN>
+
+<SPEECH 48><ACT 2><SCENE 1><40%>
+<SEBASTIAN>	<39%>
+	He's gone.
+</SEBASTIAN>
+
+<SPEECH 49><ACT 2><SCENE 1><40%>
+<SEBASTIAN>	<39%>
+	Claribel.
+</SEBASTIAN>
+
+<SPEECH 50><ACT 2><SCENE 1><40%>
+<SEBASTIAN>	<40%>
+	What stuff is this!—How say you?
+	'Tis true my brother's daughter's Queen of Tunis;
+	So is she heir of Naples; 'twixt which regions
+	There is some space.
+</SEBASTIAN>
+
+<SPEECH 51><ACT 2><SCENE 1><41%>
+<SEBASTIAN>	<40%>
+	Methinks I do.
+</SEBASTIAN>
+
+<SPEECH 52><ACT 2><SCENE 1><41%>
+<SEBASTIAN>	<41%>
+	I remember
+	You did supplant your brother Prospero.
+</SEBASTIAN>
+
+<SPEECH 53><ACT 2><SCENE 1><41%>
+<SEBASTIAN>	<41%>
+	But, for your conscience,—
+</SEBASTIAN>
+
+<SPEECH 54><ACT 2><SCENE 1><42%>
+<SEBASTIAN>	<41%>
+	Thy case, dear friend,
+	Shall be my precedent: as thou got'st Milan,
+	I'll come by Naples. Draw thy sword: one stroke
+	Shall free thee from the tribute which thou pay'st,
+	And I the king shall love thee.
+</SEBASTIAN>
+
+<SPEECH 55><ACT 2><SCENE 1><42%>
+<SEBASTIAN>	<42%>
+	O! but one word.
+<STAGE DIR>
+<They converse apart.>
+</STAGE DIR>
+
+</SEBASTIAN>
+
+<SPEECH 56><ACT 2><SCENE 1><43%>
+<SEBASTIAN>	<42%>
+	Whiles we stood here securing your repose,
+	Even now, we heard a hollow burst of bellowing
+	Like bulls, or rather hons; did't not wake you?
+	It struck mine ear most terribly.
+</SEBASTIAN>
+
+<SPEECH 57><ACT 3><SCENE 3><65%>
+<SEBASTIAN>	<65%>
+<STAGE DIR>
+<Aside to Ant.>
+</STAGE DIR> The next advantage
+	Will we take throughly.
+</SEBASTIAN>
+
+<SPEECH 58><ACT 3><SCENE 3><65%>
+<SEBASTIAN>	<65%>
+<STAGE DIR>
+<Aside to Ant.>
+</STAGE DIR> I say to-night: no more.
+
+</SEBASTIAN>
+
+<SPEECH 59><ACT 3><SCENE 3><66%>
+<SEBASTIAN>	<65%>
+	A living drollery. Now I will believe
+	That there are unicorns; that in Arabia
+	There is one tree, the phœnix' throne; one phœnix
+	At this hour reigning there.
+</SEBASTIAN>
+
+<SPEECH 60><ACT 3><SCENE 3><67%>
+<SEBASTIAN>	<66%>
+	No matter, since
+	They have left their viands behind; for we have stomachs.—
+	Will't please you to taste of what is here?
+</SEBASTIAN>
+
+<SPEECH 61><ACT 3><SCENE 3><70%>
+<SEBASTIAN>	<70%>
+	But one fiend at a time,
+	I'll fight their legions o'er.
+</SEBASTIAN>
+
+<SPEECH 62><ACT 5><SCENE 1><89%>
+<SEBASTIAN>	<90%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> The devil speaks in him.
+</SEBASTIAN>
+
+<SPEECH 63><ACT 5><SCENE 1><92%>
+<SEBASTIAN>	<92%>
+	A most high miracle!
+</SEBASTIAN>
+
+<SPEECH 64><ACT 5><SCENE 1><96%>
+<SEBASTIAN>	<97%>
+	Ha, ha!
+	What things are these, my lord Antonio?
+	Will money buy them?
+</SEBASTIAN>
+
+<SPEECH 65><ACT 5><SCENE 1><97%>
+<SEBASTIAN>	<97%>
+	He is drunk now: where had he wine?
+</SEBASTIAN>
+
+<SPEECH 66><ACT 5><SCENE 1><97%>
+<SEBASTIAN>	<98%>
+	Why, how now, Stephano!
+</SEBASTIAN>
+
+<SPEECH 67><ACT 5><SCENE 1><98%>
+<SEBASTIAN>	<98%>
+	Or stole it, rather.
+</SEBASTIAN>
+

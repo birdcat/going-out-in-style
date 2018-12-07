@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 2><88%>
+<HERBERT>	<88%>
+	I doubt not but his friends will turn to us.
+</HERBERT>
+

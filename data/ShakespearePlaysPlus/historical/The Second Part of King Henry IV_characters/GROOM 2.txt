@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 5><95%>
+<GROOM 2>	<96%>
+	The trumpets have sounded twice.
+</GROOM 2>
+

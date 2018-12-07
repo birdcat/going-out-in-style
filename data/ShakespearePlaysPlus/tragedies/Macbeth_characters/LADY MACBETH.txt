@@ -1,0 +1,580 @@
+<SPEECH 1><ACT 1><SCENE 5><14%>
+<LADY MACBETH>	<15%>
+	Thou'rt mad to say it.
+	Is not thy master with him? who, were't so,
+	Would have inform'd for preparation.
+</LADY MACBETH>
+
+<SPEECH 2><ACT 1><SCENE 5><15%>
+<LADY MACBETH>	<15%>
+	Give him tending;
+	He brings great news.—<STAGE DIR>
+<Exit Messenger.>
+</STAGE DIR> The raven himself is hoarse
+	That croaks the fatal entrance of Duncan
+	Under my battlements. Come, you spirits
+	That tend on mortal thoughts! unsex me here,
+	And fill me from the crown to the toe top full
+	Of direst cruelty; make thick my blood,
+	Stop up the access and passage to remorse,
+	That no compunctious visitings of nature
+	Shake my fell purpose, nor keep peace between
+	The effect and it! Come to my woman's breasts,
+	And take my milk for gall, you murdering ministers,
+	Wherever in your sightless substances
+	You wait on nature's mischief! Come, thick night,
+	And pall thee in the dunnest smoke of hell,
+	That my keen knife see not the wound it makes,
+	Nor heaven peep through the blanket of the dark,
+	To cry, 'Hold, hold!'
+
+<STAGE DIR>
+<Enter Macbeth.>
+</STAGE DIR>
+	Great Glamis! worthy Cawdor!
+	Greater than both, by the all-hail hereafter!
+	Thy letters have transported me beyond
+	This ignorant present, and I feel now
+</LADY MACBETH>
+
+<SPEECH 3><ACT 1><SCENE 5><15%>
+<LADY MACBETH>	<16%>
+	And when goes hence?
+</LADY MACBETH>
+
+<SPEECH 4><ACT 1><SCENE 5><16%>
+<LADY MACBETH>	<16%>
+	O! never
+	Shall sun that morrow see.
+	Your face, my thane, is as a book where men
+	May read strange matters. To beguile the time,
+	Look like the time; bear welcome in your eye,
+	Your hand, your tongue: look like the innocent flower,
+	But be the serpent under't. He that's coming
+	Must be provided for; and you shall put
+	This night's great business into my dispatch;
+	Which shall to all our nights and days to come
+	Give solely sovereign sway and masterdom.
+</LADY MACBETH>
+
+<SPEECH 5><ACT 1><SCENE 5><16%>
+<LADY MACBETH>	<17%>
+	Only look up clear;
+	To alter favour ever is to fear.
+	Leave all the rest to me.
+</LADY MACBETH>
+
+<SPEECH 6><ACT 1><SCENE 6><17%>
+<LADY MACBETH>	<18%>
+	All our service,
+	In every point twice done, and then done double,
+	Were poor and single business, to contend
+	Against those honours deep and broad wherewith
+	Your majesty loads our house: for those of old,
+	And the late dignities heap'd up to them,
+	We rest your hermits.
+</LADY MACBETH>
+
+<SPEECH 7><ACT 1><SCENE 6><17%>
+<LADY MACBETH>	<18%>
+	Your servants ever
+	Have theirs, themselves, and what is theirs, in compt,
+	To make their audit at your highness' pleasure,
+	Still to return your own.
+</LADY MACBETH>
+
+<SPEECH 8><ACT 1><SCENE 7><19%>
+<LADY MACBETH>	<20%>
+	He has almost supp'd: why have you left the chamber?
+</LADY MACBETH>
+
+<SPEECH 9><ACT 1><SCENE 7><19%>
+<LADY MACBETH>	<20%>
+	Know you not he has?
+</LADY MACBETH>
+
+<SPEECH 10><ACT 1><SCENE 7><19%>
+<LADY MACBETH>	<20%>
+	Was the hope drunk,
+	Wherein you dress'd yourself? hath it slept since,
+	And wakes it now, to look so green and pale
+	At what it did so freely? From this time
+	Such I account thy love. Art thou afeard
+	To be the same in thine own act and valour
+	As thou art in desire? Wouldst thou have that
+	Which thou esteem'st the ornament of life,
+	And live a coward in thine own esteem,
+	Letting 'I dare not' wait upon 'I would,'
+	Like the poor cat i' the adage?
+</LADY MACBETH>
+
+<SPEECH 11><ACT 1><SCENE 7><20%>
+<LADY MACBETH>	<21%>
+	What beast was't, then,
+	That made you break this enterprise to me?
+	When you durst do it then you were a man;
+	And, to be more than what you were, you would
+	Be so much more the man. Nor time nor place
+	Did then adhere, and yet you would make both:
+	They have made themselves, and that their fitness now
+	Does unmake you. I have given suck, and know
+	How tender 'tis to love the babe that milks me:
+	I would, while it was smiling in my face,
+	Have pluck'd my nipple from his boneless gums,
+	And dash'd the brains out, had I so sworn as you
+	Have done to this.
+</LADY MACBETH>
+
+<SPEECH 12><ACT 1><SCENE 7><20%>
+<LADY MACBETH>	<22%>
+	We fail!
+	But screw your courage to the sticking-place,
+	And we'll not fail. When Duncan is asleep,
+	Whereto the rather shall his day's hard journey
+	Soundly invite him, his two chamberlains
+	Will I with wine and wassail so convince
+	That memory, the warder of the brain,
+	Shall be a fume, and the receipt of reason
+	A limbeck only; when in swinish sleep
+	Their drenched natures lie, as in a death,
+	What cannot you and I perform upon
+	The unguarded Duncan? what not put upon
+	His spongy officers, who shall bear the guilt
+	Of our great quell?
+</LADY MACBETH>
+
+<SPEECH 13><ACT 1><SCENE 7><21%>
+<LADY MACBETH>	<22%>
+	Who dares receive it other,
+	As we shall make our griefs and clamour roar
+	Upon his death?
+</LADY MACBETH>
+
+<SPEECH 14><ACT 2><SCENE 2><25%>
+<LADY MACBETH>	<26%>
+	That which hath made them drunk hath made me bold,
+	What hath quench'd them hath given me fire. Hark!
+	Peace!
+	It was the owl that shriek'd, the fatal bellman,
+	Which gives the stern'st good-night. He is about it:
+	The doors are open, and the surfeited grooms
+	Do mock their charge with snores: I have drugg'd their possets,
+	That death and nature do contend about them,
+	Whether they live or die.
+</LADY MACBETH>
+
+<SPEECH 15><ACT 2><SCENE 2><25%>
+<LADY MACBETH>	<26%>
+	Alack! I am afraid they have awak'd,
+	And 'tis not done; the attempt and not the deed
+	Confounds us. Hark! I laid their daggers ready;
+	He could not miss them. Had he not resembled
+	My father as he slept I had done 't. My husband!
+
+</LADY MACBETH>
+
+<SPEECH 16><ACT 2><SCENE 2><25%>
+<LADY MACBETH>	<26%>
+	I heard the owl scream and the crickets cry.
+	Did not you speak?
+</LADY MACBETH>
+
+<SPEECH 17><ACT 2><SCENE 2><25%>
+<LADY MACBETH>	<27%>
+	Now.
+</LADY MACBETH>
+
+<SPEECH 18><ACT 2><SCENE 2><25%>
+<LADY MACBETH>	<27%>
+	Ay.
+</LADY MACBETH>
+
+<SPEECH 19><ACT 2><SCENE 2><26%>
+<LADY MACBETH>	<27%>
+	Donalbain.
+</LADY MACBETH>
+
+<SPEECH 20><ACT 2><SCENE 2><26%>
+<LADY MACBETH>	<27%>
+	A foolish thought to say a sorry sight.
+</LADY MACBETH>
+
+<SPEECH 21><ACT 2><SCENE 2><26%>
+<LADY MACBETH>	<27%>
+	There are two lodg'd together.
+</LADY MACBETH>
+
+<SPEECH 22><ACT 2><SCENE 2><26%>
+<LADY MACBETH>	<27%>
+	Consider it not so deeply.
+</LADY MACBETH>
+
+<SPEECH 23><ACT 2><SCENE 2><26%>
+<LADY MACBETH>	<27%>
+	These deeds must not be thought
+	After these ways; so, it will make us mad.
+</LADY MACBETH>
+
+<SPEECH 24><ACT 2><SCENE 2><27%>
+<LADY MACBETH>	<28%>
+	What do you mean?
+</LADY MACBETH>
+
+<SPEECH 25><ACT 2><SCENE 2><27%>
+<LADY MACBETH>	<28%>
+	Who was it that thus cried? Why, worthy thane,
+	You do unbend your noble strength to think
+	So brainsickly of things. Go get some water,
+	And wash this filthy witness from your hand.
+	Why did you bring these daggers from the place?
+	They must lie there: go carry them, and smear
+	The sleepy grooms with blood.
+</LADY MACBETH>
+
+<SPEECH 26><ACT 2><SCENE 2><27%>
+<LADY MACBETH>	<28%>
+	Infirm of purpose!
+	Give me the daggers. The sleeping and the dead
+	Are but as pictures; 'tis the eye of childhood
+	That fears a painted devil. If he do bleed,
+	I'll gild the faces of the grooms withal;
+	For it must seem their guilt.
+</LADY MACBETH>
+
+<SPEECH 27><ACT 2><SCENE 2><28%>
+<LADY MACBETH>	<29%>
+	My hands are of your colour, but I shame
+	To wear a heart so white.—<STAGE DIR>
+<Knocking within.>
+</STAGE DIR> I hear a knocking
+	At the south entry; retire we to our chamber;
+	A little water clears us of this deed;
+	How easy is it, then! Your constancy
+	Hath left you unattended. <STAGE DIR>
+<Knocking within.>
+</STAGE DIR> Hark! more knocking.
+	Get on your night-gown, lest occasion call us,
+	And show us to be watchers. Be not lost
+	So poorly in your thoughts.
+</LADY MACBETH>
+
+<SPEECH 28><ACT 2><SCENE 3><33%>
+<LADY MACBETH>	<34%>
+	What's the business,
+	That such a hideous trumpet calls to parley
+	The sleepers of the house? speak, speak!
+</LADY MACBETH>
+
+<SPEECH 29><ACT 2><SCENE 3><33%>
+<LADY MACBETH>	<34%>
+	Woe, alas!
+	What! in our house?
+</LADY MACBETH>
+
+<SPEECH 30><ACT 2><SCENE 3><34%>
+<LADY MACBETH>	<35%>
+	Help me hence, ho!
+</LADY MACBETH>
+
+<SPEECH 31><ACT 3><SCENE 1><39%>
+<LADY MACBETH>	<40%>
+	If he had been forgotten
+	It had been as a gap in our great feast,
+	And all-thing unbecoming.
+</LADY MACBETH>
+
+<SPEECH 32><ACT 3><SCENE 2><45%>
+<LADY MACBETH>	<46%>
+	Is Banquo gone from court?
+</LADY MACBETH>
+
+<SPEECH 33><ACT 3><SCENE 2><45%>
+<LADY MACBETH>	<46%>
+	Say to the king, I would attend his leisure
+	For a few words.
+</LADY MACBETH>
+
+<SPEECH 34><ACT 3><SCENE 2><45%>
+<LADY MACBETH>	<46%>
+	Nought's had, all's spent,
+	Where our desire is got without content:
+	'Tis safer to be that which we destroy
+	Than by destruction dwell in doubtful joy.
+
+<STAGE DIR>
+<Enter Macbeth.>
+</STAGE DIR>
+	How now, my lord! why do you keep alone,
+	Of sorriest fancies your companions making,
+	Using those thoughts which should indeed have died
+	With them they think on? Things without all remedy
+</LADY MACBETH>
+
+<SPEECH 35><ACT 3><SCENE 2><46%>
+<LADY MACBETH>	<47%>
+	Come on;
+	Gentle my lord, sleek o'er your rugged looks;
+	Be bright and jovial among your guests to-night.
+</LADY MACBETH>
+
+<SPEECH 36><ACT 3><SCENE 2><46%>
+<LADY MACBETH>	<47%>
+	You must leave this.
+</LADY MACBETH>
+
+<SPEECH 37><ACT 3><SCENE 2><46%>
+<LADY MACBETH>	<47%>
+	But in them nature's copy's not eterne.
+</LADY MACBETH>
+
+<SPEECH 38><ACT 3><SCENE 2><47%>
+<LADY MACBETH>	<48%>
+	What's to be done?
+</LADY MACBETH>
+
+<SPEECH 39><ACT 3><SCENE 4><49%>
+<LADY MACBETH>	<50%>
+	Pronounce it for me, sir, to all our friends;
+	For my heart speaks they are welcome.
+
+</LADY MACBETH>
+
+<SPEECH 40><ACT 3><SCENE 4><51%>
+<LADY MACBETH>	<51%>
+	My royal lord,
+	You do not give the cheer: the feast is sold
+	That is not often vouch'd, while 'tis a-making,
+	'Tis given with welcome: to feed were best at home;
+	From thence, the sauce to meat is ceremony;
+	Meeting were bare without it.
+</LADY MACBETH>
+
+<SPEECH 41><ACT 3><SCENE 4><52%>
+<LADY MACBETH>	<52%>
+	Sit, worthy friends: my lord is often thus,
+	And hath been from his youth: pray you, keep seat;
+	The fit is momentary; upon a thought
+	He will again be well. If much you note him
+	You shall offend him and extend his passion:
+	Feed and regard him not. Are you a man?
+</LADY MACBETH>
+
+<SPEECH 42><ACT 3><SCENE 4><52%>
+<LADY MACBETH>	<53%>
+	O proper stuff!
+	This is the very painting of your fear;
+	This is the air-drawn dagger which, you said,
+	Led you to Duncan. O! these flaws and starts—
+	Impostors to true fear—would well become
+	A woman's story at a winter's fire,
+	Authoriz'd by her grandam. Shame itself!
+	Why do you make such faces? When all's done
+	You look but on a stool.
+</LADY MACBETH>
+
+<SPEECH 43><ACT 3><SCENE 4><53%>
+<LADY MACBETH>	<53%>
+	What! quite unmann'd in folly?
+</LADY MACBETH>
+
+<SPEECH 44><ACT 3><SCENE 4><53%>
+<LADY MACBETH>	<53%>
+	Fie, for shame!
+</LADY MACBETH>
+
+<SPEECH 45><ACT 3><SCENE 4><53%>
+<LADY MACBETH>	<54%>
+	My worthy lord,
+	Your noble friends do lack you.
+</LADY MACBETH>
+
+<SPEECH 46><ACT 3><SCENE 4><54%>
+<LADY MACBETH>	<54%>
+	Think of this, good peers,
+	But as a thing of custom: 'tis no other;
+	Only it spoils the pleasure of the time.
+</LADY MACBETH>
+
+<SPEECH 47><ACT 3><SCENE 4><54%>
+<LADY MACBETH>	<55%>
+	You have displac'd the mirth, broke the good meeting,
+	With most admir'd disorder.
+</LADY MACBETH>
+
+<SPEECH 48><ACT 3><SCENE 4><55%>
+<LADY MACBETH>	<55%>
+	I pray you, speak not; he grows worse and worse;
+	Question enrages him. At once, good-night:
+	Stand not upon the order of your going,
+	But go at once.
+</LADY MACBETH>
+
+<SPEECH 49><ACT 3><SCENE 4><55%>
+<LADY MACBETH>	<56%>
+	A kind good-night to all!
+</LADY MACBETH>
+
+<SPEECH 50><ACT 3><SCENE 4><55%>
+<LADY MACBETH>	<56%>
+	Almost at odds with morning, which is which.
+</LADY MACBETH>
+
+<SPEECH 51><ACT 3><SCENE 4><55%>
+<LADY MACBETH>	<56%>
+	Did you send to him, sir?
+</LADY MACBETH>
+
+<SPEECH 52><ACT 3><SCENE 4><56%>
+<LADY MACBETH>	<56%>
+	You lack the season of all natures, sleep.
+</LADY MACBETH>
+
+<SPEECH 53><ACT 4><SCENE 2><67%>
+<LADY MACBETH>	<68%>
+	What had he done to make him fly the land?
+</LADY MACBETH>
+
+<SPEECH 54><ACT 4><SCENE 2><67%>
+<LADY MACBETH>	<68%>
+	He had none:
+	His flight was madness: when our actions do not,
+	Our fears do make us traitors.
+</LADY MACBETH>
+
+<SPEECH 55><ACT 4><SCENE 2><67%>
+<LADY MACBETH>	<68%>
+	Wisdom! to leave his wife, to leave his babes,
+	His mansion and his titles in a place
+	From whence himself does fly? He loves us not;
+	He wants the natural touch; for the poor wren,
+	The most diminutive of birds, will fight—
+	Her young ones in her nest—against the owl.
+	All is the fear and nothing is the love;
+	As little is the wisdom, where the flight
+	So runs against all reason.
+</LADY MACBETH>
+
+<SPEECH 56><ACT 4><SCENE 2><68%>
+<LADY MACBETH>	<69%>
+	Father'd he is, and yet he's fatherless.
+</LADY MACBETH>
+
+<SPEECH 57><ACT 4><SCENE 2><68%>
+<LADY MACBETH>	<69%>
+	Sirrah, your father's dead:
+	And what will you do now? How will you live?
+</LADY MACBETH>
+
+<SPEECH 58><ACT 4><SCENE 2><68%>
+<LADY MACBETH>	<69%>
+	What! with worms and flies?
+</LADY MACBETH>
+
+<SPEECH 59><ACT 4><SCENE 2><68%>
+<LADY MACBETH>	<69%>
+	Poor bird! thou'dst never fear the net nor lime,
+	The pit-fall nor the gin.
+</LADY MACBETH>
+
+<SPEECH 60><ACT 4><SCENE 2><69%>
+<LADY MACBETH>	<69%>
+	Yes, he is dead: how wilt thou do for a father?
+</LADY MACBETH>
+
+<SPEECH 61><ACT 4><SCENE 2><69%>
+<LADY MACBETH>	<70%>
+	Why, I can buy me twenty at any market.
+</LADY MACBETH>
+
+<SPEECH 62><ACT 4><SCENE 2><69%>
+<LADY MACBETH>	<70%>
+	Thou speak'st with all thy wit; and yet, i' faith,
+	With wit enough for thee.
+</LADY MACBETH>
+
+<SPEECH 63><ACT 4><SCENE 2><69%>
+<LADY MACBETH>	<70%>
+	Ay, that he was.
+</LADY MACBETH>
+
+<SPEECH 64><ACT 4><SCENE 2><69%>
+<LADY MACBETH>	<70%>
+	Why, one that swears and lies.
+</LADY MACBETH>
+
+<SPEECH 65><ACT 4><SCENE 2><69%>
+<LADY MACBETH>	<70%>
+	Every one that does so is a traitor, and must be hanged.
+</LADY MACBETH>
+
+<SPEECH 66><ACT 4><SCENE 2><69%>
+<LADY MACBETH>	<70%>
+	Every one.
+</LADY MACBETH>
+
+<SPEECH 67><ACT 4><SCENE 2><69%>
+<LADY MACBETH>	<70%>
+	Why, the honest men.
+</LADY MACBETH>
+
+<SPEECH 68><ACT 4><SCENE 2><70%>
+<LADY MACBETH>	<70%>
+	Now God help thee, poor monkey!
+	But how wilt thou do for a father?
+</LADY MACBETH>
+
+<SPEECH 69><ACT 4><SCENE 2><70%>
+<LADY MACBETH>	<70%>
+	Poor prattler, how thou talk'st!
+
+</LADY MACBETH>
+
+<SPEECH 70><ACT 4><SCENE 2><70%>
+<LADY MACBETH>	<71%>
+	Whither should I fly?
+	I have done no harm. But I remember now
+	I am in this earthly world, where, to do harm
+	Is often laudable, to do good sometime
+	Accounted dangerous folly; why then, alas!
+	Do I put up that womanly defence,
+	To say I have done no harm?
+
+</LADY MACBETH>
+
+<SPEECH 71><ACT 4><SCENE 2><71%>
+<LADY MACBETH>	<71%>
+	I hope in no place so unsanctified
+	Where such as thou mayst find him.
+</LADY MACBETH>
+
+<SPEECH 72><ACT 5><SCENE 1><83%>
+<LADY MACBETH>	<84%>
+	Yet here's a spot.
+</LADY MACBETH>
+
+<SPEECH 73><ACT 5><SCENE 1><83%>
+<LADY MACBETH>	<84%>
+	Out, damned spot! out, I say! One; two: why, then, 'tis time to do't. Hell is murky! Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account? Yet who would have thought the old man to have had so much blood in him?
+</LADY MACBETH>
+
+<SPEECH 74><ACT 5><SCENE 1><84%>
+<LADY MACBETH>	<84%>
+	The Thane of Fife had a wife: where is she now? What! will these hands ne'er be clean? No more o' that, my lord, no more o' that: you mar all with this starting.
+</LADY MACBETH>
+
+<SPEECH 75><ACT 5><SCENE 1><84%>
+<LADY MACBETH>	<84%>
+	Here's the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand. Oh! oh! oh!
+</LADY MACBETH>
+
+<SPEECH 76><ACT 5><SCENE 1><84%>
+<LADY MACBETH>	<85%>
+	Wash your hands, put on your night-gown; look not so pale. I tell you yet again, Banquo's buried; he cannot come out on 's grave.
+</LADY MACBETH>
+
+<SPEECH 77><ACT 5><SCENE 1><84%>
+<LADY MACBETH>	<85%>
+	To bed, to bed: there's knocking at the gate. Come, come, come, come, give me your hand. What's done cannot be undone.
+	To bed, to bed, to bed.
+</LADY MACBETH>
+

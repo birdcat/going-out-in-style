@@ -1,0 +1,276 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<ALONSO>	<1%>
+	Good boatswain, have care. Where's the master? Play the men.
+</ALONSO>
+
+<SPEECH 2><ACT 2><SCENE 1><28%>
+<ALONSO>	<29%>
+	Prithee, peace.
+</ALONSO>
+
+<SPEECH 3><ACT 2><SCENE 1><29%>
+<ALONSO>	<30%>
+	I prithee, spare.
+</ALONSO>
+
+<SPEECH 4><ACT 2><SCENE 1><32%>
+<ALONSO>	<32%>
+	Ay?
+</ALONSO>
+
+<SPEECH 5><ACT 2><SCENE 1><33%>
+<ALONSO>	<33%>
+	You cram these words into mine ears, against
+	The stomach of my sense. Would I had never
+	Married my daughter there! for, coming thence,
+	My son is lost; and, in my rate, she too,
+	Who is so far from Italy remov'd,
+	I ne'er again shall see her. O thou, mine heir
+	Of Naples and of Milan! what strange fish
+	Hath made his meal on thee?
+</ALONSO>
+
+<SPEECH 6><ACT 2><SCENE 1><33%>
+<ALONSO>	<34%>
+	No, no; he's gone.
+</ALONSO>
+
+<SPEECH 7><ACT 2><SCENE 1><34%>
+<ALONSO>	<34%>
+	Prithee, peace.
+</ALONSO>
+
+<SPEECH 8><ACT 2><SCENE 1><34%>
+<ALONSO>	<34%>
+	So is the dearest of the loss.
+</ALONSO>
+
+<SPEECH 9><ACT 2><SCENE 1><36%>
+<ALONSO>	<36%>
+	Prithee, no more: thou dost talk nothing to me.
+</ALONSO>
+
+<SPEECH 10><ACT 2><SCENE 1><37%>
+<ALONSO>	<37%>
+	What! all so soon asleep! I wish mine eyes
+	Would, with themselves, shut up my thoughts: I find
+	They are inclin'd to do so.
+</ALONSO>
+
+<SPEECH 11><ACT 2><SCENE 1><37%>
+<ALONSO>	<37%>
+	Thank you. Wondrous heavy.
+</ALONSO>
+
+<SPEECH 12><ACT 2><SCENE 1><43%>
+<ALONSO>	<42%>
+	Why, how now! ho, awake! Why are you drawn?
+	Wherefore this ghastly looking?
+</ALONSO>
+
+<SPEECH 13><ACT 2><SCENE 1><43%>
+<ALONSO>	<43%>
+	I heard nothing.
+</ALONSO>
+
+<SPEECH 14><ACT 2><SCENE 1><43%>
+<ALONSO>	<43%>
+	Heard you this, Gonzalo?
+</ALONSO>
+
+<SPEECH 15><ACT 2><SCENE 1><43%>
+<ALONSO>	<43%>
+	Lead off this ground, and let's make further search
+	For my poor son.
+</ALONSO>
+
+<SPEECH 16><ACT 2><SCENE 1><44%>
+<ALONSO>	<43%>
+	Lead away.
+</ALONSO>
+
+<SPEECH 17><ACT 3><SCENE 3><65%>
+<ALONSO>	<64%>
+	Old lord, I cannot blame thee,
+	Who am myself attach'd with weariness,
+	To the dulling of my spirits: sit down, and rest.
+	Even here I will put off my hope, and keep it
+	No longer for my flatterer: he is drown'd
+	Whom thus we stray to find; and the sea mocks
+	Our frustrate search on land. Well, let him go.
+</ALONSO>
+
+<SPEECH 18><ACT 3><SCENE 3><66%>
+<ALONSO>	<65%>
+	What harmony is this? my good friends, hark!
+</ALONSO>
+
+<SPEECH 19><ACT 3><SCENE 3><66%>
+<ALONSO>	<65%>
+	Give us kind keepers, heavens! What were these?
+</ALONSO>
+
+<SPEECH 20><ACT 3><SCENE 3><67%>
+<ALONSO>	<66%>
+	I cannot too much muse,
+	Such shapes, such gesture, and such sound, expressing,—
+	Although they want the use of tongue,—a kind
+	Of excellent dumb discourse.
+</ALONSO>
+
+<SPEECH 21><ACT 3><SCENE 3><67%>
+<ALONSO>	<67%>
+	Not I.
+</ALONSO>
+
+<SPEECH 22><ACT 3><SCENE 3><67%>
+<ALONSO>	<67%>
+	I will stand to and feed,
+	Although my last; no matter, since I feel
+	The best is past.—Brother, my lord the duke,
+	Stand to and do as we.
+
+</ALONSO>
+
+<SPEECH 23><ACT 3><SCENE 3><70%>
+<ALONSO>	<69%>
+	O, it is monstrous! monstrous!
+	Methought the billows spoke and told me of it;
+	The winds did sing it to me; and the thunder,
+	That deep and dreadful organ-pipe, pronounc'd
+	The name of Prosper: it did bass my trespass.
+	Therefore my son i' th' ooze is bedded; and
+	I'll seek him deeper than e'er plummet sounded,
+	And with him there lie mudded.
+</ALONSO>
+
+<SPEECH 24><ACT 5><SCENE 1><88%>
+<ALONSO>	<89%>
+	Whe'r thou beest he or no,
+	Or some enchanted trifle to abuse me,
+	As late I have been, I not know: thy pulse
+	Beats, as of flesh and blood; and, since I saw thee,
+	Th' affliction of my mind amends, with which,
+	I fear, a madness held me: this must crave,—
+	An if this be at all—a most strange story.
+	Thy dukedom I resign, and do entreat
+	Thou pardon me my wrongs.—But how should Prospero
+	Be living, and be here?
+</ALONSO>
+
+<SPEECH 25><ACT 5><SCENE 1><90%>
+<ALONSO>	<90%>
+	If thou beest Prospero,
+	Give us particulars of thy preservation;
+	How thou hast met us here, who three hours since
+	Were wrack'd upon this shore; where I have lost,—
+	How sharp the point of this remembrance is!—
+	My dear son Ferdinand.
+</ALONSO>
+
+<SPEECH 26><ACT 5><SCENE 1><90%>
+<ALONSO>	<90%>
+	Irreparable is the loss, and patience
+	Says it is past her cure.
+</ALONSO>
+
+<SPEECH 27><ACT 5><SCENE 1><90%>
+<ALONSO>	<90%>
+	You the like loss!
+</ALONSO>
+
+<SPEECH 28><ACT 5><SCENE 1><90%>
+<ALONSO>	<91%>
+	A daughter?
+	O heavens! that they were living both in Naples,
+	The king and queen there! that they were, I wish
+	Myself were mudded in that oozy bed
+	Where my son lies. When did you lose your daughter?
+</ALONSO>
+
+<SPEECH 29><ACT 5><SCENE 1><92%>
+<ALONSO>	<92%>
+	If this prove
+	A vision of the island, one dear son
+	Shall I twice lose.
+</ALONSO>
+
+<SPEECH 30><ACT 5><SCENE 1><92%>
+<ALONSO>	<92%>
+	Now, all the blessings
+	Of a glad father compass thee about!
+	Arise, and say how thou cam'st here.
+</ALONSO>
+
+<SPEECH 31><ACT 5><SCENE 1><92%>
+<ALONSO>	<92%>
+	What is this maid, with whom thou wast at play?
+	Your eld'st acquaintance cannot be three hours:
+	Is she the goddess that hath sever'd us,
+	And brought us thus together?
+</ALONSO>
+
+<SPEECH 32><ACT 5><SCENE 1><93%>
+<ALONSO>	<93%>
+	I am hers:
+	But O! how oddly will it sound that I
+	Must ask my child forgiveness!
+</ALONSO>
+
+<SPEECH 33><ACT 5><SCENE 1><93%>
+<ALONSO>	<93%>
+	I say, Amen, Gonzalo!
+</ALONSO>
+
+<SPEECH 34><ACT 5><SCENE 1><93%>
+<ALONSO>	<94%>
+<STAGE DIR>
+<To Fer. and Mira.>
+</STAGE DIR> Give me your hands:
+	Let grief and sorrow still embrace his heart
+	That doth not wish you joy!
+</ALONSO>
+
+<SPEECH 35><ACT 5><SCENE 1><94%>
+<ALONSO>	<95%>
+	These are not natural events; they strengthen
+	From strange to stranger.—Say, how came you hither?
+</ALONSO>
+
+<SPEECH 36><ACT 5><SCENE 1><95%>
+<ALONSO>	<95%>
+	This is as strange a maze as e'er men trod;
+	And there is in this business more than nature
+	Was ever conduct of: some oracle
+	Must rectify our knowledge.
+</ALONSO>
+
+<SPEECH 37><ACT 5><SCENE 1><97%>
+<ALONSO>	<97%>
+	Is not this Stephano, my drunken butler?
+</ALONSO>
+
+<SPEECH 38><ACT 5><SCENE 1><97%>
+<ALONSO>	<97%>
+	And Trinculo is reeling-ripe: where should they
+	Find this grand liquor that hath gilded them?
+	How cam'st thou in this pickle?
+</ALONSO>
+
+<SPEECH 39><ACT 5><SCENE 1><97%>
+<ALONSO>	<98%>
+	This is a strange thing as e'er I look'd on.
+</ALONSO>
+
+<SPEECH 40><ACT 5><SCENE 1><98%>
+<ALONSO>	<98%>
+	Hence, and bestow your luggage where you found it.
+</ALONSO>
+
+<SPEECH 41><ACT 5><SCENE 1><98%>
+<ALONSO>	<99%>
+	I long
+	To hear the story of your life, which must
+	Take the ear strangely.
+</ALONSO>
+

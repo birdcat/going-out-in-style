@@ -1,0 +1,81 @@
+<SPEECH 1><ACT 2><SCENE 1><18%>
+<BALTHAZAR>	<19%>
+	Well, I would you did like me.
+</BALTHAZAR>
+
+<SPEECH 2><ACT 2><SCENE 1><18%>
+<BALTHAZAR>	<19%>
+	Which is one?
+</BALTHAZAR>
+
+<SPEECH 3><ACT 2><SCENE 1><19%>
+<BALTHAZAR>	<19%>
+	I love you the better; the hearers may cry Amen.
+</BALTHAZAR>
+
+<SPEECH 4><ACT 2><SCENE 1><19%>
+<BALTHAZAR>	<19%>
+	Amen.
+</BALTHAZAR>
+
+<SPEECH 5><ACT 2><SCENE 1><19%>
+<BALTHAZAR>	<19%>
+	No more words: the clerk is answered.
+</BALTHAZAR>
+
+<SPEECH 6><ACT 2><SCENE 3><32%>
+<BALTHAZAR>	<33%>
+	O! good my lord, tax not so bad a voice
+	To slander music any more than once.
+</BALTHAZAR>
+
+<SPEECH 7><ACT 2><SCENE 3><32%>
+<BALTHAZAR>	<33%>
+	Because you talk of wooing, I will sing;
+	Since many a wooer doth commence his suit
+	To her he thinks not worthy; yet he woos;
+	Yet will he swear he loves.
+</BALTHAZAR>
+
+<SPEECH 8><ACT 2><SCENE 3><33%>
+<BALTHAZAR>	<33%>
+	Note this before my notes;
+	There's not a note of mine that's worth the noting.
+</BALTHAZAR>
+
+<SPEECH 9><ACT 2><SCENE 3><33%>
+<BALTHAZAR> 
+<STAGE DIR>
+<SINGS>
+</STAGE DIR>
+ Sigh no more, ladies, sigh no more,
+	Men were deceivers ever;
+	One foot in sea, and one on shore,
+	To one thing constant never.
+	Then sigh not so,
+	But let them go,
+	And be you blithe and bonny,
+	Converting all your sounds of woe
+	Into Hey nonny, nonny.
+	Sing no more ditties, sing no mo
+	Of dumps so dull and heavy;
+	The fraud of men was ever so,
+	Since summer first was leavy.
+	Then sigh not so,
+	But let them go,
+	And be you blithe and bonny,
+	Converting all your sounds of woe
+	Into Hey nonny, nonny.
+
+</BALTHAZAR>
+
+<SPEECH 10><ACT 2><SCENE 3><33%>
+<BALTHAZAR>	<34%>
+	And an ill singer, my lord.
+</BALTHAZAR>
+
+<SPEECH 11><ACT 2><SCENE 3><34%>
+<BALTHAZAR>	<35%>
+	The best I can, my lord.
+</BALTHAZAR>
+

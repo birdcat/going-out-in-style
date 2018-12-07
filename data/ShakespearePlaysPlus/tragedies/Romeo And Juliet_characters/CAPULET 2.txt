@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 1><SCENE 5><20%>
+<CAPULET 2>	<20%>
+	By'r Lady, thirty years.
+</CAPULET 2>
+
+<SPEECH 2><ACT 1><SCENE 5><20%>
+<CAPULET 2>	<21%>
+	'Tis more, 'tis more; his son is older, sir.
+	His son is thirty.
+</CAPULET 2>
+

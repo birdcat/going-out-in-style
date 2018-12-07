@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 1><SCENE 4><23%>
+<ALL>	<23%>
+	Amen.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</ALL>
+

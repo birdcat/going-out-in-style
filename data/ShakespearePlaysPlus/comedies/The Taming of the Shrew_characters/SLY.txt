@@ -1,0 +1,148 @@
+<SPEECH 1><ACT ?><SCENE 1><0%>
+<SLY>	<0%>
+	I'll pheeze you, in faith.
+</SLY>
+
+<SPEECH 2><ACT ?><SCENE 1><0%>
+<SLY>	<0%>
+	Y'are a baggage: the Slys are no rogues; look in the chronicles; we came in with Richard Conqueror. Therefore, paucas pallabris; let the world slide. Sessa!
+</SLY>
+
+<SPEECH 3><ACT ?><SCENE 1><0%>
+<SLY>	<1%>
+	No, not a denier. Go by, Jeronimy, go to thy cold bed, and warm thee.
+</SLY>
+
+<SPEECH 4><ACT ?><SCENE 1><0%>
+<SLY>	<1%>
+	Third, or fourth, or fifth borough, I'll answer him by law. I'll not budge an inch, boy: let him come, and kindly.
+<STAGE DIR>
+<Lies down on the ground, and falls asleep.>
+</STAGE DIR>
+
+</SLY>
+
+<SPEECH 5><ACT ?><SCENE 2><5%>
+<SLY>	<6%>
+	For God's sake! a pot of small ale.
+</SLY>
+
+<SPEECH 6><ACT ?><SCENE 2><5%>
+<SLY>	<6%>
+	I am Christophero Sly; call not me honour, nor lordship: I ne'er drank sack in my life; and if you give me any conserves, give me conserves of beef. Ne'er ask me what raiment I'll wear, for I have no more doublets than backs, no more stockings than legs, nor no more shoes than feet: nay, sometime more feet than shoes, or such shoes as my toes look through the overleather.
+</SLY>
+
+<SPEECH 7><ACT ?><SCENE 2><5%>
+<SLY>	<6%>
+	What! would you make me mad? Am not I Christopher Sly, old Sly's son, of Burtonheath; by birth a pedlar, by education a cardmaker, by transmutation a bear-herd, and now by present profession a tinker? Ask Marian Hacket, the fat ale-wife of Wincot, if she know me not: if she say I am not fourteen pence on the score for sheer ale, score me up for the lyingest knave in Christendom. What! I am not bestraught: here's—
+</SLY>
+
+<SPEECH 8><ACT ?><SCENE 2><7%>
+<SLY>	<8%>
+	Am I a lord? and have I such a lady?
+	Or do I dream? or have I dream'd till now?
+	I do not sleep; I see, I hear, I speak;
+	I smell sweet savours, and I feel soft things:
+	Upon my life, I am a lord indeed;
+	And not a tinker, nor Christophero Sly.
+	Well, bring our lady hither to our sight;
+	And once again, a pot o' the smallest ale.
+</SLY>
+
+<SPEECH 9><ACT ?><SCENE 2><8%>
+<SLY>	<9%>
+	These fifteen years! by my fay, a goodly nap.
+	But did I never speak of all that time?
+</SLY>
+
+<SPEECH 10><ACT ?><SCENE 2><8%>
+<SLY>	<9%>
+	Ay, the woman's maid of the house.
+</SLY>
+
+<SPEECH 11><ACT ?><SCENE 2><8%>
+<SLY>	<9%>
+	Now, Lord be thanked for my good amends!
+</SLY>
+
+<SPEECH 12><ACT ?><SCENE 2><8%>
+<SLY>	<9%>
+	I thank thee; thou shalt not lose by it.
+
+</SLY>
+
+<SPEECH 13><ACT ?><SCENE 2><8%>
+<SLY>	<10%>
+	Marry, I fare well, for here is cheer enough.
+	Where is my wife?
+</SLY>
+
+<SPEECH 14><ACT ?><SCENE 2><9%>
+<SLY>	<10%>
+	Are you my wife, and will not call me husband?
+	My men should call me lord: I am your goodman.
+</SLY>
+
+<SPEECH 15><ACT ?><SCENE 2><9%>
+<SLY>	<10%>
+	I know it well. What must I call her?
+</SLY>
+
+<SPEECH 16><ACT ?><SCENE 2><9%>
+<SLY>	<10%>
+	Al'ce madam, or Joan madam?
+</SLY>
+
+<SPEECH 17><ACT ?><SCENE 2><9%>
+<SLY>	<10%>
+	Madam wife, they say that I have dream'd
+	And slept above some fifteen year or more.
+</SLY>
+
+<SPEECH 18><ACT ?><SCENE 2><9%>
+<SLY>	<10%>
+	'Tis much. Servants, leave me and her alone.
+	Madam, undress you, and come now to bed.
+</SLY>
+
+<SPEECH 19><ACT ?><SCENE 2><9%>
+<SLY>	<10%>
+	Ay, it stands so, that I may hardly tarry so long; but I would be loath to fall into my dreams again: I will therefore tarry, in spite of the flesh and the blood.
+
+</SLY>
+
+<SPEECH 20><ACT ?><SCENE 2><10%>
+<SLY>	<11%>
+	Marry, I will; let them play it. Is not a commonty a Christmas gambold or a tumbling-trick?
+</SLY>
+
+<SPEECH 21><ACT ?><SCENE 2><10%>
+<SLY>	<11%>
+	What! household stuff?
+</SLY>
+
+<SPEECH 22><ACT ?><SCENE 2><10%>
+<SLY>	<11%>
+	Well, we'll see't. Come, madam wife, sit by my side,
+	And let the world slip: we shall ne'er be younger.
+<STAGE DIR>
+<Flourish.>
+</STAGE DIR>
+</SCENE 2>
+
+
+<ACT 1>
+
+
+</SLY>
+
+<SPEECH 23><ACT 1><SCENE 1><19%>
+<SLY>	<20%>
+	Yes, by Saint Anne, I do. A good matter, surely: comes there any more of it?
+</SLY>
+
+<SPEECH 24><ACT 1><SCENE 1><19%>
+<SLY>	<20%>
+	'Tis a very excellent piece of work, madam lady: would 'twere done!
+</SLY>
+

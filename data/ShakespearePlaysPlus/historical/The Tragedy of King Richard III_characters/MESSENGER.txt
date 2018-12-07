@@ -1,0 +1,90 @@
+<SPEECH 1><ACT 2><SCENE 4><39%>
+<MESSENGER>	<39%>
+	Such news, my lord, as grieves me to report.
+</MESSENGER>
+
+<SPEECH 2><ACT 2><SCENE 4><39%>
+<MESSENGER>	<39%>
+	Well, madam, and in health.
+</MESSENGER>
+
+<SPEECH 3><ACT 2><SCENE 4><39%>
+<MESSENGER>	<39%>
+	Lord Rivers and Lord Grey are sent to Pomfret,
+	With them Sir Thomas Vaughan, prisoners.
+</MESSENGER>
+
+<SPEECH 4><ACT 2><SCENE 4><39%>
+<MESSENGER>	<39%>
+	The mighty dukes,
+	Gloucester and Buckingham.
+</MESSENGER>
+
+<SPEECH 5><ACT 2><SCENE 4><39%>
+<MESSENGER>	<39%>
+	The sum of all I can I have disclos'd:
+	Why or for what the nobles were committed
+	Is all unknown to me, my gracious lord.
+</MESSENGER>
+
+<SPEECH 6><ACT 3><SCENE 2><46%>
+<MESSENGER>	<46%>
+<STAGE DIR>
+<Knocking.>
+</STAGE DIR> My lord! my lord!
+</MESSENGER>
+
+<SPEECH 7><ACT 3><SCENE 2><46%>
+<MESSENGER>	<46%>
+	One from the Lord Stanley.
+</MESSENGER>
+
+<SPEECH 8><ACT 3><SCENE 2><46%>
+<MESSENGER>	<46%>
+	Upon the stroke of four.
+
+</MESSENGER>
+
+<SPEECH 9><ACT 3><SCENE 2><46%>
+<MESSENGER>	<46%>
+	So it appears by that I have to say.
+	First, he commends him to your noble self.
+</MESSENGER>
+
+<SPEECH 10><ACT 3><SCENE 2><46%>
+<MESSENGER>	<46%>
+	Then certifies your lordship, that this night
+	He dreamt the boar had razed off his helm:
+	Besides, he says there are two councils held;
+	And that may be determin'd at the one
+	Which may make you and him to rue at the other.
+	Therefore he sends to know your lordship's pleasure,
+	If you will presently take horse with him,
+	And with all speed post with him towards the north,
+	To shun the danger that his soul divines.
+</MESSENGER>
+
+<SPEECH 11><ACT 3><SCENE 2><46%>
+<MESSENGER>	<46%>
+	I'll go, my lord, and tell him what you say.
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</MESSENGER>
+
+<SPEECH 12><ACT 4><SCENE 4><85%>
+<MESSENGER>	<84%>
+	My gracious sovereign, now in Devonshire,
+	As I by friends am well advertised,
+	Sir Edward Courtney, and the haughty prelate,
+	Bishop of Exeter, his brother there,
+	With many moe confederates are in arms.
+
+</MESSENGER>
+
+<SPEECH 13><ACT 5><SCENE 3><98%>
+<MESSENGER>	<98%>
+	My lord, he doth deny to come.
+</MESSENGER>
+

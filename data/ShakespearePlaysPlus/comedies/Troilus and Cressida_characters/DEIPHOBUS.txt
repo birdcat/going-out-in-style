@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 1><59%>
+<DEIPHOBUS>	<60%>
+	It is the Lord Æneas.
+</DEIPHOBUS>
+
+<SPEECH 2><ACT 4><SCENE 4><69%>
+<DEIPHOBUS>	<70%>
+	Let us make ready straight.
+</DEIPHOBUS>
+

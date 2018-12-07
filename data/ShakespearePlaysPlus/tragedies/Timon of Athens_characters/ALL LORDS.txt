@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 2><22%>
+<ALL LORDS>	<22%>
+	O! none so welcome.
+</ALL LORDS>
+

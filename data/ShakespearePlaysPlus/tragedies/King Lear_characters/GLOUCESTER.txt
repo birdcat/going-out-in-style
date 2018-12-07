@@ -1,0 +1,753 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<GLOUCESTER>	<0%>
+	It did always seem so to us; but now, in the division of the kingdom, it appears not which of the dukes he values most; for equalities are so weighed that curiosity in neither can make choice of either's moiety.
+</GLOUCESTER>
+
+<SPEECH 2><ACT 1><SCENE 1><0%>
+<GLOUCESTER>	<1%>
+	His breeding, sir, hath been at my charge: I have so often blushed to acknowledge him, that now I am brazed to it.
+</GLOUCESTER>
+
+<SPEECH 3><ACT 1><SCENE 1><0%>
+<GLOUCESTER>	<1%>
+	Sir, this young fellow's mother could; whereupon she grew round-wombed, and had, indeed, sir, a son for her cradle ere she had a husband for her bed. Do you smell a fault?
+</GLOUCESTER>
+
+<SPEECH 4><ACT 1><SCENE 1><0%>
+<GLOUCESTER>	<1%>
+	But I have a son, sir, by order of law, some year elder than this, who yet is no dearer in my account: though this knave came somewhat saucily into the world before he was sent for, yet was his mother fair; there was good sport at his making, and the whoreson must be acknowledged. Do you know this noble gentleman, Edmund?
+</GLOUCESTER>
+
+<SPEECH 5><ACT 1><SCENE 1><0%>
+<GLOUCESTER>	<1%>
+	My Lord of Kent: remember him hereafter as my honourable friend.
+</GLOUCESTER>
+
+<SPEECH 6><ACT 1><SCENE 1><1%>
+<GLOUCESTER>	<1%>
+	He hath been out nine years, and away he shall again. The king is coming.
+
+</GLOUCESTER>
+
+<SPEECH 7><ACT 1><SCENE 1><1%>
+<GLOUCESTER>	<1%>
+	I shall, my liege.
+</GLOUCESTER>
+
+<SPEECH 8><ACT 1><SCENE 1><5%>
+<GLOUCESTER>	<6%>
+	Here's France and Burgundy, my noble lord.
+</GLOUCESTER>
+
+<SPEECH 9><ACT 1><SCENE 2><9%>
+<GLOUCESTER>	<10%>
+	Kent banished thus! And France in choler parted!
+	And the king gone to-night! subscrib'd his power!
+	Confin'd to exhibition! All this done
+	Upon the gad! Edmund, how now! what news?
+</GLOUCESTER>
+
+<SPEECH 10><ACT 1><SCENE 2><10%>
+<GLOUCESTER>	<10%>
+	Why so earnestly seek you to put up that letter?
+</GLOUCESTER>
+
+<SPEECH 11><ACT 1><SCENE 2><10%>
+<GLOUCESTER>	<10%>
+	What paper were you reading?
+</GLOUCESTER>
+
+<SPEECH 12><ACT 1><SCENE 2><10%>
+<GLOUCESTER>	<10%>
+	No? What needed then that terrible dispatch of it into your pocket? the quality of nothing hath not such need to hide itself. Let's see; come; if it be nothing, I shall not need spectacles.
+</GLOUCESTER>
+
+<SPEECH 13><ACT 1><SCENE 2><10%>
+<GLOUCESTER>	<11%>
+	Give me the letter, sir.
+</GLOUCESTER>
+
+<SPEECH 14><ACT 1><SCENE 2><10%>
+<GLOUCESTER>	<11%>
+	Let's see, let's see.
+</GLOUCESTER>
+
+<SPEECH 15><ACT 1><SCENE 2><10%>
+<GLOUCESTER>	<11%>
+	This policy and reverence of age makes the world bitter to the best of our times; keeps our fortunes from us till our oldness cannot relish them. I begin to find an idle and fond bondage in the oppression of aged tyranny, who sways, not as it hath power, but as it is suffered. Come to me, that of this I may speak more. If our father would sleep till I waked him, you should enjoy half his revenue for ever, and live the beloved of your brother, <EDGAR.—HUM! CONSPIRACY! 'SLEEP TILL I WAKED HIM, YOU...>
+</GLOUCESTER>
+
+<SPEECH 16><ACT 1><SCENE 2><11%>
+<GLOUCESTER>	<11%>
+	You know the character to be your brother's?
+</GLOUCESTER>
+
+<SPEECH 17><ACT 1><SCENE 2><11%>
+<GLOUCESTER>	<11%>
+	It is his.
+</GLOUCESTER>
+
+<SPEECH 18><ACT 1><SCENE 2><11%>
+<GLOUCESTER>	<11%>
+	Hath he never heretofore sounded you in this business?
+</GLOUCESTER>
+
+<SPEECH 19><ACT 1><SCENE 2><11%>
+<GLOUCESTER>	<12%>
+	O villain, villain! His very opinion in the letter! Abhorred villain! Unnatural, detested, brutish villain! worse than brutish! Go, sirrah, seek him; I'll apprehend him. Abominable villain! Where is he?
+</GLOUCESTER>
+
+<SPEECH 20><ACT 1><SCENE 2><11%>
+<GLOUCESTER>	<12%>
+	Think you so?
+</GLOUCESTER>
+
+<SPEECH 21><ACT 1><SCENE 2><11%>
+<GLOUCESTER>	<12%>
+	He cannot be such a monster—
+</GLOUCESTER>
+
+<SPEECH 22><ACT 1><SCENE 2><12%>
+<GLOUCESTER>	<12%>
+	—to his father, that so tenderly and entirely loves him. Heaven and earth! Edmund, seek him out; wind me into him, I pray you: frame the business after your own wisdom. I would unstate myself to be in a due resolution.
+</GLOUCESTER>
+
+<SPEECH 23><ACT 1><SCENE 2><12%>
+<GLOUCESTER>	<12%>
+	These late eclipses in the sun and moon portend no good to us: though the wisdom of nature can reason it thus and thus, yet nature finds itself scourged by the sequent effects. Love cools, friendship falls off, brothers divide: in cities, mutinies; in countries, discord; in palaces, treason; and the bond cracked between son and father. This villain of mine comes under the prediction; there's son against father: the king falls from bias of nature; there's father against child. We have seen the best of our time: machinations, hollowness, treachery, and all ruinous disorders, follow us disquietly to our graves. Find out this villain, Edmund; it shall lose thee nothing: do it carefully. And the noble and true-hearted Kent banished! his offence, honesty! 'Tis strange!
+</GLOUCESTER>
+
+<SPEECH 24><ACT 2><SCENE 1><27%>
+<GLOUCESTER>	<28%>
+	Now, Edmund, where's the villain?
+</GLOUCESTER>
+
+<SPEECH 25><ACT 2><SCENE 1><28%>
+<GLOUCESTER>	<28%>
+	But where is he?
+</GLOUCESTER>
+
+<SPEECH 26><ACT 2><SCENE 1><28%>
+<GLOUCESTER>	<29%>
+	Where is the villain, Edmund?
+</GLOUCESTER>
+
+<SPEECH 27><ACT 2><SCENE 1><28%>
+<GLOUCESTER>	<29%>
+	Pursue him, ho! Go after. <STAGE DIR>
+<Exeunt some Servants.>
+</STAGE DIR> 'By no means' what?
+</GLOUCESTER>
+
+<SPEECH 28><ACT 2><SCENE 1><28%>
+<GLOUCESTER>	<29%>
+	Let him fly far:
+	Not in this land shall he remain uncaught;
+	And found—dispatch. The noble duke my master,
+	My worthy arch and patron, comes to-night:
+	By his authority I will proclaim it,
+	That he which finds him shall deserve our thanks,
+	Bringing the murderous coward to the stake;
+	He that conceals him, death.
+</GLOUCESTER>
+
+<SPEECH 29><ACT 2><SCENE 1><29%>
+<GLOUCESTER>	<30%>
+	Strong and fasten'd villain!
+	Would he deny his letter? I never got him.
+<STAGE DIR>
+<Tucket within.>
+</STAGE DIR>
+	Hark! the duke's trumpets. I know not why he comes.
+	All ports I'll bar; the villain shall not 'scape;
+	The duke must grant me that: besides, his picture
+	I will send far and near, that all the kingdom
+	May have due note of him; and of my land,
+	Loyal and natural boy, I'll work the means
+	To make thee capable.
+
+</GLOUCESTER>
+
+<SPEECH 30><ACT 2><SCENE 1><29%>
+<GLOUCESTER>	<30%>
+	O! madam, my old heart is crack'd, it's crack'd.
+</GLOUCESTER>
+
+<SPEECH 31><ACT 2><SCENE 1><29%>
+<GLOUCESTER>	<30%>
+	O! lady, lady, shame would have it hid.
+</GLOUCESTER>
+
+<SPEECH 32><ACT 2><SCENE 1><29%>
+<GLOUCESTER>	<30%>
+	I know not, madam; 'tis too bad, too bad.
+</GLOUCESTER>
+
+<SPEECH 33><ACT 2><SCENE 1><30%>
+<GLOUCESTER>	<30%>
+	He did bewray his practice; and receiv'd
+	This hurt you see, striving to apprehend him.
+</GLOUCESTER>
+
+<SPEECH 34><ACT 2><SCENE 1><30%>
+<GLOUCESTER>	<31%>
+	Ay, my good lord.
+</GLOUCESTER>
+
+<SPEECH 35><ACT 2><SCENE 1><30%>
+<GLOUCESTER>	<31%>
+	For him I thank your Grace.
+</GLOUCESTER>
+
+<SPEECH 36><ACT 2><SCENE 1><30%>
+<GLOUCESTER>	<31%>
+	I serve you, madam.
+	Your Graces are right welcome.
+</GLOUCESTER>
+
+<SPEECH 37><ACT 2><SCENE 2><32%>
+<GLOUCESTER>	<33%>
+	Weapons! arms! What's the matter here?
+</GLOUCESTER>
+
+<SPEECH 38><ACT 2><SCENE 2><33%>
+<GLOUCESTER>	<34%>
+	How fell you out? say that.
+</GLOUCESTER>
+
+<SPEECH 39><ACT 2><SCENE 2><35%>
+<GLOUCESTER>	<35%>
+	Let me beseech your Grace not to do so.
+	His fault is much, and the good king his master
+	Will check him for't: your purpos'd low correction
+	Is such as basest and contemned'st wretches
+	For pilferings and most common trespasses
+	Are punish'd with: the king must take it ill,
+	That he, so slightly valu'd in his messenger,
+	Should have him thus restrain'd.
+</GLOUCESTER>
+
+<SPEECH 40><ACT 2><SCENE 2><35%>
+<GLOUCESTER>	<36%>
+	I am sorry for thee, friend; 'tis the duke's pleasure,
+	Whose disposition, all the world well knows,
+	Will not be rubb'd nor stopp'd; I'll entreat for thee.
+</GLOUCESTER>
+
+<SPEECH 41><ACT 2><SCENE 2><35%>
+<GLOUCESTER>	<36%>
+	The duke's to blame in this; 'twill be ill taken.
+</GLOUCESTER>
+
+<SPEECH 42><ACT 2><SCENE 4><39%>
+<GLOUCESTER>	<39%>
+	My dear lord,
+	You know the fiery quality of the duke;
+	How unremovable and fix'd he is
+	In his own course.
+</GLOUCESTER>
+
+<SPEECH 43><ACT 2><SCENE 4><39%>
+<GLOUCESTER>	<40%>
+	Well, my good lord, I have inform'd them so.
+</GLOUCESTER>
+
+<SPEECH 44><ACT 2><SCENE 4><39%>
+<GLOUCESTER>	<40%>
+	Ay, my good lord.
+</GLOUCESTER>
+
+<SPEECH 45><ACT 2><SCENE 4><39%>
+<GLOUCESTER>	<40%>
+	I would have all well betwixt you.
+</GLOUCESTER>
+
+<SPEECH 46><ACT 2><SCENE 4><45%>
+<GLOUCESTER>	<46%>
+	The king is in high rage.
+</GLOUCESTER>
+
+<SPEECH 47><ACT 2><SCENE 4><45%>
+<GLOUCESTER>	<46%>
+	He calls to horse; but will I know not whither.
+</GLOUCESTER>
+
+<SPEECH 48><ACT 2><SCENE 4><45%>
+<GLOUCESTER>	<46%>
+	Alack! the night comes on, and the bleak winds
+	Do sorely ruffle; for many miles about
+	There's scarce a bush.
+</GLOUCESTER>
+
+<SPEECH 49><ACT 3><SCENE 3><50%>
+<GLOUCESTER>	<51%>
+	Alack, alack! Edmund, I like not this unnatural dealing. When I desired their leave that I might pity him, they took from me the use of mine own house; charged me, on pain of their perpetual displeasure, neither to speak of him, entreat for him, nor any way sustain him.
+</GLOUCESTER>
+
+<SPEECH 50><ACT 3><SCENE 3><50%>
+<GLOUCESTER>	<51%>
+	Go to; say you nothing. There is division between the dukes, and a worse matter than that. I have received a letter this night; 'tis dangerous to be spoken; I have locked the letter in my closet. These injuries the king now bears will be revenged home; there's part of a power already footed; we must incline to the king. I will seek him and privily relieve him; go you and maintain talk with the duke, that my charity be not of him perceived. If he ask for me, I am ill and gone to bed. If I die for it, as no less is threatened me, the king, my old master, must be relieved. There is some strange thing toward, Edmund; pray you, be careful.
+</GLOUCESTER>
+
+<SPEECH 51><ACT 3><SCENE 4><54%>
+<GLOUCESTER>	<55%>
+	What are you there? Your names?
+</GLOUCESTER>
+
+<SPEECH 52><ACT 3><SCENE 4><54%>
+<GLOUCESTER>	<56%>
+	What! hath your Grace no better company?
+</GLOUCESTER>
+
+<SPEECH 53><ACT 3><SCENE 4><55%>
+<GLOUCESTER>	<56%>
+	Our flesh and blood, my lord, is grown so vile,
+	That it doth hate what gets it.
+</GLOUCESTER>
+
+<SPEECH 54><ACT 3><SCENE 4><55%>
+<GLOUCESTER>	<56%>
+	Go in with me. My duty cannot suffer
+	To obey in all your daughters' hard commands:
+	Though their injunction be to bar my doors,
+	And let this tyrannous night take hold upon you,
+	Yet have I ventur'd to come seek you out
+	And bring you where both fire and food is ready.
+</GLOUCESTER>
+
+<SPEECH 55><ACT 3><SCENE 4><55%>
+<GLOUCESTER>	<56%>
+	Canst thou blame him?
+<STAGE DIR>
+<Storm still.>
+</STAGE DIR>
+	His daughters seek his death. Ah! that good Kent;
+	He said it would be thus, poor banish'd man!
+	Thou sayst the king grows mad; I'll tell thee, friend,
+	I am almost mad myself. I had a son,
+	Now outlaw'd from my blood; he sought my life,
+	But lately, very late; I lov'd him, friend,
+	No father his son dearer; true to tell thee,
+<STAGE DIR>
+<Storm continues.>
+</STAGE DIR>
+	The grief hath craz'd my wits. What a night's this!
+	I do beseech your Grace,—
+</GLOUCESTER>
+
+<SPEECH 56><ACT 3><SCENE 4><55%>
+<GLOUCESTER>	<57%>
+	In, fellow, there, into the hovel: keep thee warm.
+</GLOUCESTER>
+
+<SPEECH 57><ACT 3><SCENE 4><56%>
+<GLOUCESTER>	<57%>
+	Take him you on.
+</GLOUCESTER>
+
+<SPEECH 58><ACT 3><SCENE 4><56%>
+<GLOUCESTER>	<57%>
+	No words, no words: hush.
+</GLOUCESTER>
+
+<SPEECH 59><ACT 3><SCENE 6><57%>
+<GLOUCESTER>	<58%>
+	Here is better than the open air; take it thankfully. I will piece out the comfort with what addition I can: I will not be long from you.
+</GLOUCESTER>
+
+<SPEECH 60><ACT 3><SCENE 6><59%>
+<GLOUCESTER>	<60%>
+	Come hither, friend: where is the king my master?
+</GLOUCESTER>
+
+<SPEECH 61><ACT 3><SCENE 6><59%>
+<GLOUCESTER>	<60%>
+	Good friend, I prithee, take him in thy arms;
+	I have o'erheard a plot of death upon him.
+	There is a litter ready; lay him in 't,
+	And drive toward Dover, friend, where thou shalt meet
+	Both welcome and protection. Take up thy master:
+	If thou shouldst dally half an hour, his life,
+	With thine, and all that offer to defend him,
+	Stand in assured loss. Take up, take up;
+	And follow me, that will to some provision
+	Give thee quick conduct.
+</GLOUCESTER>
+
+<SPEECH 62><ACT 3><SCENE 6><60%>
+<GLOUCESTER>	<61%>
+	Come, come, away.
+</GLOUCESTER>
+
+<SPEECH 63><ACT 3><SCENE 7><61%>
+<GLOUCESTER>	<62%>
+	What mean your Graces? Good my friends, consider
+	You are my guests: do me no foul play, friends
+</GLOUCESTER>
+
+<SPEECH 64><ACT 3><SCENE 7><61%>
+<GLOUCESTER>	<63%>
+	Unmerciful lady as you are, I'm none.
+</GLOUCESTER>
+
+<SPEECH 65><ACT 3><SCENE 7><61%>
+<GLOUCESTER>	<63%>
+	By the kind gods, 'tis most ignobly done
+	To pluck me by the beard.
+</GLOUCESTER>
+
+<SPEECH 66><ACT 3><SCENE 7><61%>
+<GLOUCESTER>	<63%>
+	Naughty lady,
+	These hairs, which thou dost ravish from my chin,
+	Will quicken, and accuse thee: I am your host:
+	With robbers' hands my hospitable favours
+	You should not ruffle thus. What will you do?
+</GLOUCESTER>
+
+<SPEECH 67><ACT 3><SCENE 7><62%>
+<GLOUCESTER>	<63%>
+	I have a letter guessingly set down,
+	Which came from one that's of a neutral heart,
+	And not from one oppos'd.
+</GLOUCESTER>
+
+<SPEECH 68><ACT 3><SCENE 7><62%>
+<GLOUCESTER>	<63%>
+	To Dover.
+</GLOUCESTER>
+
+<SPEECH 69><ACT 3><SCENE 7><62%>
+<GLOUCESTER>	<63%>
+	I am tied to the stake, and I must stand the course.
+</GLOUCESTER>
+
+<SPEECH 70><ACT 3><SCENE 7><62%>
+<GLOUCESTER>	<63%>
+	Because I would not see thy cruel nails
+	Pluck out his poor old eyes; nor thy fierce sister
+	In his anointed flesh stick boarish fangs.
+	The sea, with such a storm as his bare head
+	In hell-black night endur'd, would have buoy'd up,
+	And quench'd the stelled fires;
+	Yet, poor old heart, he holp the heavens to rain.
+	If wolves had at thy gate howl'd that dern time,
+	Thou shouldst have said, 'Good porter, turn the key,'
+	All cruels else subscrib'd: but I shall see
+	The winged vengeance overtake such children.
+</GLOUCESTER>
+
+<SPEECH 71><ACT 3><SCENE 7><63%>
+<GLOUCESTER>	<64%>
+	He that will think to live till he be old,
+	Give me some help! O cruel! O ye gods!
+</GLOUCESTER>
+
+<SPEECH 72><ACT 3><SCENE 7><63%>
+<GLOUCESTER>	<64%>
+	All dark and comfortless. Where's my son Edmund?
+	Edmund, enkindle all the sparks of nature
+	To quit this horrid act.
+</GLOUCESTER>
+
+<SPEECH 73><ACT 3><SCENE 7><63%>
+<GLOUCESTER>	<64%>
+	O my follies! Then Edgar was abus'd.
+	Kind gods, forgive me that, and prosper him!
+</GLOUCESTER>
+
+<SPEECH 74><ACT 4><SCENE 1><64%>
+<GLOUCESTER>	<66%>
+	Away, get thee away; good friend, be gone;
+	Thy comforts can do me no good at all;
+	Thee they may hurt.
+</GLOUCESTER>
+
+<SPEECH 75><ACT 4><SCENE 1><65%>
+<GLOUCESTER>	<66%>
+	I have no way, and therefore want no eyes;
+	I stumbled when I saw. Full oft 'tis seen,
+	Our means secure us, and our mere defects
+	Prove our commodities. Ah! dear son Edgar.
+	The food of thy abused father's wrath;
+	Might I but live to see thee in my touch,
+	I'd say I had eyes again.
+</GLOUCESTER>
+
+<SPEECH 76><ACT 4><SCENE 1><65%>
+<GLOUCESTER>	<66%>
+	Is it a beggar-man?
+</GLOUCESTER>
+
+<SPEECH 77><ACT 4><SCENE 1><65%>
+<GLOUCESTER>	<66%>
+	He has some reason, else he could not beg.
+	I' the last night's storm I such a fellow saw,
+	Which made me think a man a worm: my son
+	Came then into my mind; and yet my mind
+	Was then scarce friends with him: I have heard more since.
+	As flies to wanton boys, are we to the gods;
+	They kill us for their sport.
+</GLOUCESTER>
+
+<SPEECH 78><ACT 4><SCENE 1><65%>
+<GLOUCESTER>	<66%>
+	Is that the naked fellow?
+</GLOUCESTER>
+
+<SPEECH 79><ACT 4><SCENE 1><65%>
+<GLOUCESTER>	<66%>
+	Then, prithee, get thee gone. If, for my sake,
+	Thou wilt o'ertake us, hence a mile or twain,
+	I' the way toward Dover, do it for ancient love;
+	And bring some covering for this naked soul
+	Who I'll entreat to lead me.
+</GLOUCESTER>
+
+<SPEECH 80><ACT 4><SCENE 1><66%>
+<GLOUCESTER>	<67%>
+	'Tis the times' plague, when madmen lead the blind.
+	Do as I bid thee, or rather do thy pleasure;
+	Above the rest, be gone.
+</GLOUCESTER>
+
+<SPEECH 81><ACT 4><SCENE 1><66%>
+<GLOUCESTER>	<67%>
+	Sirrah, naked fellow,—
+</GLOUCESTER>
+
+<SPEECH 82><ACT 4><SCENE 1><66%>
+<GLOUCESTER>	<67%>
+	Come hither, fellow.
+</GLOUCESTER>
+
+<SPEECH 83><ACT 4><SCENE 1><66%>
+<GLOUCESTER>	<67%>
+	Know'st thou the way to Dover?
+</GLOUCESTER>
+
+<SPEECH 84><ACT 4><SCENE 1><66%>
+<GLOUCESTER>	<67%>
+	Here, take this purse, thou whom the heavens' plagues
+	Have humbled to all strokes: that I am wretched
+	Makes thee the happier: heavens, deal so still!
+	Let the superfluous and lust-dieted man,
+	That slaves your ordinance, that will not see
+	Because he doth not feel, feel your power quickly;
+	So distribution should undo excess,
+	And each man have enough. Dost thou know Dover?
+</GLOUCESTER>
+
+<SPEECH 85><ACT 4><SCENE 1><66%>
+<GLOUCESTER>	<67%>
+	There is a cliff, whose high and bending head
+	Looks fearfully in the confined deep;
+	Bring me but to the very brim of it,
+	And I'll repair the misery thou dost bear;
+	With something rich about me; from that place
+	I shall no leading need.
+</GLOUCESTER>
+
+<SPEECH 86><ACT 4><SCENE 6><74%>
+<GLOUCESTER>	<75%>
+	When shall I come to the top of that same hill?
+</GLOUCESTER>
+
+<SPEECH 87><ACT 4><SCENE 6><74%>
+<GLOUCESTER>	<75%>
+	Methinks the ground is even.
+</GLOUCESTER>
+
+<SPEECH 88><ACT 4><SCENE 6><74%>
+<GLOUCESTER>	<75%>
+	No, truly.
+</GLOUCESTER>
+
+<SPEECH 89><ACT 4><SCENE 6><74%>
+<GLOUCESTER>	<75%>
+	So may it be, indeed.
+	Methinks thy voice is alter'd, and thou speak'st
+	In better phrase and matter than thou didst.
+</GLOUCESTER>
+
+<SPEECH 90><ACT 4><SCENE 6><74%>
+<GLOUCESTER>	<75%>
+	Methinks you're better spoken.
+</GLOUCESTER>
+
+<SPEECH 91><ACT 4><SCENE 6><75%>
+<GLOUCESTER>	<75%>
+	Set me where you stand.
+</GLOUCESTER>
+
+<SPEECH 92><ACT 4><SCENE 6><75%>
+<GLOUCESTER>	<76%>
+	Let go my hand.
+	Here, friend, 's another purse; in it a jewel
+	Well worth a poor man's taking: fairies and gods
+	Prosper it with thee! Go thou further off;
+	Bid me farewell, and let me hear thee going.
+</GLOUCESTER>
+
+<SPEECH 93><ACT 4><SCENE 6><75%>
+<GLOUCESTER>	<76%>
+	With all my heart.
+</GLOUCESTER>
+
+<SPEECH 94><ACT 4><SCENE 6><75%>
+<GLOUCESTER>	<76%>
+	O you mighty gods!
+	This world I do renounce, and, in your sights,
+	Shake patiently my great affliction off;
+	If I could bear it longer, and not fall
+	To quarrel with your great opposeless wills,
+	My snuff and loathed part of nature should
+	Burn itself out. If Edgar live, O, bless him!
+	Now, fellow, fare thee well.
+</GLOUCESTER>
+
+<SPEECH 95><ACT 4><SCENE 6><75%>
+<GLOUCESTER>	<76%>
+	Away and let me die.
+</GLOUCESTER>
+
+<SPEECH 96><ACT 4><SCENE 6><76%>
+<GLOUCESTER>	<76%>
+	But have I fallen or no?
+</GLOUCESTER>
+
+<SPEECH 97><ACT 4><SCENE 6><76%>
+<GLOUCESTER>	<77%>
+	Alack! I have no eyes.
+	Is wretchedness depriv'd that benefit
+	To end itself by death? 'Twas yet some comfort,
+	When misery could beguile the tyrant's rage,
+	And frustrate his proud will.
+</GLOUCESTER>
+
+<SPEECH 98><ACT 4><SCENE 6><76%>
+<GLOUCESTER>	<77%>
+	Too well, too well.
+</GLOUCESTER>
+
+<SPEECH 99><ACT 4><SCENE 6><76%>
+<GLOUCESTER>	<77%>
+	A poor unfortunate beggar.
+</GLOUCESTER>
+
+<SPEECH 100><ACT 4><SCENE 6><76%>
+<GLOUCESTER>	<77%>
+	I do remember now; henceforth I'll bear
+	Affliction till it do cry out itself
+	'Enough, enough,' and die. That thing you speak of
+	I took it for a man; often 'twould say
+	'The fiend, the fiend:' he led me to that place.
+</GLOUCESTER>
+
+<SPEECH 101><ACT 4><SCENE 6><77%>
+<GLOUCESTER>	<78%>
+	I know that voice.
+</GLOUCESTER>
+
+<SPEECH 102><ACT 4><SCENE 6><77%>
+<GLOUCESTER>	<78%>
+	The trick of that voice I do well remember:
+	Is 't not the king?
+</GLOUCESTER>
+
+<SPEECH 103><ACT 4><SCENE 6><78%>
+<GLOUCESTER>	<79%>
+	O! let me kiss that hand!
+</GLOUCESTER>
+
+<SPEECH 104><ACT 4><SCENE 6><78%>
+<GLOUCESTER>	<79%>
+	O ruin'd piece of nature! This great world
+	Shall so wear out to nought. Dost thou know me?
+</GLOUCESTER>
+
+<SPEECH 105><ACT 4><SCENE 6><78%>
+<GLOUCESTER>	<79%>
+	Were all the letters suns, I could not see.
+</GLOUCESTER>
+
+<SPEECH 106><ACT 4><SCENE 6><78%>
+<GLOUCESTER>	<79%>
+	What! with the case of eyes?
+</GLOUCESTER>
+
+<SPEECH 107><ACT 4><SCENE 6><78%>
+<GLOUCESTER>	<79%>
+	I see it feelingly.
+</GLOUCESTER>
+
+<SPEECH 108><ACT 4><SCENE 6><78%>
+<GLOUCESTER>	<79%>
+	Ay, sir.
+</GLOUCESTER>
+
+<SPEECH 109><ACT 4><SCENE 6><79%>
+<GLOUCESTER>	<80%>
+	Alack! alack the day!
+</GLOUCESTER>
+
+<SPEECH 110><ACT 4><SCENE 6><80%>
+<GLOUCESTER>	<81%>
+	You ever-gentle gods, take my breath from me:
+	Let not my worser spirit tempt me again
+	To die before you please!
+</GLOUCESTER>
+
+<SPEECH 111><ACT 4><SCENE 6><80%>
+<GLOUCESTER>	<81%>
+	Now, good sir, what are you?
+</GLOUCESTER>
+
+<SPEECH 112><ACT 4><SCENE 6><81%>
+<GLOUCESTER>	<81%>
+	Hearty thanks:
+	The bounty and the benison of heaven
+	To boot, and boot!
+
+</GLOUCESTER>
+
+<SPEECH 113><ACT 4><SCENE 6><81%>
+<GLOUCESTER>	<82%>
+	Now let thy friendly hand
+	Put strength enough to 't.
+</GLOUCESTER>
+
+<SPEECH 114><ACT 4><SCENE 6><82%>
+<GLOUCESTER>	<82%>
+	What! is he dead?
+</GLOUCESTER>
+
+<SPEECH 115><ACT 4><SCENE 6><82%>
+<GLOUCESTER>	<83%>
+	The king is mad: how stiff is my vile sense,
+	That I stand up, and have ingenious feeling
+	Of my huge sorrows! Better I were distract:
+	So should my thoughts be sever'd from my griefs,
+	And woes by wrong imaginations lose
+	The knowledge of themselves.
+</GLOUCESTER>
+
+<SPEECH 116><ACT 5><SCENE 2><88%>
+<GLOUCESTER>	<89%>
+	Grace go with you, sir!
+<STAGE DIR>
+<Exit Edgar.>
+</STAGE DIR>
+
+</GLOUCESTER>
+
+<SPEECH 117><ACT 5><SCENE 2><89%>
+<GLOUCESTER>	<89%>
+	No further, sir; a man may rot even here.
+</GLOUCESTER>
+
+<SPEECH 118><ACT 5><SCENE 2><89%>
+<GLOUCESTER>	<89%>
+	And that's true too.
+</GLOUCESTER>
+

@@ -1,0 +1,181 @@
+<SPEECH 1><ACT 1><SCENE 3><20%>
+<CATESBY>	<20%>
+	Madam, his majesty doth call for you;
+	And for your Grace; and you, my noble lords.
+</CATESBY>
+
+<SPEECH 2><ACT 3><SCENE 1><44%>
+<CATESBY>	<45%>
+	He for his father's sake so loves the prince
+	That he will not be won to aught against him.
+</CATESBY>
+
+<SPEECH 3><ACT 3><SCENE 1><45%>
+<CATESBY>	<45%>
+	He will do all in all as Hastings doth.
+</CATESBY>
+
+<SPEECH 4><ACT 3><SCENE 1><45%>
+<CATESBY>	<45%>
+	My good lords both, with all the heed I can.
+</CATESBY>
+
+<SPEECH 5><ACT 3><SCENE 1><45%>
+<CATESBY>	<45%>
+	You shall, my lord.
+</CATESBY>
+
+<SPEECH 6><ACT 3><SCENE 2><46%>
+<CATESBY>	<47%>
+	Many good morrows to my noble lord!
+</CATESBY>
+
+<SPEECH 7><ACT 3><SCENE 2><47%>
+<CATESBY>	<47%>
+	It is a reeling world, indeed, my lord;
+	And I believe will never stand upright
+	Till Richard wear the garland of the realm.
+</CATESBY>
+
+<SPEECH 8><ACT 3><SCENE 2><47%>
+<CATESBY>	<47%>
+	Ay, my good lord.
+</CATESBY>
+
+<SPEECH 9><ACT 3><SCENE 2><47%>
+<CATESBY>	<47%>
+	Ay, on my life; and hopes to find you forward
+	Upon his party for the gain thereof:
+	And thereupon he sends you this good news,
+	That this same very day your enemies,
+	The kindred of the queen, must die at Pomfret.
+</CATESBY>
+
+<SPEECH 10><ACT 3><SCENE 2><47%>
+<CATESBY>	<47%>
+	God keep your lordship in that gracious mind!
+</CATESBY>
+
+<SPEECH 11><ACT 3><SCENE 2><47%>
+<CATESBY>	<47%>
+	'Tis a vile thing to die, my gracious lord,
+	When men are unprepar'd and look not for it.
+</CATESBY>
+
+<SPEECH 12><ACT 3><SCENE 2><47%>
+<CATESBY>	<47%>
+	The princes both make high account of you;
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> For they account his head upon the bridge.
+</CATESBY>
+
+<SPEECH 13><ACT 3><SCENE 7><58%>
+<CATESBY>	<58%>
+	He doth entreat your Grace, my noble lord,
+	To visit him to-morrow or next day.
+	He is within, with two right reverend fathers,
+	Divinely bent to meditation;
+	And in no worldly suit would he be mov'd,
+	To draw him from his holy exercise.
+</CATESBY>
+
+<SPEECH 14><ACT 3><SCENE 7><58%>
+<CATESBY>	<58%>
+	I'll signify so much unto him straight.
+</CATESBY>
+
+<SPEECH 15><ACT 3><SCENE 7><58%>
+<CATESBY>	<59%>
+	He wonders to what end you have assembled
+	Such troops of citizens to come to him,
+	His Grace not being warn'd thereof before:
+	My lord, he fears you mean no good to him.
+</CATESBY>
+
+<SPEECH 16><ACT 3><SCENE 7><61%>
+<CATESBY>	<61%>
+	O! make them joyful: grant their lawful suit:
+</CATESBY>
+
+<SPEECH 17><ACT 3><SCENE 7><61%>
+<CATESBY>	<62%>
+	Call them again, sweet prince; accept their suit:
+	If you deny them, all the land will rue it.
+</CATESBY>
+
+<SPEECH 18><ACT 4><SCENE 2><66%>
+<CATESBY>	<67%>
+<STAGE DIR>
+<Aside to another.>
+</STAGE DIR> The king is angry: see, he gnaws his lip.
+</CATESBY>
+
+<SPEECH 19><ACT 4><SCENE 3><70%>
+<CATESBY>	<70%>
+	My lord!
+</CATESBY>
+
+<SPEECH 20><ACT 4><SCENE 3><70%>
+<CATESBY>	<70%>
+	Bad news, my lord: Morton is fled to Richmond;
+	And Buckingham, back'd with the hardy Welshmen,
+	Is in the field, and still his power increaseth.
+</CATESBY>
+
+<SPEECH 21><ACT 4><SCENE 4><83%>
+<CATESBY>	<83%>
+	Here, my good lord.
+</CATESBY>
+
+<SPEECH 22><ACT 4><SCENE 4><83%>
+<CATESBY>	<83%>
+	I will, my lord, with all convenient haste.
+</CATESBY>
+
+<SPEECH 23><ACT 4><SCENE 4><83%>
+<CATESBY>	<83%>
+	First, mighty liege, tell me your highness' pleasure,
+	What from your Grace I shall deliver to him.
+</CATESBY>
+
+<SPEECH 24><ACT 4><SCENE 4><83%>
+<CATESBY>	<83%>
+	I go.
+</CATESBY>
+
+<SPEECH 25><ACT 4><SCENE 4><86%>
+<CATESBY>	<85%>
+	My liege, the Duke of Buckingham is taken,
+	That is the best news: that the Earl of Richmond
+	Is with a mighty power landed at Milford
+	Is colder news, but yet they must be told.
+</CATESBY>
+
+<SPEECH 26><ACT 5><SCENE 3><89%>
+<CATESBY>	<89%>
+	It's supper-time, my lord;
+	It's nine o'clock.
+</CATESBY>
+
+<SPEECH 27><ACT 5><SCENE 3><89%>
+<CATESBY>	<90%>
+	It is, my liege; and all things are in readiness.
+</CATESBY>
+
+<SPEECH 28><ACT 5><SCENE 4><98%>
+<CATESBY>	<98%>
+	Rescue, my Lord of Norfolk! rescue, rescue!
+	The king enacts more wonders than a man,
+	Daring an opposite to every danger:
+	His horse is slain, and all on foot he fights,
+	Seeking for Richmond in the throat of death.
+	Rescue, fair lord, or else the day is lost!
+
+</CATESBY>
+
+<SPEECH 29><ACT 5><SCENE 4><98%>
+<CATESBY>	<99%>
+	Withdraw, my lord; I'll help you to a horse.
+</CATESBY>
+

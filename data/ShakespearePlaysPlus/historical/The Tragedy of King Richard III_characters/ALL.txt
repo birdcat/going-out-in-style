@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 7><62%>
+<ALL>	<62%>
+	Amen.
+</ALL>
+

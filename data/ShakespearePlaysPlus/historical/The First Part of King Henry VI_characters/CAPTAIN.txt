@@ -1,0 +1,31 @@
+<SPEECH 1><ACT 2><SCENE 2><28%>
+<CAPTAIN>	<29%>
+	I do, my lord, and mean accordingly.
+</CAPTAIN>
+
+<SPEECH 2><ACT 3><SCENE 2><52%>
+<CAPTAIN>	<52%>
+	Whither away, Sir John Fastolfe, in such haste?
+</CAPTAIN>
+
+<SPEECH 3><ACT 3><SCENE 2><52%>
+<CAPTAIN>	<53%>
+	What! will you fly, and leave Lord Talbot?
+</CAPTAIN>
+
+<SPEECH 4><ACT 3><SCENE 2><53%>
+<CAPTAIN>	<53%>
+	Cowardly knight! ill fortune follow thee!
+<STAGE DIR>
+<Exit.>
+</STAGE DIR>
+
+</CAPTAIN>
+
+<SPEECH 5><ACT 4><SCENE 4><70%>
+<CAPTAIN>	<71%>
+	Here is Sir William Lucy, who with me
+	Set from our o'ermatch'd forces forth for aid.
+
+</CAPTAIN>
+

@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 3><93%>
+<LORD>	<94%>
+	It is, my lord.
+</LORD>
+

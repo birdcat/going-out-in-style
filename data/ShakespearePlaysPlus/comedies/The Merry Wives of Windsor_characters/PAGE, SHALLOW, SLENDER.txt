@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 2><SCENE 3><41%>
+<PAGE, SHALLOW, SLENDER>	<42%>
+	Adieu, good Master doctor.
+</PAGE, SHALLOW, SLENDER>
+

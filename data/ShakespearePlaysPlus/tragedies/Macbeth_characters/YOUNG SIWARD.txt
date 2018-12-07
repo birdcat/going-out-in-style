@@ -1,0 +1,23 @@
+<SPEECH 1><ACT 5><SCENE 7><94%>
+<YOUNG SIWARD>	<95%>
+	What is thy name?
+</YOUNG SIWARD>
+
+<SPEECH 2><ACT 5><SCENE 7><94%>
+<YOUNG SIWARD>	<95%>
+	No; though thou call'st thyself a hotter name
+	Than any is in hell.
+</YOUNG SIWARD>
+
+<SPEECH 3><ACT 5><SCENE 7><95%>
+<YOUNG SIWARD>	<95%>
+	The devil himself could not pronounce a title
+	More hateful to mine ear.
+</YOUNG SIWARD>
+
+<SPEECH 4><ACT 5><SCENE 7><95%>
+<YOUNG SIWARD>	<95%>
+	Thou liest, abhorred tyrant; with my sword
+	I'll prove the lie thou speak'st.
+</YOUNG SIWARD>
+

@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+<SENTINEL 1>	<23%>
+	Sergeant, you shall.
+<STAGE DIR>
+<Exit Sergeant.>
+</STAGE DIR>
+	Thus are poor servitors—
+	When others sleep upon their quiet beds—
+	Constrain'd to watch in darkness, rain, and cold.
+</SENTINEL 1>
+
+<SPEECH 2><ACT 2><SCENE 1><24%>
+<SENTINEL 1>	<25%>
+	Arm, arm! the enemy doth make assault!
+
+</SENTINEL 1>
+

@@ -1,0 +1,131 @@
+<SPEECH 1><ACT 2><SCENE 1><21%>
+<LUCIUS>	<22%>
+	Call'd you, my lord?
+</LUCIUS>
+
+<SPEECH 2><ACT 2><SCENE 1><21%>
+<LUCIUS>	<23%>
+	I will, my lord.
+</LUCIUS>
+
+<SPEECH 3><ACT 2><SCENE 1><22%>
+<LUCIUS>	<24%>
+	The taper burneth in your closet, sir.
+	Searching the window for a flint, I found
+	This paper, thus seal'd up; and I am sure
+	It did not lie there when I went to bed.
+</LUCIUS>
+
+<SPEECH 4><ACT 2><SCENE 1><23%>
+<LUCIUS>	<24%>
+	I know not, sir.
+</LUCIUS>
+
+<SPEECH 5><ACT 2><SCENE 1><23%>
+<LUCIUS>	<24%>
+	I will, sir.
+</LUCIUS>
+
+<SPEECH 6><ACT 2><SCENE 1><23%>
+<LUCIUS>	<25%>
+	Sir, March is wasted fourteen days.
+</LUCIUS>
+
+<SPEECH 7><ACT 2><SCENE 1><24%>
+<LUCIUS>	<25%>
+	Sir, 'tis your brother Cassius at the door,
+	Who doth desire to see you.
+</LUCIUS>
+
+<SPEECH 8><ACT 2><SCENE 1><24%>
+<LUCIUS>	<25%>
+	No, sir, there are more with him.
+</LUCIUS>
+
+<SPEECH 9><ACT 2><SCENE 1><24%>
+<LUCIUS>	<25%>
+	No, sir; their hats are pluck'd about their ears,
+	And half their faces buried in their cloaks,
+	That by no means I may discover them
+	By any mark of favour.
+</LUCIUS>
+
+<SPEECH 10><ACT 2><SCENE 1><33%>
+<LUCIUS>	<34%>
+	Here is a sick man that would speak with you.
+</LUCIUS>
+
+<SPEECH 11><ACT 2><SCENE 4><40%>
+<LUCIUS>	<41%>
+	To know my errand, madam.
+</LUCIUS>
+
+<SPEECH 12><ACT 2><SCENE 4><40%>
+<LUCIUS>	<42%>
+	Madam, what shall I do?
+	Run to the Capitol, and nothing else?
+	And so return to you, and nothing else?
+</LUCIUS>
+
+<SPEECH 13><ACT 2><SCENE 4><40%>
+<LUCIUS>	<42%>
+	I hear none, madam.
+</LUCIUS>
+
+<SPEECH 14><ACT 2><SCENE 4><40%>
+<LUCIUS>	<42%>
+	Sooth, madam, I hear nothing.
+
+</LUCIUS>
+
+<SPEECH 15><ACT 4><SCENE 3><81%>
+<LUCIUS>	<82%>
+	Here in the tent.
+</LUCIUS>
+
+<SPEECH 16><ACT 4><SCENE 3><81%>
+<LUCIUS>	<82%>
+	Varro! and Claudius!
+
+</LUCIUS>
+
+<SPEECH 17><ACT 4><SCENE 3><82%>
+<LUCIUS>	<82%>
+	I was sure your lordship did not give it me.
+</LUCIUS>
+
+<SPEECH 18><ACT 4><SCENE 3><82%>
+<LUCIUS>	<83%>
+	Ay, my lord, an 't please you.
+</LUCIUS>
+
+<SPEECH 19><ACT 4><SCENE 3><82%>
+<LUCIUS>	<83%>
+	It is my duty, sir.
+</LUCIUS>
+
+<SPEECH 20><ACT 4><SCENE 3><82%>
+<LUCIUS>	<83%>
+	I have slept, my lord, already.
+</LUCIUS>
+
+<SPEECH 21><ACT 4><SCENE 3><83%>
+<LUCIUS>	<84%>
+	The strings, my lord, are false.
+</LUCIUS>
+
+<SPEECH 22><ACT 4><SCENE 3><83%>
+<LUCIUS>	<84%>
+	My lord!
+</LUCIUS>
+
+<SPEECH 23><ACT 4><SCENE 3><83%>
+<LUCIUS>	<84%>
+	My lord, I do not know that I did cry.
+</LUCIUS>
+
+<SPEECH 24><ACT 4><SCENE 3><83%>
+<LUCIUS>	<84%>
+	Nothing, my lord.
+</LUCIUS>
+

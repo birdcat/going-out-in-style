@@ -1,0 +1,96 @@
+<SPEECH 1><ACT 3><SCENE 4><44%>
+<LUCIUS' SERVANT>	<44%>
+	Ay, and I think
+	One business does command us all; for mine
+	Is money.
+</LUCIUS' SERVANT>
+
+<SPEECH 2><ACT 3><SCENE 4><44%>
+<LUCIUS' SERVANT>	<44%>
+	And Sir Philotus too!
+</LUCIUS' SERVANT>
+
+<SPEECH 3><ACT 3><SCENE 4><44%>
+<LUCIUS' SERVANT>	<44%>
+	Welcome, good brother.
+	What do you think the hour?
+</LUCIUS' SERVANT>
+
+<SPEECH 4><ACT 3><SCENE 4><44%>
+<LUCIUS' SERVANT>	<44%>
+	So much?
+</LUCIUS' SERVANT>
+
+<SPEECH 5><ACT 3><SCENE 4><45%>
+<LUCIUS' SERVANT>	<44%>
+	Not yet.
+</LUCIUS' SERVANT>
+
+<SPEECH 6><ACT 3><SCENE 4><45%>
+<LUCIUS' SERVANT>	<44%>
+	Ay, but the days are waxed shorter with him:
+	You must consider that a prodigal course
+	Is like the sun's; but not, like his, recoverable.
+	I fear,
+	'Tis deepest winter in Lord Timon's purse;
+	That is, one may reach deep enough, and yet
+	Find little.
+</LUCIUS' SERVANT>
+
+<SPEECH 7><ACT 3><SCENE 4><45%>
+<LUCIUS' SERVANT>	<45%>
+	Mark, how strange it shows,
+	Timon in this should pay more than he owes:
+	And e'en as if your lord should wear rich jewels,
+	And send for money for 'em.
+</LUCIUS' SERVANT>
+
+<SPEECH 8><ACT 3><SCENE 4><45%>
+<LUCIUS' SERVANT>	<45%>
+	Five thousand mine.
+</LUCIUS' SERVANT>
+
+<SPEECH 9><ACT 3><SCENE 4><46%>
+<LUCIUS' SERVANT>	<45%>
+	Flaminius! Sir, a word. Pray, is my lord ready to come forth?
+</LUCIUS' SERVANT>
+
+<SPEECH 10><ACT 3><SCENE 4><46%>
+<LUCIUS' SERVANT>	<46%>
+	Ha! is not that his steward muffled so?
+	He goes away in a cloud: call him, call him.
+</LUCIUS' SERVANT>
+
+<SPEECH 11><ACT 3><SCENE 4><47%>
+<LUCIUS' SERVANT>	<46%>
+	Ay, but this answer will not serve.
+</LUCIUS' SERVANT>
+
+<SPEECH 12><ACT 3><SCENE 4><47%>
+<LUCIUS' SERVANT>	<47%>
+	Many do keep their chambers are not sick:
+	And, if it be so far beyond his health,
+	Methinks he should the sooner pay his debts,
+	And make a clear way to the gods.
+</LUCIUS' SERVANT>
+
+<SPEECH 13><ACT 3><SCENE 4><48%>
+<LUCIUS' SERVANT>	<48%>
+	Put in now, Titus.
+</LUCIUS' SERVANT>
+
+<SPEECH 14><ACT 3><SCENE 4><48%>
+<LUCIUS' SERVANT>	<48%>
+	Here's mine.
+</LUCIUS' SERVANT>
+
+<SPEECH 15><ACT 3><SCENE 4><48%>
+<LUCIUS' SERVANT>	<48%>
+	Alas! my lord,—
+</LUCIUS' SERVANT>
+
+<SPEECH 16><ACT 3><SCENE 4><48%>
+<LUCIUS' SERVANT>	<48%>
+	Five thousand crowns, my lord.
+</LUCIUS' SERVANT>
+

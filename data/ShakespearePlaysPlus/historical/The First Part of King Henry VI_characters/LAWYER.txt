@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 2><SCENE 4><33%>
+<LAWYER>	<34%>
+<STAGE DIR>
+<To Somerset.>
+</STAGE DIR> Unless my study and my books be false,
+	The argument you held was wrong in you,
+	In sign whereof I pluck a white rose too.
+</LAWYER>
+
+<SPEECH 2><ACT 2><SCENE 4><36%>
+<LAWYER>	<36%>
+	And so will I.
+</LAWYER>
+

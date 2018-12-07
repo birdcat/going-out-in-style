@@ -1,0 +1,56 @@
+<SPEECH 1><ACT 3><SCENE 1><50%>
+<ÆDILES>	<50%>
+	Peace, peace!
+</ÆDILES>
+
+<SPEECH 2><ACT 3><SCENE 3><58%>
+<ÆDILES>	<58%>
+	He's coming.
+</ÆDILES>
+
+<SPEECH 3><ACT 3><SCENE 3><58%>
+<ÆDILES>	<58%>
+	With old Menenius, and those senators
+	That always favour'd him.
+</ÆDILES>
+
+<SPEECH 4><ACT 3><SCENE 3><58%>
+<ÆDILES>	<59%>
+	I have; 'tis ready.
+</ÆDILES>
+
+<SPEECH 5><ACT 3><SCENE 3><58%>
+<ÆDILES>	<59%>
+	I have.
+</ÆDILES>
+
+<SPEECH 6><ACT 3><SCENE 3><58%>
+<ÆDILES>	<59%>
+	I shall inform them.
+</ÆDILES>
+
+<SPEECH 7><ACT 3><SCENE 3><59%>
+<ÆDILES>	<59%>
+	Very well.
+</ÆDILES>
+
+<SPEECH 8><ACT 3><SCENE 3><59%>
+<ÆDILES>	<60%>
+	List to your tribunes; audience; peace! I say.
+</ÆDILES>
+
+<SPEECH 9><ACT 3><SCENE 3><62%>
+<ÆDILES>	<62%>
+	The people's enemy is gone, is gone!
+</ÆDILES>
+
+<SPEECH 10><ACT 4><SCENE 6><76%>
+<ÆDILES>	<76%>
+	Worthy tribunes,
+	There is a slave, whom we have put in prison,
+	Reports, the Volsces with two several powers
+	Are enter'd in the Roman territories,
+	And with the deepest malice of the war
+	Destroy what lies before them.
+</ÆDILES>
+

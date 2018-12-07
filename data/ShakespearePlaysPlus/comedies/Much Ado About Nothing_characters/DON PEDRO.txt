@@ -1,0 +1,724 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+<DON PEDRO>	<4%>
+	Good Signior Leonato, you are come to meet your trouble: the fashion of the world is to avoid cost, and you encounter it.
+</DON PEDRO>
+
+<SPEECH 2><ACT 1><SCENE 1><3%>
+<DON PEDRO>	<4%>
+	You embrace your charge too willingly. I think this is your daughter.
+</DON PEDRO>
+
+<SPEECH 3><ACT 1><SCENE 1><4%>
+<DON PEDRO>	<4%>
+	You have it full, Benedick: we may guess by this what you are, being a man. Truly, the lady fathers herself. Be happy, lady, for you are like an honourable father.
+</DON PEDRO>
+
+<SPEECH 4><ACT 1><SCENE 1><5%>
+<DON PEDRO>	<5%>
+	This is the sum of all, Leonato: Signior Claudio, and Signior Benedick, my dear friend Leonato hath invited you all. I tell him we shall stay here at the least a month, and he heartily prays some occasion may detain us longer: I dare swear he is no hypocrite, but prays from his heart.
+</DON PEDRO>
+
+<SPEECH 5><ACT 1><SCENE 1><5%>
+<DON PEDRO>	<6%>
+	Your hand, Leonato; we will go together.
+</DON PEDRO>
+
+<SPEECH 6><ACT 1><SCENE 1><7%>
+<DON PEDRO>	<7%>
+	What secret hath held you here, that you followed not to Leonato's?
+</DON PEDRO>
+
+<SPEECH 7><ACT 1><SCENE 1><7%>
+<DON PEDRO>	<7%>
+	I charge thee on thy allegiance.
+</DON PEDRO>
+
+<SPEECH 8><ACT 1><SCENE 1><7%>
+<DON PEDRO>	<8%>
+	Amen, if you love her; for the lady is very well worthy.
+</DON PEDRO>
+
+<SPEECH 9><ACT 1><SCENE 1><7%>
+<DON PEDRO>	<8%>
+	By my troth, I speak my thought.
+</DON PEDRO>
+
+<SPEECH 10><ACT 1><SCENE 1><8%>
+<DON PEDRO>	<8%>
+	That she is worthy, I know.
+</DON PEDRO>
+
+<SPEECH 11><ACT 1><SCENE 1><8%>
+<DON PEDRO>	<8%>
+	Thou wast ever an obstinate heretic in the despite of beauty.
+</DON PEDRO>
+
+<SPEECH 12><ACT 1><SCENE 1><8%>
+<DON PEDRO>	<9%>
+	I shall see thee, ere I die, look pale with love.
+</DON PEDRO>
+
+<SPEECH 13><ACT 1><SCENE 1><9%>
+<DON PEDRO>	<9%>
+	Well, if ever thou dost fall from this faith, thou wilt prove a notable argument.
+</DON PEDRO>
+
+<SPEECH 14><ACT 1><SCENE 1><9%>
+<DON PEDRO>	<9%>
+	Well, as time shall try:
+	'In time the savage bull doth bear the yoke.'
+</DON PEDRO>
+
+<SPEECH 15><ACT 1><SCENE 1><9%>
+<DON PEDRO>	<10%>
+	Nay, if Cupid have not spent all his quiver in Venice, thou wilt quake for this shortly.
+</DON PEDRO>
+
+<SPEECH 16><ACT 1><SCENE 1><9%>
+<DON PEDRO>	<10%>
+	Well, you will temporize with the hours. In the meantime, good Signior Benedick, repair to Leonato's: commend me to him and tell him I will not fail him at supper; for indeed he hath made great preparation.
+</DON PEDRO>
+
+<SPEECH 17><ACT 1><SCENE 1><10%>
+<DON PEDRO>	<10%>
+	The sixth of July: your loving friend, Benedick.
+</DON PEDRO>
+
+<SPEECH 18><ACT 1><SCENE 1><10%>
+<DON PEDRO>	<10%>
+	My love is thine to teach: teach it but how,
+	And thou shalt see how apt it is to learn
+	Any hard lesson that may do thee good.
+</DON PEDRO>
+
+<SPEECH 19><ACT 1><SCENE 1><10%>
+<DON PEDRO>	<10%>
+	No child but Hero; she's his only heir.
+	Dost thou affect her, Claudio?
+</DON PEDRO>
+
+<SPEECH 20><ACT 1><SCENE 1><10%>
+<DON PEDRO>	<11%>
+	Thou wilt be like a lover presently,
+	And tire the hearer with a book of words.
+	If thou dost love fair Hero, cherish it,
+	And I will break with her, and with her father,
+	And thou shalt have her. Was't not to this end
+	That thou began'st to twist so fine a story?
+</DON PEDRO>
+
+<SPEECH 21><ACT 1><SCENE 1><11%>
+<DON PEDRO>	<11%>
+	What need the bridge much broader than the flood?
+	The fairest grant is the necessity.
+	Look, what will serve is fit: 'tis once, thou lov'st,
+	And I will fit thee with the remedy.
+	I know we shall have revelling to-night:
+	I will assume thy part in some disguise,
+	And tell fair Hero I am Claudio;
+	And in her bosom I'll unclasp my heart,
+	And take her hearing prisoner with the force
+	And strong encounter of my amorous tale:
+	Then, after to her father will I break;
+	And the conclusion is, she shall be thine.
+	In practice let us put it presently.
+</DON PEDRO>
+
+<SPEECH 22><ACT 2><SCENE 1><18%>
+<DON PEDRO>	<19%>
+	Lady, will you walk about with your friend?
+</DON PEDRO>
+
+<SPEECH 23><ACT 2><SCENE 1><18%>
+<DON PEDRO>	<19%>
+	With me in your company?
+</DON PEDRO>
+
+<SPEECH 24><ACT 2><SCENE 1><18%>
+<DON PEDRO>	<19%>
+	And when please you to say so?
+</DON PEDRO>
+
+<SPEECH 25><ACT 2><SCENE 1><18%>
+<DON PEDRO>	<19%>
+	My visor is Philemon's roof; within the house is Jove.
+</DON PEDRO>
+
+<SPEECH 26><ACT 2><SCENE 1><18%>
+<DON PEDRO>	<19%>
+	Speak low, if you speak love.
+</DON PEDRO>
+
+<SPEECH 27><ACT 2><SCENE 1><22%>
+<DON PEDRO>	<23%>
+	Now, signior, where's the count? Did you see him?
+</DON PEDRO>
+
+<SPEECH 28><ACT 2><SCENE 1><23%>
+<DON PEDRO>	<23%>
+	To be whipped! What's his fault?
+</DON PEDRO>
+
+<SPEECH 29><ACT 2><SCENE 1><23%>
+<DON PEDRO>	<23%>
+	Wilt thou make a trust a transgression? The transgression is in the stealer.
+</DON PEDRO>
+
+<SPEECH 30><ACT 2><SCENE 1><23%>
+<DON PEDRO>	<24%>
+	I will but teach them to sing, and restore them to the owner.
+</DON PEDRO>
+
+<SPEECH 31><ACT 2><SCENE 1><23%>
+<DON PEDRO>	<24%>
+	The Lady Beatrice hath a quarrel to you: the gentleman that danced with her told her she is much wronged by you.
+</DON PEDRO>
+
+<SPEECH 32><ACT 2><SCENE 1><24%>
+<DON PEDRO>	<25%>
+	Look! here she comes.
+</DON PEDRO>
+
+<SPEECH 33><ACT 2><SCENE 1><24%>
+<DON PEDRO>	<25%>
+	None, but to desire your good company.
+</DON PEDRO>
+
+<SPEECH 34><ACT 2><SCENE 1><25%>
+<DON PEDRO>	<25%>
+	Come, lady, come; you have lost the heart of Signior Benedick.
+</DON PEDRO>
+
+<SPEECH 35><ACT 2><SCENE 1><25%>
+<DON PEDRO>	<25%>
+	You have put him down, lady, you have put him down.
+</DON PEDRO>
+
+<SPEECH 36><ACT 2><SCENE 1><25%>
+<DON PEDRO>	<26%>
+	Why, how now, count! wherefore are you sad?
+</DON PEDRO>
+
+<SPEECH 37><ACT 2><SCENE 1><25%>
+<DON PEDRO>	<26%>
+	How then? Sick?
+</DON PEDRO>
+
+<SPEECH 38><ACT 2><SCENE 1><25%>
+<DON PEDRO>	<26%>
+	I' faith, lady, I think your blazon to be true; though, I'll be sworn, if he be so, his conceit is false. Here, Claudio, I have wooed in thy name, and fair Hero is won; I have broke with her father, and, his good will obtained; name the day of marriage, and God give thee joy!
+</DON PEDRO>
+
+<SPEECH 39><ACT 2><SCENE 1><26%>
+<DON PEDRO>	<26%>
+	In faith, lady, you have a merry heart.
+</DON PEDRO>
+
+<SPEECH 40><ACT 2><SCENE 1><26%>
+<DON PEDRO>	<27%>
+	Lady Beatrice, I will get you one.
+</DON PEDRO>
+
+<SPEECH 41><ACT 2><SCENE 1><26%>
+<DON PEDRO>	<27%>
+	Will you have me, lady?
+</DON PEDRO>
+
+<SPEECH 42><ACT 2><SCENE 1><27%>
+<DON PEDRO>	<27%>
+	Your silence most offends me, and to be merry best becomes you; for, out of question, you were born in a merry hour.
+</DON PEDRO>
+
+<SPEECH 43><ACT 2><SCENE 1><27%>
+<DON PEDRO>	<27%>
+	By my troth, a pleasant-spirited lady.
+</DON PEDRO>
+
+<SPEECH 44><ACT 2><SCENE 1><27%>
+<DON PEDRO>	<28%>
+	She cannot endure to hear tell of a husband.
+</DON PEDRO>
+
+<SPEECH 45><ACT 2><SCENE 1><27%>
+<DON PEDRO>	<28%>
+	She were an excellent wife for Benedick.
+</DON PEDRO>
+
+<SPEECH 46><ACT 2><SCENE 1><27%>
+<DON PEDRO>	<28%>
+	Count Claudio, when mean you to go to church?
+</DON PEDRO>
+
+<SPEECH 47><ACT 2><SCENE 1><28%>
+<DON PEDRO>	<28%>
+	Come, you shake the head at so long a breathing; but, I warrant thee, Claudio, the time shall not go dully by us. I will in the interim undertake one of Hercules' labours, which is, to bring Signior Benedick and the Lady Beatrice into a mountain of affection the one with the other. I would fain have it a match; and I doubt not but to fashion it, if you three will but minister such assistance as I shall give you direction.
+</DON PEDRO>
+
+<SPEECH 48><ACT 2><SCENE 1><28%>
+<DON PEDRO>	<29%>
+	And you too, gentle Hero?
+</DON PEDRO>
+
+<SPEECH 49><ACT 2><SCENE 1><28%>
+<DON PEDRO>	<29%>
+	And Benedick is not the unhopefullest husband that I know. Thus far can I praise him; he is of a noble strain, of approved valour, and confirmed honesty. I will teach you how to humour your cousin, that she shall fall in love with Benedick; and I, with your two helps, will so practise on Benedick that, in despite of his quick wit and his queasy stomach, he shall fall in love with Beatrice. If we can do this, Cupid is no longer an archer: his glory shall be ours, for we are the only love-gods. Go in with me, and I will tell you my drift.
+</DON PEDRO>
+
+<SPEECH 50><ACT 2><SCENE 3><32%>
+<DON PEDRO>	<33%>
+	Come, shall we hear this music?
+</DON PEDRO>
+
+<SPEECH 51><ACT 2><SCENE 3><32%>
+<DON PEDRO>	<33%>
+	See you where Benedick hath hid himself?
+</DON PEDRO>
+
+<SPEECH 52><ACT 2><SCENE 3><32%>
+<DON PEDRO>	<33%>
+	Come, Balthazar, we'll hear that song again.
+</DON PEDRO>
+
+<SPEECH 53><ACT 2><SCENE 3><32%>
+<DON PEDRO>	<33%>
+	It is the witness still of excellency,
+	To put a strange face on his own perfection.
+	I pray thee, sing, and let me woo no more.
+</DON PEDRO>
+
+<SPEECH 54><ACT 2><SCENE 3><33%>
+<DON PEDRO>	<33%>
+	Nay, pray thee, come;
+	Or if thou wilt hold longer argument,
+	Do it in notes.
+</DON PEDRO>
+
+<SPEECH 55><ACT 2><SCENE 3><33%>
+<DON PEDRO>	<33%>
+	Why these are very crotchets that he speaks;
+	Notes, notes, forsooth, and nothing!
+</DON PEDRO>
+
+<SPEECH 56><ACT 2><SCENE 3><33%>
+<DON PEDRO>	<34%>
+	By my troth, a good song.
+</DON PEDRO>
+
+<SPEECH 57><ACT 2><SCENE 3><33%>
+<DON PEDRO>	<34%>
+	Ha, no, no, faith; thou singest well enough for a shift.
+</DON PEDRO>
+
+<SPEECH 58><ACT 2><SCENE 3><34%>
+<DON PEDRO>	<34%>
+	Yea, marry; dost thou hear, Balthazar? I pray thee, get us some excellent music, for to-morrow night we would have it at the Lady Hero's chamber-window.
+</DON PEDRO>
+
+<SPEECH 59><ACT 2><SCENE 3><34%>
+<DON PEDRO>	<35%>
+	Do so: farewell. <STAGE DIR>
+<Exeunt Balthazar and Musicians.>
+</STAGE DIR> Come hither, Leonato: what was it you told me of to-day, that your niece Beatrice was in love with Signior Benedick?
+</DON PEDRO>
+
+<SPEECH 60><ACT 2><SCENE 3><34%>
+<DON PEDRO>	<35%>
+	May be she doth but counterfeit.
+</DON PEDRO>
+
+<SPEECH 61><ACT 2><SCENE 3><35%>
+<DON PEDRO>	<35%>
+	Why, what effects of passion shows she?
+</DON PEDRO>
+
+<SPEECH 62><ACT 2><SCENE 3><35%>
+<DON PEDRO>	<36%>
+	How, how, I pray you? You amaze me: I would have thought her spirit had been invincible against all assaults of affection.
+</DON PEDRO>
+
+<SPEECH 63><ACT 2><SCENE 3><35%>
+<DON PEDRO>	<36%>
+	Hath she made her affection known to Benedick?
+</DON PEDRO>
+
+<SPEECH 64><ACT 2><SCENE 3><36%>
+<DON PEDRO>	<37%>
+	It were good that Benedick knew of it by some other, if she will not discover it.
+</DON PEDRO>
+
+<SPEECH 65><ACT 2><SCENE 3><36%>
+<DON PEDRO>	<37%>
+	An he should, it were an alms to hang him. She's an excellent sweet lady, and, out of all suspicion, she is virtuous.
+</DON PEDRO>
+
+<SPEECH 66><ACT 2><SCENE 3><37%>
+<DON PEDRO>	<37%>
+	In everything but in loving Benedick.
+</DON PEDRO>
+
+<SPEECH 67><ACT 2><SCENE 3><37%>
+<DON PEDRO>	<37%>
+	I would she had bestowed this dotage on me; I would have daffed all other respects and made her half myself. I pray you, tell Benedick of it, and hear what a' will say.
+</DON PEDRO>
+
+<SPEECH 68><ACT 2><SCENE 3><37%>
+<DON PEDRO>	<38%>
+	She doth well: if she should make tender of her love, 'tis very possible he'll scorn it; for the man,—as you know all,—hath a contemptible spirit.
+</DON PEDRO>
+
+<SPEECH 69><ACT 2><SCENE 3><37%>
+<DON PEDRO>	<38%>
+	He hath indeed a good outward happiness.
+</DON PEDRO>
+
+<SPEECH 70><ACT 2><SCENE 3><37%>
+<DON PEDRO>	<38%>
+	He doth indeed show some sparks that are like wit.
+</DON PEDRO>
+
+<SPEECH 71><ACT 2><SCENE 3><38%>
+<DON PEDRO>	<38%>
+	As Hector, I assure you: and in the managing of quarrels you may say he is wise; for either he avoids them with great discretion, or undertakes them with a most Christian-like fear.
+</DON PEDRO>
+
+<SPEECH 72><ACT 2><SCENE 3><38%>
+<DON PEDRO>	<38%>
+	And so will he do; for the man doth fear God, howsoever it seems not in him by some large jests he will make. Well, I am sorry for your niece. Shall we go seek Benedick, and tell him of her love?
+</DON PEDRO>
+
+<SPEECH 73><ACT 2><SCENE 3><38%>
+<DON PEDRO>	<39%>
+	Well, we will hear further of it by your daughter: let it cool the while. I love Benedick well, and I could wish he would modestly examine himself, to see how much he is unworthy to have so good a lady.
+</DON PEDRO>
+
+<SPEECH 74><ACT 2><SCENE 3><38%>
+<DON PEDRO>	<39%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Let there be the same net spread for her; and that must your daughter and her gentlewoman carry. The sport will be, when they hold one an opinion of another's dotage, and no such matter: that's the scene that I would see, which will be merely a dumbshow. Let us send her to call him in to dinner.
+</DON PEDRO>
+
+<SPEECH 75><ACT 3><SCENE 2><45%>
+<DON PEDRO>	<46%>
+	I do but stay till your marriage be consummate, and then go I toward Arragon.
+</DON PEDRO>
+
+<SPEECH 76><ACT 3><SCENE 2><45%>
+<DON PEDRO>	<46%>
+	Nay, that would be as great a soil in the new gloss of your marriage, as to show a child his new coat and forbid him to wear it. I will only be bold with Benedick for his company; for, from the crown of his head to the sole of his foot, he is all mirth: he hath twice or thrice cut Cupid's bow-string, and the little hangman dare not shoot at him. He hath a heart as sound as a bell, and his tongue is the clapper; for what his heart thinks his tongue speaks.
+</DON PEDRO>
+
+<SPEECH 77><ACT 3><SCENE 2><45%>
+<DON PEDRO>	<46%>
+	Hang him, truant! there's no true drop of blood in him, to be truly touched with love. If he be sad, he wants money.
+</DON PEDRO>
+
+<SPEECH 78><ACT 3><SCENE 2><45%>
+<DON PEDRO>	<46%>
+	Draw it.
+</DON PEDRO>
+
+<SPEECH 79><ACT 3><SCENE 2><45%>
+<DON PEDRO>	<46%>
+	What! sigh for the tooth-ache?
+</DON PEDRO>
+
+<SPEECH 80><ACT 3><SCENE 2><46%>
+<DON PEDRO>	<47%>
+	There is no appearance of fancy in him, unless it be a fancy that he hath to strange disguises; as, to be a Dutchman to-day, a Frenchman to-morrow, or in the shape of two countries at once, as a German from the waist downward, all slops, and a Spaniard from the hip upward, no doublet. Unless he have a fancy to this foolery, as it appears he hath, he is no fool for fancy, as you would have it appear he is.
+</DON PEDRO>
+
+<SPEECH 81><ACT 3><SCENE 2><46%>
+<DON PEDRO>	<47%>
+	Hath any man seen him at the barber's?
+</DON PEDRO>
+
+<SPEECH 82><ACT 3><SCENE 2><46%>
+<DON PEDRO>	<47%>
+	Nay, a' rubs himself with civet: can you smell him out by that?
+</DON PEDRO>
+
+<SPEECH 83><ACT 3><SCENE 2><46%>
+<DON PEDRO>	<47%>
+	The greatest note of it is his melancholy.
+</DON PEDRO>
+
+<SPEECH 84><ACT 3><SCENE 2><46%>
+<DON PEDRO>	<47%>
+	Yea, or to paint himself? for the which, I hear what they say of him.
+</DON PEDRO>
+
+<SPEECH 85><ACT 3><SCENE 2><47%>
+<DON PEDRO>	<48%>
+	Indeed, that tells a heavy tale for him. Conclude, conclude he is in love.
+</DON PEDRO>
+
+<SPEECH 86><ACT 3><SCENE 2><47%>
+<DON PEDRO>	<48%>
+	That would I know too: I warrant, one that knows him not.
+</DON PEDRO>
+
+<SPEECH 87><ACT 3><SCENE 2><47%>
+<DON PEDRO>	<48%>
+	She shall be buried with her face upwards.
+</DON PEDRO>
+
+<SPEECH 88><ACT 3><SCENE 2><47%>
+<DON PEDRO>	<48%>
+	For my life, to break with him about Beatrice.
+</DON PEDRO>
+
+<SPEECH 89><ACT 3><SCENE 2><47%>
+<DON PEDRO>	<48%>
+	Good den, brother.
+</DON PEDRO>
+
+<SPEECH 90><ACT 3><SCENE 2><47%>
+<DON PEDRO>	<48%>
+	In private?
+</DON PEDRO>
+
+<SPEECH 91><ACT 3><SCENE 2><48%>
+<DON PEDRO>	<49%>
+	What's the matter?
+</DON PEDRO>
+
+<SPEECH 92><ACT 3><SCENE 2><48%>
+<DON PEDRO>	<49%>
+	You know he does.
+</DON PEDRO>
+
+<SPEECH 93><ACT 3><SCENE 2><48%>
+<DON PEDRO>	<49%>
+	Why, what's the matter?
+</DON PEDRO>
+
+<SPEECH 94><ACT 3><SCENE 2><49%>
+<DON PEDRO>	<50%>
+	I will not think it.
+</DON PEDRO>
+
+<SPEECH 95><ACT 3><SCENE 2><49%>
+<DON PEDRO>	<50%>
+	And, as I wooed for thee to obtain her, I will join with thee to disgrace her.
+</DON PEDRO>
+
+<SPEECH 96><ACT 3><SCENE 2><49%>
+<DON PEDRO>	<50%>
+	O day untowardly turned!
+</DON PEDRO>
+
+<SPEECH 97><ACT 4><SCENE 1><63%>
+<DON PEDRO>	<63%>
+	Nothing, unless you render her again.
+</DON PEDRO>
+
+<SPEECH 98><ACT 4><SCENE 1><64%>
+<DON PEDRO>	<65%>
+	What should I speak?
+	I stand dishonour'd, that have gone about
+	To link my dear friend to a common stale.
+</DON PEDRO>
+
+<SPEECH 99><ACT 4><SCENE 1><65%>
+<DON PEDRO>	<65%>
+	Why, then are you no maiden. Leonato,
+	I am sorry you must hear: upon mine honour,
+	Myself, my brother, and this grieved count,
+	Did see her, hear her, at that hour last night,
+	Talk with a ruffian at her chamber-window;
+	Who hath indeed, most like a liberal villain,
+	Confess'd the vile encounters they have had
+	A thousand times in secret.
+</DON PEDRO>
+
+<SPEECH 100><ACT 5><SCENE 1><78%>
+<DON PEDRO>	<79%>
+	Good den, good den.
+</DON PEDRO>
+
+<SPEECH 101><ACT 5><SCENE 1><79%>
+<DON PEDRO>	<79%>
+	We have some haste, Leonato.
+</DON PEDRO>
+
+<SPEECH 102><ACT 5><SCENE 1><79%>
+<DON PEDRO>	<79%>
+	Nay, do not quarrel with us, good old man.
+</DON PEDRO>
+
+<SPEECH 103><ACT 5><SCENE 1><80%>
+<DON PEDRO>	<80%>
+	You say not right, old man.
+</DON PEDRO>
+
+<SPEECH 104><ACT 5><SCENE 1><81%>
+<DON PEDRO>	<81%>
+	Gentlemen both, we will not wake your patience.
+	My heart is sorry for your daughter's death;
+	But, on my honour, she was charg'd with nothing
+	But what was true and very full of proof.
+</DON PEDRO>
+
+<SPEECH 105><ACT 5><SCENE 1><81%>
+<DON PEDRO>	<81%>
+	I will not hear you.
+</DON PEDRO>
+
+<SPEECH 106><ACT 5><SCENE 1><81%>
+<DON PEDRO>	<82%>
+	See, see; here comes the man we went to seek.
+</DON PEDRO>
+
+<SPEECH 107><ACT 5><SCENE 1><81%>
+<DON PEDRO>	<82%>
+	Welcome, signior: you are almost come to part almost a fray.
+</DON PEDRO>
+
+<SPEECH 108><ACT 5><SCENE 1><81%>
+<DON PEDRO>	<82%>
+	Leonato and his brother. What thinkest thou? Had we fought, I doubt we should have been too young for them.
+</DON PEDRO>
+
+<SPEECH 109><ACT 5><SCENE 1><82%>
+<DON PEDRO>	<82%>
+	Dost thou wear thy wit by thy side?
+</DON PEDRO>
+
+<SPEECH 110><ACT 5><SCENE 1><82%>
+<DON PEDRO>	<82%>
+	As I am an honest man, he looks pale. Art thou sick, or angry?
+</DON PEDRO>
+
+<SPEECH 111><ACT 5><SCENE 1><82%>
+<DON PEDRO>	<83%>
+	By this light, he changes more and more: I think he be angry indeed.
+</DON PEDRO>
+
+<SPEECH 112><ACT 5><SCENE 1><83%>
+<DON PEDRO>	<83%>
+	What, a feast, a feast?
+</DON PEDRO>
+
+<SPEECH 113><ACT 5><SCENE 1><83%>
+<DON PEDRO>	<83%>
+	I'll tell thee how Beatrice praised thy wit the other day. I said, thou hadst a fine wit. 'True,' says she, 'a fine little one.' 'No,' said I, 'a great wit.' 'Right,' said she, 'a great gross one.' 'Nay,' said I, 'a good wit.' 'Just,' said she, 'it hurts nobody.' 'Nay,' said I, 'the gentleman is wise.' 'Certain,' said she, 'a wise gentleman.' 'Nay,' said I, 'he hath the tongues.' 'That I believe,' said she. 'for he swore a thing to me on Monday night, which he forswore on Tuesday morning: there's a double tongue; there's two tongues.' Thus did she, an hour together, trans-shape thy particular virtues; yet at last she concluded with a sigh, thou wast the properest man in Italy.
+</DON PEDRO>
+
+<SPEECH 114><ACT 5><SCENE 1><83%>
+<DON PEDRO>	<84%>
+	Yea, that she did; but yet, for all that, an if she did not hate him deadly, she would love him dearly. The old man's daughter told us all.
+</DON PEDRO>
+
+<SPEECH 115><ACT 5><SCENE 1><84%>
+<DON PEDRO>	<84%>
+	But when shall we set the savage bull's horns on the sensible Benedick's head?
+</DON PEDRO>
+
+<SPEECH 116><ACT 5><SCENE 1><84%>
+<DON PEDRO>	<85%>
+	He is in earnest.
+</DON PEDRO>
+
+<SPEECH 117><ACT 5><SCENE 1><84%>
+<DON PEDRO>	<85%>
+	And hath challenged thee?
+</DON PEDRO>
+
+<SPEECH 118><ACT 5><SCENE 1><84%>
+<DON PEDRO>	<85%>
+	What a pretty thing man is when he goes in his doublet and hose and leaves off his wit!
+</DON PEDRO>
+
+<SPEECH 119><ACT 5><SCENE 1><84%>
+<DON PEDRO>	<85%>
+	But, soft you; let me be: pluck up, my heart, and be sad! Did he not say my brother was fled?
+
+</DON PEDRO>
+
+<SPEECH 120><ACT 5><SCENE 1><85%>
+<DON PEDRO>	<85%>
+	How now! two of my brother's men bound! Borachio, one!
+</DON PEDRO>
+
+<SPEECH 121><ACT 5><SCENE 1><85%>
+<DON PEDRO>	<85%>
+	Officers, what offence have these men done?
+</DON PEDRO>
+
+<SPEECH 122><ACT 5><SCENE 1><85%>
+<DON PEDRO>	<86%>
+	First, I ask thee what they have done; thirdly, I ask thee what's their offence; sixth and lastly, why they are committed; and, to conclude, what you lay to their charge?
+</DON PEDRO>
+
+<SPEECH 123><ACT 5><SCENE 1><85%>
+<DON PEDRO>	<86%>
+	Who have you offended, masters, that you are thus bound to your answer? this learned constable is too cunning to be understood. What's your offence?
+</DON PEDRO>
+
+<SPEECH 124><ACT 5><SCENE 1><86%>
+<DON PEDRO>	<86%>
+	Runs not this speech like iron through your blood?
+</DON PEDRO>
+
+<SPEECH 125><ACT 5><SCENE 1><86%>
+<DON PEDRO>	<87%>
+	But did my brother set thee on to this?
+</DON PEDRO>
+
+<SPEECH 126><ACT 5><SCENE 1><86%>
+<DON PEDRO>	<87%>
+	He is compos'd and fram'd of treachery:
+	And fled he is upon this villany.
+</DON PEDRO>
+
+<SPEECH 127><ACT 5><SCENE 1><87%>
+<DON PEDRO>	<88%>
+	By my soul, nor I:
+	And yet, to satisfy this good old man,
+	I would bend under any heavy weight
+	That he'll enjoin me to.
+</DON PEDRO>
+
+<SPEECH 128><ACT 5><SCENE 1><89%>
+<DON PEDRO>	<90%>
+	We will not fail.
+</DON PEDRO>
+
+<SPEECH 129><ACT 5><SCENE 3><94%>
+<DON PEDRO>	<94%>
+	Good morrow, masters: put your torches out.
+	The wolves have prey'd; and look, the gentle day,
+	Before the wheels of Phœbus, round about
+	Dapples the drowsy east with spots of grey.
+	Thanks to you all, and leave us: fare you well
+</DON PEDRO>
+
+<SPEECH 130><ACT 5><SCENE 3><94%>
+<DON PEDRO>	<94%>
+	Come, let us hence, and put on other weeds;
+	And then to Leonato's we will go.
+</DON PEDRO>
+
+<SPEECH 131><ACT 5><SCENE 4><95%>
+<DON PEDRO>	<96%>
+	Good morrow to this fair assembly.
+</DON PEDRO>
+
+<SPEECH 132><ACT 5><SCENE 4><96%>
+<DON PEDRO>	<96%>
+	Good morrow, Benedick. Why, what's the matter,
+	That you have such a February face,
+	So full of frost, of storm and cloudiness?
+</DON PEDRO>
+
+<SPEECH 133><ACT 5><SCENE 4><97%>
+<DON PEDRO>	<97%>
+	The former Hero! Hero that is dead!
+</DON PEDRO>
+
+<SPEECH 134><ACT 5><SCENE 4><98%>
+<DON PEDRO>	<99%>
+	How dost thou, Benedick, the married man?
+</DON PEDRO>
+

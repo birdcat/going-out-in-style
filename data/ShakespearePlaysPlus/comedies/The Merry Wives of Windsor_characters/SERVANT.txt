@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 3><55%>
+<SERVANT>	<55%>
+	To the laundress, forsooth.
+</SERVANT>
+

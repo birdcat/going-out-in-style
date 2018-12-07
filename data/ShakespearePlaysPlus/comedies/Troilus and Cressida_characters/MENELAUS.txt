@@ -1,0 +1,57 @@
+<SPEECH 1><ACT 1><SCENE 3><18%>
+<MENELAUS>	<19%>
+	From Troy.
+
+</MENELAUS>
+
+<SPEECH 2><ACT 3><SCENE 3><52%>
+<MENELAUS>	<53%>
+	How do you? how do you?
+</MENELAUS>
+
+<SPEECH 3><ACT 4><SCENE 5><70%>
+<MENELAUS>	<71%>
+	I had good argument for kissing once.
+</MENELAUS>
+
+<SPEECH 4><ACT 4><SCENE 5><70%>
+<MENELAUS>	<71%>
+	O! this is trim.
+</MENELAUS>
+
+<SPEECH 5><ACT 4><SCENE 5><70%>
+<MENELAUS>	<71%>
+	I'll have my kiss, sir. Lady, by your leave.
+</MENELAUS>
+
+<SPEECH 6><ACT 4><SCENE 5><71%>
+<MENELAUS>	<71%>
+	I'll give you boot; I'll give you three for one.
+</MENELAUS>
+
+<SPEECH 7><ACT 4><SCENE 5><71%>
+<MENELAUS>	<71%>
+	An odd man, lady! every man is odd.
+</MENELAUS>
+
+<SPEECH 8><ACT 4><SCENE 5><71%>
+<MENELAUS>	<72%>
+	You fillip me o' the head.
+</MENELAUS>
+
+<SPEECH 9><ACT 4><SCENE 5><75%>
+<MENELAUS>	<76%>
+	Let me confirm my princely brother's greeting:
+	You brace of war-like brothers, welcome hither.
+</MENELAUS>
+
+<SPEECH 10><ACT 4><SCENE 5><75%>
+<MENELAUS>	<76%>
+	Name her not now, sir; she's a deadly theme.
+</MENELAUS>
+
+<SPEECH 11><ACT 5><SCENE 1><81%>
+<MENELAUS>	<81%>
+	Good-night, my lord.
+</MENELAUS>
+

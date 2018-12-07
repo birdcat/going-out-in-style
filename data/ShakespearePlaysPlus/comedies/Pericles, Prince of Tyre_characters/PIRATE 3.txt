@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 1><62%>
+<PIRATE 3>	<63%>
+	Half-part, mates, half-part.
+	Come, let's have her aboard suddenly.
+<STAGE DIR>
+<Exeunt Pirates with Marina.>
+</STAGE DIR>
+
+</PIRATE 3>
+

@@ -1,14 +1,23 @@
 import operator
 
+import numpy as np
+
 from gensim.models import Word2Vec as w2v
 from gensim.models import KeyedVectors
 
-def load_w2v(f):
+def load_w2v(f, binary=True):
     '''
         Loads a file in the format of the Google pretrained binary.
     '''
 
-    return KeyedVectors.load_word2vec_format(f, binary=True)
+    return KeyedVectors.load_word2vec_format(f, binary=binary)
+
+def save_w2v(model, f):
+    '''
+        Saves a trained word2vec model in KeyedVectors format.
+    '''
+
+    model.wv.save(f)
 
 def load_glove(f, k=None):
     '''
@@ -35,12 +44,12 @@ def load_glove(f, k=None):
 
     return embeddings
 
-def train_w2v(f, tokenizer='nltk',
-              sz=100, win=5, mc=2, wk=4,
-              save_file='trained.model'):
+def train_w2v_on_file(f, tokenizer='nltk',
+                      sz=100, win=5, mc=2, wk=4,
+                      save_file='trained.model'):
     '''
         Trains a gensim word2vec model on the contents of a file. Assumes one
-        sentence per line.
+        sentence per line. Basically a wrapper for train_w2v().
     '''
 
     sentences = []
@@ -57,32 +66,42 @@ def train_w2v(f, tokenizer='nltk',
 
         sentences.append(sentence)
 
+    return train_w2v(sentences, tokenizer=tokenizer,
+                     sz=sz, win=win, mc=mc, wk=wk,
+                     save_file=save_file)
+
+def train_w2v(sentences, tokenizer='nltk',
+              sz=100, win=5, mc=2, wk=4,
+              save_file='trained.model'):
+    '''
+        Trains a gensim word2vec model on the given collection of sentences.
+    '''
+
     # train the model
-    model = Word2Vec(sentences, size=sz, window=win, min_count=mc, workers=wk)
+    model = w2v(sentences, size=sz, window=win, min_count=mc, workers=wk)
 
     if save_file:
         model.save(save_file)
 
     return model
 
-def find_top_k(v, k, keys):
+def find_top_k(v, k):
     '''
-        Returns top k words and top k vectors of a vocabulary, the latter as
-        rows of a numpy matrix.
+        Returns top k words and top k vectors of a word2vec model, the latter
+        as rows of a numpy matrix.
     '''
 
     counts = {}
 
-    for word, vo in keys:
+    for word, vo in v.vocab.items():
         counts[word] = vo.count
 
-    # items will be (word, 
     counts = sorted(counts.items(), key=operator.itemgetter(1))
+    #print counts[-10:]
 
-    print counts[:10]
-
-    words = [c[0] for c in counts[:k]]
+    words = [c[0] for c in counts[-k:]]
 
     vectors = np.matrix([v[w] for w in words])
 
-    return words, vectors
+    return words, vectors, [c[1] for c in counts[-k:]]
+    

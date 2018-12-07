@@ -1,0 +1,87 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+<ALL>	<1%>
+	Fair is foul, and foul is fair:
+	Hover through the fog and filthy air.
+</ALL>
+
+<SPEECH 2><ACT 1><SCENE 3><5%>
+<ALL>	<5%>
+	The weird sisters, hand in hand,
+	Posters of the sea and land,
+	Thus do go about, about:
+	Thrice to thine, and thrice to mine,
+	And thrice again, to make up nine.
+	Peace! the charm's wound up.
+
+</ALL>
+
+<SPEECH 3><ACT 2><SCENE 3><35%>
+<ALL>	<36%>
+	So all.
+</ALL>
+
+<SPEECH 4><ACT 2><SCENE 3><35%>
+<ALL>	<36%>
+	Well contented.
+</ALL>
+
+<SPEECH 5><ACT 4><SCENE 1><60%>
+<ALL>	<61%>
+
+	Double, double toil and trouble;
+	Fire burn and cauldron bubble.
+
+</ALL>
+
+<SPEECH 6><ACT 4><SCENE 1><60%>
+<ALL>	<61%>
+
+	Double, double toil and trouble;
+	Fire burn and cauldron bubble.
+
+</ALL>
+
+<SPEECH 7><ACT 4><SCENE 1><61%>
+<ALL>	<62%>
+
+	Double, double toil and trouble;
+	Fire burn and cauldron bubble.
+
+</ALL>
+
+<SPEECH 8><ACT 4><SCENE 1><61%>
+<ALL>	<62%>
+	A deed without a name.
+</ALL>
+
+<SPEECH 9><ACT 4><SCENE 1><62%>
+<ALL>	<63%>
+
+	Come, high or low;
+	Thyself and office deftly show.
+
+
+</ALL>
+
+<SPEECH 10><ACT 4><SCENE 1><64%>
+<ALL>	<64%>
+	Listen, but speak not to 't.
+</ALL>
+
+<SPEECH 11><ACT 4><SCENE 1><64%>
+<ALL>	<65%>
+	Seek to know no more.
+</ALL>
+
+<SPEECH 12><ACT 4><SCENE 1><64%>
+<ALL>	<65%>
+	Show his eyes, and grieve his heart;
+	Come like shadows, so depart.
+
+</ALL>
+
+<SPEECH 13><ACT 5><SCENE 7><99%>
+<ALL>	<99%>
+	Hail, King of Scotland!
+</ALL>
+

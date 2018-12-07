@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 4><SCENE 2><76%>
+<PATIENCE>	<77%>
+	Do you note
+	How much her Grace is alter'd on the sudden?
+	How long her face is drawn? How pale she looks,
+	And of an earthy cold? Mark her eyes!
+</PATIENCE>
+
+<SPEECH 2><ACT 4><SCENE 2><76%>
+<PATIENCE>	<77%>
+	Heaven comfort her!
+
+</PATIENCE>
+
+<SPEECH 3><ACT 4><SCENE 2><78%>
+<PATIENCE>	<78%>
+	No, madam.
+</PATIENCE>
+

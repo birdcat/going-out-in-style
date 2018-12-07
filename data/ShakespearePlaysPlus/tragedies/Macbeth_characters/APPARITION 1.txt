@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 4><SCENE 1><63%>
+<APPARITION 1>	<63%>
+	Macbeth! Macbeth! Macbeth! beware Macduff;
+	Beware the Thane of Fife. Dismiss me. Enough.
+</APPARITION 1>
+

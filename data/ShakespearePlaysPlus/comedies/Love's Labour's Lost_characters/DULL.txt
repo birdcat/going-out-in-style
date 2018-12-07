@@ -1,0 +1,79 @@
+<SPEECH 1><ACT 1><SCENE 1><6%>
+<DULL>	<7%>
+	Which is the duke's own person?
+</DULL>
+
+<SPEECH 2><ACT 1><SCENE 1><6%>
+<DULL>	<7%>
+	I myself reprehend his own person, for I am his Grace's tharborough: but I would see his own person in flesh and blood.
+</DULL>
+
+<SPEECH 3><ACT 1><SCENE 1><6%>
+<DULL>	<7%>
+	Signior Arm—Arm—commends you. There's villany abroad: this letter will tell you more.
+</DULL>
+
+<SPEECH 4><ACT 1><SCENE 1><8%>
+<DULL>	<9%>
+	Me, an't please you; I am Antony Dull.
+</DULL>
+
+<SPEECH 5><ACT 1><SCENE 2><14%>
+<DULL>	<15%>
+	Sir, the duke's pleasure is, that you keep Costard safe: and you must let him take no delight nor no penance, but a' must fast three days a week. For this damsel, I must keep her at the park; she is allowed for the day-woman.
+	Fare you well.
+</DULL>
+
+<SPEECH 6><ACT 1><SCENE 2><15%>
+<DULL>	<15%>
+	Come, Jaquenetta, away!
+</DULL>
+
+<SPEECH 7><ACT 4><SCENE 2><40%>
+<DULL>	<40%>
+	'Twas not a haud credo; 'twas a pricket.
+</DULL>
+
+<SPEECH 8><ACT 4><SCENE 2><40%>
+<DULL>	<40%>
+	I said the deer was not a haud credo; 'twas a pricket.
+</DULL>
+
+<SPEECH 9><ACT 4><SCENE 2><40%>
+<DULL>	<41%>
+	You two are book-men: can you tell by your wit,
+	What was a month old at Cain's birth, that's not five weeks old as yet?
+</DULL>
+
+<SPEECH 10><ACT 4><SCENE 2><41%>
+<DULL>	<41%>
+	What is Dictynna?
+</DULL>
+
+<SPEECH 11><ACT 4><SCENE 2><41%>
+<DULL>	<41%>
+	'Tis true indeed: the collusion holds in the exchange.
+</DULL>
+
+<SPEECH 12><ACT 4><SCENE 2><41%>
+<DULL>	<41%>
+	And I say the pollusion holds in the exchange, for the moon is never but a month old; and I say beside that 'twas a pricket that the princess killed.
+</DULL>
+
+<SPEECH 13><ACT 4><SCENE 2><42%>
+<DULL>	<42%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> If a talent be a claw, look how he claws him with a talent.
+</DULL>
+
+<SPEECH 14><ACT 5><SCENE 1><64%>
+<DULL>	<65%>
+	Nor understood none neither, sir.
+</DULL>
+
+<SPEECH 15><ACT 5><SCENE 1><64%>
+<DULL>	<65%>
+	I'll make one in a dance, or so; or I will play the tabor to the Worthies, and let them dance the hay.
+</DULL>
+

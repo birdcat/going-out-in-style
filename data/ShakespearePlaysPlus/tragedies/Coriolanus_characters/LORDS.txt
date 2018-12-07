@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 5><SCENE 5><97%>
+<LORDS>	<97%>
+	You are most welcome home.
+</LORDS>
+
+<SPEECH 2><ACT 5><SCENE 5><97%>
+<LORDS>	<97%>
+	We have.
+</LORDS>
+
+<SPEECH 3><ACT 5><SCENE 5><99%>
+<LORDS>	<99%>
+	Hold, hold, hold, hold!
+</LORDS>
+

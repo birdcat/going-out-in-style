@@ -1,0 +1,49 @@
+<SPEECH 1><ACT 2><SCENE 1><29%>
+<ADRIAN>	<30%>
+	Though this island seem to be desert,—
+</ADRIAN>
+
+<SPEECH 2><ACT 2><SCENE 1><29%>
+<ADRIAN>	<30%>
+	Uninhabitable, and almost inaccessible,—
+</ADRIAN>
+
+<SPEECH 3><ACT 2><SCENE 1><30%>
+<ADRIAN>	<30%>
+	Yet—
+</ADRIAN>
+
+<SPEECH 4><ACT 2><SCENE 1><30%>
+<ADRIAN>	<30%>
+	It must needs be of subtle, tender, and delicate temperance.
+</ADRIAN>
+
+<SPEECH 5><ACT 2><SCENE 1><30%>
+<ADRIAN>	<30%>
+	The air breathes upon us here most sweetly.
+</ADRIAN>
+
+<SPEECH 6><ACT 2><SCENE 1><31%>
+<ADRIAN>	<31%>
+	Tunis was never graced before with such a paragon to their queen.
+</ADRIAN>
+
+<SPEECH 7><ACT 2><SCENE 1><31%>
+<ADRIAN>	<32%>
+	Widow Dido, said you? you make me study of that: she was of Carthage, not of Tunis.
+</ADRIAN>
+
+<SPEECH 8><ACT 2><SCENE 1><32%>
+<ADRIAN>	<32%>
+	Carthage?
+</ADRIAN>
+
+<SPEECH 9><ACT 3><SCENE 3><70%>
+<ADRIAN>	<70%>
+	Follow, I pray you.
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</ADRIAN>
+

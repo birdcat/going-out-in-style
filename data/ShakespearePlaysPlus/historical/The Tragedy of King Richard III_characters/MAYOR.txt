@@ -1,0 +1,48 @@
+<SPEECH 1><ACT 3><SCENE 1><40%>
+<MAYOR>	<41%>
+	God bless your Grace with health and happy days!
+</MAYOR>
+
+<SPEECH 2><ACT 3><SCENE 5><54%>
+<MAYOR>	<54%>
+	Had he done so?
+</MAYOR>
+
+<SPEECH 3><ACT 3><SCENE 5><54%>
+<MAYOR>	<54%>
+	Now, fair befall you! he deserv'd his death;
+	And your good Graces both have well proceeded,
+	To warn false traitors from the like attempts.
+	I never look'd for better at his hands,
+	After he once fell in with Mistress Shore.
+</MAYOR>
+
+<SPEECH 4><ACT 3><SCENE 5><55%>
+<MAYOR>	<55%>
+	But, my good lord, your Grace's word shall serve,
+	As well as I had seen and heard him speak:
+	And do not doubt, right noble princes both,
+	But I'll acquaint our duteous citizens
+	With all your just proceedings in this cause.
+</MAYOR>
+
+<SPEECH 5><ACT 3><SCENE 7><58%>
+<MAYOR>	<58%>
+	Marry, God defend his Grace should say us nay!
+</MAYOR>
+
+<SPEECH 6><ACT 3><SCENE 7><59%>
+<MAYOR>	<59%>
+	See, where his Grace stands 'tween two clergymen!
+</MAYOR>
+
+<SPEECH 7><ACT 3><SCENE 7><61%>
+<MAYOR>	<61%>
+	Do, good my lord; your citizens entreat you.
+</MAYOR>
+
+<SPEECH 8><ACT 3><SCENE 7><62%>
+<MAYOR>	<62%>
+	God bless your Grace! we see it, and will say it.
+</MAYOR>
+

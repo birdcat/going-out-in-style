@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 5><SCENE 4><97%>
+<OUTLAW>	<98%>
+	A prize! a prize! a prize!
+</OUTLAW>
+

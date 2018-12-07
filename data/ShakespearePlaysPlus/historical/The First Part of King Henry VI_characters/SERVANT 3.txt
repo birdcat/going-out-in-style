@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 3><SCENE 1><44%>
+<SERVANT 3>	<44%>
+	My lord, we know your Grace to be a man
+	Just and upright, and, for your royal birth,
+	Inferior to none but to his majesty;
+	And ere that we will suffer such a prince,
+	So kind a father of the commonweal,
+	To be disgraced by an inkhorn mate,
+	We and our wives and children all will fight,
+	And have our bodies slaught'red by thy foes.
+</SERVANT 3>
+
+<SPEECH 2><ACT 3><SCENE 1><46%>
+<SERVANT 3>	<46%>
+	And I will see what physic the tavern affords.
+</SERVANT 3>
+

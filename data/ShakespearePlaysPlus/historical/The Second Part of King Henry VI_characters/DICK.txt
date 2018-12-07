@@ -1,0 +1,134 @@
+<SPEECH 1><ACT 4><SCENE 2><69%>
+<DICK>	<69%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Or rather, of stealing a cade of herrings.
+</DICK>
+
+<SPEECH 2><ACT 4><SCENE 2><69%>
+<DICK>	<69%>
+	Silence!
+</DICK>
+
+<SPEECH 3><ACT 4><SCENE 2><69%>
+<DICK>	<69%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> He was an honest man, and a good bricklayer.
+</DICK>
+
+<SPEECH 4><ACT 4><SCENE 2><69%>
+<DICK>	<69%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> I knew her well; she was a midwife.
+</DICK>
+
+<SPEECH 5><ACT 4><SCENE 2><69%>
+<DICK>	<69%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> She was, indeed, a pedlar's daughter, and sold many laces.
+</DICK>
+
+<SPEECH 6><ACT 4><SCENE 2><69%>
+<DICK>	<70%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> Ay, by my faith, the field is honourable; and there was he born, under a hedge; for his father had never a house but the cage.
+</DICK>
+
+<SPEECH 7><ACT 4><SCENE 2><70%>
+<DICK>	<70%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> No question of that, for I have seen him whipped three market-days together.
+</DICK>
+
+<SPEECH 8><ACT 4><SCENE 2><70%>
+<DICK>	<70%>
+<STAGE DIR>
+<Aside.>
+</STAGE DIR> But methinks he should stand in fear of fire, being burnt i' the hand for stealing of sheep.
+</DICK>
+
+<SPEECH 9><ACT 4><SCENE 2><70%>
+<DICK>	<70%>
+	The first thing we do, let's kill all the lawyers.
+</DICK>
+
+<SPEECH 10><ACT 4><SCENE 2><71%>
+<DICK>	<71%>
+	Nay, he can make obligations, and write court-hand.
+</DICK>
+
+<SPEECH 11><ACT 4><SCENE 2><71%>
+<DICK>	<71%>
+	They use to write it on the top of letters. 'Twill go hard with you.
+</DICK>
+
+<SPEECH 12><ACT 4><SCENE 2><72%>
+<DICK>	<73%>
+	Nay, 'tis too true; therefore he shall be king.
+</DICK>
+
+<SPEECH 13><ACT 4><SCENE 2><73%>
+<DICK>	<73%>
+	And furthermore, we'll have the Lord Say's head for selling the dukedom of Maine.
+</DICK>
+
+<SPEECH 14><ACT 4><SCENE 2><74%>
+<DICK>	<74%>
+	They are all in order, and march toward us.
+</DICK>
+
+<SPEECH 15><ACT 4><SCENE 3><74%>
+<DICK>	<74%>
+	Here, sir.
+</DICK>
+
+<SPEECH 16><ACT 4><SCENE 3><74%>
+<DICK>	<74%>
+	I desire no more.
+</DICK>
+
+<SPEECH 17><ACT 4><SCENE 3><74%>
+<DICK>	<74%>
+	If we mean to thrive and do good, break open the gaols and let out the prisoners.
+</DICK>
+
+<SPEECH 18><ACT 4><SCENE 6><78%>
+<DICK>	<78%>
+	My lord, there's an army gathered together in Smithfield.
+</DICK>
+
+<SPEECH 19><ACT 4><SCENE 7><78%>
+<DICK>	<78%>
+	I have a suit unto your lordship.
+</DICK>
+
+<SPEECH 20><ACT 4><SCENE 7><78%>
+<DICK>	<78%>
+	Only that the laws of England may come out of your mouth.
+</DICK>
+
+<SPEECH 21><ACT 4><SCENE 7><79%>
+<DICK>	<80%>
+	And work in their shirt too; as myself, for example, that am a butcher.
+</DICK>
+
+<SPEECH 22><ACT 4><SCENE 7><79%>
+<DICK>	<80%>
+	What say you of Kent?
+</DICK>
+
+<SPEECH 23><ACT 4><SCENE 7><80%>
+<DICK>	<81%>
+	Why dost thou quiver, man?.
+</DICK>
+
+<SPEECH 24><ACT 4><SCENE 7><81%>
+<DICK>	<82%>
+	My lord, when shall we go to Cheapside and take up commodities upon our bills?
+</DICK>
+
