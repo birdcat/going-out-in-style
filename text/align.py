@@ -4,7 +4,7 @@ from numpy import matmul as mm
 from numpy import equal as eq
 from numpy import transpose, divide, diag, exp, allclose
 from numpy.linalg import matrix_power as mp
-from numpy.linalg import svd
+from numpy.linalg import svd, norm
 
 from sklearn.metrics.pairwise import cosine_distances, cosine_similarity
 from scipy import sparse
@@ -14,7 +14,7 @@ def isclose(m, n, tol=0.001):
         Checks if two matrices are approximately equal. Helper function.
     '''
 
-    return np.sum(np.sum(m - n)) < tol
+    return np.sum(np.sum(np.absolute(m - n))) < tol
 
     #if np.shape(m) != np.shape(n):
     #    return None
@@ -68,29 +68,68 @@ def gw(X, Y, p, q,
 
     # apparently sklearn cosine_distance doesn't have a dense output option,
     # but cosine_similarity does? -_-
-    C_s = cosine_similarity(sparse.csr_matrix(sv), dense_output=True)
-    C_t = cosine_similarity(sparse.csr_matrix(tv), dense_output=True)
+    C_s = cosine_similarity(sv)
+    C_t = cosine_similarity(tv)
+
+    #print sv[:10, :10]
+    #print tv[:10, :10]
+    print C_s[:10, :10]
+    print C_t[:10, :10]
+    #print pc[:10]
+    #print qc[:10]
 
     print 'a'
 
-    C_st = mp(C_s, 2) * pc
+    C_st = C_s * C_s * pc
+
+    print C_st[:10, :10]
+    
     C_st = C_st * np.matrix(np.ones(k))
-    C_st = C_st + np.ones((k, 1)) * (transpose(qc) * transpose(mp(C_t, 2)))
+
+    print C_st[:10, :10]
+    
+    temp = np.ones((k, 1)) * (transpose(qc) * transpose(C_t * C_t))
+
+    print 'second term'
+
+    print temp[:10, :10]
+    
+    C_st = C_st + temp
 
     # just initialize it with ones for comparison purposes
     G = np.ones(np.shape(C_st))
+
+    print 'x'
+    print C_st[:10, :10]
+    print 'y'
+
+    print pc[:10]
+    print qc[:10]
+
+    print 'z'
 
     # main loop
     for outer_count in range(max_outer_iters):
         # pseudo-cost matrix
         C_g = C_st - 2 * (C_s * (G * transpose(C_t)))
 
+        print C_st[:10, :10]
+        print G[:10, :10]
+        print C_g[:10, :10]
+        print (-1 * C_g / l)[:10, :10]
+
         print 'b'
+        print np.sum(np.sum(C_g))
+        print np.sum(np.sum(G))
         
         # Sinkhorn-Knopp iterations
         a = np.ones((k, 1))
         b = np.ones((k, 1))
         K = exp(-1 * C_g / l)
+
+        print K[:10][:10]
+
+        print 'c'
         
         for inner_count in range(max_inner_iters):
             a_old = a
@@ -104,7 +143,10 @@ def gw(X, Y, p, q,
             if isclose(a, a_old) and isclose(b, b_old):
                 break
 
-        print 'c'
+        print 'd'
+
+        print a[:10]
+        print b[:10]
 
         G_old = G
         G = (diag(np.squeeze(np.asarray(a))) * K) * diag(np.squeeze(np.asarray(b)))
@@ -112,7 +154,7 @@ def gw(X, Y, p, q,
         if isclose(G, G_old):
             break
 
-    print 'd'
+    print 'e'
     print np.shape(G)
     print np.shape(sv)
     print np.shape(tv)
@@ -120,19 +162,63 @@ def gw(X, Y, p, q,
     # find projection
     # SVD of (X G Y^T)
     # P = U V^T
-    u, s, vh = svd(sv * (G * transpose(tv)))
+    # note that sv, tv are currently n x d whereas we need them to be d x n,
+    # so the transposes in this step are reversed
+    u, s, vh = svd(transpose(sv) * (G * tv))
 
     P = u * vh
     
     return G, P
 
-def align_map(v, model, G, P):
+def find_most_similar(v, model, dist='cosine'):
+    '''
+        In an ideal world, we would just be able to use model.most_similar();
+        alas, 'twas not to be.
+    '''
+
+    vocab = model.vocab.keys()
+
+    md = 1000
+    word = ''
+
+    lv = norm(v)
+    
+    for w in vocab:
+        if dist == 'cosine':
+            d = 1 - (v.reshape(1, 300) * np.array(model[w]).reshape(300, 1)) / (lv * norm(model[w]))
+
+        elif dist == 'euclidean':
+            d = norm(np.array(v) - np.array(vocab[w]))
+
+        if d < md:
+            md = d
+            word = w
+
+    return w
+
+def align_map(v, model, G, P, dist='cosine'):
     '''
         After the mapping and projection have been computed, applies them to a
         source-language word embedding and returns the nearest word from the
         target model.
     '''
 
-    y = mm(P, v)
+    y = P * v
 
-    return model.most_similar(y)
+    print np.shape(y)
+
+    #return model.most_similar(positive=[y], topn=1)
+    return find_most_similar(y, model, dist='cosine')
+
+def naive_map(sentence, source, target, G, P):
+    '''
+        Produces a naive (word-by-word) 'translation' from source to target
+        language for a given sentence.
+    '''
+
+    translated = []
+    
+    for word in sentence:
+        translated.append(align_map(source[word].reshape(300, 1), target, G, P))
+
+    return translated

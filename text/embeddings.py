@@ -72,7 +72,7 @@ def train_w2v_on_file(f, tokenizer='nltk',
 
 def train_w2v(sentences, tokenizer='nltk',
               sz=100, win=5, mc=2, wk=4,
-              save_file='trained.model'):
+              save_file=None):
     '''
         Trains a gensim word2vec model on the given collection of sentences.
     '''
@@ -103,5 +103,5 @@ def find_top_k(v, k):
 
     vectors = np.matrix([v[w] for w in words])
 
-    return words, vectors, [c[1] for c in counts[-k:]]
+    return words, vectors, [float(c[1]) for c in counts[-k:]]
     

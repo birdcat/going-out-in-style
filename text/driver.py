@@ -9,15 +9,16 @@ from preprocess import compile_shakespeare
 
 print 'getting models.'
 
-#sentences = compile_shakespeare()
-#shakespeare_model = train_w2v(sentences)
-#shakespeare_model.save('../models/shakespeare.model')
+sentences = compile_shakespeare()
+shakespeare_model = train_w2v(sentences, sz=300)
+shakespeare_model.save('../models/shakespeare.model')
 
 #shakespeare_model = load_w2v('../models/shakespeare.model')
 shakespeare_model = Word2Vec.load('../models/shakespeare.model')
 shakespeare_model = shakespeare_model.wv
 
-english_model = load_w2v('../../../waypoint/GoogleNews-vectors-negative300.bin', binary=True)
+#english_model = load_w2v('../../waypoint/GoogleNews-vectors-negative300.bin', binary=True)
+english_model = load_glove('../
 
 print 'models done.'
 
@@ -30,12 +31,15 @@ ewords, evectors, ec = find_top_k(english_model, 10000)
 sc = np.array(sc)
 ec = np.array(ec)
 
+#print sc[:10]
+#print ec[:10]
+
 sc = sc / np.sum(sc)
 ec = ec / np.sum(ec)
 
 print 'trimming done.'
 
-G, P = gw(evectors, svectors, ec, sc)
+G, P = gw(evectors, svectors, ec, sc, l=.01)
 
 print 'alignment done.'
 
@@ -44,4 +48,4 @@ pickle.dump(P, open('P.pkl', 'w'))
 
 print 'saved.'
 
-print align_map('hello', shakespeare_model, G, P)
+print align_map(english_model['hello'], shakespeare_model, G, P)
