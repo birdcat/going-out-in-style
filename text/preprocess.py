@@ -12,6 +12,6 @@ def compile_shakespeare():
     sentences = []
         
     for f in files:
-        sentences += [line.strip().lower() for line in open(f, 'r').readlines() if not line.startswith('<')]
+        sentences += [line.strip().lower().split() for line in open(f, 'r').readlines() if not line.startswith('<')]
 
     return sentences

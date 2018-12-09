@@ -2,15 +2,31 @@ import numpy as np
 
 from numpy import matmul as mm
 from numpy import equal as eq
-from numpy import transpose, division, diag, exp
+from numpy import transpose, divide, diag, exp, allclose
 from numpy.linalg import matrix_power as mp
 from numpy.linalg import svd
 
 from sklearn.metrics.pairwise import cosine_distances, cosine_similarity
 from scipy import sparse
 
+def isclose(m, n, tol=0.001):
+    '''
+        Checks if two matrices are approximately equal. Helper function.
+    '''
+
+    return np.sum(np.sum(m - n)) < tol
+
+    #if np.shape(m) != np.shape(n):
+    #    return None
+    #
+    #for i in range(np.shape(m)[0]):
+    #    if not allclose(m[i], n[i]):
+    #        return False
+    #
+    #return True
+
 def gw(X, Y, p, q,
-       l=.00005, k=None,
+       l=.0001, k=None,
        max_outer_iters=10, max_inner_iters=100):
     '''
         Scale-tolerant GW computation, as described in Alvarez-Melis and
@@ -42,8 +58,10 @@ def gw(X, Y, p, q,
         sv = X
         tv = Y
 
-        pc = p
-        qc = q
+        pc = transpose(np.matrix(p))
+        qc = transpose(np.matrix(q))
+
+        k = np.shape(sv)[0]
 
     #sv = sparse.csr_matrix(sv)
     #tv = sparse.csr_matrix(tv)
@@ -53,44 +71,58 @@ def gw(X, Y, p, q,
     C_s = cosine_similarity(sparse.csr_matrix(sv), dense_output=True)
     C_t = cosine_similarity(sparse.csr_matrix(tv), dense_output=True)
 
-    C_s = np.subtract(np.ones(np.shape(C_s)), C_s)
-    C_t = np.subtract(np.ones(np.shape(C_t)), C_t)
+    print 'a'
 
-    C_st = mp(C_s, 2).dot(pc).dot(np.ones((1, k))) + mm(np.ones(k), mm(qc, transpose(mp(C_t, 2))))
+    C_st = mp(C_s, 2) * pc
+    C_st = C_st * np.matrix(np.ones(k))
+    C_st = C_st + np.ones((k, 1)) * (transpose(qc) * transpose(mp(C_t, 2)))
+
+    # just initialize it with ones for comparison purposes
+    G = np.ones(np.shape(C_st))
 
     # main loop
     for outer_count in range(max_outer_iters):
         # pseudo-cost matrix
-        pC = C_st - 2 * mm(C_s, mm(G, transpose(C_t)))
+        C_g = C_st - 2 * (C_s * (G * transpose(C_t)))
+
+        print 'b'
         
         # Sinkhorn-Knopp iterations
-        a = np.ones(k)
-        b = np.ones(k)
-        K = exp(-1 * pC / l)
+        a = np.ones((k, 1))
+        b = np.ones((k, 1))
+        K = exp(-1 * C_g / l)
         
         for inner_count in range(max_inner_iters):
             a_old = a
             b_old = b
             
-            a = division(pc, mm(K, b))
-            b = division(qc, mm(transpose(K), a))
+            a = divide(pc, K * b)
+            b = divide(qc, transpose(K) * a)
 
-            if eq(a, a_old) and eq(b, b_old):
-                # converged
+            converged = True
+
+            if isclose(a, a_old) and isclose(b, b_old):
                 break
 
-        G_old = G
-        G = mm(mm(diag(a), K), diag(b))
+        print 'c'
 
-        if eq(G_old, G):
+        G_old = G
+        G = (diag(np.squeeze(np.asarray(a))) * K) * diag(np.squeeze(np.asarray(b)))
+
+        if isclose(G, G_old):
             break
 
+    print 'd'
+    print np.shape(G)
+    print np.shape(sv)
+    print np.shape(tv)
+        
     # find projection
     # SVD of (X G Y^T)
     # P = U V^T
-    u, s, vh = svd(mm(sv, mm(G, transpose(tv))))
+    u, s, vh = svd(sv * (G * transpose(tv)))
 
-    P = mm(u, vh)
+    P = u * vh
     
     return G, P
 
