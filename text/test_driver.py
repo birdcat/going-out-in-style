@@ -19,11 +19,12 @@ shakespeare_model = Word2Vec.load('../models/shakespeare.model')
 shakespeare_model = shakespeare_model.wv
 
 english_model = load_w2v('../../waypoint/GoogleNews-vectors-negative300.bin', binary=True)
+#english_model = load_glove('../embeddings/glove/glove.6b.300d.txt')
 
 print 'sorting...'
 
 swords, svectors, sc = find_top_k(shakespeare_model, 10000)
-ewords, evectors, ec = find_top_k(english_model, 10000)
+#ewords, evectors, ec = find_top_k(english_model, 10000)
 
 print swords[:100]
 print ewords[:100]

@@ -27,7 +27,8 @@ def isclose(m, n, tol=0.001):
 
 def gw(X, Y, p, q,
        l=.0001, k=None,
-       max_outer_iters=10, max_inner_iters=100):
+       max_outer_iters=10, max_inner_iters=100,
+       verbose='debug'):
     '''
         Scale-tolerant GW computation, as described in Alvarez-Melis and
         Jaakkola (2018).
@@ -71,65 +72,71 @@ def gw(X, Y, p, q,
     C_s = cosine_similarity(sv)
     C_t = cosine_similarity(tv)
 
-    #print sv[:10, :10]
-    #print tv[:10, :10]
-    print C_s[:10, :10]
-    print C_t[:10, :10]
-    #print pc[:10]
-    #print qc[:10]
+    if verbose == 'debug':
+        #print sv[:10, :10]
+        #print tv[:10, :10]
+        print C_s[:10, :10]
+        print C_t[:10, :10]
+        #print pc[:10]
+        #print qc[:10]
 
     print 'a'
 
     C_st = C_s * C_s * pc
 
-    print C_st[:10, :10]
+    if verbose == 'debug':
+        print C_st[:10, :10]
     
     C_st = C_st * np.matrix(np.ones(k))
 
-    print C_st[:10, :10]
+    if verbose == 'debug':
+        print C_st[:10, :10]
     
     temp = np.ones((k, 1)) * (transpose(qc) * transpose(C_t * C_t))
 
-    print 'second term'
-
-    print temp[:10, :10]
+    if verbose == 'debug':
+        print 'second term'
+        print temp[:10, :10]
     
     C_st = C_st + temp
 
     # just initialize it with ones for comparison purposes
     G = np.ones(np.shape(C_st))
 
-    print 'x'
-    print C_st[:10, :10]
-    print 'y'
+    if verbose == 'debug':
+        print 'x'
+        print C_st[:10, :10]
+        print 'y'
 
-    print pc[:10]
-    print qc[:10]
-
-    print 'z'
+        print pc[:10]
+        print qc[:10]
+    
+        print 'z'
 
     # main loop
     for outer_count in range(max_outer_iters):
         # pseudo-cost matrix
         C_g = C_st - 2 * (C_s * (G * transpose(C_t)))
 
-        print C_st[:10, :10]
-        print G[:10, :10]
-        print C_g[:10, :10]
-        print (-1 * C_g / l)[:10, :10]
-
-        print 'b'
-        print np.sum(np.sum(C_g))
-        print np.sum(np.sum(G))
+        if verbose == 'debug':
+            print C_st[:10, :10]
+            print G[:10, :10]
+            print C_g[:10, :10]
+            print (-1 * C_g / l)[:10, :10]
+    
+            print 'b'
+            print np.sum(np.sum(C_g))
+            print np.sum(np.sum(G))
         
         # Sinkhorn-Knopp iterations
         a = np.ones((k, 1))
         b = np.ones((k, 1))
         K = exp(-1 * C_g / l)
 
-        print K[:10][:10]
+        if verbose == 'debug':
+            print K[:10][:10]
 
-        print 'c'
+            print 'c'
         
         for inner_count in range(max_inner_iters):
             a_old = a
@@ -143,10 +150,11 @@ def gw(X, Y, p, q,
             if isclose(a, a_old) and isclose(b, b_old):
                 break
 
-        print 'd'
+        if verbose == 'debug':
+            print 'd'
 
-        print a[:10]
-        print b[:10]
+            print a[:10]
+            print b[:10]
 
         G_old = G
         G = (diag(np.squeeze(np.asarray(a))) * K) * diag(np.squeeze(np.asarray(b)))
@@ -154,10 +162,11 @@ def gw(X, Y, p, q,
         if isclose(G, G_old):
             break
 
-    print 'e'
-    print np.shape(G)
-    print np.shape(sv)
-    print np.shape(tv)
+    if verbose == 'debug':
+        print 'e'
+        print np.shape(G)
+        print np.shape(sv)
+        print np.shape(tv)
         
     # find projection
     # SVD of (X G Y^T)
@@ -170,22 +179,31 @@ def gw(X, Y, p, q,
     
     return G, P
 
-def find_most_similar(v, model, dist='cosine'):
+def find_most_similar(v, model, mt='word2vec', dist='cosine', dim=300):
     '''
         In an ideal world, we would just be able to use model.most_similar();
         alas, 'twas not to be.
     '''
 
-    vocab = model.vocab.keys()
+    if mt == 'word2vec':
+        vocab = model.vocab.keys()
+
+    elif mt == 'glove':
+        vocab = model.keys()
 
     md = 1000
     word = ''
 
     lv = norm(v)
+
+    print len(vocab)
+
+    print vocab[0]
+    print vocab[-1]
     
     for w in vocab:
         if dist == 'cosine':
-            d = 1 - (v.reshape(1, 300) * np.array(model[w]).reshape(300, 1)) / (lv * norm(model[w]))
+            d = 1 - (v.reshape(1, dim) * np.array(model[w]).reshape(dim, 1)) / (lv * norm(model[w]))
 
         elif dist == 'euclidean':
             d = norm(np.array(v) - np.array(vocab[w]))
@@ -196,21 +214,21 @@ def find_most_similar(v, model, dist='cosine'):
 
     return w
 
-def align_map(v, model, G, P, dist='cosine'):
+def align_map(v, model, G, P, dist='cosine', mt='word2vec', dim=300):
     '''
         After the mapping and projection have been computed, applies them to a
         source-language word embedding and returns the nearest word from the
         target model.
     '''
 
-    y = P * v
+    y = P * v.reshape(dim, 1)
 
-    print np.shape(y)
+    #print y
 
     #return model.most_similar(positive=[y], topn=1)
-    return find_most_similar(y, model, dist='cosine')
+    return find_most_similar(y, model, dist='cosine', mt=mt, dim=dim)
 
-def naive_map(sentence, source, target, G, P):
+def naive_map(sentence, source, target, G, P, dist='cosine', mt='word2vec', dim=300):
     '''
         Produces a naive (word-by-word) 'translation' from source to target
         language for a given sentence.
@@ -219,6 +237,9 @@ def naive_map(sentence, source, target, G, P):
     translated = []
     
     for word in sentence:
-        translated.append(align_map(source[word].reshape(300, 1), target, G, P))
+        if word in source:
+            translated.append(align_map(source[word], target, G, P, dist=dist, mt=mt, dim=dim))
+        else:
+            translated.append('<UNK>')
 
     return translated

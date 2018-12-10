@@ -44,6 +44,15 @@ def load_glove(f, k=None):
 
     return embeddings
 
+def get_vectors(model):
+    '''
+        Returns words and vector matrix from a dictionary.
+    '''
+
+    words = model.keys()
+
+    return words, np.matrix([model[w] for w in words])
+
 def train_w2v_on_file(f, tokenizer='nltk',
                       sz=100, win=5, mc=2, wk=4,
                       save_file='trained.model'):
@@ -87,8 +96,8 @@ def train_w2v(sentences, tokenizer='nltk',
 
 def find_top_k(v, k):
     '''
-        Returns top k words and top k vectors of a word2vec model, the latter
-        as rows of a numpy matrix.
+        Returns top k words and top k vectors of a gensim Word2Vec model, the
+        latter as rows of a numpy matrix.
     '''
 
     counts = {}
@@ -104,4 +113,3 @@ def find_top_k(v, k):
     vectors = np.matrix([v[w] for w in words])
 
     return words, vectors, [float(c[1]) for c in counts[-k:]]
-    
